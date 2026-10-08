@@ -1,0 +1,9 @@
+import Link from 'next/link';
+import {notFound} from 'next/navigation';
+import legacy from '@/content/legacy-ui.json';
+import {PageHero,Breadcrumb,ContactCTA,Note} from '@/components/ui';
+type Props={params:Promise<{discipline:string}>};
+export const dynamicParams=false;
+export function generateStaticParams(){return legacy.disciplines.map(x=>({discipline:x.slug}))}
+export async function generateMetadata({params}:Props){const {discipline}=await params;const item=legacy.disciplines.find(x=>x.slug===discipline);return {title:item?.title+' Services',description:'Original Hopkins MedTech service descriptions by discipline.',alternates:{canonical:item?.route}}}
+export default async function Discipline({params}:Props){const {discipline}=await params;const item=legacy.disciplines.find(x=>x.slug===discipline);if(!item)notFound();return <><PageHero eyebrow="SERVICES BY DISCIPLINE" title={item.title} description="Explore the complete original service descriptions and the dedicated pages for each area of expertise."/><div className="container"><Breadcrumb items={[{label:'Services',href:'/services'},{label:item.title}]}/><div className="detail-grid"><article className="detail-main"><Note>This material preserves the original HMC service overview. Historical regulatory references and capability statements should be confirmed for your current project.</Note><div className="prose" dangerouslySetInnerHTML={{__html:item.html}}/><p className="source-link">Original source: <a href={item.sourceUrl} target="_blank" rel="noopener noreferrer">HMC service overview ↗</a></p></article><aside className="detail-sidebar"><div className="side-links"><h2>Explore {item.title}</h2>{item.links.map(x=><Link href={x.href} key={x.href}>{x.title} ↗</Link>)}</div><Link className="button" href="/contact">Contact us ↗</Link></aside></div></div><ContactCTA/></>}

@@ -1,0 +1,354 @@
+[
+  {
+    "id": "L01",
+    "slug": "nobel-science-ai-and-evidence",
+    "title": "From molecular insight to AI-assisted research",
+    "excerpt": "Scientific breakthroughs expand what researchers can model. Clinical usefulness still needs its own evidence.",
+    "html": "<h2>A wider scientific toolkit</h2><p>The 2024 Chemistry Nobel recognized David Baker’s computational protein design and Demis Hassabis and John Jumper’s protein-structure prediction. The 2024 Physics prize recognized John Hopfield and Geoffrey Hinton’s contributions to artificial neural networks. In 2026, the Chemistry prize recognized Henri B. Kagan and Kenso Soai for nonlinear effects and autocatalysis in asymmetric organic synthesis.</p><h2>From discovery to a defined question</h2><p>HMC’s company post connects these developments with a broader shift toward computational analysis. Our editorial interpretation is that increasingly capable models make the research question more important: what is being predicted, against which reference, and for whom? Scientific recognition does not establish the performance of a particular diagnostic test or medical AI system.</p><h2>A practical starting point</h2><p>Before incorporating a model into a study, specify its intended role, record the origin of its inputs and separate exploratory predictions from prospectively evaluated endpoints. These are planning considerations, not findings of the Nobel-recognized work.</p>",
+    "type": "Company Insights",
+    "topic": "Digital Health",
+    "year": "2026",
+    "date": "2026-10-08",
+    "originalPublicationDate": "2026-10-08",
+    "editorialPublicationDate": null,
+    "importDate": "2026-10-08",
+    "author": "Hopkins MedTech Compliance",
+    "sourceOrganization": "Hopkins MedTech Compliance",
+    "sourceUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7513767054097723392/",
+    "sourceAccessStatus": "verified",
+    "publicationStatus": "published",
+    "reviewedAt": "2026-10-08",
+    "reviewNote": "",
+    "additionalSources": [
+      {
+        "label": "Royal Swedish Academy — Chemistry 2026",
+        "url": "https://www.kva.se/en/news/the-nobel-prize-in-chemistry-2026/"
+      },
+      {
+        "label": "Royal Swedish Academy — Chemistry 2024",
+        "url": "https://www.kva.se/nyheter/nobelpriset-i-kemi-2024/"
+      },
+      {
+        "label": "Royal Swedish Academy — 2024 Nobel Lectures",
+        "url": "https://www.kva.se/evenemang/the-nobel-lectures-2024/"
+      }
+    ],
+    "access": "Public company post and primary sources"
+  },
+  {
+    "id": "L02",
+    "slug": "ivdr-transition-and-eudamed-dates",
+    "title": "IVDR transition and EUDAMED: two timelines to track",
+    "excerpt": "Conditional transition periods and database obligations answer different compliance questions.",
+    "html": "<h2>The transition dates</h2><p>Regulation (EU) 2024/1860 extends eligible legacy-device transitions to 31 December 2027 for IVDD-certified and class D devices; 31 December 2028 for class C; and 31 December 2029 for class B and class A sterile. Eligibility is conditional, including continued IVDD compliance, no significant design or intended-purpose change, acceptable risk, an IVDR quality system by 26 May 2025, and timely notified-body application and agreement.</p><h2>A separate database milestone</h2><p>The European Commission states that four EUDAMED modules became mandatory on 28 May 2026: actor registration, UDI/device registration, notified bodies/certificates, and market surveillance. Responsibilities differ by actor; the market-surveillance module concerns authorities.</p><h2>Turn dates into responsibilities</h2><p>A useful planning exercise is to maintain separate records for transition eligibility and database obligations. Assign an owner, supporting evidence and a review date to each relevant requirement. A future transition end date should not be interpreted as permission to postpone every earlier obligation.</p>",
+    "type": "Company Insights",
+    "topic": "FDA and Regulatory",
+    "year": "2026",
+    "date": "2026-10-07",
+    "originalPublicationDate": "2026-10-07",
+    "editorialPublicationDate": null,
+    "importDate": "2026-10-08",
+    "author": "Hopkins MedTech Compliance",
+    "sourceOrganization": "Hopkins MedTech Compliance",
+    "sourceUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7513659717945135104/",
+    "sourceAccessStatus": "verified",
+    "publicationStatus": "published",
+    "reviewedAt": "2026-10-08",
+    "reviewNote": "Regulatory context checked on 8 October 2026. This overview is not a product-specific eligibility assessment.",
+    "additionalSources": [
+      {
+        "label": "Regulation (EU) 2024/1860",
+        "url": "https://eur-lex.europa.eu/eli/reg/2024/1860/oj/eng"
+      },
+      {
+        "label": "European Commission — mandatory EUDAMED modules",
+        "url": "https://health.ec.europa.eu/latest-updates/eudamed-four-first-modules-will-be-mandatory-use-28-may-2026-2025-11-27_en"
+      }
+    ],
+    "access": "Public company post and primary sources"
+  },
+  {
+    "id": "S01",
+    "slug": "modelling-skin-and-transdermal-transport",
+    "title": "What a skin-transport model can help us explore",
+    "excerpt": "A computational preprint links skin morphology with simulated transport across a set of 50 chemicals.",
+    "html": "<h2>The research question</h2><p>Tesfamarian and colleagues describe two- and three-dimensional skin models incorporating regional and age-related morphology. Their 2025 preprint simulates transdermal transport for 50 chemicals and examines the influence of diffusion, partitioning and molecular properties.</p><h2>Simulation is conditional evidence</h2><p>A model’s prediction depends on its geometry, parameter values, boundary conditions and assumptions. It is not itself a measurement from a clinical population. Findings from a particular formulation or modeled skin region should not be assumed to transfer to another without evaluation.</p><h2>A useful role in research</h2><p>Our editorial interpretation is that such models can help formulate experimental questions and identify influential parameters. A clear comparison with independent experimental data is still needed before treating a prediction as evidence for a defined application.</p>",
+    "type": "Science",
+    "topic": "Science",
+    "year": "2026",
+    "date": "2026-10-07",
+    "originalPublicationDate": "2026-10-07",
+    "editorialPublicationDate": null,
+    "importDate": "2026-10-08",
+    "author": "Hopkins MedTech Compliance",
+    "sourceOrganization": "Hopkins MedTech Compliance",
+    "sourceUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7513591552712040449/",
+    "sourceAccessStatus": "verified",
+    "publicationStatus": "published",
+    "reviewedAt": "2026-10-08",
+    "reviewNote": "Preprint; peer review is not established by its arXiv posting. This summary is based on the public abstract.",
+    "additionalSources": [
+      {
+        "label": "Tesfamarian et al. — arXiv:2508.07123",
+        "url": "https://arxiv.org/abs/2508.07123"
+      }
+    ],
+    "access": "Public company post and primary sources"
+  },
+  {
+    "id": "L03",
+    "slug": "antigen-test-performance-and-population",
+    "title": "Antigen-test sensitivity depends on the population",
+    "excerpt": "A large hospital study illustrates why intended users, symptoms and study setting belong beside every performance estimate.",
+    "html": "<h2>What was studied</h2><p>Wagenhäuser and colleagues compared rapid antigen tests with RT-qPCR at a single German tertiary-care hospital between November 2020 and June 2023. Across 78,798 paired results, overall sensitivity was 34.5% and specificity was 99.6%. Higher viral load and typical COVID-19 symptoms were associated with a positive antigen result among infected individuals.</p><h2>What the estimate does not say</h2><p>The findings describe the tests, population and screening use in this study. They are not a universal sensitivity estimate for every rapid antigen product, symptomatic setting or specimen workflow. The authors associated the decline over time primarily with a changing symptom profile.</p><h2>Implication for study planning</h2><p>Our editorial takeaway is to define the intended population before choosing a performance target. Record symptoms, timing, comparator, specimen procedures and subgroup analyses so that the result can be interpreted in the context of intended use.</p>",
+    "type": "Company Insights",
+    "topic": "IVD",
+    "year": "2026",
+    "date": "2026-10-06",
+    "originalPublicationDate": "2026-10-06",
+    "editorialPublicationDate": null,
+    "importDate": "2026-10-08",
+    "author": "Hopkins MedTech Compliance",
+    "sourceOrganization": "Hopkins MedTech Compliance",
+    "sourceUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7513279097154985985/",
+    "sourceAccessStatus": "verified",
+    "publicationStatus": "published",
+    "reviewedAt": "2026-10-08",
+    "reviewNote": "Summary checked against the published abstract. The paper is external research, not an HMC-conducted study.",
+    "additionalSources": [
+      {
+        "label": "Original study — eBioMedicine, 2024",
+        "url": "https://doi.org/10.1016/j.ebiom.2024.105394"
+      },
+      {
+        "label": "PubMed abstract and bibliographic record",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39388783/"
+      }
+    ],
+    "access": "Public company post and primary sources"
+  },
+  {
+    "id": "L04",
+    "slug": "hmc-questions-fda-town-halls-2022",
+    "title": "HMC questions in the FDA’s 2022 IVD town halls",
+    "excerpt": "Public transcripts document questions about respiratory diagnostic studies, sample handling and home collection.",
+    "html": "<h2>A public historical record</h2><p>Three FDA town-hall transcripts from 2022 record speakers identifying themselves with Hopkins MedTech Compliance. On 18 May, Wendy asked about clinical evidence for a molecular 510(k), and Homer Wu raised a pre-EUA combination-test question. On 24 August, Homer discussed a proposed multi-country influenza B study. On 21 September, Jennifer Stanford asked about retrospective recruitment and specimen splitting, and Homer discussed home-collection validation.</p><h2>Read each exchange in context</h2><p>The exchanges concern particular questions at a specific stage of the COVID-19 emergency response. FDA responses emphasized matters such as the proposed study and the relevant submission context. Readers should consult the complete transcripts, including the agency’s qualifications, rather than reuse an isolated answer as current general guidance.</p><h2>What participation establishes</h2><p>These records document participation in public discussions. They do not establish FDA endorsement of HMC, authorization of a company product, or acceptance of a later clinical study. For a new project, current requirements and the product-specific evidence plan need a fresh review.</p>",
+    "type": "Company Insights",
+    "topic": "FDA and Regulatory",
+    "year": "2026",
+    "date": "2026-10-06",
+    "originalPublicationDate": "2026-10-06",
+    "editorialPublicationDate": null,
+    "importDate": "2026-10-08",
+    "author": "Hopkins MedTech Compliance",
+    "sourceOrganization": "Hopkins MedTech Compliance",
+    "sourceUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7513130950092865536/",
+    "sourceAccessStatus": "verified",
+    "publicationStatus": "published",
+    "reviewedAt": "2026-10-08",
+    "reviewNote": "Historical record. Participation in an FDA meeting is not an endorsement or regulatory authorization.",
+    "additionalSources": [
+      {
+        "label": "FDA IVD town hall — 18 May 2022",
+        "url": "https://www.fda.gov/media/158755/download"
+      },
+      {
+        "label": "FDA IVD town hall — 24 August 2022",
+        "url": "https://www.fda.gov/media/161382/download"
+      },
+      {
+        "label": "FDA IVD town hall — 21 September 2022",
+        "url": "https://www.fda.gov/media/161863/download"
+      }
+    ],
+    "access": "Public company post and primary sources"
+  },
+  {
+    "id": "L05",
+    "slug": "hmc-hml-documented-partnership",
+    "title": "HMC, HML and a documented laboratory partnership",
+    "excerpt": "A 2023 partner announcement provides a dated record of distinct clinical, regulatory and laboratory roles.",
+    "html": "<h2>The documented announcement</h2><p>On 24 July 2023, DiaCarta announced a strategic partnership with New Jersey-based Hopkins MedTech Compliance and Hopkins MedTech Lab Services. The announcement described support for IVD regulatory compliance and laboratory-developed-test validation. It presented HMC’s clinical and regulatory work and HML’s laboratory-related activities separately.</p><h2>Keep entity boundaries visible</h2><p>The announcement also described DiaCarta’s own laboratory capabilities. Those statements should not be reassigned to HMC. An associated company’s laboratory, a partner’s accreditation and HMC’s consulting service are different facts, even when they support the same project.</p><h2>A dated source, not a current credential register</h2><p>This article records what the partner announced in 2023. Current contracting entities, service scope, laboratory locations and accreditation status should be established with the actual provider for a proposed engagement. The company’s LinkedIn post is also linked below; legal registration numbers and present executive titles have not been independently confirmed here.</p>",
+    "type": "Company Insights",
+    "topic": "Company",
+    "year": "2026",
+    "date": "2026-10-06",
+    "originalPublicationDate": "2026-10-06",
+    "editorialPublicationDate": null,
+    "importDate": "2026-10-08",
+    "author": "Hopkins MedTech Compliance",
+    "sourceOrganization": "Hopkins MedTech Compliance",
+    "sourceUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7513138611614187520/",
+    "sourceAccessStatus": "verified",
+    "publicationStatus": "published",
+    "reviewedAt": "2026-10-08",
+    "reviewNote": "HMC and HML are distinct entities. This historical announcement does not verify current partner accreditations or current service availability.",
+    "additionalSources": [
+      {
+        "label": "DiaCarta — partnership announcement, 24 July 2023",
+        "url": "https://www.diacarta.com/hmc-hml-partnership"
+      }
+    ],
+    "access": "Public company post and primary sources"
+  },
+  {
+    "id": "L06",
+    "slug": "class-b-ivdr-planning-milestones",
+    "title": "Class B IVDR planning starts before the final deadline",
+    "excerpt": "The transition end date is only one milestone in an eligible legacy device’s conformity-assessment plan.",
+    "html": "<h2>The earlier milestones</h2><p>For eligible self-declared IVDD legacy devices moving into class B under IVDR, the transition can run to 31 December 2029. The conditions include an IVDR quality management system by 26 May 2025, a formal notified-body application by 26 May 2027 and a written agreement by 26 September 2027. A device already covered by an IVDD notified-body certificate follows the applicable certified-device timeline instead.</p><h2>Start with the device’s actual history</h2><p>Classification alone does not establish transition eligibility. Check the original declaration or certificate, the product’s design and intended-purpose history, and whether the required conditions have been met. New devices cannot simply adopt a legacy-device timetable.</p><h2>A planning question for each workstream</h2><p>As an editorial planning suggestion, identify which technical-documentation, performance-evaluation and quality-system tasks support the next required milestone. Record who owns each task and what evidence closes it. Confirm the applicable pathway and submission expectations with appropriately qualified advisers and the selected notified body.</p>",
+    "type": "Company Insights",
+    "topic": "FDA and Regulatory",
+    "year": "2026",
+    "date": "2026-10-06",
+    "originalPublicationDate": "2026-10-06",
+    "editorialPublicationDate": null,
+    "importDate": "2026-10-08",
+    "author": "Hopkins MedTech Compliance",
+    "sourceOrganization": "Hopkins MedTech Compliance",
+    "sourceUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7513048648583143424/",
+    "sourceAccessStatus": "verified",
+    "publicationStatus": "published",
+    "reviewedAt": "2026-10-08",
+    "reviewNote": "Context checked on 8 October 2026. Transition conditions must be assessed for the particular device.",
+    "additionalSources": [
+      {
+        "label": "European Commission — IVDR transition factsheet",
+        "url": "https://health.ec.europa.eu/document/download/0f868301-8580-48e8-afa1-79aae839188e_en"
+      },
+      {
+        "label": "Regulation (EU) 2024/1860",
+        "url": "https://eur-lex.europa.eu/eli/reg/2024/1860/oj/eng"
+      }
+    ],
+    "access": "Public company post and primary sources"
+  },
+  {
+    "id": "S02",
+    "slug": "lipid-nanocarriers-skin-delivery",
+    "title": "Particle size is one part of the skin-delivery story",
+    "excerpt": "A review of lipid nanosystems highlights interacting formulation and skin-barrier factors.",
+    "html": "<h2>What the review covers</h2><p>The 2023 Pharmaceutics review, “Current Advances in Lipid Nanosystems Intended for Topical and Transdermal Drug Delivery Applications,” considers skin structure, nanoparticle penetration routes and factors affecting delivery. Its abstract identifies particle size, surface charge and formulation components among the variables that need to be understood and controlled.</p><h2>Avoid a universal size rule</h2><p>HMC’s LinkedIn discussion uses particle size to explore possible delivery routes. The editorial takeaway is more qualified: a size measurement on its own does not establish where a formulation will travel or how much active substance will be delivered. Skin condition, carrier composition and the distinction between topical and transdermal delivery matter.</p><h2>Make the endpoint explicit</h2><p>A research plan should distinguish material retained at the surface, deposited in a follicle, delivered into skin, and transported across it. These are different outcomes. Evidence for one should not silently become a claim for another.</p>",
+    "type": "Science",
+    "topic": "Science",
+    "year": "2026",
+    "date": "2026-10-06",
+    "originalPublicationDate": "2026-10-06",
+    "editorialPublicationDate": null,
+    "importDate": "2026-10-08",
+    "author": "Hopkins MedTech Compliance",
+    "sourceOrganization": "Hopkins MedTech Compliance",
+    "sourceUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7513229325987434496/",
+    "sourceAccessStatus": "verified",
+    "publicationStatus": "published",
+    "reviewedAt": "2026-10-08",
+    "reviewNote": "Summary checked against the published abstract. No universal particle-size threshold or clinical efficacy claim is established here.",
+    "additionalSources": [
+      {
+        "label": "Original review — Pharmaceutics, 2023",
+        "url": "https://doi.org/10.3390/pharmaceutics15020656"
+      },
+      {
+        "label": "PubMed abstract and bibliographic record",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36839978/"
+      }
+    ],
+    "access": "Public company post and primary sources"
+  },
+  {
+    "id": "L07",
+    "slug": "fda-melanoma-device-reclassification-2026",
+    "title": "FDA reclassification of two melanoma assessment device types",
+    "excerpt": "A 2026 final order changes the pathway for specified adjunctive devices while retaining special controls.",
+    "html": "<h2>What changed</h2><p>FDA’s final order, published on 25 March 2026 and effective 24 April 2026, moved optical diagnostic devices for melanoma and electrical impedance spectrometers from class III to class II with special controls. The order identifies device types associated with product codes OYD and ONV and subjects them to premarket notification.</p><h2>The scope matters</h2><p>These are adjunctive devices used in clinical assessment. The order does not create a general pathway for every skin-analysis app, consumer imaging tool or autonomous diagnostic system. Its clinical-performance and labeling controls must be read with each device definition and intended use.</p><h2>From classification to an evidence plan</h2><p>The practical question is whether a proposed product fits a specified classification, then what evidence supports that intended use. Our editorial suggestion is to document the target users, patients, output and role in the care pathway before translating a classification decision into study requirements. A different intended use may require a different assessment.</p>",
+    "type": "Company Insights",
+    "topic": "FDA and Regulatory",
+    "year": "2026",
+    "date": "2026-10-05",
+    "originalPublicationDate": "2026-10-05",
+    "editorialPublicationDate": null,
+    "importDate": "2026-10-08",
+    "author": "Hopkins MedTech Compliance",
+    "sourceOrganization": "Hopkins MedTech Compliance",
+    "sourceUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7512866871008886785/",
+    "sourceAccessStatus": "verified",
+    "publicationStatus": "published",
+    "reviewedAt": "2026-10-08",
+    "reviewNote": "Regulatory context checked on 8 October 2026. Reclassification of a device type does not clear or approve an individual product.",
+    "additionalSources": [
+      {
+        "label": "Federal Register — final FDA order, 91 FR 14445",
+        "url": "https://www.federalregister.gov/documents/2026/03/25/2026-05772/general-and-plastic-surgery-devices-reclassification-of-optical-diagnostic-devices-for-melanoma"
+      }
+    ],
+    "access": "Public company post and primary sources"
+  },
+  {
+    "id": "S03",
+    "slug": "ai-skin-science-different-evidence",
+    "title": "AI in skin science: different questions, different evidence",
+    "excerpt": "Image labels, drug transport and clinical image assessment each demand a different evaluation.",
+    "html": "<h2>Three distinct research settings</h2><p>A 2026 skin-tone dataset preprint examines labeling and benchmarking. A 2023 microneedle study compares machine-learning approaches for drug-permeation prediction and identifies drug loading, permeation time and microneedle surface area as influential variables. A September 2026 preprint compares three multimodal AI models with three dermatologists using patient-captured images; results depend on the metric, and model confidence is not consistently well calibrated.</p><h2>Keep the claims attached to the task</h2><p>These studies do not measure the same capability. Predicting permeation is different from classifying skin tone or interpreting a lesion image. High performance in one dataset does not establish reliability across a new population, acquisition method or intended use.</p><h2>Research and regulation answer different questions</h2><p>The FDA’s 2026 melanoma-device order concerns specific adjunctive device types. It does not validate the research systems discussed here. Our editorial recommendation is to describe each model through its task, reference standard, evaluation population and limitations before discussing practical use.</p>",
+    "type": "Science",
+    "topic": "Science",
+    "year": "2026",
+    "date": "2026-10-04",
+    "originalPublicationDate": "2026-10-04",
+    "editorialPublicationDate": null,
+    "importDate": "2026-10-08",
+    "author": "Hopkins MedTech Compliance",
+    "sourceOrganization": "Hopkins MedTech Compliance",
+    "sourceUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7512640754020716544/",
+    "sourceAccessStatus": "verified",
+    "publicationStatus": "published",
+    "reviewedAt": "2026-10-08",
+    "reviewNote": "The two arXiv studies are preprints. Research summaries are based on public abstracts and are not evidence of an HMC-validated product.",
+    "additionalSources": [
+      {
+        "label": "Skin-tone benchmark — arXiv:2603.02475",
+        "url": "https://arxiv.org/abs/2603.02475"
+      },
+      {
+        "label": "Microneedle permeation study, 2023",
+        "url": "https://doi.org/10.1002/btm2.10512"
+      },
+      {
+        "label": "Multimodal AI benchmark — arXiv:2609.24190",
+        "url": "https://arxiv.org/abs/2609.24190"
+      },
+      {
+        "label": "FDA final order on two melanoma device types",
+        "url": "https://www.federalregister.gov/documents/2026/03/25/2026-05772/general-and-plastic-surgery-devices-reclassification-of-optical-diagnostic-devices-for-melanoma"
+      }
+    ],
+    "access": "Public company post and primary sources"
+  },
+  {
+    "id": "S04",
+    "slug": "skin-tone-labels-and-metrics",
+    "title": "Skin-tone auditing starts with the measurement",
+    "excerpt": "Before interpreting model agreement, establish what the labels and the scoring rule mean.",
+    "html": "<h2>A dataset and a labeling problem</h2><p>The 2026 preprint “Large-Scale Dataset and Benchmark for Skin Tone Classification in the Wild” reports 42,313 images from 3,564 individuals with ten-category Monk Skin Tone annotations. It explores classification and benchmark design, including dataset imbalance and leakage concerns.</p><h2>Agreement depends on the rule</h2><p>Exact-category agreement and agreement within one adjacent category answer different questions. A model can perform differently under these metrics without any change to its predictions. Human annotation variability is therefore part of interpreting a score, but it should not be described as a mathematically fixed ceiling on all future systems.</p><h2>An editorial checklist for evaluation</h2><p>Record the scale, annotation procedure, image conditions, participant overlap and subgroup distribution. Separate person-level data splits from image-level splits, and report the metric alongside the result. A skin-tone benchmark alone cannot establish diagnostic accuracy, fairness across every clinical use, or fitness for a medical-device claim.</p>",
+    "type": "Science",
+    "topic": "Science",
+    "year": "2026",
+    "date": "2026-10-01",
+    "originalPublicationDate": "2026-10-01",
+    "editorialPublicationDate": null,
+    "importDate": "2026-10-08",
+    "author": "Hopkins MedTech Compliance",
+    "sourceOrganization": "Hopkins MedTech Compliance",
+    "sourceUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7511417237304418304/",
+    "sourceAccessStatus": "verified",
+    "publicationStatus": "published",
+    "reviewedAt": "2026-10-08",
+    "reviewNote": "Preprint; this summary is based on the public abstract. It does not establish clinical diagnostic validity.",
+    "additionalSources": [
+      {
+        "label": "Matias et al. — arXiv:2603.02475",
+        "url": "https://arxiv.org/abs/2603.02475"
+      }
+    ],
+    "access": "Public company post and primary sources"
+  }
+]

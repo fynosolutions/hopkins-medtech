@@ -1,0 +1,54 @@
+[
+  {
+    "id": "EXAMPLE-EMMA",
+    "name": "Emma Whitmore",
+    "role": "Clinical Operations",
+    "slug": "emma-whitmore",
+    "initials": "EW",
+    "excerpt": "An example clinical operations role, focused on study coordination, site communication and clear project documentation.",
+    "html": "<h2>Example responsibilities</h2><p>Emma is a fictional profile illustrating the clinical operations role in this website preview. The example focuses on coordinating study activities, keeping participating sites informed and organizing project documentation.</p><p>Illustrative responsibilities include maintaining study timelines, preparing meeting notes, tracking action items and supporting communication between project teams and research sites.</p>",
+    "linkedin": null,
+    "sourceUrl": null,
+    "image": "/media/team/emma-whitmore-generated.png",
+    "verified": false
+  },
+  {
+    "id": "EXAMPLE-DANIEL",
+    "name": "Daniel Reed",
+    "role": "Laboratory Services",
+    "slug": "daniel-reed",
+    "initials": "DR",
+    "excerpt": "An example laboratory services role, focused on testing workflows, sample coordination and organized technical records.",
+    "html": "<h2>Example responsibilities</h2><p>Daniel is a fictional profile illustrating a laboratory services role in this website preview. The example focuses on coordinating testing activities and keeping technical records organized throughout a project.</p><p>Illustrative responsibilities include reviewing project requirements with laboratory teams, maintaining sample documentation and communicating the status of planned testing. No qualifications, laboratory accreditations or employment history are claimed for this fictional person.</p>",
+    "linkedin": null,
+    "sourceUrl": null,
+    "image": "/media/team/daniel-reed-generated.png",
+    "verified": false
+  },
+  {
+    "id": "EXAMPLE-MAYA",
+    "name": "Maya Brooks",
+    "role": "Business Development",
+    "slug": "maya-brooks",
+    "initials": "MB",
+    "excerpt": "An example business development role, focused on understanding project needs and coordinating early client conversations.",
+    "html": "<h2>Example responsibilities</h2><p>Maya is a fictional profile illustrating a business development role in this website preview. The example focuses on understanding a prospective client's project and helping the conversation reach the appropriate technical team.</p><p>Illustrative responsibilities include organizing introductory meetings, documenting project questions and supporting clear communication about proposed services and next steps.</p>",
+    "linkedin": null,
+    "sourceUrl": null,
+    "image": "/media/team/maya-brooks-generated.png",
+    "verified": false
+  },
+  {
+    "id": "EXAMPLE-MARCUS",
+    "name": "Marcus Bennett",
+    "role": "Biostatistics & Clinical Data",
+    "slug": "marcus-bennett",
+    "initials": "MB",
+    "excerpt": "An example biostatistics and clinical data role, focused on clear analysis questions, data quality and transparent reporting.",
+    "html": "<h2>Example responsibilities</h2><p>Marcus is a fictional profile illustrating a biostatistics and clinical data role in this website preview. The example focuses on organizing study data and communicating the questions an analysis is intended to answer.</p><p>Illustrative responsibilities include documenting analysis plans, coordinating data checks and preparing clear summaries of results and their limitations. This profile does not represent an actual professional or claim real qualifications.</p>",
+    "linkedin": null,
+    "sourceUrl": null,
+    "image": "/media/team/marcus-bennett-generated.png",
+    "verified": false
+  }
+]

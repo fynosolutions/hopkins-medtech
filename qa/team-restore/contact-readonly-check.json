@@ -1,0 +1,32 @@
+[
+  {
+    "page": "old-contact",
+    "url": "http://www.hopkinsmedtech.com/Contact.aspx?ClassID=82",
+    "status": 200,
+    "finalUrl": "http://www.hopkinsmedtech.com/Contact.aspx?ClassID=82",
+    "method": "GET page only",
+    "submissionCode": "\r\n\r\n    function send11() {\r\n\r\n\r\n\r\n        var a1 = document.getElementById(\"a11\").value;\r\n        if (a1 == \"\") { alert(\"Please input your theme here, it is very important!\"); document.getElementById(\"a1\").focus(); return false; }\r\n        var a2 = document.getElementById(\"a2\").value;\r\n        if (a2 == \"\") { alert(\"Please input your name here, it is very important!\"); document.getElementById(\"a2\").focus(); return false; }\r\n        var a3 = document.getElementById(\"a3\").value;\r\n\r\n        var a4 = document.getElementById(\"a4\").value;\r\n\r\n\r\n        if (a3 == \"\" && a4 == \"\") { alert(\"必填一个\"); return false; }\r\n        var a5 = document.getElementById(\"a5\").value;\r\n        if (a5 == \"\") { alert(\"Please input your Content here, it is very important!\"); document.getElementById(\"a5\").focus(); return false; }\r\n       \r\n\r\n        //提交信息开始\r\n        $.ajax({\r\n            type: \"get\",\r\n            url: \"Check/CheckSubmit.aspx?All=\" + escape(\"theme:\" + a1 + \",name:\" + a2 + \",mobile:\" + a3 + \",Email:\" + a4 + \",nr:\" + a5),\r\n\r\n            success: function (msg) {\r\n                if (msg == \"success\") {\r\n\r\n                    alert(\"恭喜你，资料提交成功！\");\r\n                    location.reload();\r\n                }\r\n                else {\r\n\r\n                    alert(\"含非法字符，资料提交失败！\");\r\n                }\r\n            }\r\n        });\r\n\r\n    } \r\n            \r\n\r\n\r\n    "
+  },
+  {
+    "page": "old-team",
+    "url": "http://www.hopkinsmedtech.com/submissions.aspx?ClassID=77",
+    "status": 200,
+    "finalUrl": "http://www.hopkinsmedtech.com/submissions.aspx?ClassID=77",
+    "method": "GET page only",
+    "names": [
+      "Homer Wu",
+      "Jennifer Stanford",
+      "Wendy Zhou",
+      "Andrew Wayland",
+      "Qian Cheng"
+    ]
+  },
+  {
+    "page": "deployed-contact",
+    "url": "https://hopkins-medtech.vercel.app/contact",
+    "status": 200,
+    "finalUrl": "https://hopkins-medtech.vercel.app/contact",
+    "method": "GET page only",
+    "unconnectedNoticeVisible": true
+  }
+]

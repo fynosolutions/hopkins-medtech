@@ -1,0 +1,708 @@
+
+<!DOCTYPE html>
+
+<html>
+<head><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+	Team-Hopkins MedTech Compliance
+</title><meta content="HMC" id="description" name="description"/><meta content="Team,Hopkins MedTech Compliance" id="keywords" name="keywords"/>
+<script src="/js/jquery-1-7-2.js" type="text/javascript"></script>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=0,minimal-ui" name="viewport"/>
+<link href="css/style.css" rel="stylesheet" type="text/css"/>
+<script src="js/jquery-1.6.min.js" type="text/javascript"></script>
+<script src="https://tyw.key.400301.com/js/replace_word_limit.js" type="text/javascript"></script>
+</head>
+<body>
+<form id="form1">
+<script language="javascript" type="text/javascript">
+    //①搜索开始
+    function checkSearch() {
+        if ($("#KeyName").val() == "" || $("#KeyName").val() == null) {
+            alert("请输入搜索关键词");
+            $("#KeyName").val("");
+            $("#KeyName").focus();
+            return false;
+        }
+         window.location.href ="News.aspx?q=" + escape($("#KeyName").val());
+    }
+
+    //②按下回车键出发某个按钮开始
+    document.onkeydown = function (event) {
+        e = event ? event : (window.event ? window.event : null);
+        if (e.keyCode == 13) {
+            document.getElementById("SearchButton").click();
+            return false;
+        }
+    }
+
+    //③加入收藏js代码开始
+    function AddFavorite(sURL, sTitle) {
+        try {
+            window.external.addFavorite(sURL, sTitle);
+        }
+        catch (e) {
+            try {
+                window.sidebar.addPanel(sTitle, sURL, "");
+            }
+            catch (e) {
+                alert("您使用的浏览器不支持此功能，请按“Ctrl+D”键手工加入收藏");
+            }
+        }
+    }
+</script>
+<!--④设置网站背景开始-->
+<!--⑧结束-->
+<div class="head pc">
+<div class="">
+<div class="logo fl">
+<a href="http://www.hopkinsmedtech.com" title="Hopkins MedTech Compliance"><img alt="Hopkins MedTech Compliance" src="/upload/img/20220223150835.png"/></a>
+</div>
+<div class="menu fr">
+<ul class="fl">
+<li class="cur"><a href="default.aspx">
+                    INDUSTRY FOCUS</a>
+<div class="erji" style="background: url(upload/202202231610531.png) left center  no-repeat #EDEDED;">
+<dl>
+<dd>
+<a href="submissions.aspx?ClassID=3" title="IVDs">IVDs</a>
+</dd>
+<dd>
+<a href="submissions.aspx?ClassID=64" title="Medical Devices">Medical Devices</a>
+</dd>
+<dd>
+<a href="submissions.aspx?ClassID=65" title="Gene and Cell Therapies">Gene and Cell Therapies</a>
+</dd>
+<dd>
+<a href="submissions.aspx?ClassID=66" title="Biopharma">Biopharma</a>
+</dd>
+<dd>
+<a href="submissions.aspx?ClassID=67" title="Pharmaceuticals">Pharmaceuticals</a>
+</dd>
+</dl>
+</div>
+</li>
+<li class="cur"><a href="#">
+                    SERVICES</a>
+<div class="erji" style="background: url(upload/202202231611071.png) left center  no-repeat #EDEDED;">
+<dl class="pro_down">
+<dd>
+<a href="#" title="Technology">Technology</a>
+<div class="sanji">
+<a href="management.aspx?ClassID=60">Product Development</a>
+</div>
+</dd>
+<dd>
+<a href="#" title="Clinical">Clinical</a>
+<div class="sanji">
+<a href="management.aspx?ClassID=85">Project Management</a>
+<a href="management.aspx?ClassID=86">Clinical Operation</a>
+<a href="management.aspx?ClassID=87">Data Management</a>
+<a href="management.aspx?ClassID=88">Biostatics</a>
+<a href="management.aspx?ClassID=89">Quality Assurance</a>
+</div>
+</dd>
+<dd>
+<a href="#" title="Regulatory">Regulatory</a>
+<div class="sanji">
+<a href="management.aspx?ClassID=61">Regulatory Strategy</a>
+<a href="management.aspx?ClassID=62">Regulatory Submission</a>
+<a href="management.aspx?ClassID=92">FDA</a>
+<a href="management.aspx?ClassID=93">IVDR</a>
+</div>
+</dd>
+<dd>
+<a href="#" title="Marketing">Marketing</a>
+<div class="sanji">
+<a href="management.aspx?ClassID=94">Market Research</a>
+</div>
+</dd>
+<dd>
+<a href="#" title="Post-Market">Post-Market</a>
+<div class="sanji">
+<a href="management.aspx?ClassID=95">Post Market Compliance</a>
+<a href="management.aspx?ClassID=63">Post Market Surveillance</a>
+</div>
+</dd>
+</dl>
+</div>
+</li>
+<li class="cur"><a href="#">
+                    PROJECTS</a>
+<div class="erji" style="background: url(upload/202202231612001.png) left center  no-repeat #EDEDED;">
+<dl>
+<dd>
+<a href="management.aspx?ClassID=79" title="EUA Application">EUA Application</a>
+</dd>
+<dd>
+<a href="management.aspx?ClassID=78" title="Medical Device 510K">Medical Device 510K</a>
+</dd>
+<dd>
+<a href="management.aspx?ClassID=56" title="Clinical study">Clinical study</a>
+</dd>
+<dd>
+<a href="management.aspx?ClassID=57" title="OTC Drug">OTC Drug</a>
+</dd>
+<dd>
+<a href="management.aspx?ClassID=72" title="Facility Registration and Listing">Facility Registration and Listing</a>
+</dd>
+<dd>
+<a href="management.aspx?ClassID=73" title="FDA US Agent">FDA US Agent</a>
+</dd>
+<dd>
+<a href="management.aspx?ClassID=74" title="Food and Dietary Supplements">Food and Dietary Supplements</a>
+</dd>
+<dd>
+<a href="management.aspx?ClassID=75" title="CGMP">CGMP</a>
+</dd>
+<dd>
+<a href="management.aspx?ClassID=80" title="Marketing">Marketing</a>
+</dd>
+<dd>
+<a href="About.aspx?ClassID=81" title="Setup and Operation of US Based Sale Office">Setup and Operation of US Based Sale Office</a>
+</dd>
+</dl>
+</div>
+</li>
+<li class="cur"><a href="#">
+                    RESOURCES</a>
+<div class="erji" style="background: url(upload/202202231612131.png) left center  no-repeat #EDEDED;">
+<dl>
+<dd>
+<a href="News.aspx?ClassID=102" title="All Resources">All Resources</a>
+</dd>
+</dl>
+</div>
+</li>
+<li class="cur"><a href="#">
+                    ABOUT</a>
+<div class="erji" style="background: url(upload/202202231613541.png) left center  no-repeat #EDEDED;">
+<dl>
+<dd>
+<a href="management.aspx?ClassID=20" title="Our Company">Our Company</a>
+</dd>
+<dd>
+<a href="submissions.aspx?ClassID=77" title="Team">Team</a>
+</dd>
+<dd>
+<a href="Contact.aspx?ClassID=82" title="Contact Us">Contact Us</a>
+</dd>
+</dl>
+</div>
+</li>
+</ul>
+<div class="get fl">
+<a href="/Contact.aspx?ClassID=82">GET IN TOUCH</a>
+</div>
+<div class="search fl">
+<a href="javascript:void(0);">
+<img src="images/QQ截图20220125164247.png"/>
+</a>
+</div>
+</div>
+<div class="searchmain fr">
+<input class="fl" id="KeyName" name="" placeholder="Search..." type="text"/>
+<button id="SearchButton" onclick="checkSearch()" style=" display:none" type="button"> 提交</button>
+<a class="fl" href="javascript:void(0);">
+<img src="images/QQ截图20220126100329.png"/></a>
+<div class="clear">
+</div>
+</div>
+<div class="clear">
+</div>
+</div>
+</div>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $(".search").click(function () {
+            $(".menu").hide();
+            $(".searchmain").show();
+        });
+
+        $(".searchmain a").click(function () {
+            $(".menu").show();
+            $(".searchmain").hide();
+        });
+    });
+</script>
+<div class="phonehead phone">
+<div class="wapper">
+<div class="menuicon fr">
+<a href="javascript:void(0);">
+<img src="images/QQ截图20220126101453.png"/></a>
+</div>
+<div class="search2 fr">
+<a href="javascript:void(0);">
+<img src="images/QQ截图20220125164247.png"/>
+</a>
+</div>
+<div class="searchmain2">
+<input class="fl" name="" placeholder="Search..." type="text"/>
+<a class="fl" href="javascript:void(0);">
+<img src="images/QQ截图20220126100329.png"/></a>
+<div class="clear">
+</div>
+</div>
+<div class="clear">
+</div>
+</div>
+</div>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $(".search2").click(function () {
+            $(".menuicon , .search2").hide();
+            $(".searchmain2").show();
+        });
+
+        $(".searchmain2 a").click(function () {
+            $(".menuicon , .search2").show();
+            $(".searchmain2").hide();
+        });
+    });
+</script>
+<div class="menulist">
+<div class="wapper">
+<div class="close">
+            X</div>
+<ul>
+<li><a href="default.aspx">
+                INDUSTRY FOCUS</a>
+<dl>
+<dd>
+<a href="submissions.aspx?ClassID=3" title="IVDs">
+                            IVDs</a>
+</dd>
+<dd>
+<a href="submissions.aspx?ClassID=64" title="Medical Devices">
+                            Medical Devices</a>
+</dd>
+<dd>
+<a href="submissions.aspx?ClassID=65" title="Gene and Cell Therapies">
+                            Gene and Cell Therapies</a>
+</dd>
+<dd>
+<a href="submissions.aspx?ClassID=66" title="Biopharma">
+                            Biopharma</a>
+</dd>
+<dd>
+<a href="submissions.aspx?ClassID=67" title="Pharmaceuticals">
+                            Pharmaceuticals</a>
+</dd>
+</dl>
+</li>
+<li><a href="#">
+                SERVICES</a>
+<dl>
+<dd>
+<a href="#" title="Technology">
+                            Technology</a>
+</dd>
+<dd>
+<a href="#" title="Clinical">
+                            Clinical</a>
+</dd>
+<dd>
+<a href="#" title="Regulatory">
+                            Regulatory</a>
+</dd>
+<dd>
+<a href="#" title="Marketing">
+                            Marketing</a>
+</dd>
+<dd>
+<a href="#" title="Post-Market">
+                            Post-Market</a>
+</dd>
+</dl>
+</li>
+<li><a href="#">
+                PROJECTS</a>
+<dl>
+<dd>
+<a href="management.aspx?ClassID=79" title="EUA Application">
+                            EUA Application</a>
+</dd>
+<dd>
+<a href="management.aspx?ClassID=78" title="Medical Device 510K">
+                            Medical Device 510K</a>
+</dd>
+<dd>
+<a href="management.aspx?ClassID=56" title="Clinical study">
+                            Clinical study</a>
+</dd>
+<dd>
+<a href="management.aspx?ClassID=57" title="OTC Drug">
+                            OTC Drug</a>
+</dd>
+<dd>
+<a href="management.aspx?ClassID=72" title="Facility Registration and Listing">
+                            Facility Registration and Listing</a>
+</dd>
+<dd>
+<a href="management.aspx?ClassID=73" title="FDA US Agent">
+                            FDA US Agent</a>
+</dd>
+<dd>
+<a href="management.aspx?ClassID=74" title="Food and Dietary Supplements">
+                            Food and Dietary Supplements</a>
+</dd>
+<dd>
+<a href="management.aspx?ClassID=75" title="CGMP">
+                            CGMP</a>
+</dd>
+<dd>
+<a href="management.aspx?ClassID=80" title="Marketing">
+                            Marketing</a>
+</dd>
+<dd>
+<a href="About.aspx?ClassID=81" title="Setup and Operation of US Based Sale Office">
+                            Setup and Operation of US Based Sale Office</a>
+</dd>
+</dl>
+</li>
+<li><a href="#">
+                RESOURCES</a>
+<dl>
+<dd>
+<a href="News.aspx?ClassID=102" title="All Resources">
+                            All Resources</a>
+</dd>
+</dl>
+</li>
+<li><a href="#">
+                ABOUT</a>
+<dl>
+<dd>
+<a href="management.aspx?ClassID=20" title="Our Company">
+                            Our Company</a>
+</dd>
+<dd>
+<a href="submissions.aspx?ClassID=77" title="Team">
+                            Team</a>
+</dd>
+<dd>
+<a href="Contact.aspx?ClassID=82" title="Contact Us">
+                            Contact Us</a>
+</dd>
+</dl>
+</li>
+</ul>
+<div class="get2 fl">
+<a href="#">Get In Touch</a>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $(".menuicon").click(function () {
+            $(".menulist").show();
+        });
+
+        $(".close").click(function () {
+            $(".menulist").hide();
+        });
+    });
+</script>
+<style>
+.insidebanner{ position:relative;}
+.insidebanner .inbanner_bg{ width:100%; height:100%; position:absolute; top:0; left:0; z-index:1;
+background-image: url(images/inbannerbg1.png);
+background-size: cover;
+background-repeat: no-repeat;}
+.insidebanner .inbanner_txt{ width:100%; position:absolute; left:0; top:50%; transform:translateY(-50%); z-index:2;}
+.insidebanner .inbanner_txt .h2{ width:90%; max-width:1080px; margin:0 auto; font-size:55px; line-height:65px;}
+</style>
+<div class="insidebanner">
+<img src="/upload/img/20220224174850.png"/>
+<div class="inbanner_bg"></div>
+<div class="inbanner_txt">
+<div class="h2">Team</div>
+</div>
+</div>
+<div class="regulatory pad">
+<div class="wapper">
+<div class="regulatorytop">
+<span id="lContent"></span>
+</div>
+<dl>
+<dt>
+                    Team</dt>
+<dd>
+<div class="ddleft fl">
+                        1
+                    </div>
+<div class="ddcenter fl">
+<h3>
+                            Homer Wu, Ph.D. - Chief Scientist</h3>
+<div class="spa">
+<p>Over 25+ years of experience in professional services, Dr. Wu is a visionary, seasoned, and dynamic professional, offering in-depth scientific, regulatory, and clinical knowledge of developing medical devices including IVD and innovative medical devices, focused on driving corporate growth and innovation by translating goals/objectives into actionable strategies/operating plans that support the business.</p><p><br/></p><p>Dr. Wu has led cross-functional teams responsible for product development, scale-up manufacturing, supply-chain management, and GMP compliance. Worked collaboratively with client’s executive management, board of directors, consultants, and outside thought leaders to shape clinical and regulatory strategy/direction fir HMC’s clients.</p><p><br/></p><p>Before the foundation of HMC, Dr. Wu worked in various consulting roles at PwC, Lucent Technologies, has served in many pharmaceutical companies such as Pfizer, healthcare institution such as Memorial Sloan  Kettering Cancer Center, Hospital for Special Surgery, Atlantic Health System, etc.</p><p><br/></p><p>Dr. Wu obtained his Ph.D. in Physics from New York University, and an M.S. in Computer Science and M.S. in Electrical Engineering also from New York University.</p><hr/><p><br/></p>
+</div>
+</div>
+<div class="ddright fl">
+<div class="icon">
+                            +
+                        </div>
+<div class="icon2">
+                            -
+                        </div>
+</div>
+<div class="clear">
+</div>
+</dd>
+<dd>
+<div class="ddleft fl">
+                        2
+                    </div>
+<div class="ddcenter fl">
+<h3>
+                            Jennifer Stanford - Director of Clinical Operation</h3>
+<div class="spa">
+<p>Over 25+ years of nursing and leadership experience in both clinical research and critical care, she has served in clinical operation director role in many health systems including Valley Health System, Cardiopulmonary Research Science and Technology Institute, UT Southwestern Medical Center. Her clinical expertise across different phases of trial, managed 125+ drug and device trials (Phases II-IV) in numerous therapeutic areas. She has established local Institutional Review Board/provided oversight and training for many of her client’s before joining HMC.</p><p><br/></p><p>As the Director of Clinical operation, Jennifer has primarily responsible for overseeing the operational efficiency and quality of clinic services at all clinic sites, including direct supervision of Site Managers, and lead efforts to improve quality outcomes and clinic operations in a way that contributes to an enhanced experience for staff and patients, oversee the functioning of key systems vital to clinic operations.</p><p><br/></p><p>Jennifer obtained her M.S. in Nursing from University of Texas at Arlington, and Bachelors of Science in Nursing     from Texas Christian University.</p><hr/><p><br/></p>
+</div>
+</div>
+<div class="ddright fl">
+<div class="icon">
+                            +
+                        </div>
+<div class="icon2">
+                            -
+                        </div>
+</div>
+<div class="clear">
+</div>
+</dd>
+<dd>
+<div class="ddleft fl">
+                        3
+                    </div>
+<div class="ddcenter fl">
+<h3>
+                            Wendy Zhou, Ph.D. - Director of Laboratory Services</h3>
+<div class="spa">
+<p>With over 25+ years of strong experience in the pharmaceutical and medical device clinical research industry, Dr. Zhou has thorough and demonstrated knowledge of methods of analysis used in Clinical Laboratories, and In-depth knowledgeable of fiscal and general healthcare issues, trends, quality management. Dr. Zhou has extensive experience in laboratory equipment and automation and laboratory practice &amp; standards, good understanding of scientific methodology and clinical study design.</p><p><br/></p><p>Before joining HMC, Dr. Zhou has played Laboratory Director roles in many prestigious laboratories including: Paradigm Laboratories, Hangzhou Medical Biotechnology Clinical Laboratory, BAS Premier Laboratory, ViaGen, etc, the molecular diagnostic tests offered in these labs included the tests for infectious diseases, inherited conditions, precision medicine for chronic disease management, cancer companion diagnostics and prognostics, and pharmacogenetics.</p><p><br/></p><p>Dr. Zhou obtained her Ph.D. in Biochemistry from Arizona State University.</p><hr/><p><br/></p>
+</div>
+</div>
+<div class="ddright fl">
+<div class="icon">
+                            +
+                        </div>
+<div class="icon2">
+                            -
+                        </div>
+</div>
+<div class="clear">
+</div>
+</dd>
+<dd>
+<div class="ddleft fl">
+                        4
+                    </div>
+<div class="ddcenter fl">
+<h3>
+                            Andrew Wayland - Director of Business Development</h3>
+<div class="spa">
+<p>Master of Business Administration MBA </p><p>Clinical Research and Healthcare Administrator, Advance innovative discoveries for the treatment of human disease.<br/></p><p><br/></p><p>Life Science professional and strategist with over 15 years of experience building disruptive partnerships across academia, CROs, diagnostics, biotechnology, pharmaceutical and medical device organizations.</p><p>Andrew's professional goal is to successfully impact healthcare organizations to advance innovative therapeutic discoveries for the treatment of human disease.</p><p>Highly recognized for accomplishments with Clinical Research Operations, Project Management, Business Development and Sponsored Research Funding within Healthcare Clinical Research. These results maximize efficiencies and accelerate cost-effective drug, medical device and therapeutic development.</p><p>Sponsored research funding derived from Federal (NIH, DoD, NSF), State (CPRIT), Foundation/Philanthropic, and Biopharma/Pharmaceutical research funding proposals (RFPs)</p><p><br/></p><p>Therapeutic Areas: Oncology (Hematology and Solid Tumor), Immunology, Neurology/CNS, Clinical Pharmacology, Digital Health (AI), Medical Device, Therapeutic Diagnostics, Healthcare Prevention, Educational Services and Other Indications</p><p><br/></p><p>Specialties: Clinical Operations, Business Development, Research Proposal Management, Clinical Trial Management, Business Entrepreneurship, ICH/GCP guidelines, GLP/GMP regulations, Research Analytics, People Leadership and Human Resource Management.</p><hr/><p><br/></p>
+</div>
+</div>
+<div class="ddright fl">
+<div class="icon">
+                            +
+                        </div>
+<div class="icon2">
+                            -
+                        </div>
+</div>
+<div class="clear">
+</div>
+</dd>
+<dd>
+<div class="ddleft fl">
+                        5
+                    </div>
+<div class="ddcenter fl">
+<h3>
+                            Qian Cheng, Ph.D. - Chief Biostatistician</h3>
+<div class="spa">
+<p>With less than 10% of investigational products making it to post-marketing surveillance during clinical trials, it is imperative to build a statistical analysis plan for any clinical study, Dr. Cheng brought to HMC of extensive and flexible biostatistical capabilities for different phases of clinical trials. Under his guidance, each analysis is custom built based on our client’s clinical research goals, and performed to ICH-GCP standards, and uses the latest, best-in-class statistical software.</p><p><br/></p><p>Dr. Cheng’s extensive experience in clinical data analysis allows HMC to provide an individualized service offering for our clients in each clinical trial, regardless of the complexity of the biostatistical needs, from study design, to sample size calculation, to protocol development &amp; review, to randomization, and statistical analysis plans, analysis and Interpretation, data presentation and reports. Biostatistician is the key driver behind trial design, it’s one of the key components of clinical trial design, for many studies, regulatory agencies review the statistical analysis plan (SAP) as part of the trial design review.</p><p><br/></p><p>Dr. Cheng obtained his Ph.D. in Pharmaceutical Science from University of Arizona</p><hr/><p><br/></p>
+</div>
+</div>
+<div class="ddright fl">
+<div class="icon">
+                            +
+                        </div>
+<div class="icon2">
+                            -
+                        </div>
+</div>
+<div class="clear">
+</div>
+</dd>
+</dl>
+<dl>
+<dt>
+</dt>
+</dl>
+</div>
+</div>
+<script type="text/javascript">
+        $(document).ready(function () {
+            $(".regulatory dl dd").click(function () {
+                $(this).find(".ddcenter .spa").toggle();
+                $(this).find(".icon").toggle();
+                $(this).find(".icon2").toggle();
+            });
+
+        });
+    </script>
+<div class="con3 pad">
+<div class="wapper">
+<div class="right fr">
+<h3>
+                    Ready to learn more about working with us?</h3>
+<div>
+<a href="#">Contact Us</a> <a href="#">Chat with us</a>
+<div class="clear">
+</div>
+</div>
+<div class="img">
+<img src="/upload/img/20220302093727.png"/>
+</div>
+</div>
+<div class="clear">
+</div>
+</div>
+</div>
+<div class="con4 pad">
+<div class="wapper">
+<div class="tit">
+<h3>
+</h3>
+</div>
+<ul>
+<li><a href="NewsDetail.aspx?ID=128">
+<div class="imgsize">
+<img src="upload/20220224182345.png"/>
+<div class="bg">
+</div>
+</div>
+<h3>
+                        Determining the Right Regulatory Pathway for your Drug
+                    </h3>
+<span>
+                        A fundamental question in any drug development program is which regulatory pathway to pursue...</span> </a></li>
+<li><a href="NewsDetail.aspx?ID=127">
+<div class="imgsize">
+<img src="upload/20220224173154.png"/>
+<div class="bg">
+</div>
+</div>
+<h3>
+                        510k Submissions for Sterile Devices
+                    </h3>
+<span>
+                        A lot of work goes into a 510k submission for a medical device. Companies that submit a 510k for a product have to...</span> </a></li>
+<li><a href="NewsDetail.aspx?ID=126">
+<div class="imgsize">
+<img src="upload/20220224173357.png"/>
+<div class="bg">
+</div>
+</div>
+<h3>
+                        The FDA, CBD, and OTC Drugs
+                    </h3>
+<span>
+                        When making a new product, whether that product is a drug, a medical device, or a combination product, understanding the regulations...</span> </a></li>
+<li><a href="NewsDetail.aspx?ID=124">
+<div class="imgsize">
+<img src="upload/20220224173659.png"/>
+<div class="bg">
+</div>
+</div>
+<h3>
+                        Intended Use Validation
+                    </h3>
+<span>
+                        Medical Device Manufacturers in the United States have to comply with intended use validation (IUV) requirements.Intended use is...</span> </a></li>
+<div class="clear">
+</div>
+</ul>
+<div class="more">
+<a href="/News.aspx?ClassID=102">SEE ALL RESOURCES</a>
+</div>
+</div>
+</div>
+<div class="foot pad">
+<div class="wapper">
+<div class="left fl">
+<img src="upload/img/20220223150840.png"/>
+</div>
+<div class="center fl">
+<div class="centerleft fl">
+<h3>
+                    Headquarters</h3>
+<span>
+                    5 Penn Plaza, 19th Floor, New York, New York, 10001, United States of America</span>
+</div>
+<div class="centerright fr">
+<h3>
+                    Contact Us</h3>
+<span>
+                    800 320-1438
+                    HomerWu@HopkinsMedtech.com</span>
+<ul>
+<script charset="utf-8" src="http://static.tengyun/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript"></script>
+<script charset="utf-8" src="http://static.tengyun/b/bshareC0.js" type="text/javascript"></script>
+</ul>
+</div>
+<div class="clear">
+</div>
+</div>
+<div class="right fr">
+<h3>
+                NEWSLETTER SIGNUP</h3>
+<input id="a1" name="" placeholder="Email" type="text"/>
+<a onclick="send()">SUBSCRIBE</a>
+</div>
+<div class="clear">
+</div>
+<div class="copy">
+            ©
+            Hopkins MedTech Compliance
+            
+        </div>
+</div>
+</div>
+<script>
+
+    function send() {
+
+
+
+        var a1 = document.getElementById("a1").value;
+        if (a1 == "") { alert("Please input your Email here, it is very important!"); document.getElementById("a1").focus(); return false; }
+       
+        //提交信息开始
+        $.ajax({
+            type: "get",
+            url: "Check/CheckSubmit.aspx?All=" + escape("测试1:" + a1),
+
+            success: function (msg) {
+                if (msg == "success") {
+
+                    alert("恭喜你，资料提交成功！");
+                    location.reload();
+                }
+                else {
+
+                    alert("含非法字符，资料提交失败！");
+                }
+            }
+        });
+
+    } 
+            
+
+
+</script>
+</form>
+</body>
+</html>

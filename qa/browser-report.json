@@ -1,0 +1,494 @@
+{
+  "origin": "http://127.0.0.1:3002",
+  "viewports": [
+    {
+      "width": 360,
+      "path": "/",
+      "status": 200,
+      "scrollWidth": 360,
+      "brokenImages": [],
+      "h1": 1,
+      "overflows": [
+        "",
+        "",
+        "",
+        "",
+        "sr-only",
+        "",
+        "",
+        "sr-only"
+      ]
+    },
+    {
+      "width": 360,
+      "path": "/careers",
+      "status": 200,
+      "scrollWidth": 360,
+      "brokenImages": [],
+      "h1": 1,
+      "overflows": []
+    },
+    {
+      "width": 360,
+      "path": "/resources",
+      "status": 200,
+      "scrollWidth": 360,
+      "brokenImages": [],
+      "h1": 1,
+      "overflows": []
+    },
+    {
+      "width": 360,
+      "path": "/about/team",
+      "status": 200,
+      "scrollWidth": 360,
+      "brokenImages": [],
+      "h1": 1,
+      "overflows": []
+    },
+    {
+      "width": 360,
+      "path": "/contact",
+      "status": 200,
+      "scrollWidth": 360,
+      "brokenImages": [],
+      "h1": 1,
+      "overflows": []
+    },
+    {
+      "width": 360,
+      "path": "/careers/clinical-data-biostatistics-intern",
+      "status": 200,
+      "scrollWidth": 360,
+      "brokenImages": [],
+      "h1": 1,
+      "overflows": []
+    },
+    {
+      "width": 360,
+      "path": "/services/quality-system",
+      "status": 200,
+      "scrollWidth": 360,
+      "brokenImages": [],
+      "h1": 1,
+      "overflows": []
+    },
+    {
+      "width": 390,
+      "path": "/",
+      "status": 200,
+      "scrollWidth": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "overflows": [
+        "",
+        "",
+        "",
+        "",
+        "sr-only",
+        "",
+        "",
+        "sr-only"
+      ]
+    },
+    {
+      "width": 390,
+      "path": "/careers",
+      "status": 200,
+      "scrollWidth": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "overflows": []
+    },
+    {
+      "width": 390,
+      "path": "/resources",
+      "status": 200,
+      "scrollWidth": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "overflows": []
+    },
+    {
+      "width": 390,
+      "path": "/about/team",
+      "status": 200,
+      "scrollWidth": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "overflows": []
+    },
+    {
+      "width": 390,
+      "path": "/contact",
+      "status": 200,
+      "scrollWidth": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "overflows": []
+    },
+    {
+      "width": 390,
+      "path": "/careers/clinical-data-biostatistics-intern",
+      "status": 200,
+      "scrollWidth": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "overflows": []
+    },
+    {
+      "width": 390,
+      "path": "/services/quality-system",
+      "status": 200,
+      "scrollWidth": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "overflows": []
+    },
+    {
+      "width": 768,
+      "path": "/",
+      "status": 200,
+      "scrollWidth": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "overflows": [
+        "",
+        "",
+        "",
+        "",
+        "sr-only",
+        "",
+        "",
+        "sr-only"
+      ]
+    },
+    {
+      "width": 768,
+      "path": "/careers",
+      "status": 200,
+      "scrollWidth": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "overflows": []
+    },
+    {
+      "width": 768,
+      "path": "/resources",
+      "status": 200,
+      "scrollWidth": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "overflows": []
+    },
+    {
+      "width": 768,
+      "path": "/about/team",
+      "status": 200,
+      "scrollWidth": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "overflows": []
+    },
+    {
+      "width": 768,
+      "path": "/contact",
+      "status": 200,
+      "scrollWidth": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "overflows": []
+    },
+    {
+      "width": 768,
+      "path": "/careers/clinical-data-biostatistics-intern",
+      "status": 200,
+      "scrollWidth": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "overflows": []
+    },
+    {
+      "width": 768,
+      "path": "/services/quality-system",
+      "status": 200,
+      "scrollWidth": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "overflows": []
+    },
+    {
+      "width": 1024,
+      "path": "/",
+      "status": 200,
+      "scrollWidth": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "overflows": [
+        "",
+        "",
+        "",
+        "",
+        "sr-only",
+        "",
+        "",
+        "sr-only"
+      ]
+    },
+    {
+      "width": 1024,
+      "path": "/careers",
+      "status": 200,
+      "scrollWidth": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "overflows": []
+    },
+    {
+      "width": 1024,
+      "path": "/resources",
+      "status": 200,
+      "scrollWidth": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "overflows": []
+    },
+    {
+      "width": 1024,
+      "path": "/about/team",
+      "status": 200,
+      "scrollWidth": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "overflows": []
+    },
+    {
+      "width": 1024,
+      "path": "/contact",
+      "status": 200,
+      "scrollWidth": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "overflows": []
+    },
+    {
+      "width": 1024,
+      "path": "/careers/clinical-data-biostatistics-intern",
+      "status": 200,
+      "scrollWidth": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "overflows": []
+    },
+    {
+      "width": 1024,
+      "path": "/services/quality-system",
+      "status": 200,
+      "scrollWidth": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "overflows": []
+    },
+    {
+      "width": 1440,
+      "path": "/",
+      "status": 200,
+      "scrollWidth": 1440,
+      "brokenImages": [],
+      "h1": 1,
+      "overflows": [
+        "",
+        "",
+        "",
+        "",
+        "sr-only",
+        "",
+        "",
+        "sr-only"
+      ]
+    },
+    {
+      "width": 1440,
+      "path": "/careers",
+      "status": 200,
+      "scrollWidth": 1440,
+      "brokenImages": [],
+      "h1": 1,
+      "overflows": []
+    },
+    {
+      "width": 1440,
+      "path": "/resources",
+      "status": 200,
+      "scrollWidth": 1440,
+      "brokenImages": [],
+      "h1": 1,
+      "overflows": []
+    },
+    {
+      "width": 1440,
+      "path": "/about/team",
+      "status": 200,
+      "scrollWidth": 1440,
+      "brokenImages": [],
+      "h1": 1,
+      "overflows": []
+    },
+    {
+      "width": 1440,
+      "path": "/contact",
+      "status": 200,
+      "scrollWidth": 1440,
+      "brokenImages": [],
+      "h1": 1,
+      "overflows": []
+    },
+    {
+      "width": 1440,
+      "path": "/careers/clinical-data-biostatistics-intern",
+      "status": 200,
+      "scrollWidth": 1440,
+      "brokenImages": [],
+      "h1": 1,
+      "overflows": []
+    },
+    {
+      "width": 1440,
+      "path": "/services/quality-system",
+      "status": 200,
+      "scrollWidth": 1440,
+      "brokenImages": [],
+      "h1": 1,
+      "overflows": []
+    },
+    {
+      "width": 1920,
+      "path": "/",
+      "status": 200,
+      "scrollWidth": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "overflows": [
+        "",
+        "",
+        "",
+        "",
+        "sr-only",
+        "",
+        "",
+        "sr-only"
+      ]
+    },
+    {
+      "width": 1920,
+      "path": "/careers",
+      "status": 200,
+      "scrollWidth": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "overflows": []
+    },
+    {
+      "width": 1920,
+      "path": "/resources",
+      "status": 200,
+      "scrollWidth": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "overflows": []
+    },
+    {
+      "width": 1920,
+      "path": "/about/team",
+      "status": 200,
+      "scrollWidth": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "overflows": []
+    },
+    {
+      "width": 1920,
+      "path": "/contact",
+      "status": 200,
+      "scrollWidth": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "overflows": []
+    },
+    {
+      "width": 1920,
+      "path": "/careers/clinical-data-biostatistics-intern",
+      "status": 200,
+      "scrollWidth": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "overflows": []
+    },
+    {
+      "width": 1920,
+      "path": "/services/quality-system",
+      "status": 200,
+      "scrollWidth": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "overflows": []
+    }
+  ],
+  "interactions": [
+    {
+      "label": "Career track filters retain four roles per track",
+      "passed": true
+    },
+    {
+      "label": "Resources search, empty state, reset, topic filter and load more",
+      "passed": true
+    },
+    {
+      "label": "Desktop submenu opens via keyboard and closes with Escape",
+      "passed": true
+    },
+    {
+      "label": "Header search preserves query and returns career results",
+      "passed": true
+    },
+    {
+      "label": "Mobile menu routes and collapses",
+      "passed": true
+    },
+    {
+      "label": "Contact failure is truthful and preserves input",
+      "passed": true
+    },
+    {
+      "label": "Newsletter rejects disconnected delivery without success",
+      "passed": true
+    },
+    {
+      "label": "Reduced motion keeps content visible and stops decorative animation",
+      "passed": true
+    }
+  ],
+  "accessibility": [
+    {
+      "path": "/",
+      "violations": []
+    },
+    {
+      "path": "/careers",
+      "violations": []
+    },
+    {
+      "path": "/resources",
+      "violations": []
+    },
+    {
+      "path": "/about/team",
+      "violations": []
+    },
+    {
+      "path": "/contact",
+      "violations": []
+    }
+  ],
+  "errors": []
+}

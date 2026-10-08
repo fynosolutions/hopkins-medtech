@@ -1,0 +1,21 @@
+# Dependencies and generated files
+node_modules/
+.next/
+out/
+test-results/
+playwright-report/
+*.log
+*.tsbuildinfo
+__pycache__/
+*.pyc
+
+# Local account configuration and secrets
+.vercel/
+.sites-runtime/
+.env*
+!.env.example
+
+# Original working documents; runtime content and downloads are in content/public
+/source-archive/
+/1008 - HMC 8 Positions/
+/*.txt

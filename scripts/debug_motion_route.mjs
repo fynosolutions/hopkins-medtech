@@ -1,0 +1,10 @@
+import {chromium} from '@playwright/test';
+const b=await chromium.launch();const context=await b.newContext({viewport:{width:1440,height:1000}});const p=await context.newPage();
+p.on('console',m=>{if(m.type()==='warning'||m.type()==='error')console.log(m.type(),m.text())});
+const state=()=>p.evaluate(()=>({path:location.pathname,y:scrollY,motion:document.documentElement.dataset.motion,visible:document.documentElement.dataset.pageVisible,hidden:document.hidden,hero:document.querySelector('.hero-visual')?.getAttribute('data-in-view'),rect:document.querySelector('.hero-visual')?.getBoundingClientRect().toJSON(),play:document.querySelector('.orbit-lime')&&getComputedStyle(document.querySelector('.orbit-lime')).animationPlayState}));
+await p.goto('http://127.0.0.1:3002');await p.waitForTimeout(2500);console.log('home',await state());
+await p.locator('.featured-carousel').scrollIntoViewIfNeeded();await p.waitForTimeout(1000);console.log('scrolled',await state());
+await p.locator('.featured-carousel .resource-card h3 a').first().click();await p.waitForTimeout(1500);console.log('article',await state());
+await p.getByRole('banner').getByRole('link',{name:'Hopkins MedTech home'}).click();await p.waitForTimeout(2500);console.log('return',await state());
+await p.evaluate(()=>scrollTo({top:0,behavior:'instant'}));await p.waitForTimeout(500);console.log('top',await state());
+await b.close();

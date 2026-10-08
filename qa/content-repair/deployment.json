@@ -1,0 +1,14 @@
+{
+  "project": "hopkins-medtech",
+  "scope": "wei34",
+  "url": "https://hopkins-medtech.vercel.app",
+  "deploymentId": "dpl_4LpMfUn5fW88YzV6DKuYgkPEMapE",
+  "deploymentUrl": "https://hopkins-medtech-hx12qo329-wei34.vercel.app",
+  "dashboard": "https://vercel.com/wei34/hopkins-medtech",
+  "status": "READY",
+  "indexable": false,
+  "productionDomainChanged": false,
+  "previousVerifiedDeploymentId": "dpl_7taPcFF7oWqEanGtBiqpQhJACxXZ",
+  "revision": "Original content restoration with public historical archive",
+  "verification": "qa/content-repair/report.md"
+}

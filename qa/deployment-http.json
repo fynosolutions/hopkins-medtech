@@ -1,0 +1,34 @@
+[
+  {
+    "path": "/",
+    "status": 200,
+    "location": null,
+    "robots": "noindex, nofollow",
+    "contentType": "text/html; charset=utf-8",
+    "title": "Hopkins MedTech Compliance | Clinical Insight. Regulatory Clarity.",
+    "canonical": "https://hopkins-medtech.vercel.app"
+  },
+  {
+    "path": "/robots.txt",
+    "status": 200,
+    "location": null,
+    "robots": "noindex, nofollow",
+    "contentType": "text/plain; charset=utf-8",
+    "content": "User-Agent: *\nDisallow: /\n\nSitemap: https://hopkins-medtech.vercel.app/sitemap.xml\n"
+  },
+  {
+    "path": "/sitemap.xml",
+    "status": 200,
+    "location": null,
+    "robots": "noindex, nofollow",
+    "contentType": "application/xml",
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n<url>\n<loc>https://hopkins-medtech.vercel.app/</loc>\n</url>\n<url>\n<loc>https://hopkins-medtech.vercel.app/about</loc>\n</url>\n<url>\n<loc>https://hopkins-medtech.vercel.app/about/team</loc>\n</url>\n<url>\n<loc>https://hopkins-medtech.vercel.app/services</loc>\n</url>\n<url>\n<loc>https://hopkins-medtech.vercel.app/industries</loc>\n</url>\n<url>\n<loc>https://hopkins-medtech.vercel.app/resources</loc>\n</url"
+  },
+  {
+    "path": "/NewsDetail.aspx?ID=124",
+    "status": 308,
+    "location": "/resources/historical-intended-use-validation",
+    "robots": "noindex, nofollow",
+    "contentType": "text/plain"
+  }
+]

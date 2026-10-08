@@ -1,0 +1,2095 @@
+{
+  "services": [
+    {
+      "id": "HMC-02",
+      "slug": "us-sales-office",
+      "title": "US Sales Office",
+      "route": "/services/us-sales-office",
+      "html": "<p>The US sales operations refers to the unit, role, activities and processes within the current China based sales organization that support, enable, and drive front line sales teams to sell better, faster, and more efficiently in the US. Sales Ops has expanded its role to include nearly all functions that provide strategic insight needed by a sales team to achieve sustainable growth in the US.</p>",
+      "image": "/media/17362bbc-20220224113027.webp",
+      "sourceUrl": "http://www.hopkinsmedtech.com/About.aspx?ClassID=81",
+      "sourceIds": [
+        "HMC-02"
+      ],
+      "sections": [],
+      "excerpt": "Support for Chinese companies establishing and operating a US sales presence.",
+      "reviewNote": "",
+      "group": "Market Entry"
+    },
+    {
+      "id": "HMC-11",
+      "slug": "clinical-study",
+      "title": "Clinical study",
+      "route": "/services/clinical-study",
+      "html": "<p>We perform usability testing、 human factors engineering and clinical trials on medical devices and point-of-care products to ensure they go to market with complete confidence in their performance. Providing clients with a flexible approach to improve cycle times, constrain costs and reduce risks. Specializing in the planning, management, execution, and analysis of Clinical Study.</p>",
+      "image": "/media/54e10fd2-20220224112925.webp",
+      "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=56",
+      "sourceIds": [
+        "HMC-11"
+      ],
+      "sections": [],
+      "excerpt": "Study planning, execution and analysis for medical devices and point-of-care diagnostics.",
+      "reviewNote": "",
+      "group": "Clinical Trials"
+    },
+    {
+      "id": "HMC-12",
+      "slug": "otc-drug",
+      "title": "OTC Drug",
+      "route": "/services/otc-drug",
+      "html": "<p>Establishment registration, OTC drug product listing, NDC number, SPL authoring , self-identification GMP compliance, as well as other regulatory compliance related to drugs. This includes assistance for IND, NDA, ANDA, NADA, ANADA.</p>",
+      "image": "/media/82929112-20220224112941.webp",
+      "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=57",
+      "sourceIds": [
+        "HMC-12"
+      ],
+      "sections": [],
+      "excerpt": "Establishment registration, OTC drug product listing, NDC number, SPL authoring , self-identification GMP compliance, as well as other regulatory compliance related to drugs. This includes assistance for IND, N",
+      "reviewNote": "",
+      "group": "IVD & Device Compliance"
+    },
+    {
+      "id": "HMC-13",
+      "slug": "product-development",
+      "title": "Product Development",
+      "route": "/services/product-development",
+      "html": "<p>HMC will aid you throughout your product development strategy from day one. The goal is to provide data systems, advice, and solutions to accelerate the device's go-to-market process, while ensuring product quality and compliance. If you do not know how to start, HMC will be the one to help you find information and present you with answers.</p><p>Product development consulting</p><p>With decades of experience,HMC is proud to be a leader in consulting and providing solutions to accelerate product development for customers in many healthcare fields such as: medical device, pharmaceutical and pharmaceutical industries, and  Biopharmaceuticals. We have the resources and supports with R&amp;D centers and other major laboratories around the world to best serve you.</p><p>Areas where HMC can assist you:</p><p>Medicine:</p><p>Know what medications you need, what tests orders should be ordered, and other questions you may have. Our regulatory strategy service will answer questions about the applicability of the subsequent to your product:</p><p>● Submission before visiting market</p><p>● Submitted first Clinical investigation</p><p>● Types of studies on safety and effectiveness</p><p>● Global requirements to enter the market</p><p>● Other relevant questions that are not included above.</p><p>Biological</p><p>For young and start-up businesses, overcoming regulatory requirements to commercialize structured products (such as biological products) can be challenging and overwhelming. We can help get your product to the global market faster by following these appropriate guidelines below:</p><p>● IND</p><p>● IDE</p><p>● Send first</p><p>● Send BLA</p><p>● Global requirements to enter the market</p><p>● Other prerequisites for getting your product into the hands of consumers</p><p>Medical devices</p><p>Did any barriers arise when entering the specified market of your medical device?</p><p>HMC can check and provide solutions in the most professional way. We have the database and world-class expertise to back you up with confidence. In HMC's strategic service, you can get support such as:</p><p>● Required submission types like 510(k), PMA, De Novo, HDE,</p><p>● Performance test request</p><p>● International performance standards</p><p>● Global requirements to enter the market</p><p>By choosing and collaborating with HMC, your products will be brought to the desired market faster. Contact us immediately for efficient results. </p>",
+      "image": "/media/7213ee87-20220302152324.webp",
+      "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=60",
+      "sourceIds": [
+        "HMC-13",
+        "HMC-42"
+      ],
+      "sections": [],
+      "excerpt": "Connect early development decisions with clinical evidence and regulatory planning.",
+      "reviewNote": "",
+      "group": "IVD & Device Compliance"
+    },
+    {
+      "id": "HMC-14",
+      "slug": "regulatory-strategy",
+      "title": "Regulatory Strategy",
+      "route": "/services/regulatory-strategy",
+      "html": "<p>Each product has a certain regulatory strategy. With its expertise, HMC will provide you with an overview and detailed roadmap to help you visualize the path from research to commercialization. We will provide you with all the information to keep your progress on track and create your own financial plan.</p><p>Many of our team members are former FDA officials or former executives of leading pharmaceutical/medical device companies spanning the world. They all converge to help you have the most suitable regulatory strategy, making the path to commercialization of your product more simple.</p><p>For pharmaceuticals</p><p>We'll clarify what tests and standards you need to meet, meanwhile setting you up with a standard process to help bring your drugs to market. We also provide solutiosn for the following:</p><p>● Pre-IND and IND</p><p>● Submission before going to market</p><p>● Submitted first</p><p>● Clinical investigation.</p><p>● Global requirements to enter the market</p><p>For biological products</p><p>Regulations on probiotics are  getting increasingly complex overtime. The HMC team will advise you comprehensively to ensure that your product always passes the following tests, and other recent regulations:</p><p>● Pre-IND and IND</p><p>● Access is extended</p><p>● Submission to the market</p><p>● Send BLA</p><p>● Global requirements to enter the market</p><p>● Other prerequisites for getting your product to consumers</p><p>For medical equipment</p><p>Device type, availability of predicate devices, and technology all affect licensing and  liquidation of medical devices. HMC will help you understand how and what to submit to the licensing authority. We also advise on the following:</p><p>● Requester type (IDE, 510(k), PMA, De Novo, HUD &amp; HDE)</p><p>● Should you apply for the FDA's Breakthrough Device Designation?</p><p>● Performance test request</p><p>● International performance standards</p><p>● Global requirements to enter the market</p><p>Your path to commercialization of your medical product will be on the right track when contacting us.</p>",
+      "image": "/media/89138083-20220302152342.webp",
+      "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=61",
+      "sourceIds": [
+        "HMC-14",
+        "HMC-43"
+      ],
+      "sections": [],
+      "excerpt": "Each product has a certain regulatory strategy. With its expertise, HMC will provide you with an overview and detailed roadmap to help you visualize the path from research to commercialization. We will provide ",
+      "reviewNote": "",
+      "group": "FDA Regulatory Consulting"
+    },
+    {
+      "id": "HMC-15",
+      "slug": "regulatory-submission",
+      "title": "Regulatory Submission",
+      "route": "/services/regulatory-submission",
+      "html": "<p>Submission before commercialization is the last but not least step in determining your success. Your next business goals and plans will be guaranteed by the full preparation from HMC. Whether you're manufacturing medical devices, pharmaceuticals or biopharmaceuticals, we have a wide comprehension of the submission and preparation process. In addition to using stand-alone services, you can also combine them with an entire regulatory strategy. You'll be guaranteed accurate, timely submissions that streamline your path to approval and clearance.</p><p>For medical equipment/Digital Health:</p><p>1. Exemption before equipment investigation</p><p>We help you understand and tailor FDA requirements. We provide services like pre-packaging your IDE, if applicable, thus ensuring you get valuable feedback from the FDA.</p><p>2. Investigative Device Exemption (IDE)</p><p>Ensure you are ready for your clinical investigation by preparing your investigation submission package.</p><p>3. Q-Send</p><p>4. 510(k) / Pre-Market Approval (PMA) / DeNovo / Humanitarian Device Exemption (HDE)</p><p>For pharmaceuticals:</p><p>1. Pre-IND</p><p>Milestone for bringing your drug to market. HMC will work with you to understand and tailor FDA requirements and prepare a pre-IND package to ensure you get valuable FDA feedback.</p><p>2. Investigational New Drug Application (IND)</p><p>We will prepare a comprehensive IND so you can begin your clinical investigation.</p><p>3. ANDA / NDA</p><p>We will help you draft a new drug application or abbreviated prescription to ensure the commercialization of the drug.</p><p>For biopharmaceuticals</p><p>1. New drug exemption / pre-investigation equipment</p><p>We help you understand and tailor FDA requirements. Pre package your IDE, if applicable, thus enabling you to get valuable feedback from the FDA.</p><p>2. IND or IDE</p><p>We'll help you prepare the right investigative submission package, so you're ready to take on your clinical investigation</p><p>3. Biological Licensing Application (BLA)</p><p>We will compile the BLA in a neat and professional manner. In addition, we will link up with relevant parties and follow up so that your profile can be approved quickly.</p>",
+      "image": "/media/b73432fc-20220302152633.webp",
+      "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=62",
+      "sourceIds": [
+        "HMC-15",
+        "HMC-44"
+      ],
+      "sections": [],
+      "excerpt": "Submission before commercialization is the last but not least step in determining your success. Your next business goals and plans will be guaranteed by the full preparation from HMC. Whether you're manufacturi",
+      "reviewNote": "",
+      "group": "FDA Regulatory Consulting"
+    },
+    {
+      "id": "HMC-16",
+      "slug": "post-market-surveillance",
+      "title": "Post Market Surveillance",
+      "route": "/services/post-market-surveillance",
+      "html": "<p>Acceptance is not the end of your success, the next step is to maintain compliance with ISO 13485 and 21 CFR Part 820. You will need to participate in after-sales monitoring activities to further monitor the safety and effectiveness of the medical devices you sell.</p><p>HMC will help you:</p><p>● Medical device risk management</p><p>● System tuning and optimization</p><p>● Develop a PMS plan</p><p>We will rely on your market to offer the most suitable solution.</p>",
+      "image": "/media/002d20b6-20220302152656.webp",
+      "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=63",
+      "sourceIds": [
+        "HMC-16",
+        "HMC-45"
+      ],
+      "sections": [],
+      "excerpt": "Acceptance is not the end of your success, the next step is to maintain compliance with ISO 13485 and 21 CFR Part 820. You will need to participate in after-sales monitoring activities to further monitor the sa",
+      "reviewNote": "This description preserves material from the original website. Historical regulatory references and specific capability claims require confirmation for a current project.",
+      "group": "IVD & Device Compliance"
+    },
+    {
+      "id": "HMC-17",
+      "slug": "facility-registration-listing",
+      "title": "Facility Registration and Listing",
+      "route": "/services/facility-registration-listing",
+      "html": "<p>Our services include assistance with Establishment registration and device listing, Any establishment involved in the production, importation, reprocessing/relabeling, or developing specifications of a medical device or IVD for commercial sale in the United States must register annually with the US Food and Drug Administration (FDA). This is called \"Establishment Registration\" and it is a separate process from obtaining 510(k) clearance or PMA approval.</p>",
+      "image": "/media/4b44fb6d-20220224112959.webp",
+      "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=72",
+      "sourceIds": [
+        "HMC-17"
+      ],
+      "sections": [],
+      "excerpt": "Our services include assistance with Establishment registration and device listing, Any establishment involved in the production, importation, reprocessing/relabeling, or developing specifications of a medical ",
+      "reviewNote": "",
+      "group": "FDA Regulatory Consulting"
+    },
+    {
+      "id": "HMC-18",
+      "slug": "fda-us-agent",
+      "title": "FDA US Agent",
+      "route": "/services/fda-us-agent",
+      "html": "<p>The appointment of an agent is a mandatory requirement for any foreign company wishing to market their products within the United States. We can act as your FDA agent, as well as offering a suite of regulatory compliance services to help you through the FDA registration process and other FDA compliance services.</p>",
+      "image": "/media/cf7d728d-20220224104609.webp",
+      "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=73",
+      "sourceIds": [
+        "HMC-18"
+      ],
+      "sections": [],
+      "excerpt": "The appointment of an agent is a mandatory requirement for any foreign company wishing to market their products within the United States. We can act as your FDA agent, as well as offering a suite of regulatory ",
+      "reviewNote": "",
+      "group": "FDA Regulatory Consulting"
+    },
+    {
+      "id": "HMC-19",
+      "slug": "food-dietary-supplements",
+      "title": "Food and Dietary Supplements",
+      "route": "/services/food-dietary-supplements",
+      "html": "<p>Our FDA consultancy can deliver support to enable you to market your food and dietary supplements. We can provide complete assistance for understanding FDA requirements for your products, facility registration, Process Filing for Acidified and Low-Acid Canned Foods (SID), food and dietary supplement labelling review, and FSVP related services.</p>",
+      "image": "/media/7647f80f-20220224104650.webp",
+      "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=74",
+      "sourceIds": [
+        "HMC-19"
+      ],
+      "sections": [],
+      "excerpt": "Our FDA consultancy can deliver support to enable you to market your food and dietary supplements. We can provide complete assistance for understanding FDA requirements for your products, facility registration,",
+      "reviewNote": "",
+      "group": "IVD & Device Compliance"
+    },
+    {
+      "id": "HMC-20",
+      "slug": "cgmp",
+      "title": "CGMP",
+      "route": "/services/cgmp",
+      "html": "<p>cGMP refers to the Current Good Manufacturing Practice regulations enforced by the FDA. cGMPs provide for systems that assure proper design, monitoring, and control of manufacturing processes and facilities. Our cGMP audit service validates the identity, strength, quality, and traceability of your products. Our experienced auditors can identify cGMP non-compliance risks so you can correct them before regulatory inspections. Our accreditation with ANSI-ASQ and ANSI also safeguards the consistency in the implementation of UL’s cGMP audit process.</p>",
+      "image": "/media/b35b6e39-20220224104239.webp",
+      "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=75",
+      "sourceIds": [
+        "HMC-20"
+      ],
+      "sections": [],
+      "excerpt": "cGMP refers to the Current Good Manufacturing Practice regulations enforced by the FDA. cGMPs provide for systems that assure proper design, monitoring, and control of manufacturing processes and facilities. Ou",
+      "reviewNote": "This description preserves material from the original website. Historical regulatory references and specific capability claims require confirmation for a current project.",
+      "group": "IVD & Device Compliance"
+    },
+    {
+      "id": "HMC-21",
+      "slug": "medical-device-510k",
+      "title": "Medical Device 510(k)",
+      "route": "/services/medical-device-510k",
+      "html": "<p>We offer regulatory compliance services to Class I and Class II medical devices. Our services include ssistance with Establishment registration and device listing, GDUID, 510(k)(Premarket Notification), PMA(Premarket Approval), De Novo(Evaluation of Automatic Class III Designation), and HDE(Humanitarian Device Exemption).</p>",
+      "image": "/media/6bb2b09d-20220224112908.webp",
+      "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=78",
+      "sourceIds": [
+        "HMC-21"
+      ],
+      "sections": [],
+      "excerpt": "Submission support for medical devices entering the United States market.",
+      "reviewNote": "",
+      "group": "FDA Regulatory Consulting"
+    },
+    {
+      "id": "HMC-22",
+      "slug": "eua-application",
+      "title": "EUA Application",
+      "route": "/services/eua-application",
+      "html": "<p>We have a deep understanding of the urgency of developing emergency use products during pandemics and natural disasters. Our Emergency Use Authorization (EUA) consultants have extensive experience that expands beyond Emergency Use Authorization of Medical Products and Related Authorities, product development, and quality compliance.</p>",
+      "image": "/media/ba95a04a-20220224104539.webp",
+      "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=79",
+      "sourceIds": [
+        "HMC-22"
+      ],
+      "sections": [],
+      "excerpt": "Regulatory consulting for emergency use authorization pathways.",
+      "reviewNote": "",
+      "group": "FDA Regulatory Consulting"
+    },
+    {
+      "id": "HMC-23",
+      "slug": "marketing",
+      "title": "Marketing",
+      "route": "/services/marketing",
+      "html": "<p>Our marketing services for medical devices are focused on branding, promoting, and generating awareness and leads for medical device distributors and healthcare institutions. We ensure timely, relevant, and actionable insights that you can leverage to move your business to the US market. Furthermore, our expert analysts work directly with you to provide the meaning behind the data, allowing you to build your strategic plans with confidence.</p>",
+      "image": "/media/42ce03f4-20220224113014.webp",
+      "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=80",
+      "sourceIds": [
+        "HMC-23"
+      ],
+      "sections": [],
+      "excerpt": "Our marketing services for medical devices are focused on branding, promoting, and generating awareness and leads for medical device distributors and healthcare institutions. We ensure timely, relevant, and act",
+      "reviewNote": "",
+      "group": "Market Entry"
+    },
+    {
+      "id": "HMC-24",
+      "slug": "project-management",
+      "title": "Project Management",
+      "route": "/services/project-management",
+      "html": "<p>For your clinical trial to be successfulIn order for your clinical trial to be successful, it’s necessaryyou will need a professional project administrator. We have the best project managers in the field, with periodifrequent up to datec upgradetraining to ensure your testingtrials areis fast and efficient. When working with HMC, you can rest assured that there are experts on hand to answer your questions and provide meticulous and dedicated support at all times. The jobs of a senior project manager that we have includeare:</p><p>● Develop a specific research plan to thoroughly manage and monitor each project, as well as monitor risk management</p><p>● Narrow down all research needs at the local level - including central labs, warehouses and other third parties (on request)</p><p>● Organize, plan and hold investigator meetings</p><p>● Continuous project status tracking, with comprehensive and transparent client reporting</p><p>● Negotiate budgets and execute contracts with research sites to provide the most cost-effective option.</p><p>● conduct initial and regular research group meetings, to ensure effective planning, organization, and conduct of research</p><p>● Manage all research related issues in all phases of the trial</p>",
+      "image": "/media/b82a431f-20220224112638.webp",
+      "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=85",
+      "sourceIds": [
+        "HMC-24"
+      ],
+      "sections": [],
+      "excerpt": "For your clinical trial to be successfulIn order for your clinical trial to be successful, it’s necessaryyou will need a professional project administrator. We have the best project managers in the field, with ",
+      "reviewNote": "",
+      "group": "Clinical Trials"
+    },
+    {
+      "id": "HMC-25",
+      "slug": "clinical-operations",
+      "title": "Clinical Operations",
+      "route": "/services/clinical-operations",
+      "html": "<p>1. STUDY START-UP</p><p>With its expertise, HMC will help make your tests a success. We'll work out effective participantsign-up strategies, quick processes, and efficient venue selection to make your trial go as fast as possible with minimal to no complications.</p><p>Our top criteria is to: sSaveing time and costs but still ensureing efficiency in the workflow is our top criterion in the process of building workflow. With decades of working experience, HMC ensures the testing process alwaysgoesruns on andahead ofschedule, whileminimizinging any potential risks. Hereis oOur system of focus points to-gives you an overview of your startup:</p><p>● Evidence-based feasibility</p><p>● Carefully evaluated and sSelected position</p><p>● Identify and evaluate potential bottlenecks to create effective risk reduction strategies</p><p>● Clinical trial validation and legal documentation</p><p>● Collect and review site management documents</p><p>● Procurement of regulatory and/or ethics committee approvals</p><p>● Organize and hold investigator meetings</p><p>● Website initialization and rapid audience recruitment</p><p>2. CLINICAL MONITORING</p><p>Your test will be a great success under our CRA monitoring team. HMC's CRA experts are always ready to go toavailable at the test site for monitoring, wherever it takes place. All activities follow ICH GCP process, research protocol, monitoring plan and client's expectations. We will continuously update information, reviews and support 24/7.</p><p>What we offer our partners:</p><p>● Visits start the site</p><p>● PeriodicFrequent site monitoring visits</p><p>● Site management and easy access- including regular site contact via phone, email, etc.</p><p>● Monitor the query resolution process</p><p>● Website support during database locking</p><p>● Research observational visits</p><p>If you need more than that pointthe points listed above, that's okay,HMC has a custom service that ensures a good fit. Contact us now..</p><p>3. SITE MANAGEMENT</p><p>You need professional site management to make the trial process efficient and get results quickly.</p><p>HMC's CRA is highly trained and available 24/7. We are adept at building long-term partnerships with investigators and supporting effective trial recruitment, as well as ensuring consistent data quality and consistency.</p><p>The thingsResources and tools that HMC offers you during your studies are:</p><p>● Training and educating site staff</p><p>● Research intoofdrug and non-drug supply logistics</p><p>● Keeping track of regulatory document revisions</p><p>● Monitoring protocol deviations</p><p>● Subject state tracking in trials</p><p>4. SAFETY MONITORING</p><p>Keeping patient safety and reducing risk should always be the firsta priority.</p><p>In our staff development strategy, there are always safety and therapy areas and pieces of training. HMC medical monitors are available 24/7.</p><p>In our staff development strategy,we provide safety areas as well as therapy options for our training.HMC medical monitors are available 24/7.</p><p>Strategic services that HMC provides:</p><p>● PlanMmedical supervision planning</p><p>● Performance of medical surveillance  ofinclusion/exclusion criteria</p><p>● Therapy area training for CRA and PM</p><p>● Assistance in SAE (Serious Adverse Event) reportsing to investigators</p><p>● Interactioning with the Data Safety Monitoring Board (DSMB)</p><p>● Distribution ofing secure information reasonably among investigators</p><p>● Announce sSafety notice to toregulatory authorities and/or ethics committee</p><p>5. CLINICAL TRIAL LOGISTICS</p><p>To make your trial go smoothly, our clinical trial logistics will:</p><p>● Apply for import and export permits from regulatory agencies</p><p>● Prepare customs documents</p><p>● Import of research products, comparators, and research materials, including laboratory kits and any specific equipment</p><p>● Store, distribute, relabel, return, and destroy investigative materials/equipment.</p><p>● Export biological samples from clinical sites to the central laboratory</p><p>● Management of courier services</p><p>With industry-leading experts and extensive relationships, we always support you wholeheartedly.</p><p>6. VENDORS' MANAGEMENT</p><p>YouIf youfind it too complicateddifficultto understand the risks, relationships, or other policies in connection with laboratories and warehouses,. tThen simplify things by working with HMC. We have strong relationships with all parties: quality assurance, advanced technology, and full certifications. The associates of HMC have always been reputable in clinical trials and enthusiastic support at all times.</p>",
+      "image": "/media/667f614a-20220224104220.webp",
+      "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=86",
+      "sourceIds": [
+        "HMC-25"
+      ],
+      "sections": [],
+      "excerpt": "1. STUDY START-UP With its expertise, HMC will help make your tests a success. We'll work out effective participantsign-up strategies, quick processes, and efficient venue selection to make your trial go as fas",
+      "reviewNote": "",
+      "group": "Clinical Trials"
+    },
+    {
+      "id": "HMC-26",
+      "slug": "data-management",
+      "title": "Data Management",
+      "route": "/services/data-management",
+      "html": "<p>Data management in clinical trials is a necessary step to ensure accurate and reliable data are obtained.</p><p>HMC's team of experts areis always qualified to provide the following services:</p><p>● Participate in the design ofdesigns of Research Protocols, to ensure that data is appropriately Collected and managed</p><p>● Develop a Data Management Plans</p><p>● Develop CFR and EDC according to CDISC, SDTM, CDASH standards</p><p>● Performance of data validation activities, including: Project-specific Editing, Test Specifications, Data Validation Plan, automated test programming, input masking, and data review handmade.</p><p>● Developing a Data Transfer Plan</p><p>● Data entry and CRF tracking for paper CRF</p><p>● User training for EDC system and CRF completion rules</p><p>● Load data from external sources (central lab, ECG, etc.)</p><p>● Integrate the drug delivery and randomization (IWRS) module directly into the EDC . system</p><p>● Quality control of imported data</p><p>● Data cleaning operations for temporary and final database locking</p><p>● Prepare data management reports for quality control and metrics measurement</p><p>● Medical coding using MeDRA, WHODD and SAE collation</p>",
+      "image": "/media/19b64de0-20220224113106.webp",
+      "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=87",
+      "sourceIds": [
+        "HMC-26"
+      ],
+      "sections": [],
+      "excerpt": "Data management in clinical trials is a necessary step to ensure accurate and reliable data are obtained.HMC's team of experts areis always qualified to provide the following services:● Participate in the desig",
+      "reviewNote": "",
+      "group": "Clinical Trials"
+    },
+    {
+      "id": "HMC-27",
+      "slug": "biostatistics",
+      "title": "Biostatistics",
+      "route": "/services/biostatistics",
+      "html": "<p>Biostatistics in clinical research</p><p>You will always receive real and timely data. Using advanced tools and techniques, HMC provides strategic services:</p><p>● Design a clinical study protocols, including statistical input</p><p>● Sample size calculation</p><p>● Createte a Statistical Analysis Plan (SAP)</p><p>● Develop analytical datasets, as well as tables, figures, and list templates (TFLs)</p><p>● Generate random diagrams</p><p>● Create adrug labeling lists</p><p>● Statistical SAS programming</p><p>● Central data monitoring throughout the study</p><p>● Statistical data analysis</p><p>● Prepare mid-year and end-of-year statistical reports</p><p>● Analysis after the lesson</p><p>● CDISC mapping and transformation</p>",
+      "image": "/media/8642e28f-20220224103918.webp",
+      "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=88",
+      "sourceIds": [
+        "HMC-27"
+      ],
+      "sections": [],
+      "excerpt": "Biostatistics in clinical researchYou will always receive real and timely data. Using advanced tools and techniques, HMC provides strategic services:● Design a clinical study protocols, including statistical in",
+      "reviewNote": "",
+      "group": "Clinical Trials"
+    },
+    {
+      "id": "HMC-28",
+      "slug": "quality-assurance",
+      "title": "Quality Assurance",
+      "route": "/services/quality-assurance",
+      "html": "<p>With this service package, you can rest assured that your implementation and monitoring processes are always up to the highest international standards.</p><p>The HMC team will show you the most comprehensive and unbiased assessment of your ongoing processes, and offer valuable advice on how to maximize your potential, doubling your surplus and value test treatment.</p><p>Our managers can establish a plan to organize contract audits and provide a range of clinical trial consulting services.</p>",
+      "image": "/media/b758202e-20220224112655.webp",
+      "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=89",
+      "sourceIds": [
+        "HMC-28"
+      ],
+      "sections": [],
+      "excerpt": "With this service package, you can rest assured that your implementation and monitoring processes are always up to the highest international standards. The HMC team will show you the most comprehensive and unbi",
+      "reviewNote": "",
+      "group": "Clinical Trials"
+    },
+    {
+      "id": "HMC-29",
+      "slug": "fda-regulatory-consulting",
+      "title": "FDA Regulatory Consulting",
+      "route": "/services/fda-regulatory-consulting",
+      "html": "<p>As an industry leader, HMC will help you navigate FDA regulations and achieve compliance. We offer a wide range of capabilities such as product submission, GXP training, clinical and non-technical development, program design, product evaluation, and system monitoring. With ourits extensive expertise, HMC will help your product get to market quickly.</p>",
+      "image": "/media/ce3dea35-20220224104625.webp",
+      "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=92",
+      "sourceIds": [
+        "HMC-29"
+      ],
+      "sections": [],
+      "excerpt": "A clear regulatory strategy for the next stage of your medical product.",
+      "reviewNote": "",
+      "group": "FDA Regulatory Consulting"
+    },
+    {
+      "id": "HMC-30",
+      "slug": "ivdr",
+      "title": "European IVDR",
+      "route": "/services/ivdr",
+      "html": "<p>Compared to IVD, IVDR - (In vitro diagnostic regulation) is gaining more favor due to its transparent calculations and ability to maintain sustainability. With its team of scientists, HMC can advise you:</p><p>● Strategicallyegy to convert from IVDD to IVDR</p><p>● Identify the list that needs to be prioritized for consideration</p><p>● Update technical documents in accordance with regulations</p><p>● Setting up a quality management system and navigation</p>",
+      "image": "/media/f6fadab7-20220224112734.webp",
+      "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=93",
+      "sourceIds": [
+        "HMC-30"
+      ],
+      "sections": [],
+      "excerpt": "Technical documentation, quality systems and a considered path to the European market.",
+      "reviewNote": "",
+      "group": "IVD & Device Compliance"
+    },
+    {
+      "id": "HMC-31",
+      "slug": "market-research",
+      "title": "Market Research",
+      "route": "/services/market-research",
+      "html": "<p>A worldwide network of partners and decades of data are the keys to HMC helping you explore your market.</p><p>HMC has decades of data experience and a worldwide network of partners. These connections and knowledge are the keys in helping you explore your market.</p><p>HMC has vast resources to help you access regulatory, quality, and compliance expertise of the pharmaceutical, biological, and medical device industries, wherever you are. Leave a question or speak to our experts right away to find out what you need in product development and commercialization. HMC listens and offers the most appropriate, exclusive solution.</p><p>We always strive to create the ideal conditions for startups to reach out to the world. Let's join the network of HMC.</p>",
+      "image": "/media/6390b9f6-20220224112816.webp",
+      "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=94",
+      "sourceIds": [
+        "HMC-31"
+      ],
+      "sections": [],
+      "excerpt": "Research and practical market insight to support your next commercial decision.",
+      "reviewNote": "",
+      "group": "Market Entry"
+    },
+    {
+      "id": "HMC-32",
+      "slug": "post-market-compliance",
+      "title": "Post Market Compliance",
+      "route": "/services/post-market-compliance",
+      "html": "<p>From assisting with product development and initial submission preparation, HMC creates a corresponding support program to help you bypass warning letters andor take corrective actions. You can use the service alone, orwith our extensive experience, we always excellentlyhandle every case. Timely, sustainable and economical are our operating principles.</p><p>We support projects of all sizes in the life sciences. Our compliance consulting services include:</p><p>● 483 comments</p><p>● Feedback warning letter</p><p>● Remedial strategy</p><p>● Labeling and rating the site</p><p>● Test analysis and distance</p><p>● Fake FDA inspection</p><p>● Remedial measures</p><p>If you need to support proactive after-market activities, HMC also has a support team available. ActivitiesServicesinclude:</p><p>● Pharmacovigilance</p><p>● Test Ready Training</p><p>● Expert theme support</p><p>● Post-market clinical follow-up (PMCF)</p><p>● Global vigilance support</p>",
+      "image": "/media/df24506e-20220224112832.webp",
+      "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=95",
+      "sourceIds": [
+        "HMC-32"
+      ],
+      "sections": [],
+      "excerpt": "From assisting with product development and initial submission preparation, HMC creates a corresponding support program to help you bypass warning letters andor take corrective actions. You can use the service ",
+      "reviewNote": "",
+      "group": "IVD & Device Compliance"
+    },
+    {
+      "id": "HMC-41",
+      "slug": "preclinical-research",
+      "title": "Preclinical Research",
+      "route": "/services/preclinical-research",
+      "html": "<p>Did you know: All medical products need preclinical studies before testing on humans. As a leading consulting company in the medical and health field, we have fully prepared your preclinical studies, guaranteed to save you money and time.</p><p>We have extensive relationships with more than 120 laboratories and centers. Fully meet all functions, ingredients, and uses of the product. In addition, we always update the latest information from FDA to help our customers shorten the path to product evaluation.</p><h2>Medicine</h2><p>To obtain your sample drug, depending on the drug type and eligibility criteria, our researchers will conduct two types of studies:</p><p>● In vitro</p><p>● In Vivo</p><p>In addition to providing authentic reports and assessing potential needs to be addressed, Our team of experts also provides solutions and facilities to redesign your products, making your pharmaceuticals more in line with market standards.</p><h2>Biological</h2><p>Preclinical research for Biological products requires more stringent standards in the current context. Our company will advise and deploy the most professional research process to cooperate with units in the industry to produce authentic and qualified reports. Don't stop there. We will continue to support you in the next steps. The path to commercialization of your biological products will become simpler when working with us.</p><h2>Medical devices</h2><p>We've got a team of experts, facilities, and a preclinical test cycle ready for your device. Research Element:</p><p>● Efficiency and performance</p><p>● Test on animals</p><p>Our network of laboratories is available for every type of device and every standard in the medical framework.</p><p>To get your product on the road to commercialization more quickly, contact our team of experts right away.</p>",
+      "image": "/media/cc0d3cbb-20220302152756.webp",
+      "sourceUrl": "http://www.hopkinsmedtech.com/development.aspx?ClassID=100",
+      "sourceIds": [
+        "HMC-41"
+      ],
+      "sections": [],
+      "excerpt": "Did you know: All medical products need preclinical studies before testing on humans. As a leading consulting company in the medical and health field, we have fully prepared your preclinical studies, guaranteed",
+      "reviewNote": "This description preserves material from the original website. Historical regulatory references and specific capability claims require confirmation for a current project.",
+      "group": "Clinical Trials"
+    },
+    {
+      "id": "HMC-46",
+      "slug": "clinical-investigation",
+      "title": "Clinical investigation.",
+      "route": "/services/clinical-investigation",
+      "html": "<p>Provide customers with a flexible approach to improve cycle times, limit costs, and reduce risk. We Specialize in the planning, management, execution, and analysis of Phase 2-3 clinical trials.</p><p>We help you leverage preclinical data in designing programs that bring your drug candidates to proof of concept. We have expertise in all clinical pharmacology studies for regulatory submissions, in a wide range of therapeutic areas, for small molecule, biological, and 505(b) applications ( 2) or Hybrid, on behalf of pharmaceutical companies of all sizes.</p>",
+      "image": "/media/a9ec1879-20220302152717.webp",
+      "sourceUrl": "http://www.hopkinsmedtech.com/development.aspx?ClassID=98",
+      "sourceIds": [
+        "HMC-46"
+      ],
+      "sections": [],
+      "excerpt": "Provide customers with a flexible approach to improve cycle times, limit costs, and reduce risk. We Specialize in the planning, management, execution, and analysis of Phase 2-3 clinical trials. We help you leve",
+      "reviewNote": "",
+      "group": "Clinical Trials"
+    },
+    {
+      "id": "HMC-47",
+      "slug": "quality-system",
+      "title": "Quality Systems",
+      "route": "/services/quality-system",
+      "html": "<p>Not only newly established companies but also large companies with many years of experience in the industry also face many difficulties to overcome the Quality Management System (QMS). Our company owns a proprietary method created by a team of experienced professionals that can help you easily implement the most efficient and appropriate QMS.</p><p>This is a sustainable implementation method and can always be customized to each company's size, structure, and operation. This method helps you optimize human resources and costs. From there, your business efficiency will be multiplied many times.</p><h2>Medical equipment</h2><p>Compliance Options:</p><p>● 21 CFR 820</p><p>● 21 CFR 801</p><p>● 21 CFR 803</p><p>● 21 CFR Part 11</p><p>● ISO 13485</p><p>● ISO 14971</p><p>● IEC 62304</p><p>● EU MDR / IVDR</p><h2>Medicine</h2><p>Compliance Options:</p><p>● 21 CFR 210</p><p>● 21 CFR 211</p><p>● ISO 9001</p><h2>Biological</h2><p>Compliance Options:</p><p>● 21 CFR 600</p><p>● ISO 9001</p><h2>Combination products</h2><p>Compliance Options:</p><p>● 21 CFR 210</p><p>● 21 CFR 211</p><p>● 21 CFR 820</p><p>● 21 CFR 803</p><p>● 21 CFR Part 11</p><p>● ISO 13485</p><p>● ISO 14971</p><p>● IEC 62304</p><p>● EU MDR / IVDR</p><p>Did you not find your desired content? Please contact our team immediately for advice.</p>Our Optimized Workflow<p>Expertise</p><p>Our experts are always guaranteed expertise for designing and validating an effective quality control process. All solutions are given realistically with the situation of your business. Our common implementation framework for complete validation will include a unique business and product-based master plan, assessment plan, action plan, final validation report, and related supporting documents.</p><p>Check quality</p><p>Before entering the test, we will always introduce you to our optimal testing process first. In addition, we provide professional auditors and experts so that your inspection schedule is not disrupted. In addition, we also provide complete independent audits if required. Based on ISO, EU, CMDR, QRS, GLP, GMP/ GCP standards. Every quality inspection always ends with a qualified and professional report for you to identify your quality system.</p><p>Design control</p><p>Our experts will work with your R&amp;D department to develop realistic and effective design requirements, validation, and FDA-approved Master Device Profile (DMR). We will help you ensure the safety and effectiveness of the product in the process.</p><p>Supplier quality</p><p> Our experts perform supplier due diligence and issue approval or disapproval reports. The implementation process always ensures the protection of customers and stakeholders. We follow the most optimized and cost-effective process possible.</p><p>Digital Health</p><p>EMMA International will accompany customers to the end of the digital health software development lifecycle. In addition to providing quality reviews, our team of experts will be available to assist you with reverse engineering your software to help you exceed the most stringent quality standards. The result is your digital health software released and internationally recognized, in compliance with IEC 62304. Not only that, but we also advise solutions for you and your products. You have a highly competitive edge in the market.</p><p>Contact our experts now to start a QMS CLIC.</p>",
+      "image": "/media/9e03c40d-20220302152734.webp",
+      "sourceUrl": "http://www.hopkinsmedtech.com/development.aspx?ClassID=99",
+      "sourceIds": [
+        "HMC-47"
+      ],
+      "sections": [],
+      "excerpt": "Not only newly established companies but also large companies with many years of experience in the industry also face many difficulties to overcome the Quality Management System (QMS). Our company owns a propri",
+      "reviewNote": "The original website includes material referring to EMMA International. Those statements are preserved with their attribution and do not establish HMC ownership of the capabilities described. Please contact us to confirm the scope of your project.",
+      "group": "IVD & Device Compliance"
+    },
+    {
+      "id": "S-LAB",
+      "slug": "laboratory-services",
+      "title": "Laboratory Services",
+      "route": "/services/laboratory-services",
+      "group": "Laboratory Services",
+      "excerpt": "Discuss diagnostic assay validation and laboratory support through associated businesses and partners.",
+      "html": "<p>Laboratory support is coordinated through associated businesses and partners. Hopkins MedTech Compliance (HMC) and Hopkins MedTech Lab (HML) are distinct entities; partner capabilities and accreditations should not be interpreted as HMC-owned facilities or certifications.</p><p>Contact us to confirm the provider, validation scope and quality requirements for your diagnostic project.</p>",
+      "image": "/media/0d78598a-20220224105150.webp",
+      "sections": [],
+      "reviewNote": "The specific laboratory provider and service scope are confirmed for each engagement.",
+      "sourceUrl": "https://www.diacarta.com/hmc-hml-partnership",
+      "sourceIds": []
+    }
+  ],
+  "industries": [
+    {
+      "id": "HMC-33",
+      "slug": "ivd",
+      "title": "In Vitro Diagnostics",
+      "route": "/industries/ivd",
+      "html": "<p>HMC experts will work with your team on a global scale to fast-track the commercialization of IVDs products. With our in-depth knowledge of current requirements, you will understand precisely the complex legal challenges that IVDs manufacturers sometimes face. However, our goal is not for you to purely understand the IVDs, but to make your growth strategy easier and more efficient .</p><p>Whether you're supporting IVDs regulatory reviews and submissions, developing IVDR-compliant technical files, designing and managing clinical trials, or building an ISO 13485-compliant quality system: 2016 and 21 CFR part 820… we both help you.</p><p>We need whatever needs you may require, and we guarantee high quality and cost-effective results for you.</p>",
+      "image": "/media/0d78598a-20220224105150.webp",
+      "sourceUrl": "http://www.hopkinsmedtech.com/submissions.aspx?ClassID=3",
+      "sourceIds": [
+        "HMC-33"
+      ],
+      "sections": [
+        {
+          "title": "Product development",
+          "html": "\n<p>Corate with HMC for valuable advice and input. Let us accompany and assist you from the very beginning of your product development. Your steps will be solid and cost-effective when the project is followed with us from the top. We help you synchronize workflow, regulation and quality by making sure your products are always comply with the required regulations.</p><p><a href=\"/services/product-development\"><strong>Learn more about product development.</strong></a></p>\n"
+        },
+        {
+          "title": "Regulatory strategy",
+          "html": "\n<p>By having a well-thought out strategy, you will minimize risks and quickly pass important milestones</p><p><a href=\"/services/regulatory-strategy\"><strong>Learn more about Regulatory strategy.</strong></a></p>\n"
+        },
+        {
+          "title": "Clinical investigation",
+          "html": "\n<p>Help your clinical trials quickly succeed, and eliminate unnecessary errors. We help you develop studies in a timely and effective manner. We also create medical examination, survey sites, and produce records with accurate and transparent data</p><p><a href=\"/services/clinical-investigation\"><strong>Learn more about Clinical investigation.</strong></a></p>\n"
+        },
+        {
+          "title": "Submit",
+          "html": "\n<p>We stay up-to-date with the latest regulations to help get your product submitted in a correct, timely manner with minimal returns and loss of time.</p><p><a href=\"/services/regulatory-submission\"><strong>Learn more about regulatory submissions.</strong></a></p>\n"
+        },
+        {
+          "title": "Developing and ensuring the quality system",
+          "html": "\n<p>We rely on your system to create the most suitable management mechanism. Based on our proprietary approach, we implement the following: Compliant, Lean, Integrated, and Custom QMSs. We will maintain all elements to ensure this quality system.</p><p><a href=\"/services/quality-system\"><strong>Learn more about Developing and ensuring the quality system.</strong></a></p>\n"
+        },
+        {
+          "title": "Post-market surveillance",
+          "html": "\n<p>We will carry out after-market monitoring activities and issue the necessary warnings. Making sure your business is sustainable.</p><p><a href=\"/services/post-market-surveillance\"><strong>Learn more about Post-market surveillance.</strong></a></p>\n"
+        }
+      ],
+      "excerpt": "HMC experts will work with your team on a global scale to fast-track the commercialization of IVDs products. With our in-depth knowledge of current requirements, you will understand precisely the complex legal ",
+      "reviewNote": "This description preserves material from the original website. Historical regulatory references and specific capability claims require confirmation for a current project."
+    },
+    {
+      "id": "HMC-34",
+      "slug": "medical-devices",
+      "title": "Medical Devices",
+      "route": "/industries/medical-devices",
+      "html": "<p>With our high-quality experts, HMC has helped many partners in the medical device industry develop products, helping them to meet international standards and advance in the global market over decades.</p><p>Whether you are a small startup with limited resources or a seasoned company in need of innovation, HMC offers a customized solution. Helping you achieve your business goals.</p>",
+      "image": "/media/a8787ccc-20220224105424.webp",
+      "sourceUrl": "http://www.hopkinsmedtech.com/submissions.aspx?ClassID=64",
+      "sourceIds": [
+        "HMC-34"
+      ],
+      "sections": [
+        {
+          "title": "Product Development",
+          "html": "\n<p>Collaborate with HMC for valuable advice and input. By letting us accompany you from the very beginning of product development, your steps will be solid and cost-effective. We help you synchronize workflow, regulation and quality. By making sure your products always comply with the required regulations.</p><p><a href=\"/services/product-development\"><strong>Learn more about product development.</strong></a></p>\n"
+        },
+        {
+          "title": "Regulatory strategy",
+          "html": "\n<p>By having a well-thought out strategy, you will minimize risks and quickly pass important milestones</p><p><a href=\"/services/regulatory-strategy\"><strong>Learn more about Regulatory strategy.</strong></a></p>\n"
+        },
+        {
+          "title": "Clinical investigation",
+          "html": "\n<p>Help your clinical trials quickly succeed, eliminating unnecessary errors. Helps you develop studies in a timely and effective manner. We also create medical examination and survey sites and produce records with accurate and transparent data</p><p><a href=\"/services/clinical-investigation\"><strong>Learn more about Clinical investigation.</strong></a></p>\n"
+        },
+        {
+          "title": "Submit",
+          "html": "\n<p>We stay up-to-date with the latest regulations to help get your product submitted in a timely, correct manner. Limited returns and loss of time.</p><p><a href=\"/services/regulatory-submission\"><strong>Learn more about regulatory submissions.</strong></a></p>\n"
+        },
+        {
+          "title": "Developing and ensuring the quality system",
+          "html": "\n<p>We rely on your system to create the most suitable management mechanism. Based on our proprietary approach, we implement Compliant, Lean, Integrated, and Custom QMSs. We will maintain all elements to ensure this quality system.</p><p><a href=\"/services/quality-system\"><strong>Learn more about Developing and ensuring the quality system.</strong></a></p>\n"
+        },
+        {
+          "title": "Post-market surveillance",
+          "html": "\n<p>We will carry out after-market monitoring activities and issue the necessary warnings. Make sure your business is sustainable.</p><p>Bring your medical equipment closer to your customers by talking to an HMC expert. HMC always has a team of experts available 24/7 to listen to its partners.</p><p><a href=\"/services/post-market-surveillance\"><strong>Learn more about Post-market surveillance.</strong></a></p>\n"
+        }
+      ],
+      "excerpt": "With our high-quality experts, HMC has helped many partners in the medical device industry develop products, helping them to meet international standards and advance in the global market over decades.Whether yo",
+      "reviewNote": ""
+    },
+    {
+      "id": "HMC-35",
+      "slug": "gene-cell-therapies",
+      "title": "Gene & Cell Therapies",
+      "route": "/industries/gene-cell-therapies",
+      "html": "<p>Your research will always be confidential and secure. Your biological therapy results will get to market faster. Our team of scientists have the latest industry knowledge and decades of data to help you in every way. Whether you are developing the most advanced vaccine or cell therapy, EMMA International can help you establish a successful regimen for it.</p>",
+      "image": "/media/3be3089c-20220224105550.webp",
+      "sourceUrl": "http://www.hopkinsmedtech.com/submissions.aspx?ClassID=65",
+      "sourceIds": [
+        "HMC-35"
+      ],
+      "sections": [
+        {
+          "title": "Product development",
+          "html": "\n<p>Corate with HMC for valuable advice and input. By letting us accompany you from the very beginning of product development, your steps will be solid and cost-effective. We help you synchronize workflow, regulation and quality. Make sure your products always comply with the required regulations.</p><p><a href=\"/services/product-development\"><strong>Learn more about product development.</strong></a></p>\n"
+        },
+        {
+          "title": "Preclinical Research",
+          "html": "\n<p>We can support you through the entire preclinical research process. Compliance is guaranteed from initial animal model identification to final clinical report generation.</p><p><a href=\"/services/preclinical-research\"><strong>Learn more about Preclinical Research.</strong></a></p>\n"
+        },
+        {
+          "title": "Regulatory strategy",
+          "html": "\n<p>By having a well-thought out strategy, you will minimize risks and quickly pass important milestones</p><p><a href=\"/services/regulatory-strategy\"><strong>Learn more about Regulatory strategy.</strong></a></p>\n"
+        },
+        {
+          "title": "Pre-IND",
+          "html": "\n<p>This is an important step for you to shape your path to market. We'll help you prepare this entire important step, including formulating FDA questions, documentation, and insights.</p><p><a href=\"/services/regulatory-submission\"><strong>Learn more about Pre-IND.</strong></a></p>\n"
+        },
+        {
+          "title": "Clinical investigation",
+          "html": "\n<p>HMC is your key partner in obtaining regulatory approval. We prepare a complete package of documents, shaping clinical trials to ensure success. In addition, we use our relationship to help you monitor your site, check for GCP, and other critical components.</p><p><a href=\"/services/clinical-investigation\"><strong>Learn more about Clinical investigation.</strong></a></p>\n"
+        },
+        {
+          "title": "Submit",
+          "html": "\n<p>We stay up-to-date with the latest regulations to help get your product submitted in a timely, correct manner. Limiting returns and loss of time.</p><p><a href=\"/services/regulatory-submission\"><strong>Learn more about regulatory submissions.</strong></a></p>\n"
+        },
+        {
+          "title": "Developing and ensuring the quality system",
+          "html": "\n<p>We rely on your system to create the most suitable management mechanism. Based on our proprietary approach, we implement Compliant, Lean, Integrated, and Custom QMSs. We will maintain all elements to ensure this quality system.</p><p><a href=\"/services/quality-system\"><strong>Learn more about Developing and ensuring the quality system.</strong></a></p>\n"
+        },
+        {
+          "title": "Post-market surveillance",
+          "html": "\n<p>We will take steps to monitor after the market and report vigilance. Make it easier for you to commercialize your product.</p><p>Kickstart your success by talking to HMC. We always have a team of experts available 24/7 to listen to its partners.</p><p><a href=\"/services/post-market-surveillance\"><strong>Learn more about Post-market surveillance.</strong></a></p>\n"
+        }
+      ],
+      "excerpt": "Your research will always be confidential and secure. Your biological therapy results will get to market faster. Our team of scientists have the latest industry knowledge and decades of data to help you in ever",
+      "reviewNote": "The original website includes material referring to EMMA International. Those statements are preserved with their attribution and do not establish HMC ownership of the capabilities described. Please contact us to confirm the scope of your project."
+    },
+    {
+      "id": "HMC-36",
+      "slug": "biopharma",
+      "title": "Biopharma",
+      "route": "/industries/biopharma",
+      "html": "<p>Biotechnology is developing at a rapid pace, FDA standards are becoming more strictly complex. Simplify your company's biotech development by working with us. Whether you are working on a single item or developing the most complex therapy, EMMA International can provide comprehensive support. We'll be there from the R&amp;D stage to the rest of the R&amp;D lifecycle to bring your Bio products to market. EMMA International  has the expertise and resources to ensure your project is a complete success.</p>",
+      "image": "/media/7acad3f5-20220224103944.webp",
+      "sourceUrl": "http://www.hopkinsmedtech.com/submissions.aspx?ClassID=66",
+      "sourceIds": [
+        "HMC-36"
+      ],
+      "sections": [
+        {
+          "title": "Product development",
+          "html": "\n<p>Corate with HMC for valuable advice and input. By letting us accompany you from the very beginning of product development, your steps will be solid and cost-effective. We help you synchronize workflow, regulation and quality. Make sure your products always comply with the required regulations.</p><p><a href=\"/services/product-development\"><strong>Learn more about product development.</strong></a></p>\n"
+        },
+        {
+          "title": "Preclinical Research",
+          "html": "\n<p>We can support you through the entire preclinical research process. Compliance is guaranteed from initial animal model identification to final clinical report generation.</p><p><a href=\"http://www.hopkinsmedtech.com/submissions.aspx?ClassID=66#\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Learn more about Preclinical Research.</strong></a></p>\n"
+        },
+        {
+          "title": "Regulatory strategy",
+          "html": "\n<p>By having a well-thought out strategy, you will minimize risks and quickly pass important milestones</p><p><a href=\"/services/regulatory-strategy\"><strong>Learn more about Regulatory strategy.</strong></a></p>\n"
+        },
+        {
+          "title": "Pre-IND",
+          "html": "\n<p>This is an important step for you to shape your path to market. We'll help you prepare this entire important step, including formulating FDA questions, documentation, and insights.</p><p><a href=\"/services/regulatory-submission\"><strong>Learn more about Pre-IND.</strong></a></p>\n"
+        },
+        {
+          "title": "Clinical investigation",
+          "html": "\n<p>HMC is your key partner in obtaining regulatory approval. We prepare a complete package of documents, shaping clinical trials to ensure success. In addition, we use our relationship to help you monitor your site, check for GCP, and other critical components.</p><p><a href=\"/services/clinical-investigation\"><strong>Learn more about Clinical investigation.</strong></a></p>\n"
+        },
+        {
+          "title": "Submit",
+          "html": "\n<p>We stay up-to-date with the latest regulations to help get your product submitted in a timely, correct manner. Limited returns and loss of time.</p><p><a href=\"/services/regulatory-submission\"><strong>Learn more about regulatory submissions.</strong></a></p>\n"
+        },
+        {
+          "title": "Developing and ensuring the quality system",
+          "html": "\n<p>We rely on your system to create the most suitable management mechanism. Based on our proprietary approach, we implement Compliant, Lean, Integrated, and Custom QMSs. We will maintain all elements to ensure this quality system.</p><p><a href=\"/services/quality-system\"><strong>Learn more about Developing and ensuring the quality system.</strong></a></p>\n"
+        },
+        {
+          "title": "Post-market surveillance",
+          "html": "\n<p>We will take steps to monitor after the market and report vigilance. Make it easier for you to commercialize your product.</p><p>Save your cost and time by contacting us.</p><p><a href=\"/services/post-market-surveillance\"><strong>Learn more about Post-market surveillance.</strong></a></p>\n"
+        }
+      ],
+      "excerpt": "Biotechnology is developing at a rapid pace, FDA standards are becoming more strictly complex. Simplify your company's biotech development by working with us. Whether you are working on a single item or develop",
+      "reviewNote": "The original website includes material referring to EMMA International. Those statements are preserved with their attribution and do not establish HMC ownership of the capabilities described. Please contact us to confirm the scope of your project."
+    },
+    {
+      "id": "HMC-37",
+      "slug": "pharmaceuticals",
+      "title": "Pharmaceuticals",
+      "route": "/industries/pharmaceuticals",
+      "html": "<p>Do you have a new pharmaceutical product that you want to bring to market but don't know if the product is available? Are you worried about meeting the current rigorous standards of the pharmaceutical industry? Is your time and budget running out, but have lots of unreached goals? EMMA International will be the place to provide the most effective and economical solution for you.</p><p>With a team of industry-leading experts and an extensive network of scientific partners, we have the vast resources to help you.</p>",
+      "image": "/media/bd48ce81-20220224105615.webp",
+      "sourceUrl": "http://www.hopkinsmedtech.com/submissions.aspx?ClassID=67",
+      "sourceIds": [
+        "HMC-37"
+      ],
+      "sections": [
+        {
+          "title": "Drug development",
+          "html": "\n<p>HMC has a full range of resources, including collaborative labs and in-house engineers to accompany you from the very first steps of drug development. With the Functional Service Provider model, you can get advice, perform testing, access expert data, and much more.</p><p><a href=\"/services/product-development\"><strong>Learn more about Drug development.</strong></a></p>\n"
+        },
+        {
+          "title": "Preclinical Research",
+          "html": "\n<p>We can support you through the entire preclinical research process. Compliance is guaranteed from initial animal model identification to final clinical report generation.</p><p><a href=\"http://www.hopkinsmedtech.com/submissions.aspx?ClassID=67#\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Learn more about Preclinical Research.</strong></a></p>\n"
+        },
+        {
+          "title": "Regulatory strategy",
+          "html": "\n<p>With our solid experience, we will help you create a suitable plan to lead to success. HMC's team of scientists will help you categorize products, define system requirements, create budgets and action systems for management, answer any questions you need.</p><p><a href=\"/services/regulatory-strategy\"><strong>Learn more about Regulatory strategy.</strong></a></p>\n"
+        },
+        {
+          "title": "IND - Application for new drug registration before investigation",
+          "html": "\n<p>This is the step to help you shape the way to commercialize the product. We will help you arrange a pre-IND meeting with the FDA and prepare all the documents you need.</p><p><a href=\"/services/regulatory-submission\"><strong>Learn more about Pre-IND.</strong></a></p>\n"
+        },
+        {
+          "title": "Clinical investigation",
+          "html": "\n<p>HMC is your key partner in obtaining regulatory approval. We prepare a complete package of documents, shaping clinical trials to ensure success. In addition, we use our relationships to help you monitor your site, check for GCP, and other critical components.</p><p><a href=\"/services/clinical-investigation\"><strong>Learn more about Clinical investigation.</strong></a></p>\n"
+        },
+        {
+          "title": "Quality system development",
+          "html": "\n<p>We have a proprietary methodology to establish a customized quality system tailored to you while meeting international standards. Not only does it help you pass pre-approval checks, but it also gives you an added competitive edge.</p><p><a href=\"/services/quality-system\"><strong>Learn more about Developing and ensuring the quality system.</strong></a></p>\n"
+        },
+        {
+          "title": "Maintain the quality management system",
+          "html": "\n<p>We will maintain every aspect of your quality management system. Make sure your products are sustainable to standards and regulations.</p>\n"
+        },
+        {
+          "title": "Pharmacovigilance",
+          "html": "\n<p>HMC will continue to accompany you to develop your career. When you invest in a new project, we will continue to monitor the safety of your existing products.</p><p>Kickstart your success by talking to HMC. We always have a team of experts available 24/7 to listen to its partners.</p>\n"
+        }
+      ],
+      "excerpt": "Do you have a new pharmaceutical product that you want to bring to market but don't know if the product is available? Are you worried about meeting the current rigorous standards of the pharmaceutical industry?",
+      "reviewNote": "The original website includes material referring to EMMA International. Those statements are preserved with their attribution and do not establish HMC ownership of the capabilities described. Please contact us to confirm the scope of your project."
+    }
+  ],
+  "team": [
+    {
+      "id": "TEAM-JEFF",
+      "name": "Jeff Wu",
+      "role": null,
+      "slug": "jeff-wu",
+      "html": "",
+      "excerpt": "Professional profile available on LinkedIn.",
+      "initials": "JW",
+      "linkedin": "https://www.linkedin.com/in/jeffwu774/",
+      "image": null,
+      "sourceUrl": "https://www.linkedin.com/in/jeffwu774/",
+      "verified": false
+    },
+    {
+      "id": "TEAM-1",
+      "name": "Homer Wu, Ph.D.",
+      "role": "Chief Scientist",
+      "slug": "homer-wu",
+      "html": "\n<p>Over 25+ years of experience in professional services, Dr. Wu is a visionary, seasoned, and dynamic professional, offering in-depth scientific, regulatory, and clinical knowledge of developing medical devices including IVD and innovative medical devices, focused on driving corporate growth and innovation by translating goals/objectives into actionable strategies/operating plans that support the business.</p><p>Dr. Wu has led cross-functional teams responsible for product development, scale-up manufacturing, supply-chain management, and GMP compliance. Worked collaboratively with client’s executive management, board of directors, consultants, and outside thought leaders to shape clinical and regulatory strategy/direction fir HMC’s clients.</p><p>Before the foundation of HMC, Dr. Wu worked in various consulting roles at PwC, Lucent Technologies, has served in many pharmaceutical companies such as Pfizer, healthcare institution such as Memorial Sloan  Kettering Cancer Center, Hospital for Special Surgery, Atlantic Health System, etc.</p><p>Dr. Wu obtained his Ph.D. in Physics from New York University, and an M.S. in Computer Science and M.S. in Electrical Engineering also from New York University.</p><hr/>\n",
+      "excerpt": "Over 25+ years of experience in professional services, Dr. Wu is a visionary, seasoned, and dynamic professional, offering in-depth scientific, regulatory, and clinical knowledge of dev",
+      "initials": "HW",
+      "linkedin": "https://www.linkedin.com/in/homerwu/",
+      "image": null,
+      "sourceUrl": "http://www.hopkinsmedtech.com/submissions.aspx?ClassID=77",
+      "verified": true
+    },
+    {
+      "id": "TEAM-2",
+      "name": "Jennifer Stanford",
+      "role": "Director of Clinical Operation",
+      "slug": "jennifer-stanford",
+      "html": "\n<p>Over 25+ years of nursing and leadership experience in both clinical research and critical care, she has served in clinical operation director role in many health systems including Valley Health System, Cardiopulmonary Research Science and Technology Institute, UT Southwestern Medical Center. Her clinical expertise across different phases of trial, managed 125+ drug and device trials (Phases II-IV) in numerous therapeutic areas. She has established local Institutional Review Board/provided oversight and training for many of her client’s before joining HMC.</p><p>As the Director of Clinical operation, Jennifer has primarily responsible for overseeing the operational efficiency and quality of clinic services at all clinic sites, including direct supervision of Site Managers, and lead efforts to improve quality outcomes and clinic operations in a way that contributes to an enhanced experience for staff and patients, oversee the functioning of key systems vital to clinic operations.</p><p>Jennifer obtained her M.S. in Nursing from University of Texas at Arlington, and Bachelors of Science in Nursing     from Texas Christian University.</p><hr/>\n",
+      "excerpt": "Over 25+ years of nursing and leadership experience in both clinical research and critical care, she has served in clinical operation director role in many health systems including Vall",
+      "initials": "JS",
+      "linkedin": null,
+      "image": null,
+      "sourceUrl": "http://www.hopkinsmedtech.com/submissions.aspx?ClassID=77",
+      "verified": true
+    },
+    {
+      "id": "TEAM-3",
+      "name": "Wendy Zhou, Ph.D.",
+      "role": "Director of Laboratory Services",
+      "slug": "wendy-zhou",
+      "html": "\n<p>With over 25+ years of strong experience in the pharmaceutical and medical device clinical research industry, Dr. Zhou has thorough and demonstrated knowledge of methods of analysis used in Clinical Laboratories, and In-depth knowledgeable of fiscal and general healthcare issues, trends, quality management. Dr. Zhou has extensive experience in laboratory equipment and automation and laboratory practice &amp; standards, good understanding of scientific methodology and clinical study design.</p><p>Before joining HMC, Dr. Zhou has played Laboratory Director roles in many prestigious laboratories including: Paradigm Laboratories, Hangzhou Medical Biotechnology Clinical Laboratory, BAS Premier Laboratory, ViaGen, etc, the molecular diagnostic tests offered in these labs included the tests for infectious diseases, inherited conditions, precision medicine for chronic disease management, cancer companion diagnostics and prognostics, and pharmacogenetics.</p><p>Dr. Zhou obtained her Ph.D. in Biochemistry from Arizona State University.</p><hr/>\n",
+      "excerpt": "With over 25+ years of strong experience in the pharmaceutical and medical device clinical research industry, Dr. Zhou has thorough and demonstrated knowledge of methods of analysis use",
+      "initials": "WZ",
+      "linkedin": null,
+      "image": null,
+      "sourceUrl": "http://www.hopkinsmedtech.com/submissions.aspx?ClassID=77",
+      "verified": true
+    },
+    {
+      "id": "TEAM-4",
+      "name": "Andrew Wayland",
+      "role": "Director of Business Development",
+      "slug": "andrew-wayland",
+      "html": "\n<p>Master of Business Administration MBA </p><p>Clinical Research and Healthcare Administrator, Advance innovative discoveries for the treatment of human disease.<br/></p><p>Life Science professional and strategist with over 15 years of experience building disruptive partnerships across academia, CROs, diagnostics, biotechnology, pharmaceutical and medical device organizations.</p><p>Andrew's professional goal is to successfully impact healthcare organizations to advance innovative therapeutic discoveries for the treatment of human disease.</p><p>Highly recognized for accomplishments with Clinical Research Operations, Project Management, Business Development and Sponsored Research Funding within Healthcare Clinical Research. These results maximize efficiencies and accelerate cost-effective drug, medical device and therapeutic development.</p><p>Sponsored research funding derived from Federal (NIH, DoD, NSF), State (CPRIT), Foundation/Philanthropic, and Biopharma/Pharmaceutical research funding proposals (RFPs)</p><p>Therapeutic Areas: Oncology (Hematology and Solid Tumor), Immunology, Neurology/CNS, Clinical Pharmacology, Digital Health (AI), Medical Device, Therapeutic Diagnostics, Healthcare Prevention, Educational Services and Other Indications</p><p>Specialties: Clinical Operations, Business Development, Research Proposal Management, Clinical Trial Management, Business Entrepreneurship, ICH/GCP guidelines, GLP/GMP regulations, Research Analytics, People Leadership and Human Resource Management.</p><hr/>\n",
+      "excerpt": "Master of Business Administration MBA",
+      "initials": "AW",
+      "linkedin": null,
+      "image": null,
+      "sourceUrl": "http://www.hopkinsmedtech.com/submissions.aspx?ClassID=77",
+      "verified": true
+    },
+    {
+      "id": "TEAM-5",
+      "name": "Qian Cheng, Ph.D.",
+      "role": "Chief Biostatistician",
+      "slug": "qian-cheng",
+      "html": "\n<p>With less than 10% of investigational products making it to post-marketing surveillance during clinical trials, it is imperative to build a statistical analysis plan for any clinical study, Dr. Cheng brought to HMC of extensive and flexible biostatistical capabilities for different phases of clinical trials. Under his guidance, each analysis is custom built based on our client’s clinical research goals, and performed to ICH-GCP standards, and uses the latest, best-in-class statistical software.</p><p>Dr. Cheng’s extensive experience in clinical data analysis allows HMC to provide an individualized service offering for our clients in each clinical trial, regardless of the complexity of the biostatistical needs, from study design, to sample size calculation, to protocol development &amp; review, to randomization, and statistical analysis plans, analysis and Interpretation, data presentation and reports. Biostatistician is the key driver behind trial design, it’s one of the key components of clinical trial design, for many studies, regulatory agencies review the statistical analysis plan (SAP) as part of the trial design review.</p><p>Dr. Cheng obtained his Ph.D. in Pharmaceutical Science from University of Arizona</p><hr/>\n",
+      "excerpt": "With less than 10% of investigational products making it to post-marketing surveillance during clinical trials, it is imperative to build a statistical analysis plan for any clinical st",
+      "initials": "QC",
+      "linkedin": null,
+      "image": null,
+      "sourceUrl": "http://www.hopkinsmedtech.com/submissions.aspx?ClassID=77",
+      "verified": true
+    }
+  ],
+  "historical": [
+    {
+      "id": "HMC-05",
+      "slug": "historical-intended-use-validation",
+      "title": "Intended Use Validation",
+      "route": "/resources/historical-intended-use-validation",
+      "html": "<p>by Alexis Ferrier / Feb 18, 2022 / Compliance, Consulting Group, Medical Devices, Regulatory, Standardization, Standards, Validation</p><p><img alt=\"T1-INTENDED USE VALIDATION.png\" loading=\"lazy\" src=\"/media/a50bb3ad-6378132092524774754374526.webp\"/></p><hr/><p>Medical Device Manufacturers in the United States have to comply with intended use validation (IUV) requirements.Intended use is the primary criteria the FDA or other regulatory bodies may use to measure the systems’ validity. These requirements are specific for non-device or non-product tools – most commonly software. These tools are often used in non-device specification applications such as QMS software or software used in the design and development of the product. This software falls into two main categories: commercial and custom-made.<br/></p><p>The validation testing requirements should be developed based on the function of the tool. The requirements should be derived from procedures, specifications, work instructions, or other quality management system documents. As previously mentioned, the IUV is the primary criteria the FDA will use to determine the validity of the tool, as such, the intended use of the tool should be well documented. This documentation of its use should be referred to often throughout the tools’ lifetime. </p><p>Commercial software tools require objective evidence and verification of the outputs. The medical device manufacturer may not have access to the vendor’s software validation documentation for commercial tools, which requires what the FDA calls “black box” testing. These test cases must challenge the intended use of the program to determine its functionality based on its applied use. This testing is based on the definition of what the tool is intended to do.</p><p>When building a software application to support product development, it is required to show evidence of validation and verification. As with the medical device development itself, each tool’s validation plan should be based on the risk of the tool to impact product quality. The manufacturer is responsible for ensuring the tool is suitable for its intended purpose. So, even if a manufacturer has access to the vendor’s validation documentation, they should still perform their own validation testing.</p><p>Once the requirements are defined, a test protocol or procedure should be developed to cover all the specified requirements. The level of rigor associated with each test case should be proportional to the identified risk level. As such, the validated tools’ configuration and version should be documented and monitored to help detect new risks that may be associated with a new revision, release, or other change to the tool. The documented test results, traceability requirements, and the validation summary report should all be maintained in the quality management system.</p><p>As medical device manufacturers know, device development is highly regulated. Validation of tools based on their intended use is an additional requirement that manufacturers must comply with. However, the experts at EMMA International are here to help. If your company needs help with a tool intended use validation, device/process validation, or other design and development, quality, or compliance issue, EMMA International can help. Contact us by phone at 248-987-4497 or by email at: info@emmainternational.com.</p><p>From EMMA international</p>",
+      "image": "/media/252121ec-20220224175348.webp",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=124",
+      "sourceIds": [
+        "HMC-05"
+      ],
+      "sections": [],
+      "excerpt": "An EMMA International article on intended-use validation of tools used in medical-device development.",
+      "reviewNote": "Historical article credited to EMMA International. The original author, dates and third-party contact details are preserved. This article is not current regulatory guidance.",
+      "date": "2022-02-24",
+      "type": "Historical Resources",
+      "topic": "FDA and Regulatory",
+      "year": "2022",
+      "author": "Alexis Ferrier",
+      "sourceOrganization": "EMMA International",
+      "originalPublicationDate": "2022-02-18"
+    },
+    {
+      "id": "HMC-06",
+      "slug": "historical-cbd-otc",
+      "title": "The FDA, CBD, and OTC Drugs",
+      "route": "/resources/historical-cbd-otc",
+      "html": "<p>by Gabe Kadoo | Jan 25, 2022 | CBD, Compliance, Consulting Group, FDA, Guidance, QMS, Quality, Quality Systems, Regulatory, Standardization, Standards</p><p><img alt=\"T2.png\" loading=\"lazy\" src=\"/media/2ecf86fb-6378132031357480724943499.webp\"/></p><hr/><p>When making a new product, whether that product is a drug, a medical device, or a combination product, understanding the regulations related to that product is incredibly important. A product subject to regulation, by the FDA or other regulatory that confuses many firms as to its regulatory ramifications. Being relatively new to the legal market the regulations surrounding CBD can be confusing, even to the point where the labeling can often be incorrect. While having a compliant product label is incredibly important, knowing when and how to sell the product is even more so.<br/></p><p>While CBD is legal in many areas of the US now, an unapproved drug still cannot be put on the market. This applies even to over-the-counter (OTC) drugs. Recently the FDA issued warning letters to several companies that were selling unapproved OTC drugs that contained CBD. It is important to note that having CBD in the products was not the reason for the warning letters. The letters were issued for several reasons, one of which is that the CBD in the products was listed as an inactive ingredient.</p><p>Again, having CBD in the product is not the issue, acknowledging the effects of CBD is. Since CBD affects the body it cannot be listed as an inactive ingredient, instead, it should be an active ingredient. An active ingredient is defined by the FDA as “any component that provides a pharmacological activity or another direct effect in the diagnosis, cure, mitigation, treatment, or prevention of disease, or to affect the structure or any function of the body of man or animals.”</p><p>Another important note is that the warning letters issued to the companies selling the OTC drugs were not only for the CBD claims made. Several other issues were included in the letters, including an issue with the manufacturing and that the drugs had not undergone the proper approval process. With that in mind it is very possible for a drug containing CBD to be approved, even for OTC use. It is simply a matter of undergoing the proper approval process. Unfortunately, because CBD is still so new to the legal market, many manufacturers do not understand that approval is needed. If they do know, they may be confused about which approval pathway to undertake, as there are several possible paths to approval for drugs. EMMA International can help understand which pathway is best for your product and even handle the submission process. EMMA International provides Full Circle Consulting services, give us a call at 248-987-4497 or email us at info@emmainternational.com to get in touch with our team of experts today.</p><p>From EMMA international</p>",
+      "image": "/media/252121ec-20220224175348.webp",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=126",
+      "sourceIds": [
+        "HMC-06"
+      ],
+      "sections": [],
+      "excerpt": "An EMMA International article on CBD, OTC drug marketing and regulatory pathways.",
+      "reviewNote": "Historical article credited to EMMA International. The original author, dates and third-party contact details are preserved. This article is not current regulatory guidance.",
+      "date": "2022-02-24",
+      "type": "Historical Resources",
+      "topic": "FDA and Regulatory",
+      "year": "2022",
+      "author": "Gabe Kadoo",
+      "sourceOrganization": "EMMA International",
+      "originalPublicationDate": "2022-01-25"
+    },
+    {
+      "id": "HMC-07",
+      "slug": "historical-sterile-device-510k",
+      "title": "510k Submissions for Sterile Devices",
+      "route": "/resources/historical-sterile-device-510k",
+      "html": "<p>by Gabe Kadoo | Jan 13, 2022 | 510k, Compliance, Consulting Group, QMS, Quality, Quality Systems, Regulatory, Requirements, Standardization, Standards</p><p><img alt=\"T3.png\" loading=\"lazy\" src=\"/media/36a52f81-6378131989060500463230872.webp\"/></p><hr/><p>A lot of work goes into a 510k submission for a medical device. Companies that submit a 510k for a product have to carefully consider multiple factors, one such factor is the sterility of the device. Though the submission for a sterile device and a non-sterile are similar there are several small, yet significant differences. If you need some general help with your 510k submission, check out these tips by EMMA International.</p><p>One of the most important things that will be needed for a sterile devices 510k submission is the actual demonstration of sterility. Sterilization testing is needed for any device declaring sterility, whether it’s a surface device or implanted device. Data from that testing showing the device is actually sterile is needed so that the FDA knows that the sterility is not just a baseless claim but actually based on fact. Now, the company producing the device may decide to perform the testing themselves or they may outsource the testing to a laboratory that follows Good Laboratory Practices (GLPs).</p><p>Aside from testing data sterility will also need to be stated in several places. Those places include, but are not limited to:</p><p>The intended use statement</p><p>The indications for use statement</p><p>The proposed labeling</p><p>The sterility needs to be repeatedly listed in multiple places so that it is obvious to any user of the device. Having the sterility listed in the areas above is necessary for a 510k submission. EMMA International can help clear up any confusion when it comes to how to label a product and understanding label claims.</p><p>Finally, the predicate device comparison will also be affected if the device is going to be sterile. The device needs to be shown to be substantially equivalent to the predicate device, which includes a comparison of sterility. Choosing a predicate that helps demonstrate the sterility of the device being developed is important.</p><p>510k submissions are a challenge no matter what kind of device the submission is for or what <a href=\"https://emmainternational.com/the-types-of-510k-submissions/\" rel=\"noopener noreferrer\" target=\"_blank\">type of 510k</a> is being submitted. EMMA International can help understand what is needed for a 510k submission and even help file the submission with the FDA. EMMA International provides Full Circle Consulting services, give us a call at 248-987-4497 or email us at info@emmainternational.com to get in touch with our team of experts today.</p><p>From EMMA international</p>",
+      "image": "/media/252121ec-20220224175348.webp",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=127",
+      "sourceIds": [
+        "HMC-07"
+      ],
+      "sections": [],
+      "excerpt": "An EMMA International article on sterility considerations in medical-device 510(k) submissions.",
+      "reviewNote": "Historical article credited to EMMA International. The original author, dates and third-party contact details are preserved. This article is not current regulatory guidance.",
+      "date": "2022-02-24",
+      "type": "Historical Resources",
+      "topic": "FDA and Regulatory",
+      "year": "2022",
+      "author": "Gabe Kadoo",
+      "sourceOrganization": "EMMA International",
+      "originalPublicationDate": "2022-01-13"
+    },
+    {
+      "id": "HMC-08",
+      "slug": "historical-drug-regulatory-pathways",
+      "title": "Determining the Right Regulatory Pathway for your Drug",
+      "route": "/resources/historical-drug-regulatory-pathways",
+      "html": "<p>by Alexis Ferrier | Nov 17, 2021 | Analytics, Compliance, Consulting Group, FDA, Guidance, Pharma, Pharmaceuticals, QMS, Quality, Quality Systems, Regulatory, Requirements, Standardization, Standards, Supplier Management</p><p><img alt=\"T5-Determining the Right Regulatory Pathway for your Drug.png\" loading=\"lazy\" src=\"/media/7666da81-6378132371855646508169408.webp\"/></p><hr/><p>A fundamental question in any drug development program is which regulatory pathway to pursue. There are clearly defined pathways in which a drug can be approved.  It’s essential to determine this answer early on in the program because it dictates the scope of nonclinical and clinical studies that need to be conducted and how the marketing application will be presented to regulatory bodies.</p><p>The 505(b)(1) Regulatory Pathway is the “traditional” New Drug Application process. Sponsors use this pathway to obtain the approval of a new drug with active ingredients that the FDA has not previously approved1. The data package necessary for supporting this new drug prospective demonstration of clinically meaningful treatment benefits and statically significant safety and efficacy after an extensive clinical development program entirely conducted by or for the sponsor, without allowance for reference to third party data. Essentially, 505(b)(1) is a pathway for innovative new drugs.</p><p>The 505(b)(2) pathway is an alternative NDA process for approving a new drug that contains the same active ingredient as a previously approved product. This pathway is intended to allow sponsors to obtain approval of NDA’s containing investigations of safety and effectiveness that were not conducted by or for the sponsor. This section helps by avoiding unnecessary duplication of studies that have already been performed on the reference drug. This pathway is usually attractive to sponsors operating without a large number of resources. The 505(b)(2) shortens the time and expense of getting a drug approved. The 505(b)(2) and 505(j) pathways are intended to provide an efficient approval pathway for non-innovator drug products by utilizing existing information to support the approval package.</p><p>In an Abbreviated Drug Marketing Application (ANDAs), the applicant claims that their drug duplicates an already-approved drug. The goal with an ANDA is to demonstrate “sameness” to an already approved innovator drug. In section 505(j)(8)(B)(i), a generic drug is considered to be bioequivalent to the listed drug if the rate and extent of absorption of the generic drug do not show a significant difference from the listed drug3. There cannot be a difference when the same dose is administered at the same dose and under similar conditions. No new safety or efficacy studies are performed, and only small confirmatory studies support the ANDA.</p><p>Deciding on the appropriate regulatory pathway for your drug development program is a process that requires an understanding of the content and purposes of sections 505(b)(1) and 505(b)(2) and 505(j). Consultants at EMMA International can help you decide which regulatory pathway is best for your drug. Regardless of the path best for the development plan, experts at EMMA International will be there to enable discussions with the FDA and guide your product through the approval process. Contact us today at 248-987-4497 or email us at info@emmainternational.com to find out more.</p><p>From EMMA international</p>",
+      "image": "/media/252121ec-20220224175348.webp",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=128",
+      "sourceIds": [
+        "HMC-08"
+      ],
+      "sections": [],
+      "excerpt": "An EMMA International article on selecting a regulatory pathway for a drug.",
+      "reviewNote": "Historical article credited to EMMA International. The original author, dates and third-party contact details are preserved. This article is not current regulatory guidance.",
+      "date": "2022-02-24",
+      "type": "Historical Resources",
+      "topic": "FDA and Regulatory",
+      "year": "2022",
+      "author": "Alexis Ferrier",
+      "sourceOrganization": "EMMA International",
+      "originalPublicationDate": "2021-11-17"
+    },
+    {
+      "id": "HMC-39",
+      "slug": "historical-internal-audits",
+      "title": "5 Reasons Why Internal Auditing is Important",
+      "route": "/resources/historical-internal-audits",
+      "html": "<p>by Alexis Ferrier | Dec 8, 2021 | Audits, Compliance, Consulting Group, FDA, QMS, Quality, Quality Systems, Regulatory, Requirements, Standardization, Standards<br/></p><p><img alt=\"T4.png\" loading=\"lazy\" src=\"/media/71471dd8-6378131992601118773146939.webp\"/></p><hr/><p>An internal audit program is vital for proper monitoring and assurance of products. It is also essential to verify that individual processes reflect the current documented policies and procedures.</p><p>Here are five reasons why internal auditing is essential and its purpose in keeping companies and products compliant with regulations.</p><p><strong>1.Provide objective evidence:</strong></p><p>Auditing one’s work has a definite conflict of interest. An internal auditor or team of auditors without responsibility for the objective will provide objective evidence. It is adequate to cross-train employees in different departments to audit another department or consider hiring an auditor. The internal audit functions as a check for your product and helps add value to the process by providing an unbiased view.</p><p><strong>2.Improve efficiency:</strong></p><p>Internal audits improve efficiency by continuously monitoring and reviewing processes. It helps quickly identify control recommendations and improve the efficiency of operations.</p><p><strong>3.Evaluate risks:</strong></p><p>An internal audit program supports management in identifying and prioritizing risks through a risk assessment. A risk evaluation can help identify any environmental gaps and allow for a remediation plan. An internal audit program will help track and document any changes that have been made and ensure the mitigation of any found risks.</p><p><strong>4.Assess controls:</strong></p><p>Efficiency and Operating effectiveness are critical for any company. Internal auditing supports this by continuously improving the control environment.</p><p><strong>5.Ensure compliance:</strong></p><p>Performing an internal audit helps ensure compliance with any and all relevant laws and regulations. It can also help provide better preparation for the next external audit.</p><p>Any results of your internal audit should be analyzed and reported to management, typically during management review. All life science businesses should be conducting internal audits because it satisfies a regulatory requirement and acts as important continuous improvement tool. If you need help developing or implementing an internal audit program for your life sciences business, EMMA International’s team of experts can help. Give us a call at 248-987-4497 or email info@emmainternational.com</p><p>From EMMA international</p>",
+      "image": "/media/252121ec-20220224175348.webp",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=119",
+      "sourceIds": [
+        "HMC-39"
+      ],
+      "sections": [],
+      "excerpt": "An EMMA International article on the role of internal audits in a quality management system.",
+      "reviewNote": "Historical article credited to EMMA International. The original author, dates and third-party contact details are preserved. This article is not current regulatory guidance.",
+      "date": "2022-02-24",
+      "type": "Historical Resources",
+      "topic": "FDA and Regulatory",
+      "year": "2022",
+      "author": "Alexis Ferrier",
+      "sourceOrganization": "EMMA International",
+      "originalPublicationDate": "2021-12-08"
+    },
+    {
+      "id": "HMC-40",
+      "slug": "historical-clinical-manager-2023",
+      "title": "Clinical Manager — historical vacancy (2023)",
+      "route": "/resources/historical-clinical-manager-2023",
+      "html": "<p>Clinical Manager</p><p>Hopkins MedTech Group DBA Hopkins MedTech Compliance is hiring a full-time Clinical Manager.</p><p>Job Duties:</p><p>● Oversees the development of clinical trial protocols; </p><p>● Participates in the development of the overall clinical plan, drafts protocols, collaborates on statistical analysis plans, and coordinates the protocol review and approval process, to include submissions to regulatory agencies; </p><p>● Effectively manage daily tasks, provide guidance and oversight related to SOPs, reports, training materials, batch records, materials management, and risk assessments; </p><p>● Assists with the development and implementation of clinical projects; Selects qualified clinical sites, conducts site qualification visit and maintain relationship with clinical sites; </p><p>● Conducts site monitoring visits and follow-up to detect or assess problems and to ensure that all clinical aspects of studies are being carried out in accordance with state and federal regulations, guidelines and policies; </p><p>● Ensures appropriate transmission of clinical data to the data management department; reviews and analyze case report queries and problems, and clarifies and/or obtains changes to data as appropriate; </p><p>● Prepare activity reports to inform management of the status and implementation plans of clinical projects; </p><p>● Attend board meetings and participate in new business development.</p><p>Job Requirements:</p><p>Master's Degree in Health Administration, Medicine, Biology, Chinese Medicine, Acupuncture or other related field. Must have 1 years’ experience as clinical manager, medical manager, clinical research associate or other related position. Must have experience with developing standard of procedure, project feasibility evaluation and budget control, and clinical trial monitoring; Knowledge of FDA regulations and guidance.</p><p>Any applicant who is interested may submit resume w/code HMG23 to: Xiaohui Wu, Hopkins MedTech Group , 233 Mt Airy Rd 1st Floor, Basking Ridge, NJ 07920.</p><p>Job Criteria:</p><p>Position Type: Full-Time Permanent</p><p>Education Required: Master’s</p><p>Experience: 1 year</p><p>Contact Information:</p><p>Contact Name: Xiaohui Wu</p><p>Company: Hopkins MedTech Group. </p><p>City: Basking Ridge </p><p>State: NJ </p><p>Zip: 07920</p>",
+      "image": "/media/252121ec-20220224175348.webp",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=139",
+      "sourceIds": [
+        "HMC-40"
+      ],
+      "sections": [],
+      "excerpt": "The original Clinical Manager advertisement, dated 27 September 2023. Current vacancy status is not established.",
+      "reviewNote": "Historical vacancy published on September 27, 2023. Its current availability is unconfirmed. This is separate from the eight internship descriptions.",
+      "date": "2023-09-27",
+      "type": "Historical Resources",
+      "topic": "Clinical Evidence",
+      "year": "2023",
+      "author": "Hopkins MedTech Group",
+      "sourceOrganization": "Hopkins MedTech",
+      "originalPublicationDate": "2023-09-27"
+    }
+  ],
+  "about": {
+    "id": "HMC-10",
+    "slug": "about",
+    "title": "Our Company",
+    "route": "/about",
+    "html": "<p>The Hopkins MedTech Compliance helps medical device companies rapidly access the industry's best consultants, contractors, and candidates. Our resources assist in every stage of the product lifecycle, from clinical development to commercialization, with a focus in Quality Assurance, Regulatory Affairs, and Clinical Operations. HMC provides assistance in applying for EUA、 premarket notice 510K by FDA、 CE mark by European Commission and MDR.</p>",
+    "image": "/media/a83049a4-20220224174612.webp",
+    "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=20",
+    "sourceIds": [
+      "HMC-10"
+    ],
+    "sections": [],
+    "excerpt": "The Hopkins MedTech Compliance helps medical device companies rapidly access the industry's best consultants, contractors, and candidates. Our resources assist in every stage of the product lifecycle, from clin",
+    "reviewNote": ""
+  },
+  "home": {
+    "html": "\n\n\n<h3>\n                    The Advantage of Expertise</h3>\nThe Hopkins MedTech Compliance helps medical device companies rapidly \naccess the industry's best consultants, contractors, and candidates. Our \nresources assist in every stage of the product lifecycle, from clinical \ndevelopment to commercialization, with a focus in Quality Assurance, \nRegulatory Affairs, and Clinical Operations. HMC provides assistance in \napplying for EUA、premarket notice 510K by FDA、CE mark by European \nCommission and MDR.\n\n\n<ul>\n<li>\n\n<h3>\n                                Client First</h3>\n<img alt=\"Original Hopkins MedTech website illustration\" loading=\"lazy\" src=\"/media/c9522dc4-20220325150109.png\"/>\nThe Hopkins MedTech Compliance always prioritizes their clients’ needs and believes that their clients’ success is the firm’s success.\n\n</li>\n<li>\n\n<h3>\n                                A Holistic Approach</h3>\n<img alt=\"Original Hopkins MedTech website illustration\" loading=\"lazy\" src=\"/media/e5ef6112-20220325150340.png\"/>\nThe Hopkins MedTech Compliance always takes a holistic approach to engagements with a strong emphasis on their FDA expertise. Beyond solving the immediate short-term challenges, we consider other hidden or future issues.\n\n</li>\n<li>\n\n<h3>\n                                Partnership</h3>\n<img alt=\"Original Hopkins MedTech website illustration\" loading=\"lazy\" src=\"/media/e06961ea-20220325150517.png\"/>\nThe Hopkins MedTech Compliance’s in-house team fully integrates with the client’s stakeholders ensuring a close partnership and seamless management of the client’s most complex challenges.\n\n</li>\n\n\n</ul>\n\n\n",
+    "quotes": [
+      {
+        "text": "It’s hard to find a company you can trust. Hopkins MedTech Compliance was recommended to me by a friend, and now I know why – the quality of service I received was outstanding. We now have a world-class quality system.",
+        "name": "Mitchel D",
+        "truncated": false
+      },
+      {
+        "text": "Hopkins MedTech Compliance is truly an industry expert and has patiently worked with us by assisting us in gaining a better understanding of FDA guidance and requirements.... This has dramatically improved our confidence in this area. They also assisted u",
+        "name": "Fancy C",
+        "truncated": true
+      }
+    ]
+  },
+  "jobs": [
+    {
+      "id": "JD-HMT-A01",
+      "slug": "clinical-research-intern",
+      "title": "Clinical Research Intern, Clinical Operations & Site Coordination",
+      "excerpt": "Study documentation, site coordination, enrollment and visit tracking, and trial master file organization for device and IVD studies",
+      "track": "Healthcare & MedTech",
+      "level": "Student / early career",
+      "sections": [
+        {
+          "title": "Key To Terms Used",
+          "paragraphs": [
+            "PROTOCOL The document defining how a study runs: who qualifies, what is measured, in what order.",
+            "ICF Informed consent form. What a participant reads and signs before taking part.",
+            "TMF Trial master file. The complete, audit-ready record of how a study was conducted.",
+            "CRF Case report form. The structured form used to record each participant's data.",
+            "SITE A hospital or clinic where participants are enrolled and study visits take place.",
+            "DEVIATION Anything that happened differently from the protocol, recorded rather than hidden."
+          ]
+        },
+        {
+          "title": "Intended Role",
+          "paragraphs": [
+            "Clinical studies are won or lost on paperwork discipline: the right document version at the right site, every visit logged, every deviation written down while it is still fresh. This role sits inside that machinery. You will help prepare and organize study documentation, track site activity, and keep the record complete and audit-ready. The emphasis is on accuracy, traceability, and professional judgment about what to escalate, not on arriving with trial experience already in hand."
+          ]
+        },
+        {
+          "title": "Principal Duties",
+          "paragraphs": [
+            "– Support preparation and version control of study documents such as protocols, informed consent forms, case report forms, and site instructions.",
+            "– Help organize and maintain trial master file and site file structures so that every document stays current and traceable.",
+            "– Track enrollment, visit schedules, and outstanding site actions, and flag anything slipping against the study timeline.",
+            "– Prepare meeting agendas, minutes, and follow-up action logs for internal study calls and site check-ins.",
+            "– Summarize protocol requirements and study procedures into short reference materials for internal use.",
+            "– Research publicly available guidance on good clinical practice and study conduct, and summarize what applies to a given study design.",
+            "– Use approved AI tools to draft, summarize, and reformat documents, then verify every requirement and reference against the source document."
+          ]
+        },
+        {
+          "title": "Example Assignments",
+          "paragraphs": [
+            "Assignments depend on active studies, authorized data access, and the internship timeline. Examples may include: – A site readiness and document checklist package for an upcoming device or IVD performance study",
+            "– An enrollment and visit tracking workbook with a weekly status summary for the study team",
+            "– A reorganized trial master file index with a gap list of missing or outdated documents"
+          ]
+        },
+        {
+          "title": "Your First Two Weeks",
+          "paragraphs": [
+            "– Read one study protocol end to end and write a one-page plain- language summary of it.",
+            "– Learn the file structure and naming rules, then file a backlog of documents correctly.",
+            "– Shadow two internal study calls and produce the minutes and action log for both.",
+            "– Build the first version of the enrollment tracker and reconcile it against the site's own count."
+          ]
+        },
+        {
+          "title": "About Hopkins Medtech",
+          "paragraphs": [
+            "Hopkins MedTech Group LLC is a U.S. company working in medical technology and in vitro diagnostics. Its work covers clinical performance studies, protocol development and site coordination, data review and quality assurance, and regulatory support for United States and European pathways. The group is also exploring AI and digital health through an early-stage research initiative in facial and skin analysis."
+          ]
+        },
+        {
+          "title": "Required Qualifications",
+          "paragraphs": [
+            "– Currently pursuing, or recently completed, a degree in a life science, public health, nursing, biomedical engineering, or a related field, or able to show equivalent project work.",
+            "– Strong written English and the ability to write short, precise, unambiguous instructions and summaries.",
+            "– Exceptional attention to detail, and comfort with version control, naming conventions, and repetitive checking work.",
+            "– Comfortable with spreadsheets and document tools for tracking, formatting, and structured record keeping.",
+            "– Discretion with confidential and patient-related information, and the judgment to ask first whenever a rule is unclear.",
+            "– No prior clinical trial, CRO, or professional internship experience is required."
+          ]
+        },
+        {
+          "title": "Preferred Qualifications",
+          "paragraphs": [
+            "Not screening criteria. Coursework, labs, personal projects, and self- study all count as evidence. – Coursework or lab exposure to research methods, biostatistics, human subjects research, or regulatory science",
+            "– Familiarity with the vocabulary of clinical studies, such as protocol, informed consent, deviation, and monitoring visit",
+            "– Any experience coordinating a project with multiple parties, deadlines, and documents that must stay in sync"
+          ]
+        },
+        {
+          "title": "What You Will Gain",
+          "paragraphs": [
+            "– See how a medical device or IVD study actually runs, from document preparation to site coordination and close-out.",
+            "– Learn why traceability and documentation discipline decide whether a study survives an audit.",
+            "– Practice the coordination skills that clinical research associate and study coordinator roles screen for.",
+            "– Leave with concrete examples of study documentation work you can describe in detail in an interview."
+          ]
+        },
+        {
+          "title": "Deliverables",
+          "paragraphs": [
+            "– An organized study document set with a version log and gap list",
+            "– A tracking workbook plus a recurring status summary the team can keep using",
+            "– A short written handover describing what you built, how it works, and what remains open"
+          ]
+        },
+        {
+          "title": "Supervision And Evaluation",
+          "paragraphs": [
+            "Interns report to a named project lead, meet on a set weekly cadence, and receive written feedback on each deliverable. Work is evaluated on accuracy and traceability of sources, documentation quality, responsiveness to feedback, judgment about what to escalate, and disciplined use of approved AI tools. We expect steady learning and iteration rather than polished perfection on the first day."
+          ]
+        },
+        {
+          "title": "What We Do Not Expect",
+          "paragraphs": [
+            "– Prior internship experience, or a name-brand employer on your CV.",
+            "– Knowing the regulations, tools, or vocabulary before you start; the terms box above is where most people begin.",
+            "– Certainty. Saying what the evidence does not support is treated as a strength, not a gap."
+          ]
+        },
+        {
+          "title": "Application And Selection",
+          "paragraphs": [
+            "Candidates are referred through our education partners. An application is a CV plus a short note naming the track you want and one project from this document you would like to work on, and why. First-round interviews are with the project lead who would supervise the work, not with a screening panel."
+          ]
+        },
+        {
+          "title": "Data Handling, Privacy, And Responsible Ai",
+          "paragraphs": [
+            "Interns work only with data and documents they have been explicitly authorized to access. Patient-identifiable information, study data, client- confidential files, and proprietary materials must never be uploaded to public or unapproved AI services, shared outside the project team, or stored on personal accounts or devices. AI tools may be used only",
+            "where the project lead has approved them for that task, and all AI- assisted work must be independently verified before it enters any deliverable. The intern and the project lead remain accountable for the final result."
+          ]
+        },
+        {
+          "title": "Equal Opportunity & Educational Nature",
+          "paragraphs": [
+            "Hopkins MedTech Group LLC provides equal internship and employment opportunities without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, veteran status, or any other legally protected characteristic. Internships are educational in nature; interns do not provide medical advice, make regulatory determinations, or represent the company to any health authority, client, or study site. The AI and digital health initiative described here is early-stage research, not a cleared, approved, or clinically validated product. Assignments, data access, duration, and supervision are confirmed in the final project description."
+          ]
+        }
+      ],
+      "pdf": "/downloads/HOPKINS_MEDTECH_Clinical_Research_Intern.pdf",
+      "pages": 2,
+      "status": "Educational partner referral; availability to be confirmed"
+    },
+    {
+      "id": "JD-HMT-A02",
+      "slug": "regulatory-affairs-intern",
+      "title": "Regulatory Affairs Intern, FDA and EU Submission Support",
+      "excerpt": "Regulatory pathway research, predicate and comparison analysis, submission document assembly, and labeling review support for FDA and European filings",
+      "track": "Healthcare & MedTech",
+      "level": "Student / early career",
+      "sections": [
+        {
+          "title": "Key To Terms Used",
+          "paragraphs": [
+            "510(k) The most common FDA route: showing a device is equivalent to one already cleared.",
+            "EUA Emergency use authorization. A temporary FDA route used during a declared emergency.",
+            "PREDICATE The already-cleared device that a new one is compared against.",
+            "INTENDED USE The exact wording of what a product is for. It drives testing, labeling, and claims.",
+            "IVDR The European regulation governing in vitro diagnostic devices.",
+            "SUBMISSION The assembled package of evidence filed with a health authority."
+          ]
+        },
+        {
+          "title": "Intended Role",
+          "paragraphs": [
+            "Every device and diagnostic has to answer one question before it can be sold: which regulatory pathway does it take, and what evidence does that pathway demand? This role supports that work. You will research published guidance and public submission databases, build structured comparisons, and help assemble the sections of a submission package. The emphasis is on careful reading and honest sourcing, not on knowing regulation by heart before you start."
+          ]
+        },
+        {
+          "title": "Principal Duties",
+          "paragraphs": [
+            "– Research publicly available FDA guidance, regulations, and European requirements relevant to a given product type.",
+            "– Search public databases for cleared comparison products and summarize their intended use, technology, and testing.",
+            "– Build structured comparison tables that show how a product aligns with or differs from prior cleared devices.",
+            "– Help assemble and format submission sections, checklists, and indexes against the applicable requirement list.",
+            "– Review labeling, instructions for use, and promotional claims against the stated intended use, and flag any unsupported claim.",
+            "– Maintain a sourced research log so that every regulatory statement in a working document can be traced to its origin.",
+            "– Use approved AI tools to speed up reading and drafting, then verify every citation and requirement against the original source text."
+          ]
+        },
+        {
+          "title": "Example Assignments",
+          "paragraphs": [
+            "Assignments depend on active studies, authorized data access, and the internship timeline. Examples may include: – A regulatory pathway assessment for a device or diagnostic, with the requirement list each pathway would trigger",
+            "– A comparison analysis of cleared products with a structured table of intended use, technology, and testing",
+            "– A submission readiness checklist mapping each required section to its current status and owner"
+          ]
+        },
+        {
+          "title": "Your First Two Weeks",
+          "paragraphs": [
+            "– Read the applicable guidance for one product type and list every requirement it triggers.",
+            "– Search the public clearance database and shortlist candidate comparison devices.",
+            "– Draft the comparison table and fill it for the first two devices.",
+            "– Start the sourced research log, with a citation for every statement you record."
+          ]
+        },
+        {
+          "title": "About Hopkins Medtech",
+          "paragraphs": [
+            "Hopkins MedTech Group LLC is a U.S. company working in medical technology and in vitro diagnostics. Its work covers clinical performance studies, protocol development and site coordination, data review and quality assurance, and regulatory support for United States and European pathways. The group is also exploring AI and digital health through an early-stage research initiative in facial and skin analysis."
+          ]
+        },
+        {
+          "title": "Required Qualifications",
+          "paragraphs": [
+            "– Currently pursuing, or recently completed, a degree in regulatory science, life sciences, biomedical engineering, public health, law, or a related field, or able to show equivalent self-study or project work.",
+            "– Strong reading stamina for dense technical and legal text, and the ability to restate it accurately in plain language.",
+            "– Rigorous sourcing habits, including the instinct to cite the original document rather than a secondary summary.",
+            "– Clear written English and comfort building structured tables, checklists, and document indexes.",
+            "– Willingness to say what the source actually supports, including when the answer is that the evidence is not there.",
+            "– No prior regulatory affairs, consulting, or professional internship experience is required."
+          ]
+        },
+        {
+          "title": "Preferred Qualifications",
+          "paragraphs": [
+            "Not screening criteria. Coursework, labs, personal projects, and self- study all count as evidence. – Coursework or self-study in regulatory affairs, quality systems, health policy, or medical device development",
+            "– Familiarity with terms such as intended use, predicate device, clearance, or conformity assessment",
+            "– Any research project that required tracking and citing a large number of primary sources"
+          ]
+        },
+        {
+          "title": "What You Will Gain",
+          "paragraphs": [
+            "– Learn how regulatory pathways are actually chosen and what evidence each one demands.",
+            "– Practice reading primary regulatory sources and turning them into requirement lists a team can work from.",
+            "– Understand why intended use wording drives testing, labeling, and marketing claims downstream.",
+            "– Leave with a sourced regulatory research portfolio that demonstrates precision under scrutiny."
+          ]
+        },
+        {
+          "title": "Deliverables",
+          "paragraphs": [
+            "– A pathway assessment memo with the applicable requirements and their sources",
+            "– A comparison table of cleared products with full citations",
+            "– A submission readiness checklist with an open items list for the project lead"
+          ]
+        },
+        {
+          "title": "Supervision And Evaluation",
+          "paragraphs": [
+            "Interns report to a named project lead, meet on a set weekly cadence, and receive written feedback on each deliverable. Work is evaluated on accuracy and traceability of sources, documentation quality, responsiveness to feedback, judgment about what to escalate, and disciplined use of approved AI tools. We expect steady learning and iteration rather than polished perfection on the first day."
+          ]
+        },
+        {
+          "title": "What We Do Not Expect",
+          "paragraphs": [
+            "– Prior internship experience, or a name-brand employer on your CV.",
+            "– Knowing the regulations, tools, or vocabulary before you start; the terms box above is where most people begin.",
+            "– Certainty. Saying what the evidence does not support is treated as a strength, not a gap."
+          ]
+        },
+        {
+          "title": "Application And Selection",
+          "paragraphs": [
+            "Candidates are referred through our education partners. An application is a CV plus a short note naming the track you want and one project from this document you would like to work on, and why. First-round interviews are with the project lead who would supervise the work, not with a screening panel."
+          ]
+        },
+        {
+          "title": "Data Handling, Privacy, And Responsible Ai",
+          "paragraphs": [
+            "Interns work only with data and documents they have been explicitly authorized to access. Patient-identifiable information, study data, client- confidential files, and proprietary materials must never be uploaded to public or unapproved AI services, shared outside the project team, or stored on personal accounts or devices. AI tools may be used only",
+            "where the project lead has approved them for that task, and all AI- assisted work must be independently verified before it enters any deliverable. The intern and the project lead remain accountable for the final result."
+          ]
+        },
+        {
+          "title": "Equal Opportunity & Educational Nature",
+          "paragraphs": [
+            "Hopkins MedTech Group LLC provides equal internship and employment opportunities without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, veteran status, or any other legally protected characteristic. Internships are educational in nature; interns do not provide medical advice, make regulatory determinations, or represent the company to any health authority, client, or study site. The AI and digital health initiative described here is early-stage research, not a cleared, approved, or clinically validated product. Assignments, data access, duration, and supervision are confirmed in the final project description."
+          ]
+        }
+      ],
+      "pdf": "/downloads/HOPKINS_MEDTECH_Regulatory_Affairs_Intern.pdf",
+      "pages": 2,
+      "status": "Educational partner referral; availability to be confirmed"
+    },
+    {
+      "id": "JD-HMT-A03",
+      "slug": "clinical-data-biostatistics-intern",
+      "title": "Clinical Data & Biostatistics Intern, Data Review and Study Quality",
+      "excerpt": "Study data review, query tracking, descriptive and diagnostic performance analysis, and reproducible reporting for performance studies",
+      "track": "Healthcare & MedTech",
+      "level": "Student / early career",
+      "sections": [
+        {
+          "title": "Key To Terms Used",
+          "paragraphs": [
+            "QUERY A written question sent back to a site when data looks wrong, missing, or contradictory.",
+            "SENSITIVITY Of the people who truly have the condition, the share a test correctly flags.",
+            "SPECIFICITY Of the people who truly do not have it, the share a test correctly clears.",
+            "DATA LOCK The point after which a study dataset may no longer be changed.",
+            "DENOMINATOR Exactly which records a percentage was calculated over. Change it and the answer changes.",
+            "REPRODUCIBLE An analysis that reruns from the raw data and produces the same numbers."
+          ]
+        },
+        {
+          "title": "Intended Role",
+          "paragraphs": [
+            "Study data arrives incomplete, inconsistent, and occasionally impossible, and someone has to notice before it reaches an analysis. This role is that check. You will review authorized study datasets for completeness and internal consistency, track queries to closure, and produce descriptive summaries and performance calculations in a reproducible way. The emphasis is on reproducibility and honest reporting, not on advanced statistical modeling."
+          ]
+        },
+        {
+          "title": "Principal Duties",
+          "paragraphs": [
+            "– Review authorized study datasets for missing values, out-of-range results, duplicates, and internal contradictions.",
+            "– Write and track data queries, and maintain a query log through to documented resolution.",
+            "– Produce descriptive summaries of study populations, enrollment, and completion using an agreed table format.",
+            "– Support diagnostic performance calculations such as sensitivity, specificity, and agreement, with denominators defined up front.",
+            "– Write analysis scripts that rerun end to end from the source dataset, so that any result can be reproduced on request.",
+            "– Document every data handling decision, including exclusions and assumptions, in a dated analysis log.",
+            "– Use approved AI tools to assist with code and documentation, then validate outputs against the raw dataset before reporting anything."
+          ]
+        },
+        {
+          "title": "Example Assignments",
+          "paragraphs": [
+            "Assignments depend on active studies, authorized data access, and the internship timeline. Examples may include: – A data quality review of an authorized study dataset with a prioritized query list",
+            "– A reproducible descriptive summary package with tables, figures, and a rerunnable script",
+            "– A performance metric calculation with documented denominators, exclusions, and confidence intervals"
+          ]
+        },
+        {
+          "title": "Your First Two Weeks",
+          "paragraphs": [
+            "– Get authorized access to one dataset and write down exactly what each field means.",
+            "– Run a first completeness and range check and draft the initial query list.",
+            "– Rebuild one existing summary table from the raw data and confirm the numbers match.",
+            "– Set up the analysis script to rerun from raw data in one command."
+          ]
+        },
+        {
+          "title": "About Hopkins Medtech",
+          "paragraphs": [
+            "Hopkins MedTech Group LLC is a U.S. company working in medical technology and in vitro diagnostics. Its work covers clinical performance studies, protocol development and site coordination, data review and quality assurance, and regulatory support for United States and European pathways. The group is also exploring AI and digital health through an early-stage research initiative in facial and skin analysis."
+          ]
+        },
+        {
+          "title": "Required Qualifications",
+          "paragraphs": [
+            "– Currently pursuing, or recently completed, a degree in statistics, biostatistics, data science, epidemiology, mathematics, life sciences, or a related field, or able to show equivalent self-study or project work.",
+            "– Working knowledge of at least one of Python, R, or SAS from coursework, an online course, or a personal project.",
+            "– Solid spreadsheet skills and comfort reconciling two sources that are supposed to agree and do not.",
+            "– The discipline to document assumptions and exclusions rather than quietly dropping inconvenient rows.",
+            "– Discretion with confidential and patient-related data, including strict adherence to authorized access boundaries.",
+            "– No prior clinical data management, biostatistics, or professional internship experience is required."
+          ]
+        },
+        {
+          "title": "Preferred Qualifications",
+          "paragraphs": [
+            "Not screening criteria. Coursework, labs, personal projects, and self- study all count as evidence. – Coursework in biostatistics, study design, epidemiology, or diagnostic test evaluation",
+            "– Exposure to version control, notebooks, or any habit that makes an analysis rerunnable by someone else",
+            "– Familiarity with concepts such as sensitivity, specificity, predictive value, or inter-rater agreement"
+          ]
+        },
+        {
+          "title": "What You Will Gain",
+          "paragraphs": [
+            "– Learn how clinical study data is reviewed, queried, and locked before anyone analyzes it.",
+            "– Practice reproducible analysis habits that research and industry teams both demand.",
+            "– Understand how diagnostic performance metrics are defined, and how definitions change the answer.",
+            "– Leave with a reproducible analysis package you can walk an interviewer through line by line."
+          ]
+        },
+        {
+          "title": "Deliverables",
+          "paragraphs": [
+            "– A data quality report with a query log and resolution status",
+            "– A reproducible analysis script, with the tables and figures it makes",
+            "– An analysis log of assumptions, exclusions, and open questions"
+          ]
+        },
+        {
+          "title": "Supervision And Evaluation",
+          "paragraphs": [
+            "Interns report to a named project lead, meet on a set weekly cadence, and receive written feedback on each deliverable. Work is evaluated on accuracy and traceability of sources, documentation quality, responsiveness to feedback, judgment about what to escalate, and disciplined use of approved AI tools. We expect steady learning and iteration rather than polished perfection on the first day."
+          ]
+        },
+        {
+          "title": "What We Do Not Expect",
+          "paragraphs": [
+            "– Prior internship experience, or a name-brand employer on your CV.",
+            "– Knowing the regulations, tools, or vocabulary before you start; the terms box above is where most people begin.",
+            "– Certainty. Saying what the evidence does not support is treated as a strength, not a gap."
+          ]
+        },
+        {
+          "title": "Application And Selection",
+          "paragraphs": [
+            "Candidates are referred through our education partners. An application is a CV plus a short note naming the track you want and one project from this document you would like to work on, and why. First-round interviews are with the project lead who would supervise the work, not with a screening panel."
+          ]
+        },
+        {
+          "title": "Data Handling, Privacy, And Responsible Ai",
+          "paragraphs": [
+            "Interns work only with data and documents they have been explicitly authorized to access. Patient-identifiable information, study data, client- confidential files, and proprietary materials must never be uploaded to public or unapproved AI services, shared outside the project team, or stored on personal accounts or devices. AI tools may be used only",
+            "where the project lead has approved them for that task, and all AI- assisted work must be independently verified before it enters any deliverable. The intern and the project lead remain accountable for the final result."
+          ]
+        },
+        {
+          "title": "Equal Opportunity & Educational Nature",
+          "paragraphs": [
+            "Hopkins MedTech Group LLC provides equal internship and employment opportunities without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, veteran status, or any other legally protected characteristic. Internships are educational in nature; interns do not provide medical advice, make regulatory determinations, or represent the company to any health authority, client, or study site. The AI and digital health initiative described here is early-stage research, not a cleared, approved, or clinically validated product. Assignments, data access, duration, and supervision are confirmed in the final project description."
+          ]
+        }
+      ],
+      "pdf": "/downloads/HOPKINS_MEDTECH_Clinical_Data_Biostatistics_Intern.pdf",
+      "pages": 2,
+      "status": "Educational partner referral; availability to be confirmed"
+    },
+    {
+      "id": "JD-HMT-A04",
+      "slug": "quality-assurance-intern",
+      "title": "Quality Assurance Intern, Quality Systems & Post-Market Compliance",
+      "excerpt": "Standard operating procedure support, document control, audit preparation, and post-market surveillance research within a medical device quality system",
+      "track": "Healthcare & MedTech",
+      "level": "Student / early career",
+      "sections": [
+        {
+          "title": "Key To Terms Used",
+          "paragraphs": [
+            "QMS Quality management system. The written rules a company follows, plus proof that it followed them.",
+            "SOP Standard operating procedure. Steps a stranger can follow without guessing.",
+            "CAPA Corrective and preventive action. What is done after a problem, and how recurrence is stopped.",
+            "DOC CONTROL Knowing which version is current, who approved it, and who was trained on it.",
+            "PMS Post-market surveillance. Watching for problems after a product is already in use.",
+            "AUDIT TRAIL The record showing who changed what, when, and why."
+          ]
+        },
+        {
+          "title": "Intended Role",
+          "paragraphs": [
+            "A quality system is a promise that the company does what it wrote down, and can prove it. This role supports that proof. You will help draft and control procedures, prepare audit evidence, and research post-market signals from public sources. The emphasis is on writing procedures people can actually follow and on evidence that holds up when someone asks for it, not on prior quality system experience."
+          ]
+        },
+        {
+          "title": "Principal Duties",
+          "paragraphs": [
+            "– Support drafting, formatting, and revision of standard operating procedures and work instructions using the approved house template.",
+            "– Maintain document control records, including version history, effective dates, and training acknowledgment tracking.",
+            "– Prepare audit and inspection readiness materials, such as evidence indexes that map each requirement to its record.",
+            "– Research public adverse event and recall databases for comparable products, and summarize the recurring themes.",
+            "– Support post-market surveillance literature searches and maintain a sourced, dated summary of findings.",
+            "– Help maintain logs for deviations, complaints, and corrective actions, tracking each item to documented closure.",
+            "– Use approved AI tools to draft and reformat procedure text, then verify every requirement reference against its controlling document."
+          ]
+        },
+        {
+          "title": "Example Assignments",
+          "paragraphs": [
+            "Assignments depend on active studies, authorized data access, and the internship timeline. Examples may include: – A drafted or revised procedure with a redline summary and a training note for affected staff",
+            "– An audit readiness evidence index mapping requirements to records, with a gap list",
+            "– A post-market surveillance summary of public complaint and recall themes for a product category"
+          ]
+        },
+        {
+          "title": "Your First Two Weeks",
+          "paragraphs": [
+            "– Read the current procedure set and map which document governs which activity.",
+            "– Pick one outdated procedure and draft a revision with a redline and change rationale.",
+            "– Build the first slice of the audit evidence index for one area.",
+            "– Search public recall and complaint databases for one product category and log the themes."
+          ]
+        },
+        {
+          "title": "About Hopkins Medtech",
+          "paragraphs": [
+            "Hopkins MedTech Group LLC is a U.S. company working in medical technology and in vitro diagnostics. Its work covers clinical performance studies, protocol development and site coordination, data review and quality assurance, and regulatory support for United States and European pathways. The group is also exploring AI and digital health through an early-stage research initiative in facial and skin analysis."
+          ]
+        },
+        {
+          "title": "Required Qualifications",
+          "paragraphs": [
+            "– Currently pursuing, or recently completed, a degree in life sciences, biomedical engineering, public health, industrial engineering, regulatory science, or a related field, or able to show equivalent self-study or project work.",
+            "– Clear, literal written English and the ability to write instructions that a stranger can follow without guessing.",
+            "– Comfort with structured, repetitive verification work and with maintaining logs to a consistent standard.",
+            "– Organized document habits, including disciplined naming, versioning, and change tracking.",
+            "– Willingness to record a finding accurately even when it reflects a gap in current practice.",
+            "– No prior quality assurance, auditing, or professional internship experience is required."
+          ]
+        },
+        {
+          "title": "Preferred Qualifications",
+          "paragraphs": [
+            "Not screening criteria. Coursework, labs, personal projects, and self- study all count as evidence. – Coursework or self-study in quality management, process improvement, regulatory affairs, or technical writing",
+            "– Familiarity with concepts such as document control, corrective action, deviation, or risk management",
+            "– Any experience writing procedures, lab protocols, manuals, or training material that others had to follow"
+          ]
+        },
+        {
+          "title": "What You Will Gain",
+          "paragraphs": [
+            "– Understand how a medical device quality system links procedures, records, training, and audits into one chain.",
+            "– Practice technical writing that is judged by whether people can follow it, not by how it reads.",
+            "– Learn how post-market signals are collected and turned into corrective action.",
+            "– Leave with procedure and audit evidence samples that demonstrate genuine documentation discipline."
+          ]
+        },
+        {
+          "title": "Deliverables",
+          "paragraphs": [
+            "– A drafted or revised procedure with its redline and change rationale",
+            "– An audit evidence index with an open gap list",
+            "– A sourced post-market surveillance summary with the recommended follow-up"
+          ]
+        },
+        {
+          "title": "Supervision And Evaluation",
+          "paragraphs": [
+            "Interns report to a named project lead, meet on a set weekly cadence, and receive written feedback on each deliverable. Work is evaluated on accuracy and traceability of sources, documentation quality, responsiveness to feedback, judgment about what to escalate, and disciplined use of approved AI tools. We expect steady learning and iteration rather than polished perfection on the first day."
+          ]
+        },
+        {
+          "title": "What We Do Not Expect",
+          "paragraphs": [
+            "– Prior internship experience, or a name-brand employer on your CV.",
+            "– Knowing the regulations, tools, or vocabulary before you start; the terms box above is where most people begin.",
+            "– Certainty. Saying what the evidence does not support is treated as a strength, not a gap."
+          ]
+        },
+        {
+          "title": "Application And Selection",
+          "paragraphs": [
+            "Candidates are referred through our education partners. An application is a CV plus a short note naming the track you want and one project from this document you would like to work on, and why. First-round interviews are with the project lead who would supervise the work, not with a screening panel."
+          ]
+        },
+        {
+          "title": "Data Handling, Privacy, And Responsible Ai",
+          "paragraphs": [
+            "Interns work only with data and documents they have been explicitly authorized to access. Patient-identifiable information, study data, client- confidential files, and proprietary materials must never be uploaded to public or unapproved AI services, shared outside the project team, or stored on personal accounts or devices. AI tools may be used only",
+            "where the project lead has approved them for that task, and all AI- assisted work must be independently verified before it enters any deliverable. The intern and the project lead remain accountable for the final result."
+          ]
+        },
+        {
+          "title": "Equal Opportunity & Educational Nature",
+          "paragraphs": [
+            "Hopkins MedTech Group LLC provides equal internship and employment opportunities without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, veteran status, or any other legally protected characteristic. Internships are educational in nature; interns do not provide medical advice, make regulatory determinations, or represent the company to any health authority, client, or study site. The AI and digital health initiative described here is early-stage research, not a cleared, approved, or clinically validated product. Assignments, data access, duration, and supervision are confirmed in the final project description."
+          ]
+        }
+      ],
+      "pdf": "/downloads/HOPKINS_MEDTECH_Quality_Assurance_Compliance_Intern.pdf",
+      "pages": 2,
+      "status": "Educational partner referral; availability to be confirmed"
+    },
+    {
+      "id": "JD-HMT-B01",
+      "slug": "ai-computer-vision-intern",
+      "title": "AI & Computer Vision Intern, Facial and Skin Image Analysis",
+      "excerpt": "Image preprocessing, face region detection and segmentation, visual feature analysis, and technical feasibility testing for an early-stage skin analysis initiative",
+      "track": "AI & Digital Health",
+      "level": "Student / early career",
+      "sections": [
+        {
+          "title": "Key To Terms Used",
+          "paragraphs": [
+            "SEGMENTATION Splitting an image into regions, for example separating cheek, forehead, and background.",
+            "LANDMARK Reference points on a face, used to align images so that they can be compared.",
+            "BASELINE The simple method a new method has to beat before it is worth anything.",
+            "FAILURE MODE The specific condition under which a method stops working, such as poor lighting.",
+            "PREPROCESSING Cleaning and standardizing images before any analysis runs.",
+            "REPRODUCIBLE A pipeline another engineer can rerun from the repository and get the same result."
+          ]
+        },
+        {
+          "title": "Intended Role",
+          "paragraphs": [
+            "The initiative asks whether standardized facial images can be turned into structured, useful skin insights. Nobody has decided that it works. This role runs the experiments that answer it. You will build preprocessing pipelines, test detection and segmentation approaches, and report honestly on where they break. The emphasis is on rigorous, reproducible feasibility testing, not on shipping a finished model."
+          ]
+        },
+        {
+          "title": "Principal Duties",
+          "paragraphs": [
+            "– Build reproducible preprocessing pipelines covering normalization, alignment, lighting correction, and quality gating.",
+            "– Test and compare open-source face detection, landmark, and region segmentation methods on sample images.",
+            "– Implement and evaluate candidate visual feature measures for skin characteristics such as texture, tone, and evenness of appearance.",
+            "– Design controlled experiments that isolate one variable at a time, and record settings so results can be reproduced.",
+            "– Quantify failure modes, including lighting, camera, angle, and skin tone effects, and report them without softening.",
+            "– Document every pipeline and experiment so another engineer can rerun it from the repository alone.",
+            "– Use approved AI coding tools to accelerate implementation, then verify behavior with unit tests and by inspecting outputs by hand."
+          ]
+        },
+        {
+          "title": "Example Assignments",
+          "paragraphs": [
+            "Assignments depend on active studies, authorized data access, and the internship timeline. Examples may include: – A preprocessing and quality-gate pipeline that standardizes incoming facial images",
+            "– A benchmark comparing detection and segmentation methods on accuracy, speed, and failure modes",
+            "– A feasibility report on whether a proposed visual feature can be measured reliably enough to be useful"
+          ]
+        },
+        {
+          "title": "Your First Two Weeks",
+          "paragraphs": [
+            "– Set up the environment and reproduce one published baseline on sample images.",
+            "– Build the preprocessing pipeline and run it over the first batch end to end.",
+            "– Benchmark two detection methods and record accuracy, speed, and where each fails.",
+            "– Write the experiment log format for the rest of the placement."
+          ]
+        },
+        {
+          "title": "About Hopkins Medtech",
+          "paragraphs": [
+            "Hopkins MedTech Group LLC is a U.S. company working in medical technology and in vitro diagnostics. Its work covers clinical performance studies, protocol development and site coordination, data review and quality assurance, and regulatory support for United States and European pathways. The group is also exploring AI and digital health through an early-stage research initiative in facial and skin analysis."
+          ]
+        },
+        {
+          "title": "Required Qualifications",
+          "paragraphs": [
+            "– Currently pursuing, or recently completed, a degree in computer science, electrical engineering, biomedical engineering, applied mathematics, or a related field, or able to show equivalent self- study or project work.",
+            "– Working Python skills and familiarity with at least one of NumPy, OpenCV, PyTorch, or TensorFlow from coursework or personal work.",
+            "– Understanding of basic image processing and evaluation concepts, including how to choose a metric and a baseline.",
+            "– The habit of reporting negative results clearly, since a well- documented failure is a valid and valuable outcome here.",
+            "– Careful handling of image data, including strict adherence to authorized datasets and storage locations.",
+            "– No prior machine learning, research lab, or professional internship experience is required."
+          ]
+        },
+        {
+          "title": "Preferred Qualifications",
+          "paragraphs": [
+            "Not screening criteria. Coursework, labs, personal projects, and self- study all count as evidence. – A course project or personal project involving image classification, detection, or segmentation",
+            "– Exposure to experiment tracking, version control, or containerized environments",
+            "– Awareness of fairness and bias issues in facial analysis, including performance differences across skin tones"
+          ]
+        },
+        {
+          "title": "What You Will Gain",
+          "paragraphs": [
+            "– Work on a genuinely open research question where the answer is not known in advance.",
+            "– Practice experimental discipline: baselines, controls, metrics chosen before results arrive.",
+            "– Learn how technical feasibility findings feed into product and regulatory thinking in health contexts.",
+            "– Leave with a documented benchmark and feasibility report that shows how you think, not just what you built."
+          ]
+        },
+        {
+          "title": "Deliverables",
+          "paragraphs": [
+            "– A documented preprocessing pipeline that runs end to end from the repository",
+            "– A benchmark report comparing methods with metrics, settings, and failure analysis",
+            "– A written feasibility recommendation stating what is supported, what is not, and what to test next"
+          ]
+        },
+        {
+          "title": "Supervision And Evaluation",
+          "paragraphs": [
+            "Interns report to a named project lead, meet on a set weekly cadence, and receive written feedback on each deliverable. Work is evaluated on accuracy and traceability of sources, documentation quality, responsiveness to feedback, judgment about what to escalate, and disciplined use of approved AI tools. We expect steady learning and iteration rather than polished perfection on the first day."
+          ]
+        },
+        {
+          "title": "What We Do Not Expect",
+          "paragraphs": [
+            "– Prior internship experience, or a name-brand employer on your CV.",
+            "– Knowing the regulations, tools, or vocabulary before you start; the terms box above is where most people begin.",
+            "– Certainty. Saying what the evidence does not support is treated as a strength, not a gap."
+          ]
+        },
+        {
+          "title": "Application And Selection",
+          "paragraphs": [
+            "Candidates are referred through our education partners. An application is a CV plus a short note naming the track you want and one project from this document you would like to work on, and why. First-round interviews are with the project lead who would supervise the work, not with a screening panel."
+          ]
+        },
+        {
+          "title": "Data Handling, Privacy, And Responsible Ai",
+          "paragraphs": [
+            "Interns work only with data and documents they have been explicitly authorized to access. Patient-identifiable information, study data, client- confidential files, and proprietary materials must never be uploaded to public or unapproved AI services, shared outside the project team, or stored on personal accounts or devices. AI tools may be used only",
+            "where the project lead has approved them for that task, and all AI- assisted work must be independently verified before it enters any deliverable. The intern and the project lead remain accountable for the final result."
+          ]
+        },
+        {
+          "title": "Equal Opportunity & Educational Nature",
+          "paragraphs": [
+            "Hopkins MedTech Group LLC provides equal internship and employment opportunities without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, veteran status, or any other legally protected characteristic. Internships are educational in nature; interns do not provide medical advice, make regulatory determinations, or represent the company to any health authority, client, or study site. The AI and digital health initiative described here is early-stage research, not a cleared, approved, or clinically validated product. Assignments, data access, duration, and supervision are confirmed in the final project description."
+          ]
+        }
+      ],
+      "pdf": "/downloads/HOPKINS_MEDTECH_AI_Computer_Vision_Intern.pdf",
+      "pages": 2,
+      "status": "Educational partner referral; availability to be confirmed"
+    },
+    {
+      "id": "JD-HMT-B02",
+      "slug": "data-science-intern",
+      "title": "Data Science Intern, Dataset Curation & Model Evaluation",
+      "excerpt": "Dataset survey and curation, annotation schema design, evaluation framework construction, and bias and reliability analysis for health- related AI research",
+      "track": "AI & Digital Health",
+      "level": "Student / early career",
+      "sections": [
+        {
+          "title": "Key To Terms Used",
+          "paragraphs": [
+            "ANNOTATION Human-assigned labels on data. The definition matters more than the tool.",
+            "AGREEMENT How often two independent annotators give the same label to the same item.",
+            "SPLIT Keeping training and test data separate so that results are not self-congratulatory.",
+            "SUBGROUP Performance reported per group, rather than one average that hides a failure.",
+            "LICENSE The terms under which a dataset may legally be used, including for commercial work.",
+            "THRESHOLD The success bar set before results exist, and not moved afterwards."
+          ]
+        },
+        {
+          "title": "Intended Role",
+          "paragraphs": [
+            "Before a health AI model can be trusted, someone has to define what the data means and what counts as good enough. This role does that upstream work. You will survey available datasets and their licenses, design annotation schemas, and build the evaluation framework the project will be judged against. The emphasis is on defining measurement honestly before results exist, not on chasing a headline accuracy number."
+          ]
+        },
+        {
+          "title": "Principal Duties",
+          "paragraphs": [
+            "– Survey publicly available image and health datasets, documenting content, licensing terms, and stated limitations.",
+            "– Assess dataset representativeness across demographics, capture conditions, and label quality, and state gaps plainly.",
+            "– Design annotation schemas and written labeling guidelines that two independent annotators could apply consistently.",
+            "– Measure annotation agreement, and revise guidelines where disagreement shows the definition is ambiguous.",
+            "– Define the evaluation framework, including metrics, splits, baselines, and success thresholds, before any comparison.",
+            "– Run subgroup and bias analyses so that reported performance is not an average hiding an unacceptable failure.",
+            "– Use approved AI tools for exploration and drafting, then verify all dataset claims against the original documentation."
+          ]
+        },
+        {
+          "title": "Example Assignments",
+          "paragraphs": [
+            "Assignments depend on active studies, authorized data access, and the internship timeline. Examples may include: – A dataset landscape review with licensing, representativeness, and suitability recommendations",
+            "– An annotation schema and labeling guideline with an inter- annotator agreement study",
+            "– An evaluation framework defining metrics, baselines, splits, and subgroup reporting requirements"
+          ]
+        },
+        {
+          "title": "Your First Two Weeks",
+          "paragraphs": [
+            "– Survey candidate datasets and record content, license terms, and stated limitations.",
+            "– Draft the first annotation guideline and label a pilot set yourself.",
+            "– Run a two-annotator pilot and measure how often the labels agree.",
+            "– Propose the metrics, splits, and success thresholds before any model is compared."
+          ]
+        },
+        {
+          "title": "About Hopkins Medtech",
+          "paragraphs": [
+            "Hopkins MedTech Group LLC is a U.S. company working in medical technology and in vitro diagnostics. Its work covers clinical performance studies, protocol development and site coordination, data review and quality assurance, and regulatory support for United States and European pathways. The group is also exploring AI and digital health through an early-stage research initiative in facial and skin analysis."
+          ]
+        },
+        {
+          "title": "Required Qualifications",
+          "paragraphs": [
+            "– Currently pursuing, or recently completed, a degree in data science, statistics, computer science, public health, or a related field, or able to show equivalent self-study or project work.",
+            "– Working Python or R skills for data handling, analysis, and visualization from coursework or personal projects.",
+            "– Understanding of evaluation fundamentals such as train and test separation, baselines, and the difference between accuracy and usefulness.",
+            "– The rigor to define success criteria before seeing results, and to leave them unchanged afterward.",
+            "– Careful reading of licensing and consent terms, and the discipline to respect authorized data boundaries.",
+            "– No prior data science, research lab, or professional internship experience is required."
+          ]
+        },
+        {
+          "title": "Preferred Qualifications",
+          "paragraphs": [
+            "Not screening criteria. Coursework, labs, personal projects, and self- study all count as evidence. – Coursework or self-study in machine learning, experimental design, epidemiology, or measurement theory",
+            "– Experience labeling or cleaning a dataset and discovering how ambiguous a definition can be",
+            "– Awareness of algorithmic fairness literature, especially in health and dermatology contexts"
+          ]
+        },
+        {
+          "title": "What You Will Gain",
+          "paragraphs": [
+            "– Learn the part of AI work that decides whether any later result means anything.",
+            "– Practice writing definitions precise enough that two people reach the same label.",
+            "– Understand how subgroup performance and dataset bias become clinical and regulatory concerns.",
+            "– Leave with an evaluation framework and agreement study that demonstrate real methodological maturity."
+          ]
+        },
+        {
+          "title": "Deliverables",
+          "paragraphs": [
+            "– A dataset review with licensing and representativeness findings",
+            "– An annotation guideline plus an inter-annotator agreement report",
+            "– A written evaluation framework with metrics, baselines, and subgroup requirements"
+          ]
+        },
+        {
+          "title": "Supervision And Evaluation",
+          "paragraphs": [
+            "Interns report to a named project lead, meet on a set weekly cadence, and receive written feedback on each deliverable. Work is evaluated on accuracy and traceability of sources, documentation quality, responsiveness to feedback, judgment about what to escalate, and disciplined use of approved AI tools. We expect steady learning and iteration rather than polished perfection on the first day."
+          ]
+        },
+        {
+          "title": "What We Do Not Expect",
+          "paragraphs": [
+            "– Prior internship experience, or a name-brand employer on your CV.",
+            "– Knowing the regulations, tools, or vocabulary before you start; the terms box above is where most people begin.",
+            "– Certainty. Saying what the evidence does not support is treated as a strength, not a gap."
+          ]
+        },
+        {
+          "title": "Application And Selection",
+          "paragraphs": [
+            "Candidates are referred through our education partners. An application is a CV plus a short note naming the track you want and one project from this document you would like to work on, and why. First-round interviews are with the project lead who would supervise the work, not with a screening panel."
+          ]
+        },
+        {
+          "title": "Data Handling, Privacy, And Responsible Ai",
+          "paragraphs": [
+            "Interns work only with data and documents they have been explicitly authorized to access. Patient-identifiable information, study data, client- confidential files, and proprietary materials must never be uploaded to public or unapproved AI services, shared outside the project team, or stored on personal accounts or devices. AI tools may be used only",
+            "where the project lead has approved them for that task, and all AI- assisted work must be independently verified before it enters any deliverable. The intern and the project lead remain accountable for the final result."
+          ]
+        },
+        {
+          "title": "Equal Opportunity & Educational Nature",
+          "paragraphs": [
+            "Hopkins MedTech Group LLC provides equal internship and employment opportunities without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, veteran status, or any other legally protected characteristic. Internships are educational in nature; interns do not provide medical advice, make regulatory determinations, or represent the company to any health authority, client, or study site. The AI and digital health initiative described here is early-stage research, not a cleared, approved, or clinically validated product. Assignments, data access, duration, and supervision are confirmed in the final project description."
+          ]
+        }
+      ],
+      "pdf": "/downloads/HOPKINS_MEDTECH_Data_Science_Evaluation_Intern.pdf",
+      "pages": 2,
+      "status": "Educational partner referral; availability to be confirmed"
+    },
+    {
+      "id": "JD-HMT-B03",
+      "slug": "digital-health-product-intern",
+      "title": "Digital Health Product Intern, User Research & Prototyping",
+      "excerpt": "User needs research, competitive product review, report and interface prototyping, and privacy-aware experience design for an early-stage digital health concept",
+      "track": "AI & Digital Health",
+      "level": "Student / early career",
+      "sections": [
+        {
+          "title": "Key To Terms Used",
+          "paragraphs": [
+            "PROTOTYPE A clickable mock-up used to test an idea before anything is built.",
+            "USABILITY Whether a real person uses it correctly on the first try. Measured, not assumed.",
+            "HEALTH LITERACY Writing a result so that a non-expert reads it correctly and does not panic.",
+            "CLAIM What a product says it can do. In health, the wording is a regulatory matter.",
+            "USER RESEARCH Structured evidence about what people need, not opinions about what they might like.",
+            "PHI Protected health information. Personal data that carries strict handling rules."
+          ]
+        },
+        {
+          "title": "Intended Role",
+          "paragraphs": [
+            "A skin analysis result is only useful if a real person understands it and trusts it. This role owns that translation. You will research what users actually want to know, review how comparable products present results, and prototype reports and interfaces that communicate findings without overclaiming. The emphasis is on evidence-based design judgment and responsible wording, not on visual polish alone."
+          ]
+        },
+        {
+          "title": "Principal Duties",
+          "paragraphs": [
+            "– Research target user needs, concerns, and behavior through interviews, surveys, forums, and published research.",
+            "– Review comparable consumer and clinical products, documenting what they measure, how they present it, and what they claim to know.",
+            "– Translate technical outputs into report layouts and visualizations a non-expert can read correctly on the first try.",
+            "– Build clickable prototypes of key flows such as capture, results, explanation, and follow-up guidance.",
+            "– Draft user-facing wording that describes findings accurately and avoids diagnostic or medical claims.",
+            "– Run informal usability sessions, record where people misread the result, and revise the design accordingly.",
+            "– Use approved AI tools for synthesis and drafting, then verify every quoted user insight and competitor claim against its original source."
+          ]
+        },
+        {
+          "title": "Example Assignments",
+          "paragraphs": [
+            "Assignments depend on active studies, authorized data access, and the internship timeline. Examples may include: – A user needs and behavior research summary with prioritized insights and supporting evidence",
+            "– A competitive product review of how comparable tools present results, with claim language analysis",
+            "– A clickable prototype of the capture-to-results experience with usability findings and revisions"
+          ]
+        },
+        {
+          "title": "Your First Two Weeks",
+          "paragraphs": [
+            "– Map the current concept into a user journey and mark where the user has to trust a number.",
+            "– Review three comparable products and record how each presents results and what it claims.",
+            "– Run two informal user conversations and write down what people actually asked.",
+            "– Produce a first low-fidelity result screen and test whether people read it correctly."
+          ]
+        },
+        {
+          "title": "About Hopkins Medtech",
+          "paragraphs": [
+            "Hopkins MedTech Group LLC is a U.S. company working in medical technology and in vitro diagnostics. Its work covers clinical performance studies, protocol development and site coordination, data review and quality assurance, and regulatory support for United States and European pathways. The group is also exploring AI and digital health through an early-stage research initiative in facial and skin analysis."
+          ]
+        },
+        {
+          "title": "Required Qualifications",
+          "paragraphs": [
+            "– Currently pursuing, or recently completed, a degree in product design, human-computer interaction, public health, psychology, business, communication, or a related field, or able to show equivalent self-study or project work.",
+            "– Clear written English and the ability to explain a technical result in plain, accurate language.",
+            "– Comfort with a design or prototyping tool such as Figma, or willingness to learn one quickly.",
+            "– Genuine curiosity about users, including the willingness to talk to people whose reaction contradicts your design.",
+            "– Judgment about responsible health communication, including the instinct to avoid implied medical claims.",
+            "– No prior product, design, or professional internship experience is required."
+          ]
+        },
+        {
+          "title": "Preferred Qualifications",
+          "paragraphs": [
+            "Not screening criteria. Coursework, labs, personal projects, and self- study all count as evidence. – A course or personal project involving user interviews, usability testing, or interface design",
+            "– Exposure to health literacy, risk communication, or data visualization principles",
+            "– Awareness of privacy expectations around facial images and personal health information"
+          ]
+        },
+        {
+          "title": "What You Will Gain",
+          "paragraphs": [
+            "– Practice the full product research loop from user evidence to prototype to tested revision.",
+            "– Learn how health products communicate uncertainty without either alarming or misleading users.",
+            "– Understand where privacy and claim constraints shape design decisions in regulated contexts.",
+            "– Leave with a research-backed prototype and a usability write-up that make strong portfolio material."
+          ]
+        },
+        {
+          "title": "Deliverables",
+          "paragraphs": [
+            "– A user research summary with prioritized, sourced insights",
+            "– A competitive review of presentation patterns and claim language",
+            "– A clickable prototype plus a usability findings and revision log"
+          ]
+        },
+        {
+          "title": "Supervision And Evaluation",
+          "paragraphs": [
+            "Interns report to a named project lead, meet on a set weekly cadence, and receive written feedback on each deliverable. Work is evaluated on accuracy and traceability of sources, documentation quality, responsiveness to feedback, judgment about what to escalate, and disciplined use of approved AI tools. We expect steady learning and iteration rather than polished perfection on the first day."
+          ]
+        },
+        {
+          "title": "What We Do Not Expect",
+          "paragraphs": [
+            "– Prior internship experience, or a name-brand employer on your CV.",
+            "– Knowing the regulations, tools, or vocabulary before you start; the terms box above is where most people begin.",
+            "– Certainty. Saying what the evidence does not support is treated as a strength, not a gap."
+          ]
+        },
+        {
+          "title": "Application And Selection",
+          "paragraphs": [
+            "Candidates are referred through our education partners. An application is a CV plus a short note naming the track you want and one project from this document you would like to work on, and why. First-round interviews are with the project lead who would supervise the work, not with a screening panel."
+          ]
+        },
+        {
+          "title": "Data Handling, Privacy, And Responsible Ai",
+          "paragraphs": [
+            "Interns work only with data and documents they have been explicitly authorized to access. Patient-identifiable information, study data, client- confidential files, and proprietary materials must never be uploaded to public or unapproved AI services, shared outside the project team, or stored on personal accounts or devices. AI tools may be used only",
+            "where the project lead has approved them for that task, and all AI- assisted work must be independently verified before it enters any deliverable. The intern and the project lead remain accountable for the final result."
+          ]
+        },
+        {
+          "title": "Equal Opportunity & Educational Nature",
+          "paragraphs": [
+            "Hopkins MedTech Group LLC provides equal internship and employment opportunities without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, veteran status, or any other legally protected characteristic. Internships are educational in nature; interns do not provide medical advice, make regulatory determinations, or represent the company to any health authority, client, or study site. The AI and digital health initiative described here is early-stage research, not a cleared, approved, or clinically validated product. Assignments, data access, duration, and supervision are confirmed in the final project description."
+          ]
+        }
+      ],
+      "pdf": "/downloads/HOPKINS_MEDTECH_Digital_Health_Product_Intern.pdf",
+      "pages": 2,
+      "status": "Educational partner referral; availability to be confirmed"
+    },
+    {
+      "id": "JD-HMT-B04",
+      "slug": "healthcare-market-research-intern",
+      "title": "Healthcare Market Research Intern, Digital Health Commercialization",
+      "excerpt": "Market sizing, competitive and channel landscape research, pricing and business model analysis, and commercialization pathway assessment for a digital health concept",
+      "track": "AI & Digital Health",
+      "level": "Student / early career",
+      "sections": [
+        {
+          "title": "Key To Terms Used",
+          "paragraphs": [
+            "TAM Total addressable market. Every possible buyer, before any realism is applied.",
+            "BOTTOM-UP Sizing built from units and prices you can source, not from a headline industry figure.",
+            "CHANNEL The route a product reaches a buyer: direct, clinic partnership, retail, or licensing.",
+            "A positioning choice that changes evidence burden, cost, and time to market.",
+            "WELLNESS / MEDICAL",
+            "SENSITIVITY Showing how the answer moves when the least certain assumption changes.",
+            "REIMBURSEMENT Whether an insurer pays. It often decides whether a health product has a business."
+          ]
+        },
+        {
+          "title": "Intended Role",
+          "paragraphs": [
+            "An early-stage concept needs a defensible answer to who would pay, how much, and through which channel. This role builds that answer from public evidence. You will size the market from the bottom up, map competitors and channels, and assess which commercialization paths are realistic given regulatory and cost constraints. The emphasis is on traceable assumptions, not on optimistic totals."
+          ]
+        },
+        {
+          "title": "Principal Duties",
+          "paragraphs": [
+            "– Build bottom-up market sizing models where each assumption is stated, sourced, and independently adjustable.",
+            "– Map the competitive landscape across consumer apps, clinical tools, device makers, and skincare brands.",
+            "– Research channel options such as direct to consumer, clinic and dermatology partnerships, retail, and licensing.",
+            "– Analyze pricing and business models in comparable products, including subscription, per-use, and bundled offers.",
+            "– Summarize how regulatory positioning, wellness versus medical, changes the cost and speed of each route.",
+            "– Maintain a sourced research log so any number in a deck can be traced back to its origin within one click.",
+            "– Use approved AI tools to accelerate research and drafting, then verify every figure against the primary source."
+          ]
+        },
+        {
+          "title": "Example Assignments",
+          "paragraphs": [
+            "Assignments depend on active studies, authorized data access, and the internship timeline. Examples may include: – A bottom-up market sizing model with a sensitivity analysis on the three assumptions that matter most",
+            "– A competitive and channel landscape map with positioning, pricing, and claim comparisons",
+            "– A commercialization pathway assessment comparing routes on cost, speed, evidence burden, and risk"
+          ]
+        },
+        {
+          "title": "Your First Two Weeks",
+          "paragraphs": [
+            "– Assemble the source list: industry data, filings, pricing pages, and public health statistics.",
+            "– Build the first bottom-up sizing model with every assumption stated and sourced.",
+            "– Map ten comparable products by positioning, price, channel, and claims made.",
+            "– Write the one-page question list: what we must know before choosing a commercial route."
+          ]
+        },
+        {
+          "title": "About Hopkins Medtech",
+          "paragraphs": [
+            "Hopkins MedTech Group LLC is a U.S. company working in medical technology and in vitro diagnostics. Its work covers clinical performance studies, protocol development and site coordination, data review and quality assurance, and regulatory support for United States and European pathways. The group is also exploring AI and digital health through an early-stage research initiative in facial and skin analysis."
+          ]
+        },
+        {
+          "title": "Required Qualifications",
+          "paragraphs": [
+            "– Currently pursuing, or recently completed, a degree in business, economics, public health, health administration, marketing, or a related field, or able to show equivalent self-study or project work.",
+            "– Solid spreadsheet skills, including building a model whose assumptions someone else can change and re-run.",
+            "– Strong written English and the ability to make a structured, evidence-based argument in a short document.",
+            "– Rigorous sourcing habits, including the willingness to label an estimate as an estimate.",
+            "– Comfort researching regulated healthcare markets where claims and evidence requirements shape economics.",
+            "– No prior market research, consulting, or professional internship experience is required."
+          ]
+        },
+        {
+          "title": "Preferred Qualifications",
+          "paragraphs": [
+            "Not screening criteria. Coursework, labs, personal projects, and self- study all count as evidence. – A course or competition project involving market sizing, a business case, or a pitch",
+            "– Exposure to healthcare reimbursement, consumer health markets, or dermatology and skincare categories",
+            "– Familiarity with research sources such as industry reports, company filings, or public health statistics"
+          ]
+        },
+        {
+          "title": "What You Will Gain",
+          "paragraphs": [
+            "– Learn to size a market from the bottom up, where every assumption has to survive a question.",
+            "– Understand how regulatory positioning changes the economics of a health product.",
+            "– Practice building analysis that an executive can challenge line by line and still trust.",
+            "– Leave with a sourced market model and pathway assessment you can defend in an interview."
+          ]
+        },
+        {
+          "title": "Deliverables",
+          "paragraphs": [
+            "– A sourced market sizing model with documented assumptions and sensitivity ranges",
+            "– A competitive and channel landscape map with pricing and positioning comparisons",
+            "– A commercialization pathway memo with a recommendation and its stated conditions"
+          ]
+        },
+        {
+          "title": "Supervision And Evaluation",
+          "paragraphs": [
+            "Interns report to a named project lead, meet on a set weekly cadence, and receive written feedback on each deliverable. Work is evaluated on accuracy and traceability of sources, documentation quality, responsiveness to feedback, judgment about what to escalate, and disciplined use of approved AI tools. We expect steady learning and iteration rather than polished perfection on the first day."
+          ]
+        },
+        {
+          "title": "What We Do Not Expect",
+          "paragraphs": [
+            "– Prior internship experience, or a name-brand employer on your CV.",
+            "– Knowing the regulations, tools, or vocabulary before you start; the terms box above is where most people begin.",
+            "– Certainty. Saying what the evidence does not support is treated as a strength, not a gap."
+          ]
+        },
+        {
+          "title": "Application And Selection",
+          "paragraphs": [
+            "Candidates are referred through our education partners. An application is a CV plus a short note naming the track you want and one project from this document you would like to work on, and why. First-round interviews are with the project lead who would supervise the work, not with a screening panel."
+          ]
+        },
+        {
+          "title": "Data Handling, Privacy, And Responsible Ai",
+          "paragraphs": [
+            "Interns work only with data and documents they have been explicitly authorized to access. Patient-identifiable information, study data, client- confidential files, and proprietary materials must never be uploaded to public or unapproved AI services, shared outside the project team, or stored on personal accounts or devices. AI tools may be used only",
+            "where the project lead has approved them for that task, and all AI- assisted work must be independently verified before it enters any deliverable. The intern and the project lead remain accountable for the final result."
+          ]
+        },
+        {
+          "title": "Equal Opportunity & Educational Nature",
+          "paragraphs": [
+            "Hopkins MedTech Group LLC provides equal internship and employment opportunities without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, veteran status, or any other legally protected characteristic. Internships are educational in nature; interns do not provide medical advice, make regulatory determinations, or represent the company to any health authority, client, or study site. The AI and digital health initiative described here is early-stage research, not a cleared, approved, or clinically validated product. Assignments, data access, duration, and supervision are confirmed in the final project description."
+          ]
+        }
+      ],
+      "pdf": "/downloads/HOPKINS_MEDTECH_Healthcare_Market_Research_Intern.pdf",
+      "pages": 2,
+      "status": "Educational partner referral; availability to be confirmed"
+    }
+  ],
+  "pendingLinkedin": [
+    {
+      "id": "L01",
+      "title": "诺贝尔奖与 AI 研究分析方向的变化",
+      "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7513767054097723392/",
+      "publicationStatus": "published",
+      "reason": "Public body, publisher and original timestamp verified; summary checked against linked primary sources. Original post archived locally.",
+      "sourceAccessStatus": "verified",
+      "originalPublicationDate": "2026-10-08T01:07:44.737Z",
+      "targetRoute": "/resources/nobel-science-ai-and-evidence"
+    },
+    {
+      "id": "L02",
+      "title": "欧盟 IVDR 过渡期与 EUDAMED 的关键日期",
+      "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7513659717945135104/",
+      "publicationStatus": "published",
+      "reason": "Public body, publisher and original timestamp verified; summary checked against linked primary sources. Original post archived locally.",
+      "sourceAccessStatus": "verified",
+      "originalPublicationDate": "2026-10-07T18:01:13.804Z",
+      "targetRoute": "/resources/ivdr-transition-and-eudamed-dates"
+    },
+    {
+      "id": "L03",
+      "title": "抗原快检的灵敏度取决于谁被检测",
+      "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7513279097154985985/",
+      "publicationStatus": "published",
+      "reason": "Public body, publisher and original timestamp verified; summary checked against linked primary sources. Original post archived locally.",
+      "sourceAccessStatus": "verified",
+      "originalPublicationDate": "2026-10-06T16:48:46.736Z",
+      "targetRoute": "/resources/antigen-test-performance-and-population"
+    },
+    {
+      "id": "L04",
+      "title": "FDA 公开 IVD 会议里的 Hopkins 提问",
+      "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7513130950092865536/",
+      "publicationStatus": "published",
+      "reason": "Public body, publisher and original timestamp verified; summary checked against linked primary sources. Original post archived locally.",
+      "sourceAccessStatus": "verified",
+      "originalPublicationDate": "2026-10-06T07:00:05.724Z",
+      "targetRoute": "/resources/hmc-questions-fda-town-halls-2022"
+    },
+    {
+      "id": "L05",
+      "title": "可核实的公司事实",
+      "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7513138611614187520/",
+      "publicationStatus": "published",
+      "reason": "Public body, publisher and original timestamp verified; summary checked against linked primary sources. Original post archived locally.",
+      "sourceAccessStatus": "verified",
+      "originalPublicationDate": "2026-10-06T07:30:32.373Z",
+      "targetRoute": "/resources/hmc-hml-documented-partnership"
+    },
+    {
+      "id": "L06",
+      "title": "欧盟 IVDR 下 B 类 IVD 的时间表",
+      "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7513048648583143424/",
+      "publicationStatus": "published",
+      "reason": "Public body, publisher and original timestamp verified; summary checked against linked primary sources. Original post archived locally.",
+      "sourceAccessStatus": "verified",
+      "originalPublicationDate": "2026-10-06T01:33:03.515Z",
+      "targetRoute": "/resources/class-b-ivdr-planning-milestones"
+    },
+    {
+      "id": "L07",
+      "title": "FDA 把黑色素瘤检测器械从三类降为二类",
+      "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7512866871008886785/",
+      "publicationStatus": "published",
+      "reason": "Public body, publisher and original timestamp verified; summary checked against linked primary sources. Original post archived locally.",
+      "sourceAccessStatus": "verified",
+      "originalPublicationDate": "2026-10-05T13:30:44.364Z",
+      "targetRoute": "/resources/fda-melanoma-device-reclassification-2026"
+    },
+    {
+      "id": "S01",
+      "title": "皮肤渗透仿真",
+      "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7513591552712040449/",
+      "publicationStatus": "published",
+      "reason": "Public body, publisher and original timestamp verified; summary checked against linked primary sources. Original post archived locally.",
+      "sourceAccessStatus": "verified",
+      "originalPublicationDate": "2026-10-07T13:30:21.946Z",
+      "targetRoute": "/resources/modelling-skin-and-transdermal-transport"
+    },
+    {
+      "id": "S02",
+      "title": "颗粒大小与进入皮肤的路径",
+      "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7513229325987434496/",
+      "publicationStatus": "published",
+      "reason": "Public body, publisher and original timestamp verified; summary checked against linked primary sources. Original post archived locally.",
+      "sourceAccessStatus": "verified",
+      "originalPublicationDate": "2026-10-06T13:31:00.365Z",
+      "targetRoute": "/resources/lipid-nanocarriers-skin-delivery"
+    },
+    {
+      "id": "S03",
+      "title": "AI 在皮肤科学里的变化",
+      "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7512640754020716544/",
+      "publicationStatus": "published",
+      "reason": "Public body, publisher and original timestamp verified; summary checked against linked primary sources. Original post archived locally.",
+      "sourceAccessStatus": "verified",
+      "originalPublicationDate": "2026-10-04T22:32:13.873Z",
+      "targetRoute": "/resources/ai-skin-science-different-evidence"
+    },
+    {
+      "id": "S04",
+      "title": "肤色审核的度量问题",
+      "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7511417237304418304/",
+      "publicationStatus": "published",
+      "reason": "Public body, publisher and original timestamp verified; summary checked against linked primary sources. Original post archived locally.",
+      "sourceAccessStatus": "verified",
+      "originalPublicationDate": "2026-10-01T13:30:24.755Z",
+      "targetRoute": "/resources/skin-tone-labels-and-metrics"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+﻿id,sourceUrl,sourceTitle,sourceDate,targetRoute,sectionId,status
+HMC-01,http://www.hopkinsmedtech.com/,The Advantage of Expertise,,/,main,captured
+HMC-02,http://www.hopkinsmedtech.com/About.aspx?ClassID=81,Headquarters,,/services/us-sales-office,main,captured
+HMC-03,http://www.hopkinsmedtech.com/Contact.aspx?ClassID=82,REGULATORY AND COMPLIANCE HELP WORLDWIDE,,/contact,main,captured
+HMC-04,http://www.hopkinsmedtech.com/News.aspx?ClassID=102,Resources,,/resources,main,captured
+HMC-05,http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=124,Intended Use Validation,2022-02-24,/resources/historical-intended-use-validation,main,captured
+HMC-06,http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=126,"The FDA, CBD, and OTC Drugs",2022-02-24,/resources/historical-cbd-otc,main,captured
+HMC-07,http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=127,510k Submissions for Sterile Devices,2022-02-24,/resources/historical-sterile-device-510k,main,captured
+HMC-08,http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=128,Determining the Right Regulatory Pathway for your Drug,2022-02-24,/resources/historical-drug-regulatory-pathways,main,captured
+HMC-09,http://www.hopkinsmedtech.com/default.aspx,The Advantage of Expertise,,/,main,captured
+HMC-10,http://www.hopkinsmedtech.com/management.aspx?ClassID=20,Our Company,,/about,main,captured
+HMC-11,http://www.hopkinsmedtech.com/management.aspx?ClassID=56,Clinical study,,/services/clinical-study,main,captured
+HMC-12,http://www.hopkinsmedtech.com/management.aspx?ClassID=57,OTC Drug,,/services/otc-drug,main,captured
+HMC-13,http://www.hopkinsmedtech.com/management.aspx?ClassID=60,Product Development,,/services/product-development,main,captured
+HMC-14,http://www.hopkinsmedtech.com/management.aspx?ClassID=61,Regulatory Strategy,,/services/regulatory-strategy,main,captured
+HMC-15,http://www.hopkinsmedtech.com/management.aspx?ClassID=62,Regulatory Submission,,/services/regulatory-submission,main,captured
+HMC-16,http://www.hopkinsmedtech.com/management.aspx?ClassID=63,Post Market Surveillance,,/services/post-market-surveillance,main,captured
+HMC-17,http://www.hopkinsmedtech.com/management.aspx?ClassID=72,Facility Registration and Listing,,/services/facility-registration-listing,main,captured
+HMC-18,http://www.hopkinsmedtech.com/management.aspx?ClassID=73,FDA US Agent,,/services/fda-us-agent,main,captured
+HMC-19,http://www.hopkinsmedtech.com/management.aspx?ClassID=74,Food and Dietary Supplements,,/services/food-dietary-supplements,main,captured
+HMC-20,http://www.hopkinsmedtech.com/management.aspx?ClassID=75,CGMP,,/services/cgmp,main,captured
+HMC-21,http://www.hopkinsmedtech.com/management.aspx?ClassID=78,Medical Device 510K,,/services/medical-device-510k,main,captured
+HMC-22,http://www.hopkinsmedtech.com/management.aspx?ClassID=79,EUA Application,,/services/eua-application,main,captured
+HMC-23,http://www.hopkinsmedtech.com/management.aspx?ClassID=80,Marketing,,/services/marketing,main,captured
+HMC-24,http://www.hopkinsmedtech.com/management.aspx?ClassID=85,Project Management,,/services/project-management,main,captured
+HMC-25,http://www.hopkinsmedtech.com/management.aspx?ClassID=86,Clinical Operation,,/services/clinical-operations,main,captured
+HMC-26,http://www.hopkinsmedtech.com/management.aspx?ClassID=87,Data Management,,/services/data-management,main,captured
+HMC-27,http://www.hopkinsmedtech.com/management.aspx?ClassID=88,Biostatics,,/services/biostatistics,main,captured
+HMC-28,http://www.hopkinsmedtech.com/management.aspx?ClassID=89,Quality Assurance,,/services/quality-assurance,main,captured
+HMC-29,http://www.hopkinsmedtech.com/management.aspx?ClassID=92,FDA,,/services/fda-regulatory-consulting,main,captured
+HMC-30,http://www.hopkinsmedtech.com/management.aspx?ClassID=93,IVDR,,/services/ivdr,main,captured
+HMC-31,http://www.hopkinsmedtech.com/management.aspx?ClassID=94,Market Research,,/services/market-research,main,captured
+HMC-32,http://www.hopkinsmedtech.com/management.aspx?ClassID=95,Post Market Compliance,,/services/post-market-compliance,main,captured
+HMC-33,http://www.hopkinsmedtech.com/submissions.aspx?ClassID=3,Product development,,/industries/ivd,main,captured
+HMC-34,http://www.hopkinsmedtech.com/submissions.aspx?ClassID=64,Product Development,,/industries/medical-devices,main,captured
+HMC-35,http://www.hopkinsmedtech.com/submissions.aspx?ClassID=65,Product development,,/industries/gene-cell-therapies,main,captured
+HMC-36,http://www.hopkinsmedtech.com/submissions.aspx?ClassID=66,Product development,,/industries/biopharma,main,captured
+HMC-37,http://www.hopkinsmedtech.com/submissions.aspx?ClassID=67,Drug development,,/industries/pharmaceuticals,main,captured
+HMC-38,http://www.hopkinsmedtech.com/submissions.aspx?ClassID=77,"Homer Wu, Ph.D. - Chief Scientist",,/about/team,main,captured
+HMC-39,http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=119,5 Reasons Why Internal Auditing is Important,2022-02-24,/resources/historical-internal-audits,main,captured
+HMC-40,http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=139,Join Us,2023-09-27,/resources/historical-clinical-manager-2023,main,captured
+HMC-41,http://www.hopkinsmedtech.com/development.aspx?ClassID=100,Medicine,,/services/preclinical-research,main,captured
+HMC-42,http://www.hopkinsmedtech.com/development.aspx?ClassID=60,Ready to learn more about working with us?,,/services/product-development,main,captured
+HMC-43,http://www.hopkinsmedtech.com/development.aspx?ClassID=61,Ready to learn more about working with us?,,/services/regulatory-strategy,main,captured
+HMC-44,http://www.hopkinsmedtech.com/development.aspx?ClassID=62,Ready to learn more about working with us?,,/services/regulatory-submission,main,captured
+HMC-45,http://www.hopkinsmedtech.com/development.aspx?ClassID=63,Ready to learn more about working with us?,,/services/post-market-surveillance,main,captured
+HMC-46,http://www.hopkinsmedtech.com/development.aspx?ClassID=98,Ready to learn more about working with us?,,/services/clinical-investigation,main,captured
+HMC-47,http://www.hopkinsmedtech.com/development.aspx?ClassID=99,Medical equipment,,/services/quality-system,main,captured
+2ef220fb30,http://www.hopkinsmedtech.com,The Advantage of Expertise,,/,main,captured

@@ -1,0 +1,237 @@
+{
+  "origin": "http://127.0.0.1:3002",
+  "layouts": [
+    {
+      "route": "/",
+      "width": 390,
+      "scrollWidth": 390,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "route": "/about/team",
+      "width": 390,
+      "scrollWidth": 390,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "route": "/about/team/jeff-wu",
+      "width": 390,
+      "scrollWidth": 390,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "route": "/about/team/homer-wu",
+      "width": 390,
+      "scrollWidth": 390,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "route": "/about/team/emma-whitmore",
+      "width": 390,
+      "scrollWidth": 390,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "route": "/about/team/daniel-reed",
+      "width": 390,
+      "scrollWidth": 390,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "route": "/about/team/maya-brooks",
+      "width": 390,
+      "scrollWidth": 390,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "route": "/about/team/marcus-bennett",
+      "width": 390,
+      "scrollWidth": 390,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "route": "/",
+      "width": 768,
+      "scrollWidth": 768,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "route": "/about/team",
+      "width": 768,
+      "scrollWidth": 768,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "route": "/about/team/jeff-wu",
+      "width": 768,
+      "scrollWidth": 768,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "route": "/about/team/homer-wu",
+      "width": 768,
+      "scrollWidth": 768,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "route": "/about/team/emma-whitmore",
+      "width": 768,
+      "scrollWidth": 768,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "route": "/about/team/daniel-reed",
+      "width": 768,
+      "scrollWidth": 768,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "route": "/about/team/maya-brooks",
+      "width": 768,
+      "scrollWidth": 768,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "route": "/about/team/marcus-bennett",
+      "width": 768,
+      "scrollWidth": 768,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "route": "/",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "route": "/about/team",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "route": "/about/team/jeff-wu",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "route": "/about/team/homer-wu",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "route": "/about/team/emma-whitmore",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "route": "/about/team/daniel-reed",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "route": "/about/team/maya-brooks",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "route": "/about/team/marcus-bennett",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "h1": 1,
+      "brokenImages": []
+    }
+  ],
+  "checks": [
+    "Six correct team cards, six photographs, and exactly four fictional badges",
+    "Fictional profile pages identify the portrait and biography as examples",
+    "Jeff photo notice is updated and his unconfirmed title remains unfilled",
+    "Four original biographies remain accessible as historical records",
+    "Homepage preview and search distinguish fictional and historical people",
+    "Published Jeff and Homer files are byte-identical to the supplied photographs"
+  ],
+  "accessibility": [
+    {
+      "route": "/about/team",
+      "violations": []
+    },
+    {
+      "route": "/about/team/jeff-wu",
+      "violations": []
+    },
+    {
+      "route": "/about/team/emma-whitmore",
+      "violations": []
+    }
+  ],
+  "errors": [],
+  "portraits": [
+    {
+      "slug": "jeff-wu",
+      "alt": "Jeff Wu",
+      "src": "/_next/image?url=%2Fmedia%2Fteam%2Fjeff-wu-supplied.png&w=3840&q=75",
+      "sha256": "de43dc2b420e38a3bce1d3456c230b0964f197378e99079d9c2c412d0b90e187"
+    },
+    {
+      "slug": "homer-wu",
+      "alt": "Homer Wu, Ph.D.",
+      "src": "/_next/image?url=%2Fmedia%2Fteam%2Fhomer-wu-supplied.png&w=3840&q=75",
+      "sha256": "2291fb61af24f0de63cd0a73948e24f7fa5c39688b4f35605dc787ad6fb21220"
+    },
+    {
+      "slug": "emma-whitmore",
+      "alt": "AI-generated portrait of Emma Whitmore, a fictional example profile",
+      "src": "/_next/image?url=%2Fmedia%2Fteam%2Femma-whitmore-generated.png&w=3840&q=75"
+    },
+    {
+      "slug": "daniel-reed",
+      "alt": "AI-generated portrait of Daniel Reed, a fictional example profile",
+      "src": "/_next/image?url=%2Fmedia%2Fteam%2Fdaniel-reed-generated.png&w=3840&q=75"
+    },
+    {
+      "slug": "maya-brooks",
+      "alt": "AI-generated portrait of Maya Brooks, a fictional example profile",
+      "src": "/_next/image?url=%2Fmedia%2Fteam%2Fmaya-brooks-generated.png&w=3840&q=75"
+    },
+    {
+      "slug": "marcus-bennett",
+      "alt": "AI-generated portrait of Marcus Bennett, a fictional example profile",
+      "src": "/_next/image?url=%2Fmedia%2Fteam%2Fmarcus-bennett-generated.png&w=3840&q=75"
+    }
+  ],
+  "summary": {
+    "layouts": 24,
+    "checks": 6,
+    "portraits": 6,
+    "axePages": 3,
+    "errors": 0
+  }
+}

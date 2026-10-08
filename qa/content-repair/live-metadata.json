@@ -1,0 +1,43 @@
+{
+  "origin": "https://hopkins-medtech.vercel.app",
+  "pages": [
+    {
+      "path": "/",
+      "status": 200,
+      "canonical": "https://hopkins-medtech.vercel.app",
+      "robots": "noindex, nofollow",
+      "robotsHeader": "noindex, nofollow"
+    },
+    {
+      "path": "/archive",
+      "status": 200,
+      "canonical": "https://hopkins-medtech.vercel.app/archive",
+      "robots": "noindex, follow",
+      "robotsHeader": "noindex, nofollow"
+    },
+    {
+      "path": "/archive/records/news-1",
+      "status": 200,
+      "canonical": "https://hopkins-medtech.vercel.app/archive/records/news-1",
+      "robots": "noindex, follow",
+      "robotsHeader": "noindex, nofollow"
+    },
+    {
+      "path": "/services/projects",
+      "status": 200,
+      "canonical": "https://hopkins-medtech.vercel.app/services/projects",
+      "robots": "noindex, nofollow",
+      "robotsHeader": "noindex, nofollow"
+    }
+  ],
+  "sitemap": {
+    "status": 200,
+    "urls": 245,
+    "containsArchive": true
+  },
+  "robots": {
+    "status": 200,
+    "disallowAll": true
+  },
+  "unknownLegacyIdStatus": 404
+}

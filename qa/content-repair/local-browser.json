@@ -1,0 +1,831 @@
+{
+  "origin": "http://127.0.0.1:3002",
+  "layouts": [
+    {
+      "route": "/",
+      "width": 390,
+      "scrollWidth": 390,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "route": "/services",
+      "width": 390,
+      "scrollWidth": 390,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "route": "/services/projects",
+      "width": 390,
+      "scrollWidth": 390,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "route": "/services/disciplines/technology",
+      "width": 390,
+      "scrollWidth": 390,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "route": "/services/disciplines/clinical",
+      "width": 390,
+      "scrollWidth": 390,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "route": "/services/disciplines/regulatory",
+      "width": 390,
+      "scrollWidth": 390,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "route": "/services/disciplines/marketing",
+      "width": 390,
+      "scrollWidth": 390,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "route": "/services/disciplines/post-market",
+      "width": 390,
+      "scrollWidth": 390,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "route": "/resources",
+      "width": 390,
+      "scrollWidth": 390,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "route": "/archive",
+      "width": 390,
+      "scrollWidth": 390,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "route": "/archive/media",
+      "width": 390,
+      "scrollWidth": 390,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "route": "/archive/records/hmc-03",
+      "width": 390,
+      "scrollWidth": 390,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "route": "/archive/records/news-1",
+      "width": 390,
+      "scrollWidth": 390,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "route": "/archive/records/news-47",
+      "width": 390,
+      "scrollWidth": 390,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "route": "/",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "route": "/services",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "route": "/services/projects",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "route": "/services/disciplines/technology",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "route": "/services/disciplines/clinical",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "route": "/services/disciplines/regulatory",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "route": "/services/disciplines/marketing",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "route": "/services/disciplines/post-market",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "route": "/resources",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "route": "/archive",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "route": "/archive/media",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "route": "/archive/records/hmc-03",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "route": "/archive/records/news-1",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "route": "/archive/records/news-47",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "h1": 1,
+      "brokenImages": []
+    }
+  ],
+  "checks": [
+    {
+      "name": "All four original brand images can be reached with controls",
+      "passed": true
+    },
+    {
+      "name": "Original filters work alongside the unchanged new resource library",
+      "passed": true
+    },
+    {
+      "name": "Old filtered URLs initialize the original topic selection",
+      "passed": true
+    },
+    {
+      "name": "Original article previous and next navigation works",
+      "passed": true
+    },
+    {
+      "name": "Both repaired preclinical links open the correct service",
+      "passed": true
+    },
+    {
+      "name": "All 76 unique original images load and are visible in the published collection",
+      "passed": true
+    },
+    {
+      "name": "Original test placeholders and dated customer counts remain in the archive",
+      "passed": true
+    },
+    {
+      "name": "Original navigation artwork is visible when each menu opens",
+      "passed": true
+    },
+    {
+      "name": "Original source text is searchable without replacing current search results",
+      "passed": true
+    }
+  ],
+  "accessibility": [
+    {
+      "route": "/archive",
+      "violations": []
+    },
+    {
+      "route": "/archive/media",
+      "violations": []
+    },
+    {
+      "route": "/archive/records/hmc-03",
+      "violations": []
+    },
+    {
+      "route": "/archive/records/news-1",
+      "violations": []
+    },
+    {
+      "route": "/services/projects",
+      "violations": []
+    },
+    {
+      "route": "/services/disciplines/clinical",
+      "violations": []
+    },
+    {
+      "route": "/resources",
+      "violations": []
+    }
+  ],
+  "errors": [],
+  "images": [
+    {
+      "id": "img-001",
+      "src": "/media/2d264def-20220223150835.webp",
+      "naturalWidth": 556,
+      "width": 384.65625,
+      "height": 178.484375
+    },
+    {
+      "id": "img-002",
+      "src": "/media/bef89ac0-202202231610531.webp",
+      "naturalWidth": 556,
+      "width": 384.671875,
+      "height": 145.28125
+    },
+    {
+      "id": "img-003",
+      "src": "/media/7e12352f-202202231611071.webp",
+      "naturalWidth": 556,
+      "width": 384.65625,
+      "height": 145.28125
+    },
+    {
+      "id": "img-004",
+      "src": "/media/172f159d-202202231612001.webp",
+      "naturalWidth": 556,
+      "width": 384.65625,
+      "height": 145.28125
+    },
+    {
+      "id": "img-005",
+      "src": "/media/28161479-202202231612131.webp",
+      "naturalWidth": 556,
+      "width": 384.671875,
+      "height": 145.28125
+    },
+    {
+      "id": "img-006",
+      "src": "/media/c9a0bae7-202202231613541.webp",
+      "naturalWidth": 556,
+      "width": 384.65625,
+      "height": 145.28125
+    },
+    {
+      "id": "img-007",
+      "src": "/media/ab9174fe-QQ__20220125164247.png",
+      "naturalWidth": 27,
+      "width": 27,
+      "height": 33
+    },
+    {
+      "id": "img-008",
+      "src": "/media/c74ac52d-QQ__20220126100329.png",
+      "naturalWidth": 38,
+      "width": 38,
+      "height": 28
+    },
+    {
+      "id": "img-009",
+      "src": "/media/abacc291-QQ__20220126101453.png",
+      "naturalWidth": 43,
+      "width": 43,
+      "height": 30
+    },
+    {
+      "id": "img-010",
+      "src": "/media/e8f0873e-20220223151006.webp",
+      "naturalWidth": 1600,
+      "width": 384.65625,
+      "height": 132.21875
+    },
+    {
+      "id": "img-011",
+      "src": "/media/d34f02c4-20220223151019.webp",
+      "naturalWidth": 1600,
+      "width": 384.671875,
+      "height": 132.21875
+    },
+    {
+      "id": "img-012",
+      "src": "/media/f3da623b-20220223151012.webp",
+      "naturalWidth": 1600,
+      "width": 384.65625,
+      "height": 132.21875
+    },
+    {
+      "id": "img-013",
+      "src": "/media/c9522dc4-20220325150109.png",
+      "naturalWidth": 96,
+      "width": 96,
+      "height": 132
+    },
+    {
+      "id": "img-014",
+      "src": "/media/e5ef6112-20220325150340.png",
+      "naturalWidth": 96,
+      "width": 96,
+      "height": 132
+    },
+    {
+      "id": "img-015",
+      "src": "/media/e06961ea-20220325150517.png",
+      "naturalWidth": 96,
+      "width": 96,
+      "height": 132
+    },
+    {
+      "id": "img-016",
+      "src": "/media/baa146d4-20220302093727.png",
+      "naturalWidth": 420,
+      "width": 384.65625,
+      "height": 190
+    },
+    {
+      "id": "img-017",
+      "src": "/media/e65c93ac-20220224182345.webp",
+      "naturalWidth": 554,
+      "width": 384.671875,
+      "height": 190
+    },
+    {
+      "id": "img-018",
+      "src": "/media/0b137e45-20220224173154.webp",
+      "naturalWidth": 554,
+      "width": 384.65625,
+      "height": 190
+    },
+    {
+      "id": "img-019",
+      "src": "/media/5ca63c0f-20220224173357.webp",
+      "naturalWidth": 554,
+      "width": 384.65625,
+      "height": 190
+    },
+    {
+      "id": "img-020",
+      "src": "/media/e379d8d0-20220224173659.webp",
+      "naturalWidth": 554,
+      "width": 384.671875,
+      "height": 190
+    },
+    {
+      "id": "img-022",
+      "src": "/media/17362bbc-20220224113027.webp",
+      "naturalWidth": 1600,
+      "width": 384.65625,
+      "height": 132.21875
+    },
+    {
+      "id": "img-023",
+      "src": "/media/ae9d8ed7-20220224174810.webp",
+      "naturalWidth": 1600,
+      "width": 384.65625,
+      "height": 132.21875
+    },
+    {
+      "id": "img-024",
+      "src": "/media/d2c1cc58-c_ico_tel1.png",
+      "naturalWidth": 35,
+      "width": 35,
+      "height": 35
+    },
+    {
+      "id": "img-025",
+      "src": "/media/c0fc4694-c_ico_add1.png",
+      "naturalWidth": 35,
+      "width": 35,
+      "height": 35
+    },
+    {
+      "id": "img-026",
+      "src": "/media/970d8209-c_ico_email1.png",
+      "naturalWidth": 35,
+      "width": 35,
+      "height": 35
+    },
+    {
+      "id": "img-027",
+      "src": "/media/252121ec-20220224175348.webp",
+      "naturalWidth": 1600,
+      "width": 384.671875,
+      "height": 132.21875
+    },
+    {
+      "id": "img-028",
+      "src": "/media/f5d06bb9-20220224173902.webp",
+      "naturalWidth": 552,
+      "width": 384.65625,
+      "height": 190
+    },
+    {
+      "id": "img-029",
+      "src": "/media/12351364-20230927164725.webp",
+      "naturalWidth": 542,
+      "width": 384.65625,
+      "height": 190
+    },
+    {
+      "id": "img-031",
+      "src": "/media/2ecf86fb-6378132031357480724943499.webp",
+      "naturalWidth": 554,
+      "width": 384.671875,
+      "height": 190
+    },
+    {
+      "id": "img-034",
+      "src": "/media/a83049a4-20220224174612.webp",
+      "naturalWidth": 1600,
+      "width": 384.65625,
+      "height": 132.21875
+    },
+    {
+      "id": "img-035",
+      "src": "/media/54e10fd2-20220224112925.webp",
+      "naturalWidth": 1600,
+      "width": 384.65625,
+      "height": 132.21875
+    },
+    {
+      "id": "img-036",
+      "src": "/media/82929112-20220224112941.webp",
+      "naturalWidth": 1600,
+      "width": 384.671875,
+      "height": 132.21875
+    },
+    {
+      "id": "img-037",
+      "src": "/media/7213ee87-20220302152324.webp",
+      "naturalWidth": 1600,
+      "width": 384.65625,
+      "height": 132.21875
+    },
+    {
+      "id": "img-038",
+      "src": "/media/89138083-20220302152342.webp",
+      "naturalWidth": 1600,
+      "width": 384.65625,
+      "height": 132.21875
+    },
+    {
+      "id": "img-039",
+      "src": "/media/b73432fc-20220302152633.webp",
+      "naturalWidth": 1600,
+      "width": 384.671875,
+      "height": 132.21875
+    },
+    {
+      "id": "img-040",
+      "src": "/media/002d20b6-20220302152656.webp",
+      "naturalWidth": 1600,
+      "width": 384.65625,
+      "height": 132.21875
+    },
+    {
+      "id": "img-041",
+      "src": "/media/4b44fb6d-20220224112959.webp",
+      "naturalWidth": 1600,
+      "width": 384.65625,
+      "height": 132.21875
+    },
+    {
+      "id": "img-042",
+      "src": "/media/cf7d728d-20220224104609.webp",
+      "naturalWidth": 1600,
+      "width": 384.671875,
+      "height": 132.21875
+    },
+    {
+      "id": "img-043",
+      "src": "/media/7647f80f-20220224104650.webp",
+      "naturalWidth": 1600,
+      "width": 384.65625,
+      "height": 132.21875
+    },
+    {
+      "id": "img-044",
+      "src": "/media/b35b6e39-20220224104239.webp",
+      "naturalWidth": 1600,
+      "width": 384.65625,
+      "height": 132.21875
+    },
+    {
+      "id": "img-045",
+      "src": "/media/6bb2b09d-20220224112908.webp",
+      "naturalWidth": 1600,
+      "width": 384.671875,
+      "height": 132.21875
+    },
+    {
+      "id": "img-046",
+      "src": "/media/ba95a04a-20220224104539.webp",
+      "naturalWidth": 1600,
+      "width": 384.65625,
+      "height": 132.21875
+    },
+    {
+      "id": "img-047",
+      "src": "/media/42ce03f4-20220224113014.webp",
+      "naturalWidth": 1600,
+      "width": 384.65625,
+      "height": 132.21875
+    },
+    {
+      "id": "img-048",
+      "src": "/media/b82a431f-20220224112638.webp",
+      "naturalWidth": 1600,
+      "width": 384.671875,
+      "height": 132.21875
+    },
+    {
+      "id": "img-050",
+      "src": "/media/19b64de0-20220224113106.webp",
+      "naturalWidth": 1600,
+      "width": 384.65625,
+      "height": 132.21875
+    },
+    {
+      "id": "img-051",
+      "src": "/media/8642e28f-20220224103918.webp",
+      "naturalWidth": 1600,
+      "width": 384.65625,
+      "height": 132.21875
+    },
+    {
+      "id": "img-052",
+      "src": "/media/b758202e-20220224112655.webp",
+      "naturalWidth": 1600,
+      "width": 384.671875,
+      "height": 132.21875
+    },
+    {
+      "id": "img-053",
+      "src": "/media/ce3dea35-20220224104625.webp",
+      "naturalWidth": 1600,
+      "width": 384.65625,
+      "height": 132.21875
+    },
+    {
+      "id": "img-054",
+      "src": "/media/f6fadab7-20220224112734.webp",
+      "naturalWidth": 1600,
+      "width": 384.65625,
+      "height": 132.21875
+    },
+    {
+      "id": "img-055",
+      "src": "/media/6390b9f6-20220224112816.webp",
+      "naturalWidth": 1600,
+      "width": 384.671875,
+      "height": 132.21875
+    },
+    {
+      "id": "img-056",
+      "src": "/media/df24506e-20220224112832.webp",
+      "naturalWidth": 1600,
+      "width": 384.65625,
+      "height": 132.21875
+    },
+    {
+      "id": "img-057",
+      "src": "/media/0d78598a-20220224105150.webp",
+      "naturalWidth": 1600,
+      "width": 384.65625,
+      "height": 132.21875
+    },
+    {
+      "id": "img-058",
+      "src": "/media/a8787ccc-20220224105424.webp",
+      "naturalWidth": 1600,
+      "width": 384.671875,
+      "height": 132.21875
+    },
+    {
+      "id": "img-059",
+      "src": "/media/3be3089c-20220224105550.webp",
+      "naturalWidth": 1600,
+      "width": 384.65625,
+      "height": 132.21875
+    },
+    {
+      "id": "img-060",
+      "src": "/media/7acad3f5-20220224103944.webp",
+      "naturalWidth": 1600,
+      "width": 384.65625,
+      "height": 132.21875
+    },
+    {
+      "id": "img-061",
+      "src": "/media/bd48ce81-20220224105615.webp",
+      "naturalWidth": 1600,
+      "width": 384.671875,
+      "height": 132.21875
+    },
+    {
+      "id": "img-062",
+      "src": "/media/f23e4377-20220224174850.webp",
+      "naturalWidth": 1600,
+      "width": 384.65625,
+      "height": 132.21875
+    },
+    {
+      "id": "img-063",
+      "src": "/media/71471dd8-6378131992601118773146939.webp",
+      "naturalWidth": 552,
+      "width": 384.65625,
+      "height": 190
+    },
+    {
+      "id": "img-067",
+      "src": "/media/89482ae5-Emma-Pattern-KO-1.webp",
+      "naturalWidth": 1600,
+      "width": 384.671875,
+      "height": 89.90625
+    },
+    {
+      "id": "img-068",
+      "src": "/media/8dac6e4a-cont.webp",
+      "naturalWidth": 900,
+      "width": 384.65625,
+      "height": 115.390625
+    },
+    {
+      "id": "img-069",
+      "src": "/media/7d0724e1-time.png",
+      "naturalWidth": 16,
+      "width": 16,
+      "height": 16
+    },
+    {
+      "id": "img-070",
+      "src": "/media/6942a077-eye.png",
+      "naturalWidth": 18,
+      "width": 18,
+      "height": 18
+    },
+    {
+      "id": "img-071",
+      "src": "/media/be961cc5-admin.png",
+      "naturalWidth": 16,
+      "width": 16,
+      "height": 16
+    },
+    {
+      "id": "img-072",
+      "src": "/media/fe5487be-c_ico_add.png",
+      "naturalWidth": 18,
+      "width": 18,
+      "height": 18
+    },
+    {
+      "id": "img-073",
+      "src": "/media/a958b11f-c_ico_tel.png",
+      "naturalWidth": 18,
+      "width": 18,
+      "height": 18
+    },
+    {
+      "id": "img-074",
+      "src": "/media/f3e5fc93-c_ico_wechat.png",
+      "naturalWidth": 21,
+      "width": 21,
+      "height": 18
+    },
+    {
+      "id": "img-075",
+      "src": "/media/69323252-c_ico_email.png",
+      "naturalWidth": 18,
+      "width": 18,
+      "height": 18
+    },
+    {
+      "id": "img-076",
+      "src": "/media/3877d5d2-c_ico_web.png",
+      "naturalWidth": 18,
+      "width": 18,
+      "height": 18
+    },
+    {
+      "id": "img-077",
+      "src": "/media/b2b39415-tel_icon.png",
+      "naturalWidth": 22,
+      "width": 22,
+      "height": 22
+    },
+    {
+      "id": "img-078",
+      "src": "/media/6217984d-pc-xc-icon2.png",
+      "naturalWidth": 41,
+      "width": 41,
+      "height": 41
+    },
+    {
+      "id": "img-079",
+      "src": "/media/5d2ed25b-updeta_home1.png",
+      "naturalWidth": 14,
+      "width": 14,
+      "height": 14
+    },
+    {
+      "id": "img-080",
+      "src": "/media/0b1d019e-about-cn3_19.png",
+      "naturalWidth": 12,
+      "width": 12,
+      "height": 12
+    },
+    {
+      "id": "img-081",
+      "src": "/media/fc09130c-update_search.png",
+      "naturalWidth": 18,
+      "width": 18,
+      "height": 18
+    },
+    {
+      "id": "img-082",
+      "src": "/media/12953fbd64-20220222152604.jpg",
+      "naturalWidth": 136,
+      "width": 136,
+      "height": 139
+    },
+    {
+      "id": "img-083",
+      "src": "/media/18949e7628-default.jpg",
+      "naturalWidth": 104,
+      "width": 104,
+      "height": 94
+    },
+    {
+      "id": "img-084",
+      "src": "/media/7fc710928c-20220218165456.jpg",
+      "naturalWidth": 1901,
+      "width": 384.65625,
+      "height": 132.9375
+    }
+  ],
+  "interactiveImages": [
+    {
+      "src": "/media/7e12352f-202202231611071.webp",
+      "route": "/",
+      "control": "Services submenu"
+    },
+    {
+      "src": "/media/bef89ac0-202202231610531.webp",
+      "route": "/",
+      "control": "Industries submenu"
+    },
+    {
+      "src": "/media/c9a0bae7-202202231613541.webp",
+      "route": "/",
+      "control": "About submenu"
+    }
+  ],
+  "summary": {
+    "layouts": 28,
+    "layoutFailures": 0,
+    "checks": 9,
+    "passed": 9,
+    "uniqueOriginalImagesVisible": 76,
+    "axePages": 7,
+    "axeViolations": 0,
+    "errors": 0
+  }
+}

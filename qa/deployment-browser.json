@@ -1,0 +1,199 @@
+{
+  "origin": "https://hopkins-medtech.vercel.app",
+  "pages": [
+    {
+      "path": "/",
+      "width": 390,
+      "status": 200,
+      "title": "Hopkins MedTech Compliance | Clinical Insight. Regulatory Clarity.",
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": [],
+      "canonical": "https://hopkins-medtech.vercel.app",
+      "robots": "noindex, nofollow"
+    },
+    {
+      "path": "/careers",
+      "width": 390,
+      "status": 200,
+      "title": "Careers | Hopkins MedTech",
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": [],
+      "canonical": "https://hopkins-medtech.vercel.app/careers",
+      "robots": "noindex, nofollow"
+    },
+    {
+      "path": "/resources",
+      "width": 390,
+      "status": 200,
+      "title": "Resources | Hopkins MedTech",
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": [],
+      "canonical": "https://hopkins-medtech.vercel.app/resources",
+      "robots": "noindex, nofollow"
+    },
+    {
+      "path": "/about/team",
+      "width": 390,
+      "status": 200,
+      "title": "Our Team | Hopkins MedTech",
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": [],
+      "canonical": "https://hopkins-medtech.vercel.app/about/team",
+      "robots": "noindex, nofollow"
+    },
+    {
+      "path": "/resources/ivdr-transition-and-eudamed-dates",
+      "width": 390,
+      "status": 200,
+      "title": "IVDR transition and EUDAMED: two timelines to track | Hopkins MedTech",
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": [],
+      "canonical": "https://hopkins-medtech.vercel.app/resources/ivdr-transition-and-eudamed-dates",
+      "robots": "noindex, nofollow"
+    },
+    {
+      "path": "/resources/skin-tone-labels-and-metrics",
+      "width": 390,
+      "status": 200,
+      "title": "Skin-tone auditing starts with the measurement | Hopkins MedTech",
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": [],
+      "canonical": "https://hopkins-medtech.vercel.app/resources/skin-tone-labels-and-metrics",
+      "robots": "noindex, nofollow"
+    },
+    {
+      "path": "/careers/clinical-data-biostatistics-intern",
+      "width": 390,
+      "status": 200,
+      "title": "Clinical Data & Biostatistics Intern, Data Review and Study Quality | Hopkins MedTech",
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": [],
+      "canonical": "https://hopkins-medtech.vercel.app/careers/clinical-data-biostatistics-intern",
+      "robots": "noindex, nofollow"
+    },
+    {
+      "path": "/",
+      "width": 1440,
+      "status": 200,
+      "title": "Hopkins MedTech Compliance | Clinical Insight. Regulatory Clarity.",
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": [],
+      "canonical": "https://hopkins-medtech.vercel.app",
+      "robots": "noindex, nofollow"
+    },
+    {
+      "path": "/careers",
+      "width": 1440,
+      "status": 200,
+      "title": "Careers | Hopkins MedTech",
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": [],
+      "canonical": "https://hopkins-medtech.vercel.app/careers",
+      "robots": "noindex, nofollow"
+    },
+    {
+      "path": "/resources",
+      "width": 1440,
+      "status": 200,
+      "title": "Resources | Hopkins MedTech",
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": [],
+      "canonical": "https://hopkins-medtech.vercel.app/resources",
+      "robots": "noindex, nofollow"
+    },
+    {
+      "path": "/about/team",
+      "width": 1440,
+      "status": 200,
+      "title": "Our Team | Hopkins MedTech",
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": [],
+      "canonical": "https://hopkins-medtech.vercel.app/about/team",
+      "robots": "noindex, nofollow"
+    },
+    {
+      "path": "/resources/ivdr-transition-and-eudamed-dates",
+      "width": 1440,
+      "status": 200,
+      "title": "IVDR transition and EUDAMED: two timelines to track | Hopkins MedTech",
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": [],
+      "canonical": "https://hopkins-medtech.vercel.app/resources/ivdr-transition-and-eudamed-dates",
+      "robots": "noindex, nofollow"
+    },
+    {
+      "path": "/resources/skin-tone-labels-and-metrics",
+      "width": 1440,
+      "status": 200,
+      "title": "Skin-tone auditing starts with the measurement | Hopkins MedTech",
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": [],
+      "canonical": "https://hopkins-medtech.vercel.app/resources/skin-tone-labels-and-metrics",
+      "robots": "noindex, nofollow"
+    },
+    {
+      "path": "/careers/clinical-data-biostatistics-intern",
+      "width": 1440,
+      "status": 200,
+      "title": "Clinical Data & Biostatistics Intern, Data Review and Study Quality | Hopkins MedTech",
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": [],
+      "canonical": "https://hopkins-medtech.vercel.app/careers/clinical-data-biostatistics-intern",
+      "robots": "noindex, nofollow"
+    }
+  ],
+  "accessibility": [
+    {
+      "path": "/resources/ivdr-transition-and-eudamed-dates",
+      "violations": []
+    },
+    {
+      "path": "/resources/skin-tone-labels-and-metrics",
+      "violations": []
+    }
+  ],
+  "api": [
+    {
+      "path": "/api/contact",
+      "status": 400,
+      "body": {
+        "ok": false,
+        "code": "VALIDATION_ERROR",
+        "message": "Please check the form fields.",
+        "fieldErrors": {
+          "subject": "This field is required.",
+          "name": "This field is required.",
+          "message": "This field is required.",
+          "email": "Provide an email address or a phone number."
+        }
+      }
+    },
+    {
+      "path": "/api/newsletter",
+      "status": 400,
+      "body": {
+        "ok": false,
+        "code": "VALIDATION_ERROR",
+        "message": "Please check the form fields.",
+        "fieldErrors": {
+          "email": "Email is required."
+        }
+      }
+    }
+  ],
+  "errors": []
+}

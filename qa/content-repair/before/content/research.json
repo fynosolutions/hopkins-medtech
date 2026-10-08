@@ -1,0 +1,851 @@
+[
+  {
+    "id": "P15",
+    "slug": "evaluating-transparency-in-ai-ml-model-characteristics-for-fda-reviewed-medical-devices",
+    "title": "Evaluating transparency in AI/ML model characteristics for FDA-reviewed medical devices",
+    "paperTitle": "Evaluating transparency in AI/ML model characteristics for FDA-reviewed medical devices",
+    "excerpt": "Clear model and dataset documentation is essential for interpreting an AI device’s reported performance.",
+    "html": "<h2>What the paper explores</h2><p>This study assessed transparency in publicly available FDA device summaries across model-development and performance-reporting categories. Using an AI Characteristics Transparency Reporting score, the authors found limited disclosure across many of the assessed characteristics, despite modest improvement after the period associated with good machine learning practice principles.</p><h2>How to interpret the evidence</h2><p>The score describes public reporting, not the complete regulatory submission or the inherent quality of every model. Missing public information should not be treated as proof that a study was not performed.</p><h2>Questions for MedTech teams</h2><p>Document model scope, data provenance, evaluation methods and limitations in a traceable form that connects technical work with clinical and regulatory communication.</p>",
+    "type": "Research Papers",
+    "topic": "Quality",
+    "year": "2025",
+    "date": "2025-11-17",
+    "originalPublicationDate": "2025-11-17",
+    "editorialPublicationDate": null,
+    "importDate": "2026-10-08",
+    "author": "Mehta V, Komanduri A, Bhadouriya RS, Mehta V, Johnson MD, Shrestha P, Nikolov M, Jain B, Shah N, Schulman K.",
+    "editor": "Editorial summary prepared for HMC website preview",
+    "sourceOrganization": "NPJ digital medicine",
+    "doi": "10.1038/s41746-025-02052-9",
+    "sourceUrl": "https://doi.org/10.1038/s41746-025-02052-9",
+    "sourceAccessStatus": "verified",
+    "access": "Based on the abstract",
+    "reviewedAt": "2026-10-08",
+    "publicationStatus": "published",
+    "reviewNote": "",
+    "additionalSources": [
+      {
+        "label": "Bibliographic record and abstract on PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41249460/"
+      }
+    ]
+  },
+  {
+    "id": "P01",
+    "slug": "performance-of-rapid-antigen-tests-to-detect-symptomatic-and-asymptomatic-sars-cov-2-infection-a-prospective-cohort-study",
+    "title": "Performance of Rapid Antigen Tests to Detect Symptomatic and Asymptomatic SARS-CoV-2 Infection : A Prospective Cohort Study",
+    "paperTitle": "Performance of Rapid Antigen Tests to Detect Symptomatic and Asymptomatic SARS-CoV-2 Infection : A Prospective Cohort Study",
+    "excerpt": "Why the timing and repetition of an antigen test matter as much as its single-test sensitivity.",
+    "html": "<h2>What the paper explores</h2><p>This prospective US cohort paired home antigen testing with molecular testing every 48 hours. Performance differed by symptom status, and repeat testing improved detection. The study treats a sequence of tests as an evaluation strategy, rather than assuming one negative result answers the clinical question.</p><h2>How to interpret the evidence</h2><p>The tested interval was 48 hours. The results do not establish performance for shorter intervals, other products or every later viral variant.</p><h2>Questions for MedTech teams</h2><p>For an IVD study, define the intended population, testing schedule and interpretation of repeated results before selecting performance endpoints.</p>",
+    "type": "Research Papers",
+    "topic": "IVD",
+    "year": "2023",
+    "date": "2023-07-04",
+    "originalPublicationDate": "2023-07-04",
+    "editorialPublicationDate": null,
+    "importDate": "2026-10-08",
+    "author": "Soni A, Herbert C, Lin H, Yan Y, Pretz C, Stamegna P, Wang B, Orwig T, Wright C, Tarrant S, Behar S, Suvarna T, Schrader S, Harman E, Nowak C, Kheterpal V, Rao LV, Cashman L, Orvek E, Ayturk D, Gibson L, Zai A, Wong S, Lazar P, Wang Z, Filippaios A, Barton B, Achenbach CJ, Murphy RL, Robinson ML, Manabe YC, Pandey S, Colubri A, O'Connor L, Lemon SC, Fahey N, Luzuriaga KL, Hafer N, Roth K, Lowe T, Stenzel T, Heetderks W, Broach J, McManus DD.",
+    "editor": "Editorial summary prepared for HMC website preview",
+    "sourceOrganization": "Annals of internal medicine",
+    "doi": "10.7326/M23-0385",
+    "sourceUrl": "https://doi.org/10.7326/M23-0385",
+    "sourceAccessStatus": "verified",
+    "access": "Based on the abstract",
+    "reviewedAt": "2026-10-08",
+    "publicationStatus": "published",
+    "reviewNote": "",
+    "additionalSources": [
+      {
+        "label": "Bibliographic record and abstract on PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37399548/"
+      }
+    ]
+  },
+  {
+    "id": "P05",
+    "slug": "pivotal-trial-of-an-autonomous-ai-based-diagnostic-system-for-detection-of-diabetic-retinopathy-in-primary-care-offices",
+    "title": "Pivotal trial of an autonomous AI-based diagnostic system for detection of diabetic retinopathy in primary care offices",
+    "paperTitle": "Pivotal trial of an autonomous AI-based diagnostic system for detection of diabetic retinopathy in primary care offices",
+    "excerpt": "A pivotal diagnostic AI study connects reference standards, clinical settings and predefined performance endpoints.",
+    "html": "<h2>What the paper explores</h2><p>The trial evaluated an autonomous diabetic retinopathy system in primary care, using a specialist reading-center reference. It enrolled people with diabetes without a prior retinopathy diagnosis and assessed sensitivity, specificity and the ability to produce interpretable images against predefined endpoints.</p><h2>How to interpret the evidence</h2><p>The evidence concerns a specific system, disease definition, operator training protocol and intended population. It does not validate other AI systems or justify broader clinical claims.</p><h2>Questions for MedTech teams</h2><p>A diagnostic AI evidence plan should connect the product’s intended user and setting with its reference standard, failure handling and clinically relevant performance targets.</p>",
+    "type": "Research Papers",
+    "topic": "Digital Health",
+    "year": "2018",
+    "date": "2018-08-28",
+    "originalPublicationDate": "2018-08-28",
+    "editorialPublicationDate": null,
+    "importDate": "2026-10-08",
+    "author": "Abràmoff MD, Lavin PT, Birch M, Shah N, Folk JC.",
+    "editor": "Editorial summary prepared for HMC website preview",
+    "sourceOrganization": "NPJ digital medicine",
+    "doi": "10.1038/s41746-018-0040-6",
+    "sourceUrl": "https://doi.org/10.1038/s41746-018-0040-6",
+    "sourceAccessStatus": "verified",
+    "access": "Based on the abstract",
+    "reviewedAt": "2026-10-08",
+    "publicationStatus": "published",
+    "reviewNote": "",
+    "additionalSources": [
+      {
+        "label": "Bibliographic record and abstract on PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31304320/"
+      }
+    ]
+  },
+  {
+    "id": "P02",
+    "slug": "diagnostic-accuracy-of-covid-19-rapid-antigen-tests-with-unsupervised-self-sampling-in-people-with-symptoms-in-the-omicron-period-cross-sectional-study",
+    "title": "Diagnostic accuracy of covid-19 rapid antigen tests with unsupervised self-sampling in people with symptoms in the omicron period: cross sectional study",
+    "paperTitle": "Diagnostic accuracy of covid-19 rapid antigen tests with unsupervised self-sampling in people with symptoms in the omicron period: cross sectional study",
+    "excerpt": "Self-sampling, symptoms and the reason for testing can change the performance measured in a diagnostic study.",
+    "html": "<h2>What the paper explores</h2><p>The investigators evaluated unsupervised rapid antigen self-tests among symptomatic people during the Omicron period in the Netherlands. Results varied with the sampling approach and with whether participants were already confirming a positive self-test. That recruitment context is an important part of interpreting the reported sensitivity.</p><h2>How to interpret the evidence</h2><p>This was a diagnostic accuracy study in a particular epidemic and recruitment setting. Its results should not be transferred directly to a different population. A published correction is linked below; consult the corrected article before using exact values.</p><h2>Questions for MedTech teams</h2><p>Document who enters the study, why they seek testing and how specimens are collected. Those details help explain what a reported performance estimate actually represents.</p>",
+    "type": "Research Papers",
+    "topic": "IVD",
+    "year": "2022",
+    "date": "2022-09-14",
+    "originalPublicationDate": "2022-09-14",
+    "editorialPublicationDate": null,
+    "importDate": "2026-10-08",
+    "author": "Schuit E, Venekamp RP, Hooft L, Veldhuijzen IK, van den Bijllaardt W, Pas SD, Zwart VF, Lodder EB, Hellwich M, Koppelman M, Molenkamp R, Wijers CJH, Vroom IH, Smeets LC, Nagel-Imming CRS, Han WGH, van den Hof S, Kluytmans JAJW, van de Wijgert JHHM, Moons KGM.",
+    "editor": "Editorial summary prepared for HMC website preview",
+    "sourceOrganization": "BMJ (Clinical research ed.)",
+    "doi": "10.1136/bmj-2022-071215",
+    "sourceUrl": "https://doi.org/10.1136/bmj-2022-071215",
+    "sourceAccessStatus": "verified",
+    "access": "Based on the abstract",
+    "reviewedAt": "2026-10-08",
+    "publicationStatus": "published",
+    "reviewNote": "",
+    "additionalSources": [
+      {
+        "label": "Bibliographic record and abstract on PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36104069/"
+      },
+      {
+        "label": "Published correction (PMC record)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9478905/"
+      }
+    ]
+  },
+  {
+    "id": "P03",
+    "slug": "diagnostic-accuracy-of-rapid-antigen-tests-in-asymptomatic-and-presymptomatic-close-contacts-of-individuals-with-confirmed-sars-cov-2-infection-cross-sectional-study",
+    "title": "Diagnostic accuracy of rapid antigen tests in asymptomatic and presymptomatic close contacts of individuals with confirmed SARS-CoV-2 infection: cross sectional study",
+    "paperTitle": "Diagnostic accuracy of rapid antigen tests in asymptomatic and presymptomatic close contacts of individuals with confirmed SARS-CoV-2 infection: cross sectional study",
+    "excerpt": "A study of close contacts illustrates why intended-use populations and testing time must be defined together.",
+    "html": "<h2>What the paper explores</h2><p>This cross-sectional study assessed rapid antigen testing in asymptomatic and presymptomatic close contacts of people with confirmed infection. Diagnostic sensitivity changed when the analysis considered subsequent symptoms or used a viral-load threshold as a proxy for infectiousness.</p><h2>How to interpret the evidence</h2><p>A viral-load threshold is a proxy, not a direct measurement of transmission. Findings from close contacts tested at a defined point after exposure do not establish accuracy for every screening use.</p><h2>Questions for MedTech teams</h2><p>Plan separate analyses for the intended clinical question. Detecting any infection and identifying a high viral-load subset are different evaluation targets.</p>",
+    "type": "Research Papers",
+    "topic": "IVD",
+    "year": "2021",
+    "date": "2021-07-27",
+    "originalPublicationDate": "2021-07-27",
+    "editorialPublicationDate": null,
+    "importDate": "2026-10-08",
+    "author": "Schuit E, Veldhuijzen IK, Venekamp RP, van den Bijllaardt W, Pas SD, Lodder EB, Molenkamp R, GeurtsvanKessel CH, Velzing J, Huisman RC, Brouwer L, Boelsums TL, Sips GJ, Benschop KSM, Hooft L, van de Wijgert JHHM, van den Hof S, Moons KGM.",
+    "editor": "Editorial summary prepared for HMC website preview",
+    "sourceOrganization": "BMJ (Clinical research ed.)",
+    "doi": "10.1136/bmj.n1676",
+    "sourceUrl": "https://doi.org/10.1136/bmj.n1676",
+    "sourceAccessStatus": "verified",
+    "access": "Based on the abstract",
+    "reviewedAt": "2026-10-08",
+    "publicationStatus": "published",
+    "reviewNote": "",
+    "additionalSources": [
+      {
+        "label": "Bibliographic record and abstract on PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34315770/"
+      }
+    ]
+  },
+  {
+    "id": "P04",
+    "slug": "design-and-implementation-of-a-digital-site-less-clinical-study-of-serial-rapid-antigen-testing-to-identify-asymptomatic-sars-cov-2-infection",
+    "title": "Design and implementation of a digital site-less clinical study of serial rapid antigen testing to identify asymptomatic SARS-CoV-2 infection",
+    "paperTitle": "Design and implementation of a digital site-less clinical study of serial rapid antigen testing to identify asymptomatic SARS-CoV-2 infection",
+    "excerpt": "What a decentralized diagnostic study can teach us about enrollment, follow-up and paired sample collection.",
+    "html": "<h2>What the paper explores</h2><p>The Test Us At Home study used digital recruitment and remote participation to evaluate repeated antigen testing. Participants completed antigen and molecular comparator testing on a defined schedule. The paper describes how a geographically distributed study could enroll participants during changing infection prevalence.</p><h2>How to interpret the evidence</h2><p>This is a study-design and implementation report. Operational feasibility does not by itself prove the performance of a new test, or guarantee that the same approach suits another population.</p><h2>Questions for MedTech teams</h2><p>Remote clinical operations still need clear instructions, sample logistics, traceable data and reliable follow-up. Treat these as parts of the evidence plan from the start.</p>",
+    "type": "Research Papers",
+    "topic": "Clinical Evidence",
+    "year": "2023",
+    "date": "2023-05-10",
+    "originalPublicationDate": "2023-05-10",
+    "editorialPublicationDate": null,
+    "importDate": "2026-10-08",
+    "author": "Soni A, Herbert C, Pretz C, Stamegna P, Filippaios A, Shi Q, Suvarna T, Harman E, Schrader S, Nowak C, Schramm E, Kheterpal V, Behar S, Tarrant S, Ferranto J, Hafer N, Robinson M, Achenbach C, Murphy RL, Manabe YC, Gibson L, Barton B, O'Connor L, Fahey N, Orvek E, Lazar P, Ayturk D, Wong S, Zai A, Cashman L, Rao LV, Luzuriaga K, Lemon S, Blodgett A, Trippe E, Barcus M, Goldberg B, Roth K, Stenzel T, Heetderks W, Broach J, McManus D.",
+    "editor": "Editorial summary prepared for HMC website preview",
+    "sourceOrganization": "Journal of clinical and translational science",
+    "doi": "10.1017/cts.2023.540",
+    "sourceUrl": "https://doi.org/10.1017/cts.2023.540",
+    "sourceAccessStatus": "verified",
+    "access": "Based on the abstract",
+    "reviewedAt": "2026-10-08",
+    "publicationStatus": "published",
+    "reviewNote": "",
+    "additionalSources": [
+      {
+        "label": "Bibliographic record and abstract on PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37313378/"
+      }
+    ]
+  },
+  {
+    "id": "P06",
+    "slug": "disparities-in-dermatology-ai-performance-on-a-diverse-curated-clinical-image-set",
+    "title": "Disparities in dermatology AI performance on a diverse, curated clinical image set",
+    "paperTitle": "Disparities in dermatology AI performance on a diverse, curated clinical image set",
+    "excerpt": "Diverse, clinically confirmed images reveal performance differences hidden by narrower evaluation datasets.",
+    "html": "<h2>What the paper explores</h2><p>The Diverse Dermatology Images study assembled a curated, pathology-confirmed image dataset with varied skin tones and conditions. The authors found weaknesses in existing dermatology AI models, especially on darker skin tones and less common diseases. They also examined the effect of fine-tuning on representative data.</p><h2>How to interpret the evidence</h2><p>A curated dataset is an important evaluation tool, but it is not a substitute for prospective evidence in the intended clinical workflow. Findings depend on the models and image set examined.</p><h2>Questions for MedTech teams</h2><p>Plan representative data collection and subgroup evaluation before deployment. Aggregate accuracy can hide a product’s most consequential failure modes.</p>",
+    "type": "Research Papers",
+    "topic": "Digital Health",
+    "year": "2022",
+    "date": "2022-08-12",
+    "originalPublicationDate": "2022-08-12",
+    "editorialPublicationDate": null,
+    "importDate": "2026-10-08",
+    "author": "Daneshjou R, Vodrahalli K, Novoa RA, Jenkins M, Liang W, Rotemberg V, Ko J, Swetter SM, Bailey EE, Gevaert O, Mukherjee P, Phung M, Yekrang K, Fong B, Sahasrabudhe R, Allerup JAC, Okata-Karigane U, Zou J, Chiou AS.",
+    "editor": "Editorial summary prepared for HMC website preview",
+    "sourceOrganization": "Science advances",
+    "doi": "10.1126/sciadv.abq6147",
+    "sourceUrl": "https://doi.org/10.1126/sciadv.abq6147",
+    "sourceAccessStatus": "verified",
+    "access": "Based on the abstract",
+    "reviewedAt": "2026-10-08",
+    "publicationStatus": "published",
+    "reviewNote": "",
+    "additionalSources": [
+      {
+        "label": "Bibliographic record and abstract on PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35960806/"
+      }
+    ]
+  },
+  {
+    "id": "P07",
+    "slug": "detection-and-localization-of-surgically-resectable-cancers-with-a-multi-analyte-blood-test",
+    "title": "Detection and localization of surgically resectable cancers with a multi-analyte blood test",
+    "paperTitle": "Detection and localization of surgically resectable cancers with a multi-analyte blood test",
+    "excerpt": "Multi-analyte cancer detection shows why case-control performance and population screening are different questions.",
+    "html": "<h2>What the paper explores</h2><p>CancerSEEK combined circulating protein measurements with cell-free DNA mutation analysis. The study evaluated patients with already diagnosed, nonmetastatic cancers and healthy controls, and explored whether positive results could narrow the likely anatomical origin of the cancer.</p><h2>How to interpret the evidence</h2><p>Performance in known cases and healthy controls cannot establish screening performance in an unselected population. Clinical benefit, downstream investigation and the consequences of false positives require separate evidence.</p><h2>Questions for MedTech teams</h2><p>For a new IVD, align the population and reference method with the proposed clinical use. The paper’s Johns Hopkins academic affiliations do not imply an affiliation with Hopkins MedTech.</p>",
+    "type": "Research Papers",
+    "topic": "IVD",
+    "year": "2018",
+    "date": "2018-01-18",
+    "originalPublicationDate": "2018-01-18",
+    "editorialPublicationDate": null,
+    "importDate": "2026-10-08",
+    "author": "Cohen JD, Li L, Wang Y, Thoburn C, Afsari B, Danilova L, Douville C, Javed AA, Wong F, Mattox A, Hruban RH, Wolfgang CL, Goggins MG, Dal Molin M, Wang TL, Roden R, Klein AP, Ptak J, Dobbyn L, Schaefer J, Silliman N, Popoli M, Vogelstein JT, Browne JD, Schoen RE, Brand RE, Tie J, Gibbs P, Wong HL, Mansfield AS, Jen J, Hanash SM, Falconi M, Allen PJ, Zhou S, Bettegowda C, Diaz LA, Tomasetti C, Kinzler KW, Vogelstein B, Lennon AM, Papadopoulos N.",
+    "editor": "Editorial summary prepared for HMC website preview",
+    "sourceOrganization": "Science (New York, N.Y.)",
+    "doi": "10.1126/science.aar3247",
+    "sourceUrl": "https://doi.org/10.1126/science.aar3247",
+    "sourceAccessStatus": "verified",
+    "access": "Based on the abstract",
+    "reviewedAt": "2026-10-08",
+    "publicationStatus": "published",
+    "reviewNote": "",
+    "additionalSources": [
+      {
+        "label": "Bibliographic record and abstract on PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29348365/"
+      }
+    ]
+  },
+  {
+    "id": "P08",
+    "slug": "blood-based-tests-for-multicancer-early-detection-pathfinder-a-prospective-cohort-study",
+    "title": "Blood-based tests for multicancer early detection (PATHFINDER): a prospective cohort study",
+    "paperTitle": "Blood-based tests for multicancer early detection (PATHFINDER): a prospective cohort study",
+    "excerpt": "PATHFINDER examines what happens after a multicancer blood test returns a positive signal.",
+    "html": "<h2>What the paper explores</h2><p>This prospective cohort evaluated the feasibility of a multicancer early detection blood test in adults without signs or symptoms of cancer. A positive signal initiated diagnostic assessment. The investigators measured the time and testing needed to reach a diagnostic resolution, including the experience of people with false-positive results.</p><h2>How to interpret the evidence</h2><p>A convenience cohort and feasibility outcomes do not establish a mortality benefit or settle the clinical utility of population screening. The cohort’s composition also matters when considering generalizability.</p><h2>Questions for MedTech teams</h2><p>Diagnostic evidence planning should include the pathway after the result: referrals, confirmatory procedures, time to resolution and potential harms.</p>",
+    "type": "Research Papers",
+    "topic": "Clinical Evidence",
+    "year": "2023",
+    "date": "2023-10-01",
+    "originalPublicationDate": "2023-10-01",
+    "editorialPublicationDate": null,
+    "importDate": "2026-10-08",
+    "author": "Schrag D, Beer TM, McDonnell CH, Nadauld L, Dilaveri CA, Reid R, Marinac CR, Chung KC, Lopatin M, Fung ET, Klein EA.",
+    "editor": "Editorial summary prepared for HMC website preview",
+    "sourceOrganization": "Lancet (London, England)",
+    "doi": "10.1016/S0140-6736(23)01700-2",
+    "sourceUrl": "https://doi.org/10.1016/S0140-6736(23)01700-2",
+    "sourceAccessStatus": "verified",
+    "access": "Based on the abstract",
+    "reviewedAt": "2026-10-08",
+    "publicationStatus": "published",
+    "reviewNote": "",
+    "additionalSources": [
+      {
+        "label": "Bibliographic record and abstract on PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37805216/"
+      }
+    ]
+  },
+  {
+    "id": "P09",
+    "slug": "marketing-and-us-food-and-drug-administration-clearance-of-artificial-intelligence-and-machine-learning-enabled-software-in-and-as-medical-devices-a-systematic-review",
+    "title": "Marketing and US Food and Drug Administration Clearance of Artificial Intelligence and Machine Learning Enabled Software in and as Medical Devices: A Systematic Review",
+    "paperTitle": "Marketing and US Food and Drug Administration Clearance of Artificial Intelligence and Machine Learning Enabled Software in and as Medical Devices: A Systematic Review",
+    "excerpt": "Comparing public clearance records with marketing material highlights the importance of consistent product claims.",
+    "html": "<h2>What the paper explores</h2><p>This systematic review compared public 510(k) summaries with marketing materials for AI and machine-learning-enabled medical devices. The authors identified products whose public descriptions did not align clearly with their clearance documentation, illustrating the need to distinguish authorized intended use from promotional language.</p><h2>How to interpret the evidence</h2><p>The review covers a historical sample and publicly available documents. It is not a statement of current FDA policy, and absent details in a summary do not prove that FDA never reviewed them.</p><h2>Questions for MedTech teams</h2><p>Maintain traceability between the intended use, evidence, submission, labeling and website claims. Marketing review should be connected to regulatory document control.</p>",
+    "type": "Research Papers",
+    "topic": "FDA and Regulatory",
+    "year": "2023",
+    "date": "2023-07-03",
+    "originalPublicationDate": "2023-07-03",
+    "editorialPublicationDate": null,
+    "importDate": "2026-10-08",
+    "author": "Clark P, Kim J, Aphinyanaphongs Y.",
+    "editor": "Editorial summary prepared for HMC website preview",
+    "sourceOrganization": "JAMA network open",
+    "doi": "10.1001/jamanetworkopen.2023.21792",
+    "sourceUrl": "https://doi.org/10.1001/jamanetworkopen.2023.21792",
+    "sourceAccessStatus": "verified",
+    "access": "Based on the abstract",
+    "reviewedAt": "2026-10-08",
+    "publicationStatus": "published",
+    "reviewNote": "",
+    "additionalSources": [
+      {
+        "label": "Bibliographic record and abstract on PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37405771/"
+      }
+    ]
+  },
+  {
+    "id": "P10",
+    "slug": "nonconcurrent-control-use-in-fda-approval-of-high-risk-medical-devices",
+    "title": "Nonconcurrent Control Use in FDA Approval of High-Risk Medical Devices",
+    "paperTitle": "Nonconcurrent Control Use in FDA Approval of High-Risk Medical Devices",
+    "excerpt": "Historical controls and performance goals need context, justification and transparent reporting.",
+    "html": "<h2>What the paper explores</h2><p>This cross-sectional analysis examined nonconcurrent controls in pivotal studies supporting high-risk therapeutic device approvals. The authors reviewed the use of historical controls, objective performance criteria and performance goals, together with the explanations and clinical detail made available in public records.</p><h2>How to interpret the evidence</h2><p>The analysis reflects the information reported publicly. It cannot recover all discussions or data in a regulatory review, and it does not establish that a nonconcurrent design is unsuitable in every setting.</p><h2>Questions for MedTech teams</h2><p>When considering an external comparator, document its origin, clinical relevance, patient comparability and assumptions before the analysis begins.</p>",
+    "type": "Research Papers",
+    "topic": "Clinical Evidence",
+    "year": "2025",
+    "date": "2025-04-01",
+    "originalPublicationDate": "2025-04-01",
+    "editorialPublicationDate": null,
+    "importDate": "2026-10-08",
+    "author": "Mooghali M, Dhruva SS, Hakimian HRL, Rathi VK, Kadakia KT, Ross JS.",
+    "editor": "Editorial summary prepared for HMC website preview",
+    "sourceOrganization": "JAMA network open",
+    "doi": "10.1001/jamanetworkopen.2025.6230",
+    "sourceUrl": "https://doi.org/10.1001/jamanetworkopen.2025.6230",
+    "sourceAccessStatus": "verified",
+    "access": "Based on the abstract",
+    "reviewedAt": "2026-10-08",
+    "publicationStatus": "published",
+    "reviewNote": "",
+    "additionalSources": [
+      {
+        "label": "Bibliographic record and abstract on PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40261654/"
+      }
+    ]
+  },
+  {
+    "id": "P11",
+    "slug": "characteristics-of-clinical-studies-conducted-over-the-total-product-life-cycle-of-high-risk-therapeutic-medical-devices-receiving-fda-premarket-approval-in-2010-and-2011",
+    "title": "Characteristics of Clinical Studies Conducted Over the Total Product Life Cycle of High-Risk Therapeutic Medical Devices Receiving FDA Premarket Approval in 2010 and 2011",
+    "paperTitle": "Characteristics of Clinical Studies Conducted Over the Total Product Life Cycle of High-Risk Therapeutic Medical Devices Receiving FDA Premarket Approval in 2010 and 2011",
+    "excerpt": "Device evidence develops across the product lifecycle, including after the initial approval decision.",
+    "html": "<h2>What the paper explores</h2><p>The investigators mapped clinical studies associated with high-risk therapeutic devices receiving initial FDA premarket approval in 2010 and 2011. They examined study timing, designs, comparators and completion status, finding substantial variation in the evidence generated before and after market entry.</p><h2>How to interpret the evidence</h2><p>This is a historical cohort assessed at a particular follow-up date. It should not be presented as a current measure of all device studies or present-day regulatory practice.</p><h2>Questions for MedTech teams</h2><p>Build a lifecycle evidence plan that distinguishes the question answered at initial submission from the questions requiring longer follow-up or post-market investigation.</p>",
+    "type": "Research Papers",
+    "topic": "Clinical Evidence",
+    "year": "2015",
+    "date": "2015-08-01",
+    "originalPublicationDate": "2015-08-01",
+    "editorialPublicationDate": null,
+    "importDate": "2026-10-08",
+    "author": "Rathi VK, Krumholz HM, Masoudi FA, Ross JS.",
+    "editor": "Editorial summary prepared for HMC website preview",
+    "sourceOrganization": "JAMA",
+    "doi": "10.1001/jama.2015.8761",
+    "sourceUrl": "https://doi.org/10.1001/jama.2015.8761",
+    "sourceAccessStatus": "verified",
+    "access": "Based on the abstract",
+    "reviewedAt": "2026-10-08",
+    "publicationStatus": "published",
+    "reviewNote": "",
+    "additionalSources": [
+      {
+        "label": "Bibliographic record and abstract on PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26262798/"
+      }
+    ]
+  },
+  {
+    "id": "P12",
+    "slug": "characteristics-of-clinical-studies-used-for-us-food-and-drug-administration-approval-of-high-risk-medical-device-supplements",
+    "title": "Characteristics of Clinical Studies Used for US Food and Drug Administration Approval of High-Risk Medical Device Supplements",
+    "paperTitle": "Characteristics of Clinical Studies Used for US Food and Drug Administration Approval of High-Risk Medical Device Supplements",
+    "excerpt": "Changes to a high-risk device can raise new clinical questions that deserve their own evidence plan.",
+    "html": "<h2>What the paper explores</h2><p>This descriptive study reviewed clinical evidence supporting panel-track supplements for high-risk devices. It examined features such as randomization, blinding, comparators, endpoints and reporting of participant characteristics. The analysis highlights variation in the studies used to assess significant device modifications.</p><h2>How to interpret the evidence</h2><p>The findings concern historical panel-track supplements, rather than every type of device change or all supplement pathways. Study-design observations are not a device-specific regulatory determination.</p><h2>Questions for MedTech teams</h2><p>Define the implications of a design or indication change early. A change assessment should explain which existing evidence remains relevant and which questions need new data.</p>",
+    "type": "Research Papers",
+    "topic": "FDA and Regulatory",
+    "year": "2017",
+    "date": "2017-08-01",
+    "originalPublicationDate": "2017-08-01",
+    "editorialPublicationDate": null,
+    "importDate": "2026-10-08",
+    "author": "Zheng SY, Dhruva SS, Redberg RF.",
+    "editor": "Editorial summary prepared for HMC website preview",
+    "sourceOrganization": "JAMA",
+    "doi": "10.1001/jama.2017.9414",
+    "sourceUrl": "https://doi.org/10.1001/jama.2017.9414",
+    "sourceAccessStatus": "verified",
+    "access": "Based on the abstract",
+    "reviewedAt": "2026-10-08",
+    "publicationStatus": "published",
+    "reviewNote": "",
+    "additionalSources": [
+      {
+        "label": "Bibliographic record and abstract on PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28810022/"
+      }
+    ]
+  },
+  {
+    "id": "P13",
+    "slug": "how-medical-ai-devices-are-evaluated-limitations-and-recommendations-from-an-analysis-of-fda-approvals",
+    "title": "How medical AI devices are evaluated: limitations and recommendations from an analysis of FDA approvals",
+    "paperTitle": "How medical AI devices are evaluated: limitations and recommendations from an analysis of FDA approvals",
+    "excerpt": "Multi-site and prospective evaluation help reveal weaknesses that single-site AI testing can miss.",
+    "html": "<h2>What the paper explores</h2><p>Wu and colleagues reviewed public FDA summaries for medical AI devices and conducted a case study of pneumothorax detection across hospital datasets. Their analysis found gaps in public reporting of evaluation settings and showed that good performance within one site could coexist with weaker results at another.</p><h2>How to interpret the evidence</h2><p>Public summaries do not contain every detail available during regulatory review. The work is a historical analysis, and the cross-site example concerns selected datasets and models.</p><h2>Questions for MedTech teams</h2><p>Specify independent evaluation settings, relevant subgroups and clinical workflow questions. Evidence of generalizability should go beyond a single performance number on one dataset.</p>",
+    "type": "Research Papers",
+    "topic": "Digital Health",
+    "year": "2021",
+    "date": "2021-04-01",
+    "originalPublicationDate": "2021-04-01",
+    "editorialPublicationDate": null,
+    "importDate": "2026-10-08",
+    "author": "Wu E, Wu K, Daneshjou R, Ouyang D, Ho DE, Zou J.",
+    "editor": "Editorial summary prepared for HMC website preview",
+    "sourceOrganization": "Nature medicine",
+    "doi": "10.1038/s41591-021-01312-x",
+    "sourceUrl": "https://doi.org/10.1038/s41591-021-01312-x",
+    "sourceAccessStatus": "verified",
+    "access": "Based on the author manuscript",
+    "reviewedAt": "2026-10-08",
+    "publicationStatus": "published",
+    "reviewNote": "",
+    "additionalSources": [
+      {
+        "label": "Author manuscript at Stanford",
+        "url": "https://dho.stanford.edu/wp-content/uploads/FDA.pdf"
+      },
+      {
+        "label": "Bibliographic record and abstract on PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33820998/"
+      }
+    ]
+  },
+  {
+    "id": "P14",
+    "slug": "how-ai-is-used-in-fda-authorized-medical-devices-a-taxonomy-across-1-016-authorizations",
+    "title": "How AI is used in FDA-authorized medical devices: a taxonomy across 1,016 authorizations",
+    "paperTitle": "How AI is used in FDA-authorized medical devices: a taxonomy across 1,016 authorizations",
+    "excerpt": "A taxonomy of authorized AI devices helps separate clinical purpose, AI function and input data.",
+    "html": "<h2>What the paper explores</h2><p>The authors reviewed 1,016 FDA authorizations to classify how AI is used in medical devices. The taxonomy describes differences in clinical tasks and technical functions, including quantitative image analysis and data generation. It provides a more specific vocabulary than treating all medical AI as one category.</p><h2>How to interpret the evidence</h2><p>The counts and technology observations describe the study’s historical dataset. They are not a live inventory of FDA authorizations or proof of the performance of any individual device.</p><h2>Questions for MedTech teams</h2><p>Describe the product’s actual function, inputs, outputs and role in care before designing its evaluation. Different AI functions call for different evidence questions.</p>",
+    "type": "Research Papers",
+    "topic": "Digital Health",
+    "year": "2025",
+    "date": "2025-07-01",
+    "originalPublicationDate": "2025-07-01",
+    "editorialPublicationDate": null,
+    "importDate": "2026-10-08",
+    "author": "Singh R, Bapna M, Diab AR, Ruiz ES, Lotter W.",
+    "editor": "Editorial summary prepared for HMC website preview",
+    "sourceOrganization": "NPJ digital medicine",
+    "doi": "10.1038/s41746-025-01800-1",
+    "sourceUrl": "https://doi.org/10.1038/s41746-025-01800-1",
+    "sourceAccessStatus": "verified",
+    "access": "Based on the abstract",
+    "reviewedAt": "2026-10-08",
+    "publicationStatus": "published",
+    "reviewNote": "",
+    "additionalSources": [
+      {
+        "label": "Bibliographic record and abstract on PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40596700/"
+      }
+    ]
+  },
+  {
+    "id": "P16",
+    "slug": "the-clinician-ai-interface-intended-use-and-explainability-in-fda-cleared-ai-devices-for-medical-image-interpretation",
+    "title": "The clinician-AI interface: intended use and explainability in FDA-cleared AI devices for medical image interpretation",
+    "paperTitle": "The clinician-AI interface: intended use and explainability in FDA-cleared AI devices for medical image interpretation",
+    "excerpt": "The clinician-AI interface is part of intended use, not merely a user-interface detail.",
+    "html": "<h2>What the paper explores</h2><p>The authors curated information on FDA-cleared AI devices for medical image interpretation, focusing on intended clinical use, the outputs presented to clinicians and the explanations provided. The resulting landscape shows variation in workflow roles, including triage, and in the information available to support interpretation.</p><h2>How to interpret the evidence</h2><p>This is a description of a historical device landscape. The presence of an explanation feature does not demonstrate that the explanation improves decisions or patient outcomes.</p><h2>Questions for MedTech teams</h2><p>Evaluate how users act on the output. Workflow integration, reliance, error handling and interpretability should be considered alongside model discrimination.</p>",
+    "type": "Research Papers",
+    "topic": "Digital Health",
+    "year": "2024",
+    "date": "2024-03-26",
+    "originalPublicationDate": "2024-03-26",
+    "editorialPublicationDate": null,
+    "importDate": "2026-10-08",
+    "author": "McNamara SL, Yi PH, Lotter W.",
+    "editor": "Editorial summary prepared for HMC website preview",
+    "sourceOrganization": "NPJ digital medicine",
+    "doi": "10.1038/s41746-024-01080-1",
+    "sourceUrl": "https://doi.org/10.1038/s41746-024-01080-1",
+    "sourceAccessStatus": "verified",
+    "access": "Based on the abstract",
+    "reviewedAt": "2026-10-08",
+    "publicationStatus": "published",
+    "reviewNote": "",
+    "additionalSources": [
+      {
+        "label": "Bibliographic record and abstract on PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38531952/"
+      }
+    ]
+  },
+  {
+    "id": "P17",
+    "slug": "nationwide-real-world-implementation-of-ai-for-cancer-detection-in-population-based-mammography-screening",
+    "title": "Nationwide real-world implementation of AI for cancer detection in population-based mammography screening",
+    "paperTitle": "Nationwide real-world implementation of AI for cancer detection in population-based mammography screening",
+    "excerpt": "A large prospective implementation study examines AI-supported mammography in routine screening.",
+    "html": "<h2>What the paper explores</h2><p>PRAIM compared AI-supported double reading with standard double reading in organized mammography screening at multiple German sites. The study evaluated cancer detection and recall measures in actual clinical operations, extending the discussion beyond retrospective image classification.</p><h2>How to interpret the evidence</h2><p>Radiologists chose whether to use AI, so the observational design leaves room for selection and confounding. Improved screening metrics do not by themselves establish a reduction in mortality.</p><h2>Questions for MedTech teams</h2><p>Real-world evaluation should account for deployment choices, site variation and the clinical pathway, with outcomes selected for the intended use.</p>",
+    "type": "Research Papers",
+    "topic": "Clinical Evidence",
+    "year": "2025",
+    "date": "2025-01-07",
+    "originalPublicationDate": "2025-01-07",
+    "editorialPublicationDate": null,
+    "importDate": "2026-10-08",
+    "author": "Eisemann N, Bunk S, Mukama T, Baltus H, Elsner SA, Gomille T, Hecht G, Heywang-Köbrunner S, Rathmann R, Siegmann-Luz K, Töllner T, Vomweg TW, Leibig C, Katalinic A.",
+    "editor": "Editorial summary prepared for HMC website preview",
+    "sourceOrganization": "Nature medicine",
+    "doi": "10.1038/s41591-024-03408-6",
+    "sourceUrl": "https://doi.org/10.1038/s41591-024-03408-6",
+    "sourceAccessStatus": "verified",
+    "access": "Based on the abstract",
+    "reviewedAt": "2026-10-08",
+    "publicationStatus": "published",
+    "reviewNote": "",
+    "additionalSources": [
+      {
+        "label": "Bibliographic record and abstract on PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39775040/"
+      }
+    ]
+  },
+  {
+    "id": "P18",
+    "slug": "dermatologist-level-classification-of-skin-cancer-with-deep-neural-networks",
+    "title": "Dermatologist-level classification of skin cancer with deep neural networks",
+    "paperTitle": "Dermatologist-level classification of skin cancer with deep neural networks",
+    "excerpt": "A landmark skin-image classification study illustrates both the promise and the boundaries of benchmark results.",
+    "html": "<h2>What the paper explores</h2><p>Esteva and colleagues trained a deep neural network on a large collection of clinical skin images and compared it with dermatologists on selected biopsy-proven classification tasks. The work demonstrated the potential of image-based learning for narrowly defined diagnostic distinctions.</p><h2>How to interpret the evidence</h2><p>Performance on curated binary classification tasks is not equivalent to safe, prospective clinical use across all skin diseases or patient groups. A correction exists and is linked below; use the corrected publication when interpreting details.</p><h2>Questions for MedTech teams</h2><p>Separate early technical feasibility from clinical validation. Define the target population, image acquisition conditions, workflow and errors that must be evaluated before clinical claims are considered.</p>",
+    "type": "Research Papers",
+    "topic": "Digital Health",
+    "year": "2017",
+    "date": "2017-01-25",
+    "originalPublicationDate": "2017-01-25",
+    "editorialPublicationDate": null,
+    "importDate": "2026-10-08",
+    "author": "Esteva A, Kuprel B, Novoa RA, Ko J, Swetter SM, Blau HM, Thrun S.",
+    "editor": "Editorial summary prepared for HMC website preview",
+    "sourceOrganization": "Nature",
+    "doi": "10.1038/nature21056",
+    "sourceUrl": "https://doi.org/10.1038/nature21056",
+    "sourceAccessStatus": "verified",
+    "access": "Based on the abstract",
+    "reviewedAt": "2026-10-08",
+    "publicationStatus": "published",
+    "reviewNote": "",
+    "additionalSources": [
+      {
+        "label": "Bibliographic record and abstract on PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28117445/"
+      },
+      {
+        "label": "Published correction (Nature)",
+        "url": "https://doi.org/10.1038/nature22985"
+      }
+    ]
+  },
+  {
+    "id": "P19",
+    "slug": "a-cell-free-dna-blood-based-test-for-colorectal-cancer-screening",
+    "title": "A Cell-free DNA Blood-Based Test for Colorectal Cancer Screening",
+    "paperTitle": "A Cell-free DNA Blood-Based Test for Colorectal Cancer Screening",
+    "excerpt": "Blood-based colorectal cancer screening makes the distinction between cancer and precancer endpoints especially clear.",
+    "html": "<h2>What the paper explores</h2><p>The ECLIPSE study evaluated a cell-free DNA blood test in a screening-eligible population against colonoscopy. The reported performance differed substantially for colorectal cancer and advanced precancerous lesions, showing why these outcomes should be presented separately rather than combined into a single claim.</p><h2>How to interpret the evidence</h2><p>Diagnostic accuracy alone does not establish improved screening adherence or reduced mortality. The study’s findings apply to the assessed assay and population.</p><h2>Questions for MedTech teams</h2><p>Define clinically meaningful endpoints in advance. A test’s ability to identify existing cancer and its ability to detect precursors answer different screening questions.</p>",
+    "type": "Research Papers",
+    "topic": "IVD",
+    "year": "2024",
+    "date": "2024-03-01",
+    "originalPublicationDate": "2024-03-01",
+    "editorialPublicationDate": null,
+    "importDate": "2026-10-08",
+    "author": "Chung DC, Gray DM, Singh H, Issaka RB, Raymond VM, Eagle C, Hu S, Chudova DI, Talasaz A, Greenson JK, Sinicrope FA, Gupta S, Grady WM.",
+    "editor": "Editorial summary prepared for HMC website preview",
+    "sourceOrganization": "The New England journal of medicine",
+    "doi": "10.1056/NEJMoa2304714",
+    "sourceUrl": "https://doi.org/10.1056/NEJMoa2304714",
+    "sourceAccessStatus": "verified",
+    "access": "Based on the abstract",
+    "reviewedAt": "2026-10-08",
+    "publicationStatus": "published",
+    "reviewNote": "",
+    "additionalSources": [
+      {
+        "label": "Bibliographic record and abstract on PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38477985/"
+      }
+    ]
+  },
+  {
+    "id": "P20",
+    "slug": "next-generation-multitarget-stool-dna-test-for-colorectal-cancer-screening",
+    "title": "Next-Generation Multitarget Stool DNA Test for Colorectal Cancer Screening",
+    "paperTitle": "Next-Generation Multitarget Stool DNA Test for Colorectal Cancer Screening",
+    "excerpt": "A prospective stool-DNA study makes sensitivity and specificity tradeoffs visible.",
+    "html": "<h2>What the paper explores</h2><p>The BLUE-C study evaluated a next-generation multitarget stool DNA test in asymptomatic adults undergoing screening colonoscopy. It compared performance with a fecal immunochemical test. The DNA-based test showed higher sensitivity for cancer and advanced precancerous lesions while having lower specificity.</p><h2>How to interpret the evidence</h2><p>A diagnostic accuracy comparison does not establish every downstream clinical benefit or the best strategy for each person. The tradeoff must be interpreted within the intended screening pathway.</p><h2>Questions for MedTech teams</h2><p>Plan comparative endpoints and how false positives and false negatives will be interpreted. A useful performance claim should present both detection and exclusion of disease.</p>",
+    "type": "Research Papers",
+    "topic": "IVD",
+    "year": "2024",
+    "date": "2024-03-01",
+    "originalPublicationDate": "2024-03-01",
+    "editorialPublicationDate": null,
+    "importDate": "2026-10-08",
+    "author": "Imperiale TF, Porter K, Zella J, Gagrat ZD, Olson MC, Statz S, Garces J, Lavin PT, Aguilar H, Brinberg D, Berkelhammer C, Kisiel JB, Limburg PJ, BLUE-C Study Investigators.",
+    "editor": "Editorial summary prepared for HMC website preview",
+    "sourceOrganization": "The New England journal of medicine",
+    "doi": "10.1056/NEJMoa2310336",
+    "sourceUrl": "https://doi.org/10.1056/NEJMoa2310336",
+    "sourceAccessStatus": "verified",
+    "access": "Based on the abstract",
+    "reviewedAt": "2026-10-08",
+    "publicationStatus": "published",
+    "reviewNote": "",
+    "additionalSources": [
+      {
+        "label": "Bibliographic record and abstract on PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38477986/"
+      }
+    ]
+  },
+  {
+    "id": "P21",
+    "slug": "reporting-guidelines-for-clinical-trial-reports-for-interventions-involving-artificial-intelligence-the-consort-ai-extension",
+    "title": "Reporting guidelines for clinical trial reports for interventions involving artificial intelligence: the CONSORT-AI Extension",
+    "paperTitle": "Reporting guidelines for clinical trial reports for interventions involving artificial intelligence: the CONSORT-AI Extension",
+    "excerpt": "CONSORT-AI connects transparent trial reporting with the details that make an AI intervention reproducible.",
+    "html": "<h2>What the paper explores</h2><p>This peer-reviewed reporting-methodology paper introduces the CONSORT-AI extension for clinical trials involving AI. Developed through a stakeholder consensus process, it asks authors to describe the intervention, required user skills, handling of inputs and outputs, human-AI interaction and analysis of errors.</p><h2>How to interpret the evidence</h2><p>A reporting checklist is not a regulatory approval standard, nor does completion alone demonstrate clinical benefit or remove bias from a study.</p><h2>Questions for MedTech teams</h2><p>Use reporting considerations during study planning so that relevant information is captured prospectively. This paper concerns reporting methodology, not the performance of a particular medical product.</p>",
+    "type": "Research Papers",
+    "topic": "Quality",
+    "year": "2020",
+    "date": "2020-09-09",
+    "originalPublicationDate": "2020-09-09",
+    "editorialPublicationDate": null,
+    "importDate": "2026-10-08",
+    "author": "Liu X, Rivera SC, Moher D, Calvert MJ, Denniston AK, SPIRIT-AI and CONSORT-AI Working Group.",
+    "editor": "Editorial summary prepared for HMC website preview",
+    "sourceOrganization": "BMJ (Clinical research ed.)",
+    "doi": "10.1136/bmj.m3164",
+    "sourceUrl": "https://doi.org/10.1136/bmj.m3164",
+    "sourceAccessStatus": "verified",
+    "access": "Based on the abstract",
+    "reviewedAt": "2026-10-08",
+    "publicationStatus": "published",
+    "reviewNote": "",
+    "additionalSources": [
+      {
+        "label": "Bibliographic record and abstract on PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32909959/"
+      }
+    ]
+  },
+  {
+    "id": "P22",
+    "slug": "guidelines-for-clinical-trial-protocols-for-interventions-involving-artificial-intelligence-the-spirit-ai-extension",
+    "title": "Guidelines for clinical trial protocols for interventions involving artificial intelligence: the SPIRIT-AI Extension",
+    "paperTitle": "Guidelines for clinical trial protocols for interventions involving artificial intelligence: the SPIRIT-AI Extension",
+    "excerpt": "SPIRIT-AI helps make an AI trial’s intended methods explicit before results are known.",
+    "html": "<h2>What the paper explores</h2><p>The SPIRIT-AI extension was developed as a companion to CONSORT-AI, focusing on trial protocols. Its consensus-based items address the AI intervention, deployment setting, users, input and output handling, human interaction and planned analysis of error cases.</p><h2>How to interpret the evidence</h2><p>Protocol reporting does not establish that a trial was conducted as planned or that an intervention is effective. The publication is methodological guidance in a journal, not a device authorization.</p><h2>Questions for MedTech teams</h2><p>Make operational assumptions and responsibilities visible in the protocol. Clear documentation allows changes and departures from the planned evaluation to be identified later.</p>",
+    "type": "Research Papers",
+    "topic": "Quality",
+    "year": "2020",
+    "date": "2020-09-09",
+    "originalPublicationDate": "2020-09-09",
+    "editorialPublicationDate": null,
+    "importDate": "2026-10-08",
+    "author": "Rivera SC, Liu X, Chan AW, Denniston AK, Calvert MJ, SPIRIT-AI and CONSORT-AI Working Group.",
+    "editor": "Editorial summary prepared for HMC website preview",
+    "sourceOrganization": "BMJ (Clinical research ed.)",
+    "doi": "10.1136/bmj.m3210",
+    "sourceUrl": "https://doi.org/10.1136/bmj.m3210",
+    "sourceAccessStatus": "verified",
+    "access": "Based on the abstract",
+    "reviewedAt": "2026-10-08",
+    "publicationStatus": "published",
+    "reviewNote": "",
+    "additionalSources": [
+      {
+        "label": "Bibliographic record and abstract on PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32907797/"
+      }
+    ]
+  },
+  {
+    "id": "P23",
+    "slug": "reporting-guideline-for-the-early-stage-clinical-evaluation-of-decision-support-systems-driven-by-artificial-intelligence-decide-ai",
+    "title": "Reporting guideline for the early-stage clinical evaluation of decision support systems driven by artificial intelligence: DECIDE-AI",
+    "paperTitle": "Reporting guideline for the early-stage clinical evaluation of decision support systems driven by artificial intelligence: DECIDE-AI",
+    "excerpt": "DECIDE-AI addresses the transition from promising computer-based results to early clinical evaluation.",
+    "html": "<h2>What the paper explores</h2><p>This consensus study developed reporting guidance for early clinical investigations of AI decision-support systems. It emphasizes clinical performance, safety and the human factors surrounding use, helping readers understand evaluations conducted before larger confirmatory trials.</p><h2>How to interpret the evidence</h2><p>An early clinical evaluation has a different purpose from a definitive trial. A reporting framework does not itself prove that an AI system improves care.</p><h2>Questions for MedTech teams</h2><p>Record how the system is introduced, who uses it, what changes during evaluation and which failures require attention. These details support interpretable evidence when the workflow is still evolving.</p>",
+    "type": "Research Papers",
+    "topic": "Clinical Evidence",
+    "year": "2022",
+    "date": "2022-05-18",
+    "originalPublicationDate": "2022-05-18",
+    "editorialPublicationDate": null,
+    "importDate": "2026-10-08",
+    "author": "Vasey B, Nagendran M, Campbell B, Clifton DA, Collins GS, Denaxas S, Denniston AK, Faes L, Geerts B, Ibrahim M, Liu X, Mateen BA, Mathur P, McCradden MD, Morgan L, Ordish J, Rogers C, Saria S, Ting DSW, Watkinson P, Weber W, Wheatstone P, McCulloch P, DECIDE-AI expert group.",
+    "editor": "Editorial summary prepared for HMC website preview",
+    "sourceOrganization": "Nature medicine",
+    "doi": "10.1038/s41591-022-01772-9",
+    "sourceUrl": "https://doi.org/10.1038/s41591-022-01772-9",
+    "sourceAccessStatus": "verified",
+    "access": "Based on the abstract",
+    "reviewedAt": "2026-10-08",
+    "publicationStatus": "published",
+    "reviewNote": "",
+    "additionalSources": [
+      {
+        "label": "Bibliographic record and abstract on PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35585198/"
+      }
+    ]
+  },
+  {
+    "id": "P24",
+    "slug": "stard-2015-an-updated-list-of-essential-items-for-reporting-diagnostic-accuracy-studies",
+    "title": "STARD 2015: an updated list of essential items for reporting diagnostic accuracy studies",
+    "paperTitle": "STARD 2015: an updated list of essential items for reporting diagnostic accuracy studies",
+    "excerpt": "STARD 2015 promotes complete, transparent reporting of diagnostic accuracy studies.",
+    "html": "<h2>What the paper explores</h2><p>This methodological publication presents an updated set of essential reporting items for diagnostic accuracy research. It responds to incomplete reporting that can prevent readers from assessing bias, interpreting results or reproducing a study.</p><h2>How to interpret the evidence</h2><p>The checklist addresses reporting quality. It cannot correct an inappropriate design or turn diagnostic accuracy into evidence of improved patient outcomes.</p><h2>Questions for MedTech teams</h2><p>Use transparent documentation of participant selection, index testing, reference standards and analysis to make IVD performance evidence easier to assess. Select applicable reporting guidance for the study and review relevant later updates.</p>",
+    "type": "Research Papers",
+    "topic": "Quality",
+    "year": "2015",
+    "date": "2015-10-28",
+    "originalPublicationDate": "2015-10-28",
+    "editorialPublicationDate": null,
+    "importDate": "2026-10-08",
+    "author": "Bossuyt PM, Reitsma JB, Bruns DE, Gatsonis CA, Glasziou PP, Irwig L, Lijmer JG, Moher D, Rennie D, de Vet HC, Kressel HY, Rifai N, Golub RM, Altman DG, Hooft L, Korevaar DA, Cohen JF, STARD Group.",
+    "editor": "Editorial summary prepared for HMC website preview",
+    "sourceOrganization": "BMJ (Clinical research ed.)",
+    "doi": "10.1136/bmj.h5527",
+    "sourceUrl": "https://doi.org/10.1136/bmj.h5527",
+    "sourceAccessStatus": "verified",
+    "access": "Based on the abstract",
+    "reviewedAt": "2026-10-08",
+    "publicationStatus": "published",
+    "reviewNote": "",
+    "additionalSources": [
+      {
+        "label": "Bibliographic record and abstract on PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26511519/"
+      }
+    ]
+  },
+  {
+    "id": "P25",
+    "slug": "quadas-2-a-revised-tool-for-the-quality-assessment-of-diagnostic-accuracy-studies",
+    "title": "QUADAS-2: a revised tool for the quality assessment of diagnostic accuracy studies",
+    "paperTitle": "QUADAS-2: a revised tool for the quality assessment of diagnostic accuracy studies",
+    "excerpt": "QUADAS-2 separates risk of bias from applicability in diagnostic evidence assessment.",
+    "html": "<h2>What the paper explores</h2><p>The QUADAS-2 paper describes a revised tool organized around patient selection, the index test, the reference standard, and flow and timing. It uses signaling questions to guide judgments about bias and, for the relevant domains, concerns about applicability to the review question.</p><h2>How to interpret the evidence</h2><p>The tool requires judgments tailored to a defined question. A checklist response should not be collapsed into an unsupported claim that a study is universally reliable.</p><h2>Questions for MedTech teams</h2><p>When reviewing diagnostic literature, distinguish an internally credible result from evidence that actually matches your product’s intended population and clinical setting.</p>",
+    "type": "Research Papers",
+    "topic": "Clinical Evidence",
+    "year": "2011",
+    "date": "2011-10-01",
+    "originalPublicationDate": "2011-10-01",
+    "editorialPublicationDate": null,
+    "importDate": "2026-10-08",
+    "author": "Whiting PF, Rutjes AW, Westwood ME, Mallett S, Deeks JJ, Reitsma JB, Leeflang MM, Sterne JA, Bossuyt PM, QUADAS-2 Group.",
+    "editor": "Editorial summary prepared for HMC website preview",
+    "sourceOrganization": "Annals of internal medicine",
+    "doi": "10.7326/0003-4819-155-8-201110180-00009",
+    "sourceUrl": "https://doi.org/10.7326/0003-4819-155-8-201110180-00009",
+    "sourceAccessStatus": "verified",
+    "access": "Based on the abstract",
+    "reviewedAt": "2026-10-08",
+    "publicationStatus": "published",
+    "reviewNote": "",
+    "additionalSources": [
+      {
+        "label": "Bibliographic record and abstract on PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22007046/"
+      }
+    ]
+  },
+  {
+    "id": "P26",
+    "slug": "tripod-ai-statement-updated-guidance-for-reporting-clinical-prediction-models-that-use-regression-or-machine-learning-methods",
+    "title": "TRIPOD+AI statement: updated guidance for reporting clinical prediction models that use regression or machine learning methods",
+    "paperTitle": "TRIPOD+AI statement: updated guidance for reporting clinical prediction models that use regression or machine learning methods",
+    "excerpt": "TRIPOD+AI aligns reporting expectations for prediction models built with regression or machine learning.",
+    "html": "<h2>What the paper explores</h2><p>The TRIPOD+AI statement updates reporting recommendations for studies that develop or evaluate clinical prediction models. It brings regression and machine-learning approaches into a common framework intended to improve completeness, accuracy and transparency of reporting.</p><h2>How to interpret the evidence</h2><p>Transparent reporting supports appraisal but does not demonstrate that a model is transportable or useful in a specific clinical setting. Evaluation and implementation questions remain separate.</p><h2>Questions for MedTech teams</h2><p>Maintain clear records of model development and evaluation so that readers can distinguish the question studied, the data used and the evidence needed before implementation.</p>",
+    "type": "Research Papers",
+    "topic": "Quality",
+    "year": "2024",
+    "date": "2024-04-16",
+    "originalPublicationDate": "2024-04-16",
+    "editorialPublicationDate": null,
+    "importDate": "2026-10-08",
+    "author": "Collins GS, Moons KGM, Dhiman P, Riley RD, Beam AL, Van Calster B, Ghassemi M, Liu X, Reitsma JB, van Smeden M, Boulesteix AL, Camaradou JC, Celi LA, Denaxas S, Denniston AK, Glocker B, Golub RM, Harvey H, Heinze G, Hoffman MM, Kengne AP, Lam E, Lee N, Loder EW, Maier-Hein L, Mateen BA, McCradden MD, Oakden-Rayner L, Ordish J, Parnell R, Rose S, Singh K, Wynants L, Logullo P.",
+    "editor": "Editorial summary prepared for HMC website preview",
+    "sourceOrganization": "BMJ (Clinical research ed.)",
+    "doi": "10.1136/bmj-2023-078378",
+    "sourceUrl": "https://doi.org/10.1136/bmj-2023-078378",
+    "sourceAccessStatus": "verified",
+    "access": "Based on the abstract",
+    "reviewedAt": "2026-10-08",
+    "publicationStatus": "published",
+    "reviewNote": "",
+    "additionalSources": [
+      {
+        "label": "Bibliographic record and abstract on PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38626948/"
+      }
+    ]
+  },
+  {
+    "id": "P27",
+    "slug": "checklist-for-artificial-intelligence-in-medical-imaging-claim-a-guide-for-authors-and-reviewers",
+    "title": "Checklist for Artificial Intelligence in Medical Imaging (CLAIM): A Guide for Authors and Reviewers",
+    "paperTitle": "Checklist for Artificial Intelligence in Medical Imaging (CLAIM): A Guide for Authors and Reviewers",
+    "excerpt": "CLAIM provides a structured way to report AI research in medical imaging.",
+    "html": "<h2>What the paper explores</h2><p>This journal editorial introduces the Checklist for Artificial Intelligence in Medical Imaging. It adapts established reporting principles to applications including classification, image reconstruction, text analysis and workflow optimization, emphasizing sufficient methodological detail for critical review and reproducibility.</p><h2>How to interpret the evidence</h2><p>CLAIM is a reporting framework rather than a clinical validation study or regulatory standard. A complete manuscript can still describe a model with limited generalizability.</p><h2>Questions for MedTech teams</h2><p>Use a clear reporting structure to connect data selection, methods and results. Review subsequent versions of reporting frameworks before applying them to a new study.</p>",
+    "type": "Research Papers",
+    "topic": "Quality",
+    "year": "2020",
+    "date": "2020-03-25",
+    "originalPublicationDate": "2020-03-25",
+    "editorialPublicationDate": null,
+    "importDate": "2026-10-08",
+    "author": "Mongan J, Moy L, Kahn CE.",
+    "editor": "Editorial summary prepared for HMC website preview",
+    "sourceOrganization": "Radiology. Artificial intelligence",
+    "doi": "10.1148/ryai.2020200029",
+    "sourceUrl": "https://doi.org/10.1148/ryai.2020200029",
+    "sourceAccessStatus": "verified",
+    "access": "Based on the publisher’s editorial",
+    "reviewedAt": "2026-10-08",
+    "publicationStatus": "published",
+    "reviewNote": "",
+    "additionalSources": [
+      {
+        "label": "Bibliographic record and abstract on PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33937821/"
+      }
+    ]
+  }
+]

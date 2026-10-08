@@ -1,0 +1,2488 @@
+{
+  "research": [
+    {
+      "id": "P15",
+      "slug": "evaluating-transparency-in-ai-ml-model-characteristics-for-fda-reviewed-medical-devices",
+      "title": "Evaluating transparency in AI/ML model characteristics for FDA-reviewed medical devices",
+      "paperTitle": "Evaluating transparency in AI/ML model characteristics for FDA-reviewed medical devices",
+      "excerpt": "Clear model and dataset documentation is essential for interpreting an AI device’s reported performance.",
+      "html": "<h2>What the paper explores</h2><p>This study assessed transparency in publicly available FDA device summaries across model-development and performance-reporting categories. Using an AI Characteristics Transparency Reporting score, the authors found limited disclosure across many of the assessed characteristics, despite modest improvement after the period associated with good machine learning practice principles.</p><h2>How to interpret the evidence</h2><p>The score describes public reporting, not the complete regulatory submission or the inherent quality of every model. Missing public information should not be treated as proof that a study was not performed.</p><h2>Questions for MedTech teams</h2><p>Document model scope, data provenance, evaluation methods and limitations in a traceable form that connects technical work with clinical and regulatory communication.</p>",
+      "type": "Research Papers",
+      "topic": "Quality",
+      "year": "2025",
+      "date": "2025-11-17",
+      "originalPublicationDate": "2025-11-17",
+      "editorialPublicationDate": null,
+      "importDate": "2026-10-08",
+      "author": "Mehta V, Komanduri A, Bhadouriya RS, Mehta V, Johnson MD, Shrestha P, Nikolov M, Jain B, Shah N, Schulman K.",
+      "editor": "Editorial summary prepared for HMC website preview",
+      "sourceOrganization": "NPJ digital medicine",
+      "doi": "10.1038/s41746-025-02052-9",
+      "sourceUrl": "https://doi.org/10.1038/s41746-025-02052-9",
+      "sourceAccessStatus": "verified",
+      "access": "Based on the abstract",
+      "reviewedAt": "2026-10-08",
+      "publicationStatus": "published",
+      "reviewNote": "",
+      "additionalSources": [
+        {
+          "label": "Bibliographic record and abstract on PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41249460/"
+        }
+      ]
+    },
+    {
+      "id": "P01",
+      "slug": "performance-of-rapid-antigen-tests-to-detect-symptomatic-and-asymptomatic-sars-cov-2-infection-a-prospective-cohort-study",
+      "title": "Performance of Rapid Antigen Tests to Detect Symptomatic and Asymptomatic SARS-CoV-2 Infection : A Prospective Cohort Study",
+      "paperTitle": "Performance of Rapid Antigen Tests to Detect Symptomatic and Asymptomatic SARS-CoV-2 Infection : A Prospective Cohort Study",
+      "excerpt": "Why the timing and repetition of an antigen test matter as much as its single-test sensitivity.",
+      "html": "<h2>What the paper explores</h2><p>This prospective US cohort paired home antigen testing with molecular testing every 48 hours. Performance differed by symptom status, and repeat testing improved detection. The study treats a sequence of tests as an evaluation strategy, rather than assuming one negative result answers the clinical question.</p><h2>How to interpret the evidence</h2><p>The tested interval was 48 hours. The results do not establish performance for shorter intervals, other products or every later viral variant.</p><h2>Questions for MedTech teams</h2><p>For an IVD study, define the intended population, testing schedule and interpretation of repeated results before selecting performance endpoints.</p>",
+      "type": "Research Papers",
+      "topic": "IVD",
+      "year": "2023",
+      "date": "2023-07-04",
+      "originalPublicationDate": "2023-07-04",
+      "editorialPublicationDate": null,
+      "importDate": "2026-10-08",
+      "author": "Soni A, Herbert C, Lin H, Yan Y, Pretz C, Stamegna P, Wang B, Orwig T, Wright C, Tarrant S, Behar S, Suvarna T, Schrader S, Harman E, Nowak C, Kheterpal V, Rao LV, Cashman L, Orvek E, Ayturk D, Gibson L, Zai A, Wong S, Lazar P, Wang Z, Filippaios A, Barton B, Achenbach CJ, Murphy RL, Robinson ML, Manabe YC, Pandey S, Colubri A, O'Connor L, Lemon SC, Fahey N, Luzuriaga KL, Hafer N, Roth K, Lowe T, Stenzel T, Heetderks W, Broach J, McManus DD.",
+      "editor": "Editorial summary prepared for HMC website preview",
+      "sourceOrganization": "Annals of internal medicine",
+      "doi": "10.7326/M23-0385",
+      "sourceUrl": "https://doi.org/10.7326/M23-0385",
+      "sourceAccessStatus": "verified",
+      "access": "Based on the abstract",
+      "reviewedAt": "2026-10-08",
+      "publicationStatus": "published",
+      "reviewNote": "",
+      "additionalSources": [
+        {
+          "label": "Bibliographic record and abstract on PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/37399548/"
+        }
+      ]
+    },
+    {
+      "id": "P05",
+      "slug": "pivotal-trial-of-an-autonomous-ai-based-diagnostic-system-for-detection-of-diabetic-retinopathy-in-primary-care-offices",
+      "title": "Pivotal trial of an autonomous AI-based diagnostic system for detection of diabetic retinopathy in primary care offices",
+      "paperTitle": "Pivotal trial of an autonomous AI-based diagnostic system for detection of diabetic retinopathy in primary care offices",
+      "excerpt": "A pivotal diagnostic AI study connects reference standards, clinical settings and predefined performance endpoints.",
+      "html": "<h2>What the paper explores</h2><p>The trial evaluated an autonomous diabetic retinopathy system in primary care, using a specialist reading-center reference. It enrolled people with diabetes without a prior retinopathy diagnosis and assessed sensitivity, specificity and the ability to produce interpretable images against predefined endpoints.</p><h2>How to interpret the evidence</h2><p>The evidence concerns a specific system, disease definition, operator training protocol and intended population. It does not validate other AI systems or justify broader clinical claims.</p><h2>Questions for MedTech teams</h2><p>A diagnostic AI evidence plan should connect the product’s intended user and setting with its reference standard, failure handling and clinically relevant performance targets.</p>",
+      "type": "Research Papers",
+      "topic": "Digital Health",
+      "year": "2018",
+      "date": "2018-08-28",
+      "originalPublicationDate": "2018-08-28",
+      "editorialPublicationDate": null,
+      "importDate": "2026-10-08",
+      "author": "Abràmoff MD, Lavin PT, Birch M, Shah N, Folk JC.",
+      "editor": "Editorial summary prepared for HMC website preview",
+      "sourceOrganization": "NPJ digital medicine",
+      "doi": "10.1038/s41746-018-0040-6",
+      "sourceUrl": "https://doi.org/10.1038/s41746-018-0040-6",
+      "sourceAccessStatus": "verified",
+      "access": "Based on the abstract",
+      "reviewedAt": "2026-10-08",
+      "publicationStatus": "published",
+      "reviewNote": "",
+      "additionalSources": [
+        {
+          "label": "Bibliographic record and abstract on PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/31304320/"
+        }
+      ]
+    },
+    {
+      "id": "P02",
+      "slug": "diagnostic-accuracy-of-covid-19-rapid-antigen-tests-with-unsupervised-self-sampling-in-people-with-symptoms-in-the-omicron-period-cross-sectional-study",
+      "title": "Diagnostic accuracy of covid-19 rapid antigen tests with unsupervised self-sampling in people with symptoms in the omicron period: cross sectional study",
+      "paperTitle": "Diagnostic accuracy of covid-19 rapid antigen tests with unsupervised self-sampling in people with symptoms in the omicron period: cross sectional study",
+      "excerpt": "Self-sampling, symptoms and the reason for testing can change the performance measured in a diagnostic study.",
+      "html": "<h2>What the paper explores</h2><p>The investigators evaluated unsupervised rapid antigen self-tests among symptomatic people during the Omicron period in the Netherlands. Results varied with the sampling approach and with whether participants were already confirming a positive self-test. That recruitment context is an important part of interpreting the reported sensitivity.</p><h2>How to interpret the evidence</h2><p>This was a diagnostic accuracy study in a particular epidemic and recruitment setting. Its results should not be transferred directly to a different population. A published correction is linked below; consult the corrected article before using exact values.</p><h2>Questions for MedTech teams</h2><p>Document who enters the study, why they seek testing and how specimens are collected. Those details help explain what a reported performance estimate actually represents.</p>",
+      "type": "Research Papers",
+      "topic": "IVD",
+      "year": "2022",
+      "date": "2022-09-14",
+      "originalPublicationDate": "2022-09-14",
+      "editorialPublicationDate": null,
+      "importDate": "2026-10-08",
+      "author": "Schuit E, Venekamp RP, Hooft L, Veldhuijzen IK, van den Bijllaardt W, Pas SD, Zwart VF, Lodder EB, Hellwich M, Koppelman M, Molenkamp R, Wijers CJH, Vroom IH, Smeets LC, Nagel-Imming CRS, Han WGH, van den Hof S, Kluytmans JAJW, van de Wijgert JHHM, Moons KGM.",
+      "editor": "Editorial summary prepared for HMC website preview",
+      "sourceOrganization": "BMJ (Clinical research ed.)",
+      "doi": "10.1136/bmj-2022-071215",
+      "sourceUrl": "https://doi.org/10.1136/bmj-2022-071215",
+      "sourceAccessStatus": "verified",
+      "access": "Based on the abstract",
+      "reviewedAt": "2026-10-08",
+      "publicationStatus": "published",
+      "reviewNote": "",
+      "additionalSources": [
+        {
+          "label": "Bibliographic record and abstract on PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/36104069/"
+        },
+        {
+          "label": "Published correction (PMC record)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9478905/"
+        }
+      ]
+    },
+    {
+      "id": "P03",
+      "slug": "diagnostic-accuracy-of-rapid-antigen-tests-in-asymptomatic-and-presymptomatic-close-contacts-of-individuals-with-confirmed-sars-cov-2-infection-cross-sectional-study",
+      "title": "Diagnostic accuracy of rapid antigen tests in asymptomatic and presymptomatic close contacts of individuals with confirmed SARS-CoV-2 infection: cross sectional study",
+      "paperTitle": "Diagnostic accuracy of rapid antigen tests in asymptomatic and presymptomatic close contacts of individuals with confirmed SARS-CoV-2 infection: cross sectional study",
+      "excerpt": "A study of close contacts illustrates why intended-use populations and testing time must be defined together.",
+      "html": "<h2>What the paper explores</h2><p>This cross-sectional study assessed rapid antigen testing in asymptomatic and presymptomatic close contacts of people with confirmed infection. Diagnostic sensitivity changed when the analysis considered subsequent symptoms or used a viral-load threshold as a proxy for infectiousness.</p><h2>How to interpret the evidence</h2><p>A viral-load threshold is a proxy, not a direct measurement of transmission. Findings from close contacts tested at a defined point after exposure do not establish accuracy for every screening use.</p><h2>Questions for MedTech teams</h2><p>Plan separate analyses for the intended clinical question. Detecting any infection and identifying a high viral-load subset are different evaluation targets.</p>",
+      "type": "Research Papers",
+      "topic": "IVD",
+      "year": "2021",
+      "date": "2021-07-27",
+      "originalPublicationDate": "2021-07-27",
+      "editorialPublicationDate": null,
+      "importDate": "2026-10-08",
+      "author": "Schuit E, Veldhuijzen IK, Venekamp RP, van den Bijllaardt W, Pas SD, Lodder EB, Molenkamp R, GeurtsvanKessel CH, Velzing J, Huisman RC, Brouwer L, Boelsums TL, Sips GJ, Benschop KSM, Hooft L, van de Wijgert JHHM, van den Hof S, Moons KGM.",
+      "editor": "Editorial summary prepared for HMC website preview",
+      "sourceOrganization": "BMJ (Clinical research ed.)",
+      "doi": "10.1136/bmj.n1676",
+      "sourceUrl": "https://doi.org/10.1136/bmj.n1676",
+      "sourceAccessStatus": "verified",
+      "access": "Based on the abstract",
+      "reviewedAt": "2026-10-08",
+      "publicationStatus": "published",
+      "reviewNote": "",
+      "additionalSources": [
+        {
+          "label": "Bibliographic record and abstract on PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/34315770/"
+        }
+      ]
+    },
+    {
+      "id": "P04",
+      "slug": "design-and-implementation-of-a-digital-site-less-clinical-study-of-serial-rapid-antigen-testing-to-identify-asymptomatic-sars-cov-2-infection",
+      "title": "Design and implementation of a digital site-less clinical study of serial rapid antigen testing to identify asymptomatic SARS-CoV-2 infection",
+      "paperTitle": "Design and implementation of a digital site-less clinical study of serial rapid antigen testing to identify asymptomatic SARS-CoV-2 infection",
+      "excerpt": "What a decentralized diagnostic study can teach us about enrollment, follow-up and paired sample collection.",
+      "html": "<h2>What the paper explores</h2><p>The Test Us At Home study used digital recruitment and remote participation to evaluate repeated antigen testing. Participants completed antigen and molecular comparator testing on a defined schedule. The paper describes how a geographically distributed study could enroll participants during changing infection prevalence.</p><h2>How to interpret the evidence</h2><p>This is a study-design and implementation report. Operational feasibility does not by itself prove the performance of a new test, or guarantee that the same approach suits another population.</p><h2>Questions for MedTech teams</h2><p>Remote clinical operations still need clear instructions, sample logistics, traceable data and reliable follow-up. Treat these as parts of the evidence plan from the start.</p>",
+      "type": "Research Papers",
+      "topic": "Clinical Evidence",
+      "year": "2023",
+      "date": "2023-05-10",
+      "originalPublicationDate": "2023-05-10",
+      "editorialPublicationDate": null,
+      "importDate": "2026-10-08",
+      "author": "Soni A, Herbert C, Pretz C, Stamegna P, Filippaios A, Shi Q, Suvarna T, Harman E, Schrader S, Nowak C, Schramm E, Kheterpal V, Behar S, Tarrant S, Ferranto J, Hafer N, Robinson M, Achenbach C, Murphy RL, Manabe YC, Gibson L, Barton B, O'Connor L, Fahey N, Orvek E, Lazar P, Ayturk D, Wong S, Zai A, Cashman L, Rao LV, Luzuriaga K, Lemon S, Blodgett A, Trippe E, Barcus M, Goldberg B, Roth K, Stenzel T, Heetderks W, Broach J, McManus D.",
+      "editor": "Editorial summary prepared for HMC website preview",
+      "sourceOrganization": "Journal of clinical and translational science",
+      "doi": "10.1017/cts.2023.540",
+      "sourceUrl": "https://doi.org/10.1017/cts.2023.540",
+      "sourceAccessStatus": "verified",
+      "access": "Based on the abstract",
+      "reviewedAt": "2026-10-08",
+      "publicationStatus": "published",
+      "reviewNote": "",
+      "additionalSources": [
+        {
+          "label": "Bibliographic record and abstract on PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/37313378/"
+        }
+      ]
+    },
+    {
+      "id": "P06",
+      "slug": "disparities-in-dermatology-ai-performance-on-a-diverse-curated-clinical-image-set",
+      "title": "Disparities in dermatology AI performance on a diverse, curated clinical image set",
+      "paperTitle": "Disparities in dermatology AI performance on a diverse, curated clinical image set",
+      "excerpt": "Diverse, clinically confirmed images reveal performance differences hidden by narrower evaluation datasets.",
+      "html": "<h2>What the paper explores</h2><p>The Diverse Dermatology Images study assembled a curated, pathology-confirmed image dataset with varied skin tones and conditions. The authors found weaknesses in existing dermatology AI models, especially on darker skin tones and less common diseases. They also examined the effect of fine-tuning on representative data.</p><h2>How to interpret the evidence</h2><p>A curated dataset is an important evaluation tool, but it is not a substitute for prospective evidence in the intended clinical workflow. Findings depend on the models and image set examined.</p><h2>Questions for MedTech teams</h2><p>Plan representative data collection and subgroup evaluation before deployment. Aggregate accuracy can hide a product’s most consequential failure modes.</p>",
+      "type": "Research Papers",
+      "topic": "Digital Health",
+      "year": "2022",
+      "date": "2022-08-12",
+      "originalPublicationDate": "2022-08-12",
+      "editorialPublicationDate": null,
+      "importDate": "2026-10-08",
+      "author": "Daneshjou R, Vodrahalli K, Novoa RA, Jenkins M, Liang W, Rotemberg V, Ko J, Swetter SM, Bailey EE, Gevaert O, Mukherjee P, Phung M, Yekrang K, Fong B, Sahasrabudhe R, Allerup JAC, Okata-Karigane U, Zou J, Chiou AS.",
+      "editor": "Editorial summary prepared for HMC website preview",
+      "sourceOrganization": "Science advances",
+      "doi": "10.1126/sciadv.abq6147",
+      "sourceUrl": "https://doi.org/10.1126/sciadv.abq6147",
+      "sourceAccessStatus": "verified",
+      "access": "Based on the abstract",
+      "reviewedAt": "2026-10-08",
+      "publicationStatus": "published",
+      "reviewNote": "",
+      "additionalSources": [
+        {
+          "label": "Bibliographic record and abstract on PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35960806/"
+        }
+      ]
+    },
+    {
+      "id": "P07",
+      "slug": "detection-and-localization-of-surgically-resectable-cancers-with-a-multi-analyte-blood-test",
+      "title": "Detection and localization of surgically resectable cancers with a multi-analyte blood test",
+      "paperTitle": "Detection and localization of surgically resectable cancers with a multi-analyte blood test",
+      "excerpt": "Multi-analyte cancer detection shows why case-control performance and population screening are different questions.",
+      "html": "<h2>What the paper explores</h2><p>CancerSEEK combined circulating protein measurements with cell-free DNA mutation analysis. The study evaluated patients with already diagnosed, nonmetastatic cancers and healthy controls, and explored whether positive results could narrow the likely anatomical origin of the cancer.</p><h2>How to interpret the evidence</h2><p>Performance in known cases and healthy controls cannot establish screening performance in an unselected population. Clinical benefit, downstream investigation and the consequences of false positives require separate evidence.</p><h2>Questions for MedTech teams</h2><p>For a new IVD, align the population and reference method with the proposed clinical use. The paper’s Johns Hopkins academic affiliations do not imply an affiliation with Hopkins MedTech.</p>",
+      "type": "Research Papers",
+      "topic": "IVD",
+      "year": "2018",
+      "date": "2018-01-18",
+      "originalPublicationDate": "2018-01-18",
+      "editorialPublicationDate": null,
+      "importDate": "2026-10-08",
+      "author": "Cohen JD, Li L, Wang Y, Thoburn C, Afsari B, Danilova L, Douville C, Javed AA, Wong F, Mattox A, Hruban RH, Wolfgang CL, Goggins MG, Dal Molin M, Wang TL, Roden R, Klein AP, Ptak J, Dobbyn L, Schaefer J, Silliman N, Popoli M, Vogelstein JT, Browne JD, Schoen RE, Brand RE, Tie J, Gibbs P, Wong HL, Mansfield AS, Jen J, Hanash SM, Falconi M, Allen PJ, Zhou S, Bettegowda C, Diaz LA, Tomasetti C, Kinzler KW, Vogelstein B, Lennon AM, Papadopoulos N.",
+      "editor": "Editorial summary prepared for HMC website preview",
+      "sourceOrganization": "Science (New York, N.Y.)",
+      "doi": "10.1126/science.aar3247",
+      "sourceUrl": "https://doi.org/10.1126/science.aar3247",
+      "sourceAccessStatus": "verified",
+      "access": "Based on the abstract",
+      "reviewedAt": "2026-10-08",
+      "publicationStatus": "published",
+      "reviewNote": "",
+      "additionalSources": [
+        {
+          "label": "Bibliographic record and abstract on PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/29348365/"
+        }
+      ]
+    },
+    {
+      "id": "P08",
+      "slug": "blood-based-tests-for-multicancer-early-detection-pathfinder-a-prospective-cohort-study",
+      "title": "Blood-based tests for multicancer early detection (PATHFINDER): a prospective cohort study",
+      "paperTitle": "Blood-based tests for multicancer early detection (PATHFINDER): a prospective cohort study",
+      "excerpt": "PATHFINDER examines what happens after a multicancer blood test returns a positive signal.",
+      "html": "<h2>What the paper explores</h2><p>This prospective cohort evaluated the feasibility of a multicancer early detection blood test in adults without signs or symptoms of cancer. A positive signal initiated diagnostic assessment. The investigators measured the time and testing needed to reach a diagnostic resolution, including the experience of people with false-positive results.</p><h2>How to interpret the evidence</h2><p>A convenience cohort and feasibility outcomes do not establish a mortality benefit or settle the clinical utility of population screening. The cohort’s composition also matters when considering generalizability.</p><h2>Questions for MedTech teams</h2><p>Diagnostic evidence planning should include the pathway after the result: referrals, confirmatory procedures, time to resolution and potential harms.</p>",
+      "type": "Research Papers",
+      "topic": "Clinical Evidence",
+      "year": "2023",
+      "date": "2023-10-01",
+      "originalPublicationDate": "2023-10-01",
+      "editorialPublicationDate": null,
+      "importDate": "2026-10-08",
+      "author": "Schrag D, Beer TM, McDonnell CH, Nadauld L, Dilaveri CA, Reid R, Marinac CR, Chung KC, Lopatin M, Fung ET, Klein EA.",
+      "editor": "Editorial summary prepared for HMC website preview",
+      "sourceOrganization": "Lancet (London, England)",
+      "doi": "10.1016/S0140-6736(23)01700-2",
+      "sourceUrl": "https://doi.org/10.1016/S0140-6736(23)01700-2",
+      "sourceAccessStatus": "verified",
+      "access": "Based on the abstract",
+      "reviewedAt": "2026-10-08",
+      "publicationStatus": "published",
+      "reviewNote": "",
+      "additionalSources": [
+        {
+          "label": "Bibliographic record and abstract on PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/37805216/"
+        }
+      ]
+    },
+    {
+      "id": "P09",
+      "slug": "marketing-and-us-food-and-drug-administration-clearance-of-artificial-intelligence-and-machine-learning-enabled-software-in-and-as-medical-devices-a-systematic-review",
+      "title": "Marketing and US Food and Drug Administration Clearance of Artificial Intelligence and Machine Learning Enabled Software in and as Medical Devices: A Systematic Review",
+      "paperTitle": "Marketing and US Food and Drug Administration Clearance of Artificial Intelligence and Machine Learning Enabled Software in and as Medical Devices: A Systematic Review",
+      "excerpt": "Comparing public clearance records with marketing material highlights the importance of consistent product claims.",
+      "html": "<h2>What the paper explores</h2><p>This systematic review compared public 510(k) summaries with marketing materials for AI and machine-learning-enabled medical devices. The authors identified products whose public descriptions did not align clearly with their clearance documentation, illustrating the need to distinguish authorized intended use from promotional language.</p><h2>How to interpret the evidence</h2><p>The review covers a historical sample and publicly available documents. It is not a statement of current FDA policy, and absent details in a summary do not prove that FDA never reviewed them.</p><h2>Questions for MedTech teams</h2><p>Maintain traceability between the intended use, evidence, submission, labeling and website claims. Marketing review should be connected to regulatory document control.</p>",
+      "type": "Research Papers",
+      "topic": "FDA and Regulatory",
+      "year": "2023",
+      "date": "2023-07-03",
+      "originalPublicationDate": "2023-07-03",
+      "editorialPublicationDate": null,
+      "importDate": "2026-10-08",
+      "author": "Clark P, Kim J, Aphinyanaphongs Y.",
+      "editor": "Editorial summary prepared for HMC website preview",
+      "sourceOrganization": "JAMA network open",
+      "doi": "10.1001/jamanetworkopen.2023.21792",
+      "sourceUrl": "https://doi.org/10.1001/jamanetworkopen.2023.21792",
+      "sourceAccessStatus": "verified",
+      "access": "Based on the abstract",
+      "reviewedAt": "2026-10-08",
+      "publicationStatus": "published",
+      "reviewNote": "",
+      "additionalSources": [
+        {
+          "label": "Bibliographic record and abstract on PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/37405771/"
+        }
+      ]
+    },
+    {
+      "id": "P10",
+      "slug": "nonconcurrent-control-use-in-fda-approval-of-high-risk-medical-devices",
+      "title": "Nonconcurrent Control Use in FDA Approval of High-Risk Medical Devices",
+      "paperTitle": "Nonconcurrent Control Use in FDA Approval of High-Risk Medical Devices",
+      "excerpt": "Historical controls and performance goals need context, justification and transparent reporting.",
+      "html": "<h2>What the paper explores</h2><p>This cross-sectional analysis examined nonconcurrent controls in pivotal studies supporting high-risk therapeutic device approvals. The authors reviewed the use of historical controls, objective performance criteria and performance goals, together with the explanations and clinical detail made available in public records.</p><h2>How to interpret the evidence</h2><p>The analysis reflects the information reported publicly. It cannot recover all discussions or data in a regulatory review, and it does not establish that a nonconcurrent design is unsuitable in every setting.</p><h2>Questions for MedTech teams</h2><p>When considering an external comparator, document its origin, clinical relevance, patient comparability and assumptions before the analysis begins.</p>",
+      "type": "Research Papers",
+      "topic": "Clinical Evidence",
+      "year": "2025",
+      "date": "2025-04-01",
+      "originalPublicationDate": "2025-04-01",
+      "editorialPublicationDate": null,
+      "importDate": "2026-10-08",
+      "author": "Mooghali M, Dhruva SS, Hakimian HRL, Rathi VK, Kadakia KT, Ross JS.",
+      "editor": "Editorial summary prepared for HMC website preview",
+      "sourceOrganization": "JAMA network open",
+      "doi": "10.1001/jamanetworkopen.2025.6230",
+      "sourceUrl": "https://doi.org/10.1001/jamanetworkopen.2025.6230",
+      "sourceAccessStatus": "verified",
+      "access": "Based on the abstract",
+      "reviewedAt": "2026-10-08",
+      "publicationStatus": "published",
+      "reviewNote": "",
+      "additionalSources": [
+        {
+          "label": "Bibliographic record and abstract on PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40261654/"
+        }
+      ]
+    },
+    {
+      "id": "P11",
+      "slug": "characteristics-of-clinical-studies-conducted-over-the-total-product-life-cycle-of-high-risk-therapeutic-medical-devices-receiving-fda-premarket-approval-in-2010-and-2011",
+      "title": "Characteristics of Clinical Studies Conducted Over the Total Product Life Cycle of High-Risk Therapeutic Medical Devices Receiving FDA Premarket Approval in 2010 and 2011",
+      "paperTitle": "Characteristics of Clinical Studies Conducted Over the Total Product Life Cycle of High-Risk Therapeutic Medical Devices Receiving FDA Premarket Approval in 2010 and 2011",
+      "excerpt": "Device evidence develops across the product lifecycle, including after the initial approval decision.",
+      "html": "<h2>What the paper explores</h2><p>The investigators mapped clinical studies associated with high-risk therapeutic devices receiving initial FDA premarket approval in 2010 and 2011. They examined study timing, designs, comparators and completion status, finding substantial variation in the evidence generated before and after market entry.</p><h2>How to interpret the evidence</h2><p>This is a historical cohort assessed at a particular follow-up date. It should not be presented as a current measure of all device studies or present-day regulatory practice.</p><h2>Questions for MedTech teams</h2><p>Build a lifecycle evidence plan that distinguishes the question answered at initial submission from the questions requiring longer follow-up or post-market investigation.</p>",
+      "type": "Research Papers",
+      "topic": "Clinical Evidence",
+      "year": "2015",
+      "date": "2015-08-01",
+      "originalPublicationDate": "2015-08-01",
+      "editorialPublicationDate": null,
+      "importDate": "2026-10-08",
+      "author": "Rathi VK, Krumholz HM, Masoudi FA, Ross JS.",
+      "editor": "Editorial summary prepared for HMC website preview",
+      "sourceOrganization": "JAMA",
+      "doi": "10.1001/jama.2015.8761",
+      "sourceUrl": "https://doi.org/10.1001/jama.2015.8761",
+      "sourceAccessStatus": "verified",
+      "access": "Based on the abstract",
+      "reviewedAt": "2026-10-08",
+      "publicationStatus": "published",
+      "reviewNote": "",
+      "additionalSources": [
+        {
+          "label": "Bibliographic record and abstract on PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26262798/"
+        }
+      ]
+    },
+    {
+      "id": "P12",
+      "slug": "characteristics-of-clinical-studies-used-for-us-food-and-drug-administration-approval-of-high-risk-medical-device-supplements",
+      "title": "Characteristics of Clinical Studies Used for US Food and Drug Administration Approval of High-Risk Medical Device Supplements",
+      "paperTitle": "Characteristics of Clinical Studies Used for US Food and Drug Administration Approval of High-Risk Medical Device Supplements",
+      "excerpt": "Changes to a high-risk device can raise new clinical questions that deserve their own evidence plan.",
+      "html": "<h2>What the paper explores</h2><p>This descriptive study reviewed clinical evidence supporting panel-track supplements for high-risk devices. It examined features such as randomization, blinding, comparators, endpoints and reporting of participant characteristics. The analysis highlights variation in the studies used to assess significant device modifications.</p><h2>How to interpret the evidence</h2><p>The findings concern historical panel-track supplements, rather than every type of device change or all supplement pathways. Study-design observations are not a device-specific regulatory determination.</p><h2>Questions for MedTech teams</h2><p>Define the implications of a design or indication change early. A change assessment should explain which existing evidence remains relevant and which questions need new data.</p>",
+      "type": "Research Papers",
+      "topic": "FDA and Regulatory",
+      "year": "2017",
+      "date": "2017-08-01",
+      "originalPublicationDate": "2017-08-01",
+      "editorialPublicationDate": null,
+      "importDate": "2026-10-08",
+      "author": "Zheng SY, Dhruva SS, Redberg RF.",
+      "editor": "Editorial summary prepared for HMC website preview",
+      "sourceOrganization": "JAMA",
+      "doi": "10.1001/jama.2017.9414",
+      "sourceUrl": "https://doi.org/10.1001/jama.2017.9414",
+      "sourceAccessStatus": "verified",
+      "access": "Based on the abstract",
+      "reviewedAt": "2026-10-08",
+      "publicationStatus": "published",
+      "reviewNote": "",
+      "additionalSources": [
+        {
+          "label": "Bibliographic record and abstract on PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28810022/"
+        }
+      ]
+    },
+    {
+      "id": "P13",
+      "slug": "how-medical-ai-devices-are-evaluated-limitations-and-recommendations-from-an-analysis-of-fda-approvals",
+      "title": "How medical AI devices are evaluated: limitations and recommendations from an analysis of FDA approvals",
+      "paperTitle": "How medical AI devices are evaluated: limitations and recommendations from an analysis of FDA approvals",
+      "excerpt": "Multi-site and prospective evaluation help reveal weaknesses that single-site AI testing can miss.",
+      "html": "<h2>What the paper explores</h2><p>Wu and colleagues reviewed public FDA summaries for medical AI devices and conducted a case study of pneumothorax detection across hospital datasets. Their analysis found gaps in public reporting of evaluation settings and showed that good performance within one site could coexist with weaker results at another.</p><h2>How to interpret the evidence</h2><p>Public summaries do not contain every detail available during regulatory review. The work is a historical analysis, and the cross-site example concerns selected datasets and models.</p><h2>Questions for MedTech teams</h2><p>Specify independent evaluation settings, relevant subgroups and clinical workflow questions. Evidence of generalizability should go beyond a single performance number on one dataset.</p>",
+      "type": "Research Papers",
+      "topic": "Digital Health",
+      "year": "2021",
+      "date": "2021-04-01",
+      "originalPublicationDate": "2021-04-01",
+      "editorialPublicationDate": null,
+      "importDate": "2026-10-08",
+      "author": "Wu E, Wu K, Daneshjou R, Ouyang D, Ho DE, Zou J.",
+      "editor": "Editorial summary prepared for HMC website preview",
+      "sourceOrganization": "Nature medicine",
+      "doi": "10.1038/s41591-021-01312-x",
+      "sourceUrl": "https://doi.org/10.1038/s41591-021-01312-x",
+      "sourceAccessStatus": "verified",
+      "access": "Based on the author manuscript",
+      "reviewedAt": "2026-10-08",
+      "publicationStatus": "published",
+      "reviewNote": "",
+      "additionalSources": [
+        {
+          "label": "Author manuscript at Stanford",
+          "url": "https://dho.stanford.edu/wp-content/uploads/FDA.pdf"
+        },
+        {
+          "label": "Bibliographic record and abstract on PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/33820998/"
+        }
+      ]
+    },
+    {
+      "id": "P14",
+      "slug": "how-ai-is-used-in-fda-authorized-medical-devices-a-taxonomy-across-1-016-authorizations",
+      "title": "How AI is used in FDA-authorized medical devices: a taxonomy across 1,016 authorizations",
+      "paperTitle": "How AI is used in FDA-authorized medical devices: a taxonomy across 1,016 authorizations",
+      "excerpt": "A taxonomy of authorized AI devices helps separate clinical purpose, AI function and input data.",
+      "html": "<h2>What the paper explores</h2><p>The authors reviewed 1,016 FDA authorizations to classify how AI is used in medical devices. The taxonomy describes differences in clinical tasks and technical functions, including quantitative image analysis and data generation. It provides a more specific vocabulary than treating all medical AI as one category.</p><h2>How to interpret the evidence</h2><p>The counts and technology observations describe the study’s historical dataset. They are not a live inventory of FDA authorizations or proof of the performance of any individual device.</p><h2>Questions for MedTech teams</h2><p>Describe the product’s actual function, inputs, outputs and role in care before designing its evaluation. Different AI functions call for different evidence questions.</p>",
+      "type": "Research Papers",
+      "topic": "Digital Health",
+      "year": "2025",
+      "date": "2025-07-01",
+      "originalPublicationDate": "2025-07-01",
+      "editorialPublicationDate": null,
+      "importDate": "2026-10-08",
+      "author": "Singh R, Bapna M, Diab AR, Ruiz ES, Lotter W.",
+      "editor": "Editorial summary prepared for HMC website preview",
+      "sourceOrganization": "NPJ digital medicine",
+      "doi": "10.1038/s41746-025-01800-1",
+      "sourceUrl": "https://doi.org/10.1038/s41746-025-01800-1",
+      "sourceAccessStatus": "verified",
+      "access": "Based on the abstract",
+      "reviewedAt": "2026-10-08",
+      "publicationStatus": "published",
+      "reviewNote": "",
+      "additionalSources": [
+        {
+          "label": "Bibliographic record and abstract on PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40596700/"
+        }
+      ]
+    },
+    {
+      "id": "P16",
+      "slug": "the-clinician-ai-interface-intended-use-and-explainability-in-fda-cleared-ai-devices-for-medical-image-interpretation",
+      "title": "The clinician-AI interface: intended use and explainability in FDA-cleared AI devices for medical image interpretation",
+      "paperTitle": "The clinician-AI interface: intended use and explainability in FDA-cleared AI devices for medical image interpretation",
+      "excerpt": "The clinician-AI interface is part of intended use, not merely a user-interface detail.",
+      "html": "<h2>What the paper explores</h2><p>The authors curated information on FDA-cleared AI devices for medical image interpretation, focusing on intended clinical use, the outputs presented to clinicians and the explanations provided. The resulting landscape shows variation in workflow roles, including triage, and in the information available to support interpretation.</p><h2>How to interpret the evidence</h2><p>This is a description of a historical device landscape. The presence of an explanation feature does not demonstrate that the explanation improves decisions or patient outcomes.</p><h2>Questions for MedTech teams</h2><p>Evaluate how users act on the output. Workflow integration, reliance, error handling and interpretability should be considered alongside model discrimination.</p>",
+      "type": "Research Papers",
+      "topic": "Digital Health",
+      "year": "2024",
+      "date": "2024-03-26",
+      "originalPublicationDate": "2024-03-26",
+      "editorialPublicationDate": null,
+      "importDate": "2026-10-08",
+      "author": "McNamara SL, Yi PH, Lotter W.",
+      "editor": "Editorial summary prepared for HMC website preview",
+      "sourceOrganization": "NPJ digital medicine",
+      "doi": "10.1038/s41746-024-01080-1",
+      "sourceUrl": "https://doi.org/10.1038/s41746-024-01080-1",
+      "sourceAccessStatus": "verified",
+      "access": "Based on the abstract",
+      "reviewedAt": "2026-10-08",
+      "publicationStatus": "published",
+      "reviewNote": "",
+      "additionalSources": [
+        {
+          "label": "Bibliographic record and abstract on PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38531952/"
+        }
+      ]
+    },
+    {
+      "id": "P17",
+      "slug": "nationwide-real-world-implementation-of-ai-for-cancer-detection-in-population-based-mammography-screening",
+      "title": "Nationwide real-world implementation of AI for cancer detection in population-based mammography screening",
+      "paperTitle": "Nationwide real-world implementation of AI for cancer detection in population-based mammography screening",
+      "excerpt": "A large prospective implementation study examines AI-supported mammography in routine screening.",
+      "html": "<h2>What the paper explores</h2><p>PRAIM compared AI-supported double reading with standard double reading in organized mammography screening at multiple German sites. The study evaluated cancer detection and recall measures in actual clinical operations, extending the discussion beyond retrospective image classification.</p><h2>How to interpret the evidence</h2><p>Radiologists chose whether to use AI, so the observational design leaves room for selection and confounding. Improved screening metrics do not by themselves establish a reduction in mortality.</p><h2>Questions for MedTech teams</h2><p>Real-world evaluation should account for deployment choices, site variation and the clinical pathway, with outcomes selected for the intended use.</p>",
+      "type": "Research Papers",
+      "topic": "Clinical Evidence",
+      "year": "2025",
+      "date": "2025-01-07",
+      "originalPublicationDate": "2025-01-07",
+      "editorialPublicationDate": null,
+      "importDate": "2026-10-08",
+      "author": "Eisemann N, Bunk S, Mukama T, Baltus H, Elsner SA, Gomille T, Hecht G, Heywang-Köbrunner S, Rathmann R, Siegmann-Luz K, Töllner T, Vomweg TW, Leibig C, Katalinic A.",
+      "editor": "Editorial summary prepared for HMC website preview",
+      "sourceOrganization": "Nature medicine",
+      "doi": "10.1038/s41591-024-03408-6",
+      "sourceUrl": "https://doi.org/10.1038/s41591-024-03408-6",
+      "sourceAccessStatus": "verified",
+      "access": "Based on the abstract",
+      "reviewedAt": "2026-10-08",
+      "publicationStatus": "published",
+      "reviewNote": "",
+      "additionalSources": [
+        {
+          "label": "Bibliographic record and abstract on PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39775040/"
+        }
+      ]
+    },
+    {
+      "id": "P18",
+      "slug": "dermatologist-level-classification-of-skin-cancer-with-deep-neural-networks",
+      "title": "Dermatologist-level classification of skin cancer with deep neural networks",
+      "paperTitle": "Dermatologist-level classification of skin cancer with deep neural networks",
+      "excerpt": "A landmark skin-image classification study illustrates both the promise and the boundaries of benchmark results.",
+      "html": "<h2>What the paper explores</h2><p>Esteva and colleagues trained a deep neural network on a large collection of clinical skin images and compared it with dermatologists on selected biopsy-proven classification tasks. The work demonstrated the potential of image-based learning for narrowly defined diagnostic distinctions.</p><h2>How to interpret the evidence</h2><p>Performance on curated binary classification tasks is not equivalent to safe, prospective clinical use across all skin diseases or patient groups. A correction exists and is linked below; use the corrected publication when interpreting details.</p><h2>Questions for MedTech teams</h2><p>Separate early technical feasibility from clinical validation. Define the target population, image acquisition conditions, workflow and errors that must be evaluated before clinical claims are considered.</p>",
+      "type": "Research Papers",
+      "topic": "Digital Health",
+      "year": "2017",
+      "date": "2017-01-25",
+      "originalPublicationDate": "2017-01-25",
+      "editorialPublicationDate": null,
+      "importDate": "2026-10-08",
+      "author": "Esteva A, Kuprel B, Novoa RA, Ko J, Swetter SM, Blau HM, Thrun S.",
+      "editor": "Editorial summary prepared for HMC website preview",
+      "sourceOrganization": "Nature",
+      "doi": "10.1038/nature21056",
+      "sourceUrl": "https://doi.org/10.1038/nature21056",
+      "sourceAccessStatus": "verified",
+      "access": "Based on the abstract",
+      "reviewedAt": "2026-10-08",
+      "publicationStatus": "published",
+      "reviewNote": "",
+      "additionalSources": [
+        {
+          "label": "Bibliographic record and abstract on PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28117445/"
+        },
+        {
+          "label": "Published correction (Nature)",
+          "url": "https://doi.org/10.1038/nature22985"
+        }
+      ]
+    },
+    {
+      "id": "P19",
+      "slug": "a-cell-free-dna-blood-based-test-for-colorectal-cancer-screening",
+      "title": "A Cell-free DNA Blood-Based Test for Colorectal Cancer Screening",
+      "paperTitle": "A Cell-free DNA Blood-Based Test for Colorectal Cancer Screening",
+      "excerpt": "Blood-based colorectal cancer screening makes the distinction between cancer and precancer endpoints especially clear.",
+      "html": "<h2>What the paper explores</h2><p>The ECLIPSE study evaluated a cell-free DNA blood test in a screening-eligible population against colonoscopy. The reported performance differed substantially for colorectal cancer and advanced precancerous lesions, showing why these outcomes should be presented separately rather than combined into a single claim.</p><h2>How to interpret the evidence</h2><p>Diagnostic accuracy alone does not establish improved screening adherence or reduced mortality. The study’s findings apply to the assessed assay and population.</p><h2>Questions for MedTech teams</h2><p>Define clinically meaningful endpoints in advance. A test’s ability to identify existing cancer and its ability to detect precursors answer different screening questions.</p>",
+      "type": "Research Papers",
+      "topic": "IVD",
+      "year": "2024",
+      "date": "2024-03-01",
+      "originalPublicationDate": "2024-03-01",
+      "editorialPublicationDate": null,
+      "importDate": "2026-10-08",
+      "author": "Chung DC, Gray DM, Singh H, Issaka RB, Raymond VM, Eagle C, Hu S, Chudova DI, Talasaz A, Greenson JK, Sinicrope FA, Gupta S, Grady WM.",
+      "editor": "Editorial summary prepared for HMC website preview",
+      "sourceOrganization": "The New England journal of medicine",
+      "doi": "10.1056/NEJMoa2304714",
+      "sourceUrl": "https://doi.org/10.1056/NEJMoa2304714",
+      "sourceAccessStatus": "verified",
+      "access": "Based on the abstract",
+      "reviewedAt": "2026-10-08",
+      "publicationStatus": "published",
+      "reviewNote": "",
+      "additionalSources": [
+        {
+          "label": "Bibliographic record and abstract on PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38477985/"
+        }
+      ]
+    },
+    {
+      "id": "P20",
+      "slug": "next-generation-multitarget-stool-dna-test-for-colorectal-cancer-screening",
+      "title": "Next-Generation Multitarget Stool DNA Test for Colorectal Cancer Screening",
+      "paperTitle": "Next-Generation Multitarget Stool DNA Test for Colorectal Cancer Screening",
+      "excerpt": "A prospective stool-DNA study makes sensitivity and specificity tradeoffs visible.",
+      "html": "<h2>What the paper explores</h2><p>The BLUE-C study evaluated a next-generation multitarget stool DNA test in asymptomatic adults undergoing screening colonoscopy. It compared performance with a fecal immunochemical test. The DNA-based test showed higher sensitivity for cancer and advanced precancerous lesions while having lower specificity.</p><h2>How to interpret the evidence</h2><p>A diagnostic accuracy comparison does not establish every downstream clinical benefit or the best strategy for each person. The tradeoff must be interpreted within the intended screening pathway.</p><h2>Questions for MedTech teams</h2><p>Plan comparative endpoints and how false positives and false negatives will be interpreted. A useful performance claim should present both detection and exclusion of disease.</p>",
+      "type": "Research Papers",
+      "topic": "IVD",
+      "year": "2024",
+      "date": "2024-03-01",
+      "originalPublicationDate": "2024-03-01",
+      "editorialPublicationDate": null,
+      "importDate": "2026-10-08",
+      "author": "Imperiale TF, Porter K, Zella J, Gagrat ZD, Olson MC, Statz S, Garces J, Lavin PT, Aguilar H, Brinberg D, Berkelhammer C, Kisiel JB, Limburg PJ, BLUE-C Study Investigators.",
+      "editor": "Editorial summary prepared for HMC website preview",
+      "sourceOrganization": "The New England journal of medicine",
+      "doi": "10.1056/NEJMoa2310336",
+      "sourceUrl": "https://doi.org/10.1056/NEJMoa2310336",
+      "sourceAccessStatus": "verified",
+      "access": "Based on the abstract",
+      "reviewedAt": "2026-10-08",
+      "publicationStatus": "published",
+      "reviewNote": "",
+      "additionalSources": [
+        {
+          "label": "Bibliographic record and abstract on PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38477986/"
+        }
+      ]
+    },
+    {
+      "id": "P21",
+      "slug": "reporting-guidelines-for-clinical-trial-reports-for-interventions-involving-artificial-intelligence-the-consort-ai-extension",
+      "title": "Reporting guidelines for clinical trial reports for interventions involving artificial intelligence: the CONSORT-AI Extension",
+      "paperTitle": "Reporting guidelines for clinical trial reports for interventions involving artificial intelligence: the CONSORT-AI Extension",
+      "excerpt": "CONSORT-AI connects transparent trial reporting with the details that make an AI intervention reproducible.",
+      "html": "<h2>What the paper explores</h2><p>This peer-reviewed reporting-methodology paper introduces the CONSORT-AI extension for clinical trials involving AI. Developed through a stakeholder consensus process, it asks authors to describe the intervention, required user skills, handling of inputs and outputs, human-AI interaction and analysis of errors.</p><h2>How to interpret the evidence</h2><p>A reporting checklist is not a regulatory approval standard, nor does completion alone demonstrate clinical benefit or remove bias from a study.</p><h2>Questions for MedTech teams</h2><p>Use reporting considerations during study planning so that relevant information is captured prospectively. This paper concerns reporting methodology, not the performance of a particular medical product.</p>",
+      "type": "Research Papers",
+      "topic": "Quality",
+      "year": "2020",
+      "date": "2020-09-09",
+      "originalPublicationDate": "2020-09-09",
+      "editorialPublicationDate": null,
+      "importDate": "2026-10-08",
+      "author": "Liu X, Rivera SC, Moher D, Calvert MJ, Denniston AK, SPIRIT-AI and CONSORT-AI Working Group.",
+      "editor": "Editorial summary prepared for HMC website preview",
+      "sourceOrganization": "BMJ (Clinical research ed.)",
+      "doi": "10.1136/bmj.m3164",
+      "sourceUrl": "https://doi.org/10.1136/bmj.m3164",
+      "sourceAccessStatus": "verified",
+      "access": "Based on the abstract",
+      "reviewedAt": "2026-10-08",
+      "publicationStatus": "published",
+      "reviewNote": "",
+      "additionalSources": [
+        {
+          "label": "Bibliographic record and abstract on PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/32909959/"
+        }
+      ]
+    },
+    {
+      "id": "P22",
+      "slug": "guidelines-for-clinical-trial-protocols-for-interventions-involving-artificial-intelligence-the-spirit-ai-extension",
+      "title": "Guidelines for clinical trial protocols for interventions involving artificial intelligence: the SPIRIT-AI Extension",
+      "paperTitle": "Guidelines for clinical trial protocols for interventions involving artificial intelligence: the SPIRIT-AI Extension",
+      "excerpt": "SPIRIT-AI helps make an AI trial’s intended methods explicit before results are known.",
+      "html": "<h2>What the paper explores</h2><p>The SPIRIT-AI extension was developed as a companion to CONSORT-AI, focusing on trial protocols. Its consensus-based items address the AI intervention, deployment setting, users, input and output handling, human interaction and planned analysis of error cases.</p><h2>How to interpret the evidence</h2><p>Protocol reporting does not establish that a trial was conducted as planned or that an intervention is effective. The publication is methodological guidance in a journal, not a device authorization.</p><h2>Questions for MedTech teams</h2><p>Make operational assumptions and responsibilities visible in the protocol. Clear documentation allows changes and departures from the planned evaluation to be identified later.</p>",
+      "type": "Research Papers",
+      "topic": "Quality",
+      "year": "2020",
+      "date": "2020-09-09",
+      "originalPublicationDate": "2020-09-09",
+      "editorialPublicationDate": null,
+      "importDate": "2026-10-08",
+      "author": "Rivera SC, Liu X, Chan AW, Denniston AK, Calvert MJ, SPIRIT-AI and CONSORT-AI Working Group.",
+      "editor": "Editorial summary prepared for HMC website preview",
+      "sourceOrganization": "BMJ (Clinical research ed.)",
+      "doi": "10.1136/bmj.m3210",
+      "sourceUrl": "https://doi.org/10.1136/bmj.m3210",
+      "sourceAccessStatus": "verified",
+      "access": "Based on the abstract",
+      "reviewedAt": "2026-10-08",
+      "publicationStatus": "published",
+      "reviewNote": "",
+      "additionalSources": [
+        {
+          "label": "Bibliographic record and abstract on PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/32907797/"
+        }
+      ]
+    },
+    {
+      "id": "P23",
+      "slug": "reporting-guideline-for-the-early-stage-clinical-evaluation-of-decision-support-systems-driven-by-artificial-intelligence-decide-ai",
+      "title": "Reporting guideline for the early-stage clinical evaluation of decision support systems driven by artificial intelligence: DECIDE-AI",
+      "paperTitle": "Reporting guideline for the early-stage clinical evaluation of decision support systems driven by artificial intelligence: DECIDE-AI",
+      "excerpt": "DECIDE-AI addresses the transition from promising computer-based results to early clinical evaluation.",
+      "html": "<h2>What the paper explores</h2><p>This consensus study developed reporting guidance for early clinical investigations of AI decision-support systems. It emphasizes clinical performance, safety and the human factors surrounding use, helping readers understand evaluations conducted before larger confirmatory trials.</p><h2>How to interpret the evidence</h2><p>An early clinical evaluation has a different purpose from a definitive trial. A reporting framework does not itself prove that an AI system improves care.</p><h2>Questions for MedTech teams</h2><p>Record how the system is introduced, who uses it, what changes during evaluation and which failures require attention. These details support interpretable evidence when the workflow is still evolving.</p>",
+      "type": "Research Papers",
+      "topic": "Clinical Evidence",
+      "year": "2022",
+      "date": "2022-05-18",
+      "originalPublicationDate": "2022-05-18",
+      "editorialPublicationDate": null,
+      "importDate": "2026-10-08",
+      "author": "Vasey B, Nagendran M, Campbell B, Clifton DA, Collins GS, Denaxas S, Denniston AK, Faes L, Geerts B, Ibrahim M, Liu X, Mateen BA, Mathur P, McCradden MD, Morgan L, Ordish J, Rogers C, Saria S, Ting DSW, Watkinson P, Weber W, Wheatstone P, McCulloch P, DECIDE-AI expert group.",
+      "editor": "Editorial summary prepared for HMC website preview",
+      "sourceOrganization": "Nature medicine",
+      "doi": "10.1038/s41591-022-01772-9",
+      "sourceUrl": "https://doi.org/10.1038/s41591-022-01772-9",
+      "sourceAccessStatus": "verified",
+      "access": "Based on the abstract",
+      "reviewedAt": "2026-10-08",
+      "publicationStatus": "published",
+      "reviewNote": "",
+      "additionalSources": [
+        {
+          "label": "Bibliographic record and abstract on PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35585198/"
+        }
+      ]
+    },
+    {
+      "id": "P24",
+      "slug": "stard-2015-an-updated-list-of-essential-items-for-reporting-diagnostic-accuracy-studies",
+      "title": "STARD 2015: an updated list of essential items for reporting diagnostic accuracy studies",
+      "paperTitle": "STARD 2015: an updated list of essential items for reporting diagnostic accuracy studies",
+      "excerpt": "STARD 2015 promotes complete, transparent reporting of diagnostic accuracy studies.",
+      "html": "<h2>What the paper explores</h2><p>This methodological publication presents an updated set of essential reporting items for diagnostic accuracy research. It responds to incomplete reporting that can prevent readers from assessing bias, interpreting results or reproducing a study.</p><h2>How to interpret the evidence</h2><p>The checklist addresses reporting quality. It cannot correct an inappropriate design or turn diagnostic accuracy into evidence of improved patient outcomes.</p><h2>Questions for MedTech teams</h2><p>Use transparent documentation of participant selection, index testing, reference standards and analysis to make IVD performance evidence easier to assess. Select applicable reporting guidance for the study and review relevant later updates.</p>",
+      "type": "Research Papers",
+      "topic": "Quality",
+      "year": "2015",
+      "date": "2015-10-28",
+      "originalPublicationDate": "2015-10-28",
+      "editorialPublicationDate": null,
+      "importDate": "2026-10-08",
+      "author": "Bossuyt PM, Reitsma JB, Bruns DE, Gatsonis CA, Glasziou PP, Irwig L, Lijmer JG, Moher D, Rennie D, de Vet HC, Kressel HY, Rifai N, Golub RM, Altman DG, Hooft L, Korevaar DA, Cohen JF, STARD Group.",
+      "editor": "Editorial summary prepared for HMC website preview",
+      "sourceOrganization": "BMJ (Clinical research ed.)",
+      "doi": "10.1136/bmj.h5527",
+      "sourceUrl": "https://doi.org/10.1136/bmj.h5527",
+      "sourceAccessStatus": "verified",
+      "access": "Based on the abstract",
+      "reviewedAt": "2026-10-08",
+      "publicationStatus": "published",
+      "reviewNote": "",
+      "additionalSources": [
+        {
+          "label": "Bibliographic record and abstract on PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26511519/"
+        }
+      ]
+    },
+    {
+      "id": "P25",
+      "slug": "quadas-2-a-revised-tool-for-the-quality-assessment-of-diagnostic-accuracy-studies",
+      "title": "QUADAS-2: a revised tool for the quality assessment of diagnostic accuracy studies",
+      "paperTitle": "QUADAS-2: a revised tool for the quality assessment of diagnostic accuracy studies",
+      "excerpt": "QUADAS-2 separates risk of bias from applicability in diagnostic evidence assessment.",
+      "html": "<h2>What the paper explores</h2><p>The QUADAS-2 paper describes a revised tool organized around patient selection, the index test, the reference standard, and flow and timing. It uses signaling questions to guide judgments about bias and, for the relevant domains, concerns about applicability to the review question.</p><h2>How to interpret the evidence</h2><p>The tool requires judgments tailored to a defined question. A checklist response should not be collapsed into an unsupported claim that a study is universally reliable.</p><h2>Questions for MedTech teams</h2><p>When reviewing diagnostic literature, distinguish an internally credible result from evidence that actually matches your product’s intended population and clinical setting.</p>",
+      "type": "Research Papers",
+      "topic": "Clinical Evidence",
+      "year": "2011",
+      "date": "2011-10-01",
+      "originalPublicationDate": "2011-10-01",
+      "editorialPublicationDate": null,
+      "importDate": "2026-10-08",
+      "author": "Whiting PF, Rutjes AW, Westwood ME, Mallett S, Deeks JJ, Reitsma JB, Leeflang MM, Sterne JA, Bossuyt PM, QUADAS-2 Group.",
+      "editor": "Editorial summary prepared for HMC website preview",
+      "sourceOrganization": "Annals of internal medicine",
+      "doi": "10.7326/0003-4819-155-8-201110180-00009",
+      "sourceUrl": "https://doi.org/10.7326/0003-4819-155-8-201110180-00009",
+      "sourceAccessStatus": "verified",
+      "access": "Based on the abstract",
+      "reviewedAt": "2026-10-08",
+      "publicationStatus": "published",
+      "reviewNote": "",
+      "additionalSources": [
+        {
+          "label": "Bibliographic record and abstract on PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/22007046/"
+        }
+      ]
+    },
+    {
+      "id": "P26",
+      "slug": "tripod-ai-statement-updated-guidance-for-reporting-clinical-prediction-models-that-use-regression-or-machine-learning-methods",
+      "title": "TRIPOD+AI statement: updated guidance for reporting clinical prediction models that use regression or machine learning methods",
+      "paperTitle": "TRIPOD+AI statement: updated guidance for reporting clinical prediction models that use regression or machine learning methods",
+      "excerpt": "TRIPOD+AI aligns reporting expectations for prediction models built with regression or machine learning.",
+      "html": "<h2>What the paper explores</h2><p>The TRIPOD+AI statement updates reporting recommendations for studies that develop or evaluate clinical prediction models. It brings regression and machine-learning approaches into a common framework intended to improve completeness, accuracy and transparency of reporting.</p><h2>How to interpret the evidence</h2><p>Transparent reporting supports appraisal but does not demonstrate that a model is transportable or useful in a specific clinical setting. Evaluation and implementation questions remain separate.</p><h2>Questions for MedTech teams</h2><p>Maintain clear records of model development and evaluation so that readers can distinguish the question studied, the data used and the evidence needed before implementation.</p>",
+      "type": "Research Papers",
+      "topic": "Quality",
+      "year": "2024",
+      "date": "2024-04-16",
+      "originalPublicationDate": "2024-04-16",
+      "editorialPublicationDate": null,
+      "importDate": "2026-10-08",
+      "author": "Collins GS, Moons KGM, Dhiman P, Riley RD, Beam AL, Van Calster B, Ghassemi M, Liu X, Reitsma JB, van Smeden M, Boulesteix AL, Camaradou JC, Celi LA, Denaxas S, Denniston AK, Glocker B, Golub RM, Harvey H, Heinze G, Hoffman MM, Kengne AP, Lam E, Lee N, Loder EW, Maier-Hein L, Mateen BA, McCradden MD, Oakden-Rayner L, Ordish J, Parnell R, Rose S, Singh K, Wynants L, Logullo P.",
+      "editor": "Editorial summary prepared for HMC website preview",
+      "sourceOrganization": "BMJ (Clinical research ed.)",
+      "doi": "10.1136/bmj-2023-078378",
+      "sourceUrl": "https://doi.org/10.1136/bmj-2023-078378",
+      "sourceAccessStatus": "verified",
+      "access": "Based on the abstract",
+      "reviewedAt": "2026-10-08",
+      "publicationStatus": "published",
+      "reviewNote": "",
+      "additionalSources": [
+        {
+          "label": "Bibliographic record and abstract on PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38626948/"
+        }
+      ]
+    },
+    {
+      "id": "P27",
+      "slug": "checklist-for-artificial-intelligence-in-medical-imaging-claim-a-guide-for-authors-and-reviewers",
+      "title": "Checklist for Artificial Intelligence in Medical Imaging (CLAIM): A Guide for Authors and Reviewers",
+      "paperTitle": "Checklist for Artificial Intelligence in Medical Imaging (CLAIM): A Guide for Authors and Reviewers",
+      "excerpt": "CLAIM provides a structured way to report AI research in medical imaging.",
+      "html": "<h2>What the paper explores</h2><p>This journal editorial introduces the Checklist for Artificial Intelligence in Medical Imaging. It adapts established reporting principles to applications including classification, image reconstruction, text analysis and workflow optimization, emphasizing sufficient methodological detail for critical review and reproducibility.</p><h2>How to interpret the evidence</h2><p>CLAIM is a reporting framework rather than a clinical validation study or regulatory standard. A complete manuscript can still describe a model with limited generalizability.</p><h2>Questions for MedTech teams</h2><p>Use a clear reporting structure to connect data selection, methods and results. Review subsequent versions of reporting frameworks before applying them to a new study.</p>",
+      "type": "Research Papers",
+      "topic": "Quality",
+      "year": "2020",
+      "date": "2020-03-25",
+      "originalPublicationDate": "2020-03-25",
+      "editorialPublicationDate": null,
+      "importDate": "2026-10-08",
+      "author": "Mongan J, Moy L, Kahn CE.",
+      "editor": "Editorial summary prepared for HMC website preview",
+      "sourceOrganization": "Radiology. Artificial intelligence",
+      "doi": "10.1148/ryai.2020200029",
+      "sourceUrl": "https://doi.org/10.1148/ryai.2020200029",
+      "sourceAccessStatus": "verified",
+      "access": "Based on the publisher’s editorial",
+      "reviewedAt": "2026-10-08",
+      "publicationStatus": "published",
+      "reviewNote": "",
+      "additionalSources": [
+        {
+          "label": "Bibliographic record and abstract on PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/33937821/"
+        }
+      ]
+    }
+  ],
+  "insights": [
+    {
+      "id": "L01",
+      "slug": "nobel-science-ai-and-evidence",
+      "title": "From molecular insight to AI-assisted research",
+      "excerpt": "Scientific breakthroughs expand what researchers can model. Clinical usefulness still needs its own evidence.",
+      "html": "<h2>A wider scientific toolkit</h2><p>The 2024 Chemistry Nobel recognized David Baker’s computational protein design and Demis Hassabis and John Jumper’s protein-structure prediction. The 2024 Physics prize recognized John Hopfield and Geoffrey Hinton’s contributions to artificial neural networks. In 2026, the Chemistry prize recognized Henri B. Kagan and Kenso Soai for nonlinear effects and autocatalysis in asymmetric organic synthesis.</p><h2>From discovery to a defined question</h2><p>HMC’s company post connects these developments with a broader shift toward computational analysis. Our editorial interpretation is that increasingly capable models make the research question more important: what is being predicted, against which reference, and for whom? Scientific recognition does not establish the performance of a particular diagnostic test or medical AI system.</p><h2>A practical starting point</h2><p>Before incorporating a model into a study, specify its intended role, record the origin of its inputs and separate exploratory predictions from prospectively evaluated endpoints. These are planning considerations, not findings of the Nobel-recognized work.</p>",
+      "type": "Company Insights",
+      "topic": "Digital Health",
+      "year": "2026",
+      "date": "2026-10-08",
+      "originalPublicationDate": "2026-10-08",
+      "editorialPublicationDate": null,
+      "importDate": "2026-10-08",
+      "author": "Hopkins MedTech Compliance",
+      "sourceOrganization": "Hopkins MedTech Compliance",
+      "sourceUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7513767054097723392/",
+      "sourceAccessStatus": "verified",
+      "publicationStatus": "published",
+      "reviewedAt": "2026-10-08",
+      "reviewNote": "",
+      "additionalSources": [
+        {
+          "label": "Royal Swedish Academy — Chemistry 2026",
+          "url": "https://www.kva.se/en/news/the-nobel-prize-in-chemistry-2026/"
+        },
+        {
+          "label": "Royal Swedish Academy — Chemistry 2024",
+          "url": "https://www.kva.se/nyheter/nobelpriset-i-kemi-2024/"
+        },
+        {
+          "label": "Royal Swedish Academy — 2024 Nobel Lectures",
+          "url": "https://www.kva.se/evenemang/the-nobel-lectures-2024/"
+        }
+      ],
+      "access": "Public company post and primary sources"
+    },
+    {
+      "id": "L02",
+      "slug": "ivdr-transition-and-eudamed-dates",
+      "title": "IVDR transition and EUDAMED: two timelines to track",
+      "excerpt": "Conditional transition periods and database obligations answer different compliance questions.",
+      "html": "<h2>The transition dates</h2><p>Regulation (EU) 2024/1860 extends eligible legacy-device transitions to 31 December 2027 for IVDD-certified and class D devices; 31 December 2028 for class C; and 31 December 2029 for class B and class A sterile. Eligibility is conditional, including continued IVDD compliance, no significant design or intended-purpose change, acceptable risk, an IVDR quality system by 26 May 2025, and timely notified-body application and agreement.</p><h2>A separate database milestone</h2><p>The European Commission states that four EUDAMED modules became mandatory on 28 May 2026: actor registration, UDI/device registration, notified bodies/certificates, and market surveillance. Responsibilities differ by actor; the market-surveillance module concerns authorities.</p><h2>Turn dates into responsibilities</h2><p>A useful planning exercise is to maintain separate records for transition eligibility and database obligations. Assign an owner, supporting evidence and a review date to each relevant requirement. A future transition end date should not be interpreted as permission to postpone every earlier obligation.</p>",
+      "type": "Company Insights",
+      "topic": "FDA and Regulatory",
+      "year": "2026",
+      "date": "2026-10-07",
+      "originalPublicationDate": "2026-10-07",
+      "editorialPublicationDate": null,
+      "importDate": "2026-10-08",
+      "author": "Hopkins MedTech Compliance",
+      "sourceOrganization": "Hopkins MedTech Compliance",
+      "sourceUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7513659717945135104/",
+      "sourceAccessStatus": "verified",
+      "publicationStatus": "published",
+      "reviewedAt": "2026-10-08",
+      "reviewNote": "Regulatory context checked on 8 October 2026. This overview is not a product-specific eligibility assessment.",
+      "additionalSources": [
+        {
+          "label": "Regulation (EU) 2024/1860",
+          "url": "https://eur-lex.europa.eu/eli/reg/2024/1860/oj/eng"
+        },
+        {
+          "label": "European Commission — mandatory EUDAMED modules",
+          "url": "https://health.ec.europa.eu/latest-updates/eudamed-four-first-modules-will-be-mandatory-use-28-may-2026-2025-11-27_en"
+        }
+      ],
+      "access": "Public company post and primary sources"
+    },
+    {
+      "id": "S01",
+      "slug": "modelling-skin-and-transdermal-transport",
+      "title": "What a skin-transport model can help us explore",
+      "excerpt": "A computational preprint links skin morphology with simulated transport across a set of 50 chemicals.",
+      "html": "<h2>The research question</h2><p>Tesfamarian and colleagues describe two- and three-dimensional skin models incorporating regional and age-related morphology. Their 2025 preprint simulates transdermal transport for 50 chemicals and examines the influence of diffusion, partitioning and molecular properties.</p><h2>Simulation is conditional evidence</h2><p>A model’s prediction depends on its geometry, parameter values, boundary conditions and assumptions. It is not itself a measurement from a clinical population. Findings from a particular formulation or modeled skin region should not be assumed to transfer to another without evaluation.</p><h2>A useful role in research</h2><p>Our editorial interpretation is that such models can help formulate experimental questions and identify influential parameters. A clear comparison with independent experimental data is still needed before treating a prediction as evidence for a defined application.</p>",
+      "type": "Science",
+      "topic": "Science",
+      "year": "2026",
+      "date": "2026-10-07",
+      "originalPublicationDate": "2026-10-07",
+      "editorialPublicationDate": null,
+      "importDate": "2026-10-08",
+      "author": "Hopkins MedTech Compliance",
+      "sourceOrganization": "Hopkins MedTech Compliance",
+      "sourceUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7513591552712040449/",
+      "sourceAccessStatus": "verified",
+      "publicationStatus": "published",
+      "reviewedAt": "2026-10-08",
+      "reviewNote": "Preprint; peer review is not established by its arXiv posting. This summary is based on the public abstract.",
+      "additionalSources": [
+        {
+          "label": "Tesfamarian et al. — arXiv:2508.07123",
+          "url": "https://arxiv.org/abs/2508.07123"
+        }
+      ],
+      "access": "Public company post and primary sources"
+    },
+    {
+      "id": "L03",
+      "slug": "antigen-test-performance-and-population",
+      "title": "Antigen-test sensitivity depends on the population",
+      "excerpt": "A large hospital study illustrates why intended users, symptoms and study setting belong beside every performance estimate.",
+      "html": "<h2>What was studied</h2><p>Wagenhäuser and colleagues compared rapid antigen tests with RT-qPCR at a single German tertiary-care hospital between November 2020 and June 2023. Across 78,798 paired results, overall sensitivity was 34.5% and specificity was 99.6%. Higher viral load and typical COVID-19 symptoms were associated with a positive antigen result among infected individuals.</p><h2>What the estimate does not say</h2><p>The findings describe the tests, population and screening use in this study. They are not a universal sensitivity estimate for every rapid antigen product, symptomatic setting or specimen workflow. The authors associated the decline over time primarily with a changing symptom profile.</p><h2>Implication for study planning</h2><p>Our editorial takeaway is to define the intended population before choosing a performance target. Record symptoms, timing, comparator, specimen procedures and subgroup analyses so that the result can be interpreted in the context of intended use.</p>",
+      "type": "Company Insights",
+      "topic": "IVD",
+      "year": "2026",
+      "date": "2026-10-06",
+      "originalPublicationDate": "2026-10-06",
+      "editorialPublicationDate": null,
+      "importDate": "2026-10-08",
+      "author": "Hopkins MedTech Compliance",
+      "sourceOrganization": "Hopkins MedTech Compliance",
+      "sourceUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7513279097154985985/",
+      "sourceAccessStatus": "verified",
+      "publicationStatus": "published",
+      "reviewedAt": "2026-10-08",
+      "reviewNote": "Summary checked against the published abstract. The paper is external research, not an HMC-conducted study.",
+      "additionalSources": [
+        {
+          "label": "Original study — eBioMedicine, 2024",
+          "url": "https://doi.org/10.1016/j.ebiom.2024.105394"
+        },
+        {
+          "label": "PubMed abstract and bibliographic record",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39388783/"
+        }
+      ],
+      "access": "Public company post and primary sources"
+    },
+    {
+      "id": "L04",
+      "slug": "hmc-questions-fda-town-halls-2022",
+      "title": "HMC questions in the FDA’s 2022 IVD town halls",
+      "excerpt": "Public transcripts document questions about respiratory diagnostic studies, sample handling and home collection.",
+      "html": "<h2>A public historical record</h2><p>Three FDA town-hall transcripts from 2022 record speakers identifying themselves with Hopkins MedTech Compliance. On 18 May, Wendy asked about clinical evidence for a molecular 510(k), and Homer Wu raised a pre-EUA combination-test question. On 24 August, Homer discussed a proposed multi-country influenza B study. On 21 September, Jennifer Stanford asked about retrospective recruitment and specimen splitting, and Homer discussed home-collection validation.</p><h2>Read each exchange in context</h2><p>The exchanges concern particular questions at a specific stage of the COVID-19 emergency response. FDA responses emphasized matters such as the proposed study and the relevant submission context. Readers should consult the complete transcripts, including the agency’s qualifications, rather than reuse an isolated answer as current general guidance.</p><h2>What participation establishes</h2><p>These records document participation in public discussions. They do not establish FDA endorsement of HMC, authorization of a company product, or acceptance of a later clinical study. For a new project, current requirements and the product-specific evidence plan need a fresh review.</p>",
+      "type": "Company Insights",
+      "topic": "FDA and Regulatory",
+      "year": "2026",
+      "date": "2026-10-06",
+      "originalPublicationDate": "2026-10-06",
+      "editorialPublicationDate": null,
+      "importDate": "2026-10-08",
+      "author": "Hopkins MedTech Compliance",
+      "sourceOrganization": "Hopkins MedTech Compliance",
+      "sourceUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7513130950092865536/",
+      "sourceAccessStatus": "verified",
+      "publicationStatus": "published",
+      "reviewedAt": "2026-10-08",
+      "reviewNote": "Historical record. Participation in an FDA meeting is not an endorsement or regulatory authorization.",
+      "additionalSources": [
+        {
+          "label": "FDA IVD town hall — 18 May 2022",
+          "url": "https://www.fda.gov/media/158755/download"
+        },
+        {
+          "label": "FDA IVD town hall — 24 August 2022",
+          "url": "https://www.fda.gov/media/161382/download"
+        },
+        {
+          "label": "FDA IVD town hall — 21 September 2022",
+          "url": "https://www.fda.gov/media/161863/download"
+        }
+      ],
+      "access": "Public company post and primary sources"
+    },
+    {
+      "id": "L05",
+      "slug": "hmc-hml-documented-partnership",
+      "title": "HMC, HML and a documented laboratory partnership",
+      "excerpt": "A 2023 partner announcement provides a dated record of distinct clinical, regulatory and laboratory roles.",
+      "html": "<h2>The documented announcement</h2><p>On 24 July 2023, DiaCarta announced a strategic partnership with New Jersey-based Hopkins MedTech Compliance and Hopkins MedTech Lab Services. The announcement described support for IVD regulatory compliance and laboratory-developed-test validation. It presented HMC’s clinical and regulatory work and HML’s laboratory-related activities separately.</p><h2>Keep entity boundaries visible</h2><p>The announcement also described DiaCarta’s own laboratory capabilities. Those statements should not be reassigned to HMC. An associated company’s laboratory, a partner’s accreditation and HMC’s consulting service are different facts, even when they support the same project.</p><h2>A dated source, not a current credential register</h2><p>This article records what the partner announced in 2023. Current contracting entities, service scope, laboratory locations and accreditation status should be established with the actual provider for a proposed engagement. The company’s LinkedIn post is also linked below; legal registration numbers and present executive titles have not been independently confirmed here.</p>",
+      "type": "Company Insights",
+      "topic": "Company",
+      "year": "2026",
+      "date": "2026-10-06",
+      "originalPublicationDate": "2026-10-06",
+      "editorialPublicationDate": null,
+      "importDate": "2026-10-08",
+      "author": "Hopkins MedTech Compliance",
+      "sourceOrganization": "Hopkins MedTech Compliance",
+      "sourceUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7513138611614187520/",
+      "sourceAccessStatus": "verified",
+      "publicationStatus": "published",
+      "reviewedAt": "2026-10-08",
+      "reviewNote": "HMC and HML are distinct entities. This historical announcement does not verify current partner accreditations or current service availability.",
+      "additionalSources": [
+        {
+          "label": "DiaCarta — partnership announcement, 24 July 2023",
+          "url": "https://www.diacarta.com/hmc-hml-partnership"
+        }
+      ],
+      "access": "Public company post and primary sources"
+    },
+    {
+      "id": "L06",
+      "slug": "class-b-ivdr-planning-milestones",
+      "title": "Class B IVDR planning starts before the final deadline",
+      "excerpt": "The transition end date is only one milestone in an eligible legacy device’s conformity-assessment plan.",
+      "html": "<h2>The earlier milestones</h2><p>For eligible self-declared IVDD legacy devices moving into class B under IVDR, the transition can run to 31 December 2029. The conditions include an IVDR quality management system by 26 May 2025, a formal notified-body application by 26 May 2027 and a written agreement by 26 September 2027. A device already covered by an IVDD notified-body certificate follows the applicable certified-device timeline instead.</p><h2>Start with the device’s actual history</h2><p>Classification alone does not establish transition eligibility. Check the original declaration or certificate, the product’s design and intended-purpose history, and whether the required conditions have been met. New devices cannot simply adopt a legacy-device timetable.</p><h2>A planning question for each workstream</h2><p>As an editorial planning suggestion, identify which technical-documentation, performance-evaluation and quality-system tasks support the next required milestone. Record who owns each task and what evidence closes it. Confirm the applicable pathway and submission expectations with appropriately qualified advisers and the selected notified body.</p>",
+      "type": "Company Insights",
+      "topic": "FDA and Regulatory",
+      "year": "2026",
+      "date": "2026-10-06",
+      "originalPublicationDate": "2026-10-06",
+      "editorialPublicationDate": null,
+      "importDate": "2026-10-08",
+      "author": "Hopkins MedTech Compliance",
+      "sourceOrganization": "Hopkins MedTech Compliance",
+      "sourceUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7513048648583143424/",
+      "sourceAccessStatus": "verified",
+      "publicationStatus": "published",
+      "reviewedAt": "2026-10-08",
+      "reviewNote": "Context checked on 8 October 2026. Transition conditions must be assessed for the particular device.",
+      "additionalSources": [
+        {
+          "label": "European Commission — IVDR transition factsheet",
+          "url": "https://health.ec.europa.eu/document/download/0f868301-8580-48e8-afa1-79aae839188e_en"
+        },
+        {
+          "label": "Regulation (EU) 2024/1860",
+          "url": "https://eur-lex.europa.eu/eli/reg/2024/1860/oj/eng"
+        }
+      ],
+      "access": "Public company post and primary sources"
+    },
+    {
+      "id": "S02",
+      "slug": "lipid-nanocarriers-skin-delivery",
+      "title": "Particle size is one part of the skin-delivery story",
+      "excerpt": "A review of lipid nanosystems highlights interacting formulation and skin-barrier factors.",
+      "html": "<h2>What the review covers</h2><p>The 2023 Pharmaceutics review, “Current Advances in Lipid Nanosystems Intended for Topical and Transdermal Drug Delivery Applications,” considers skin structure, nanoparticle penetration routes and factors affecting delivery. Its abstract identifies particle size, surface charge and formulation components among the variables that need to be understood and controlled.</p><h2>Avoid a universal size rule</h2><p>HMC’s LinkedIn discussion uses particle size to explore possible delivery routes. The editorial takeaway is more qualified: a size measurement on its own does not establish where a formulation will travel or how much active substance will be delivered. Skin condition, carrier composition and the distinction between topical and transdermal delivery matter.</p><h2>Make the endpoint explicit</h2><p>A research plan should distinguish material retained at the surface, deposited in a follicle, delivered into skin, and transported across it. These are different outcomes. Evidence for one should not silently become a claim for another.</p>",
+      "type": "Science",
+      "topic": "Science",
+      "year": "2026",
+      "date": "2026-10-06",
+      "originalPublicationDate": "2026-10-06",
+      "editorialPublicationDate": null,
+      "importDate": "2026-10-08",
+      "author": "Hopkins MedTech Compliance",
+      "sourceOrganization": "Hopkins MedTech Compliance",
+      "sourceUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7513229325987434496/",
+      "sourceAccessStatus": "verified",
+      "publicationStatus": "published",
+      "reviewedAt": "2026-10-08",
+      "reviewNote": "Summary checked against the published abstract. No universal particle-size threshold or clinical efficacy claim is established here.",
+      "additionalSources": [
+        {
+          "label": "Original review — Pharmaceutics, 2023",
+          "url": "https://doi.org/10.3390/pharmaceutics15020656"
+        },
+        {
+          "label": "PubMed abstract and bibliographic record",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/36839978/"
+        }
+      ],
+      "access": "Public company post and primary sources"
+    },
+    {
+      "id": "L07",
+      "slug": "fda-melanoma-device-reclassification-2026",
+      "title": "FDA reclassification of two melanoma assessment device types",
+      "excerpt": "A 2026 final order changes the pathway for specified adjunctive devices while retaining special controls.",
+      "html": "<h2>What changed</h2><p>FDA’s final order, published on 25 March 2026 and effective 24 April 2026, moved optical diagnostic devices for melanoma and electrical impedance spectrometers from class III to class II with special controls. The order identifies device types associated with product codes OYD and ONV and subjects them to premarket notification.</p><h2>The scope matters</h2><p>These are adjunctive devices used in clinical assessment. The order does not create a general pathway for every skin-analysis app, consumer imaging tool or autonomous diagnostic system. Its clinical-performance and labeling controls must be read with each device definition and intended use.</p><h2>From classification to an evidence plan</h2><p>The practical question is whether a proposed product fits a specified classification, then what evidence supports that intended use. Our editorial suggestion is to document the target users, patients, output and role in the care pathway before translating a classification decision into study requirements. A different intended use may require a different assessment.</p>",
+      "type": "Company Insights",
+      "topic": "FDA and Regulatory",
+      "year": "2026",
+      "date": "2026-10-05",
+      "originalPublicationDate": "2026-10-05",
+      "editorialPublicationDate": null,
+      "importDate": "2026-10-08",
+      "author": "Hopkins MedTech Compliance",
+      "sourceOrganization": "Hopkins MedTech Compliance",
+      "sourceUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7512866871008886785/",
+      "sourceAccessStatus": "verified",
+      "publicationStatus": "published",
+      "reviewedAt": "2026-10-08",
+      "reviewNote": "Regulatory context checked on 8 October 2026. Reclassification of a device type does not clear or approve an individual product.",
+      "additionalSources": [
+        {
+          "label": "Federal Register — final FDA order, 91 FR 14445",
+          "url": "https://www.federalregister.gov/documents/2026/03/25/2026-05772/general-and-plastic-surgery-devices-reclassification-of-optical-diagnostic-devices-for-melanoma"
+        }
+      ],
+      "access": "Public company post and primary sources"
+    },
+    {
+      "id": "S03",
+      "slug": "ai-skin-science-different-evidence",
+      "title": "AI in skin science: different questions, different evidence",
+      "excerpt": "Image labels, drug transport and clinical image assessment each demand a different evaluation.",
+      "html": "<h2>Three distinct research settings</h2><p>A 2026 skin-tone dataset preprint examines labeling and benchmarking. A 2023 microneedle study compares machine-learning approaches for drug-permeation prediction and identifies drug loading, permeation time and microneedle surface area as influential variables. A September 2026 preprint compares three multimodal AI models with three dermatologists using patient-captured images; results depend on the metric, and model confidence is not consistently well calibrated.</p><h2>Keep the claims attached to the task</h2><p>These studies do not measure the same capability. Predicting permeation is different from classifying skin tone or interpreting a lesion image. High performance in one dataset does not establish reliability across a new population, acquisition method or intended use.</p><h2>Research and regulation answer different questions</h2><p>The FDA’s 2026 melanoma-device order concerns specific adjunctive device types. It does not validate the research systems discussed here. Our editorial recommendation is to describe each model through its task, reference standard, evaluation population and limitations before discussing practical use.</p>",
+      "type": "Science",
+      "topic": "Science",
+      "year": "2026",
+      "date": "2026-10-04",
+      "originalPublicationDate": "2026-10-04",
+      "editorialPublicationDate": null,
+      "importDate": "2026-10-08",
+      "author": "Hopkins MedTech Compliance",
+      "sourceOrganization": "Hopkins MedTech Compliance",
+      "sourceUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7512640754020716544/",
+      "sourceAccessStatus": "verified",
+      "publicationStatus": "published",
+      "reviewedAt": "2026-10-08",
+      "reviewNote": "The two arXiv studies are preprints. Research summaries are based on public abstracts and are not evidence of an HMC-validated product.",
+      "additionalSources": [
+        {
+          "label": "Skin-tone benchmark — arXiv:2603.02475",
+          "url": "https://arxiv.org/abs/2603.02475"
+        },
+        {
+          "label": "Microneedle permeation study, 2023",
+          "url": "https://doi.org/10.1002/btm2.10512"
+        },
+        {
+          "label": "Multimodal AI benchmark — arXiv:2609.24190",
+          "url": "https://arxiv.org/abs/2609.24190"
+        },
+        {
+          "label": "FDA final order on two melanoma device types",
+          "url": "https://www.federalregister.gov/documents/2026/03/25/2026-05772/general-and-plastic-surgery-devices-reclassification-of-optical-diagnostic-devices-for-melanoma"
+        }
+      ],
+      "access": "Public company post and primary sources"
+    },
+    {
+      "id": "S04",
+      "slug": "skin-tone-labels-and-metrics",
+      "title": "Skin-tone auditing starts with the measurement",
+      "excerpt": "Before interpreting model agreement, establish what the labels and the scoring rule mean.",
+      "html": "<h2>A dataset and a labeling problem</h2><p>The 2026 preprint “Large-Scale Dataset and Benchmark for Skin Tone Classification in the Wild” reports 42,313 images from 3,564 individuals with ten-category Monk Skin Tone annotations. It explores classification and benchmark design, including dataset imbalance and leakage concerns.</p><h2>Agreement depends on the rule</h2><p>Exact-category agreement and agreement within one adjacent category answer different questions. A model can perform differently under these metrics without any change to its predictions. Human annotation variability is therefore part of interpreting a score, but it should not be described as a mathematically fixed ceiling on all future systems.</p><h2>An editorial checklist for evaluation</h2><p>Record the scale, annotation procedure, image conditions, participant overlap and subgroup distribution. Separate person-level data splits from image-level splits, and report the metric alongside the result. A skin-tone benchmark alone cannot establish diagnostic accuracy, fairness across every clinical use, or fitness for a medical-device claim.</p>",
+      "type": "Science",
+      "topic": "Science",
+      "year": "2026",
+      "date": "2026-10-01",
+      "originalPublicationDate": "2026-10-01",
+      "editorialPublicationDate": null,
+      "importDate": "2026-10-08",
+      "author": "Hopkins MedTech Compliance",
+      "sourceOrganization": "Hopkins MedTech Compliance",
+      "sourceUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7511417237304418304/",
+      "sourceAccessStatus": "verified",
+      "publicationStatus": "published",
+      "reviewedAt": "2026-10-08",
+      "reviewNote": "Preprint; this summary is based on the public abstract. It does not establish clinical diagnostic validity.",
+      "additionalSources": [
+        {
+          "label": "Matias et al. — arXiv:2603.02475",
+          "url": "https://arxiv.org/abs/2603.02475"
+        }
+      ],
+      "access": "Public company post and primary sources"
+    }
+  ],
+  "jobs": [
+    {
+      "id": "JD-HMT-A01",
+      "slug": "clinical-research-intern",
+      "title": "Clinical Research Intern, Clinical Operations & Site Coordination",
+      "excerpt": "Study documentation, site coordination, enrollment and visit tracking, and trial master file organization for device and IVD studies",
+      "track": "Healthcare & MedTech",
+      "level": "Student / early career",
+      "sections": [
+        {
+          "title": "Key To Terms Used",
+          "paragraphs": [
+            "PROTOCOL The document defining how a study runs: who qualifies, what is measured, in what order.",
+            "ICF Informed consent form. What a participant reads and signs before taking part.",
+            "TMF Trial master file. The complete, audit-ready record of how a study was conducted.",
+            "CRF Case report form. The structured form used to record each participant's data.",
+            "SITE A hospital or clinic where participants are enrolled and study visits take place.",
+            "DEVIATION Anything that happened differently from the protocol, recorded rather than hidden."
+          ]
+        },
+        {
+          "title": "Intended Role",
+          "paragraphs": [
+            "Clinical studies are won or lost on paperwork discipline: the right document version at the right site, every visit logged, every deviation written down while it is still fresh. This role sits inside that machinery. You will help prepare and organize study documentation, track site activity, and keep the record complete and audit-ready. The emphasis is on accuracy, traceability, and professional judgment about what to escalate, not on arriving with trial experience already in hand."
+          ]
+        },
+        {
+          "title": "Principal Duties",
+          "paragraphs": [
+            "– Support preparation and version control of study documents such as protocols, informed consent forms, case report forms, and site instructions.",
+            "– Help organize and maintain trial master file and site file structures so that every document stays current and traceable.",
+            "– Track enrollment, visit schedules, and outstanding site actions, and flag anything slipping against the study timeline.",
+            "– Prepare meeting agendas, minutes, and follow-up action logs for internal study calls and site check-ins.",
+            "– Summarize protocol requirements and study procedures into short reference materials for internal use.",
+            "– Research publicly available guidance on good clinical practice and study conduct, and summarize what applies to a given study design.",
+            "– Use approved AI tools to draft, summarize, and reformat documents, then verify every requirement and reference against the source document."
+          ]
+        },
+        {
+          "title": "Example Assignments",
+          "paragraphs": [
+            "Assignments depend on active studies, authorized data access, and the internship timeline. Examples may include: – A site readiness and document checklist package for an upcoming device or IVD performance study",
+            "– An enrollment and visit tracking workbook with a weekly status summary for the study team",
+            "– A reorganized trial master file index with a gap list of missing or outdated documents"
+          ]
+        },
+        {
+          "title": "Your First Two Weeks",
+          "paragraphs": [
+            "– Read one study protocol end to end and write a one-page plain- language summary of it.",
+            "– Learn the file structure and naming rules, then file a backlog of documents correctly.",
+            "– Shadow two internal study calls and produce the minutes and action log for both.",
+            "– Build the first version of the enrollment tracker and reconcile it against the site's own count."
+          ]
+        },
+        {
+          "title": "About Hopkins Medtech",
+          "paragraphs": [
+            "Hopkins MedTech Group LLC is a U.S. company working in medical technology and in vitro diagnostics. Its work covers clinical performance studies, protocol development and site coordination, data review and quality assurance, and regulatory support for United States and European pathways. The group is also exploring AI and digital health through an early-stage research initiative in facial and skin analysis."
+          ]
+        },
+        {
+          "title": "Required Qualifications",
+          "paragraphs": [
+            "– Currently pursuing, or recently completed, a degree in a life science, public health, nursing, biomedical engineering, or a related field, or able to show equivalent project work.",
+            "– Strong written English and the ability to write short, precise, unambiguous instructions and summaries.",
+            "– Exceptional attention to detail, and comfort with version control, naming conventions, and repetitive checking work.",
+            "– Comfortable with spreadsheets and document tools for tracking, formatting, and structured record keeping.",
+            "– Discretion with confidential and patient-related information, and the judgment to ask first whenever a rule is unclear.",
+            "– No prior clinical trial, CRO, or professional internship experience is required."
+          ]
+        },
+        {
+          "title": "Preferred Qualifications",
+          "paragraphs": [
+            "Not screening criteria. Coursework, labs, personal projects, and self- study all count as evidence. – Coursework or lab exposure to research methods, biostatistics, human subjects research, or regulatory science",
+            "– Familiarity with the vocabulary of clinical studies, such as protocol, informed consent, deviation, and monitoring visit",
+            "– Any experience coordinating a project with multiple parties, deadlines, and documents that must stay in sync"
+          ]
+        },
+        {
+          "title": "What You Will Gain",
+          "paragraphs": [
+            "– See how a medical device or IVD study actually runs, from document preparation to site coordination and close-out.",
+            "– Learn why traceability and documentation discipline decide whether a study survives an audit.",
+            "– Practice the coordination skills that clinical research associate and study coordinator roles screen for.",
+            "– Leave with concrete examples of study documentation work you can describe in detail in an interview."
+          ]
+        },
+        {
+          "title": "Deliverables",
+          "paragraphs": [
+            "– An organized study document set with a version log and gap list",
+            "– A tracking workbook plus a recurring status summary the team can keep using",
+            "– A short written handover describing what you built, how it works, and what remains open"
+          ]
+        },
+        {
+          "title": "Supervision And Evaluation",
+          "paragraphs": [
+            "Interns report to a named project lead, meet on a set weekly cadence, and receive written feedback on each deliverable. Work is evaluated on accuracy and traceability of sources, documentation quality, responsiveness to feedback, judgment about what to escalate, and disciplined use of approved AI tools. We expect steady learning and iteration rather than polished perfection on the first day."
+          ]
+        },
+        {
+          "title": "What We Do Not Expect",
+          "paragraphs": [
+            "– Prior internship experience, or a name-brand employer on your CV.",
+            "– Knowing the regulations, tools, or vocabulary before you start; the terms box above is where most people begin.",
+            "– Certainty. Saying what the evidence does not support is treated as a strength, not a gap."
+          ]
+        },
+        {
+          "title": "Application And Selection",
+          "paragraphs": [
+            "Candidates are referred through our education partners. An application is a CV plus a short note naming the track you want and one project from this document you would like to work on, and why. First-round interviews are with the project lead who would supervise the work, not with a screening panel."
+          ]
+        },
+        {
+          "title": "Data Handling, Privacy, And Responsible Ai",
+          "paragraphs": [
+            "Interns work only with data and documents they have been explicitly authorized to access. Patient-identifiable information, study data, client- confidential files, and proprietary materials must never be uploaded to public or unapproved AI services, shared outside the project team, or stored on personal accounts or devices. AI tools may be used only",
+            "where the project lead has approved them for that task, and all AI- assisted work must be independently verified before it enters any deliverable. The intern and the project lead remain accountable for the final result."
+          ]
+        },
+        {
+          "title": "Equal Opportunity & Educational Nature",
+          "paragraphs": [
+            "Hopkins MedTech Group LLC provides equal internship and employment opportunities without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, veteran status, or any other legally protected characteristic. Internships are educational in nature; interns do not provide medical advice, make regulatory determinations, or represent the company to any health authority, client, or study site. The AI and digital health initiative described here is early-stage research, not a cleared, approved, or clinically validated product. Assignments, data access, duration, and supervision are confirmed in the final project description."
+          ]
+        }
+      ],
+      "pdf": "/downloads/HOPKINS_MEDTECH_Clinical_Research_Intern.pdf",
+      "pages": 2,
+      "status": "Educational partner referral; availability to be confirmed"
+    },
+    {
+      "id": "JD-HMT-A02",
+      "slug": "regulatory-affairs-intern",
+      "title": "Regulatory Affairs Intern, FDA and EU Submission Support",
+      "excerpt": "Regulatory pathway research, predicate and comparison analysis, submission document assembly, and labeling review support for FDA and European filings",
+      "track": "Healthcare & MedTech",
+      "level": "Student / early career",
+      "sections": [
+        {
+          "title": "Key To Terms Used",
+          "paragraphs": [
+            "510(k) The most common FDA route: showing a device is equivalent to one already cleared.",
+            "EUA Emergency use authorization. A temporary FDA route used during a declared emergency.",
+            "PREDICATE The already-cleared device that a new one is compared against.",
+            "INTENDED USE The exact wording of what a product is for. It drives testing, labeling, and claims.",
+            "IVDR The European regulation governing in vitro diagnostic devices.",
+            "SUBMISSION The assembled package of evidence filed with a health authority."
+          ]
+        },
+        {
+          "title": "Intended Role",
+          "paragraphs": [
+            "Every device and diagnostic has to answer one question before it can be sold: which regulatory pathway does it take, and what evidence does that pathway demand? This role supports that work. You will research published guidance and public submission databases, build structured comparisons, and help assemble the sections of a submission package. The emphasis is on careful reading and honest sourcing, not on knowing regulation by heart before you start."
+          ]
+        },
+        {
+          "title": "Principal Duties",
+          "paragraphs": [
+            "– Research publicly available FDA guidance, regulations, and European requirements relevant to a given product type.",
+            "– Search public databases for cleared comparison products and summarize their intended use, technology, and testing.",
+            "– Build structured comparison tables that show how a product aligns with or differs from prior cleared devices.",
+            "– Help assemble and format submission sections, checklists, and indexes against the applicable requirement list.",
+            "– Review labeling, instructions for use, and promotional claims against the stated intended use, and flag any unsupported claim.",
+            "– Maintain a sourced research log so that every regulatory statement in a working document can be traced to its origin.",
+            "– Use approved AI tools to speed up reading and drafting, then verify every citation and requirement against the original source text."
+          ]
+        },
+        {
+          "title": "Example Assignments",
+          "paragraphs": [
+            "Assignments depend on active studies, authorized data access, and the internship timeline. Examples may include: – A regulatory pathway assessment for a device or diagnostic, with the requirement list each pathway would trigger",
+            "– A comparison analysis of cleared products with a structured table of intended use, technology, and testing",
+            "– A submission readiness checklist mapping each required section to its current status and owner"
+          ]
+        },
+        {
+          "title": "Your First Two Weeks",
+          "paragraphs": [
+            "– Read the applicable guidance for one product type and list every requirement it triggers.",
+            "– Search the public clearance database and shortlist candidate comparison devices.",
+            "– Draft the comparison table and fill it for the first two devices.",
+            "– Start the sourced research log, with a citation for every statement you record."
+          ]
+        },
+        {
+          "title": "About Hopkins Medtech",
+          "paragraphs": [
+            "Hopkins MedTech Group LLC is a U.S. company working in medical technology and in vitro diagnostics. Its work covers clinical performance studies, protocol development and site coordination, data review and quality assurance, and regulatory support for United States and European pathways. The group is also exploring AI and digital health through an early-stage research initiative in facial and skin analysis."
+          ]
+        },
+        {
+          "title": "Required Qualifications",
+          "paragraphs": [
+            "– Currently pursuing, or recently completed, a degree in regulatory science, life sciences, biomedical engineering, public health, law, or a related field, or able to show equivalent self-study or project work.",
+            "– Strong reading stamina for dense technical and legal text, and the ability to restate it accurately in plain language.",
+            "– Rigorous sourcing habits, including the instinct to cite the original document rather than a secondary summary.",
+            "– Clear written English and comfort building structured tables, checklists, and document indexes.",
+            "– Willingness to say what the source actually supports, including when the answer is that the evidence is not there.",
+            "– No prior regulatory affairs, consulting, or professional internship experience is required."
+          ]
+        },
+        {
+          "title": "Preferred Qualifications",
+          "paragraphs": [
+            "Not screening criteria. Coursework, labs, personal projects, and self- study all count as evidence. – Coursework or self-study in regulatory affairs, quality systems, health policy, or medical device development",
+            "– Familiarity with terms such as intended use, predicate device, clearance, or conformity assessment",
+            "– Any research project that required tracking and citing a large number of primary sources"
+          ]
+        },
+        {
+          "title": "What You Will Gain",
+          "paragraphs": [
+            "– Learn how regulatory pathways are actually chosen and what evidence each one demands.",
+            "– Practice reading primary regulatory sources and turning them into requirement lists a team can work from.",
+            "– Understand why intended use wording drives testing, labeling, and marketing claims downstream.",
+            "– Leave with a sourced regulatory research portfolio that demonstrates precision under scrutiny."
+          ]
+        },
+        {
+          "title": "Deliverables",
+          "paragraphs": [
+            "– A pathway assessment memo with the applicable requirements and their sources",
+            "– A comparison table of cleared products with full citations",
+            "– A submission readiness checklist with an open items list for the project lead"
+          ]
+        },
+        {
+          "title": "Supervision And Evaluation",
+          "paragraphs": [
+            "Interns report to a named project lead, meet on a set weekly cadence, and receive written feedback on each deliverable. Work is evaluated on accuracy and traceability of sources, documentation quality, responsiveness to feedback, judgment about what to escalate, and disciplined use of approved AI tools. We expect steady learning and iteration rather than polished perfection on the first day."
+          ]
+        },
+        {
+          "title": "What We Do Not Expect",
+          "paragraphs": [
+            "– Prior internship experience, or a name-brand employer on your CV.",
+            "– Knowing the regulations, tools, or vocabulary before you start; the terms box above is where most people begin.",
+            "– Certainty. Saying what the evidence does not support is treated as a strength, not a gap."
+          ]
+        },
+        {
+          "title": "Application And Selection",
+          "paragraphs": [
+            "Candidates are referred through our education partners. An application is a CV plus a short note naming the track you want and one project from this document you would like to work on, and why. First-round interviews are with the project lead who would supervise the work, not with a screening panel."
+          ]
+        },
+        {
+          "title": "Data Handling, Privacy, And Responsible Ai",
+          "paragraphs": [
+            "Interns work only with data and documents they have been explicitly authorized to access. Patient-identifiable information, study data, client- confidential files, and proprietary materials must never be uploaded to public or unapproved AI services, shared outside the project team, or stored on personal accounts or devices. AI tools may be used only",
+            "where the project lead has approved them for that task, and all AI- assisted work must be independently verified before it enters any deliverable. The intern and the project lead remain accountable for the final result."
+          ]
+        },
+        {
+          "title": "Equal Opportunity & Educational Nature",
+          "paragraphs": [
+            "Hopkins MedTech Group LLC provides equal internship and employment opportunities without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, veteran status, or any other legally protected characteristic. Internships are educational in nature; interns do not provide medical advice, make regulatory determinations, or represent the company to any health authority, client, or study site. The AI and digital health initiative described here is early-stage research, not a cleared, approved, or clinically validated product. Assignments, data access, duration, and supervision are confirmed in the final project description."
+          ]
+        }
+      ],
+      "pdf": "/downloads/HOPKINS_MEDTECH_Regulatory_Affairs_Intern.pdf",
+      "pages": 2,
+      "status": "Educational partner referral; availability to be confirmed"
+    },
+    {
+      "id": "JD-HMT-A03",
+      "slug": "clinical-data-biostatistics-intern",
+      "title": "Clinical Data & Biostatistics Intern, Data Review and Study Quality",
+      "excerpt": "Study data review, query tracking, descriptive and diagnostic performance analysis, and reproducible reporting for performance studies",
+      "track": "Healthcare & MedTech",
+      "level": "Student / early career",
+      "sections": [
+        {
+          "title": "Key To Terms Used",
+          "paragraphs": [
+            "QUERY A written question sent back to a site when data looks wrong, missing, or contradictory.",
+            "SENSITIVITY Of the people who truly have the condition, the share a test correctly flags.",
+            "SPECIFICITY Of the people who truly do not have it, the share a test correctly clears.",
+            "DATA LOCK The point after which a study dataset may no longer be changed.",
+            "DENOMINATOR Exactly which records a percentage was calculated over. Change it and the answer changes.",
+            "REPRODUCIBLE An analysis that reruns from the raw data and produces the same numbers."
+          ]
+        },
+        {
+          "title": "Intended Role",
+          "paragraphs": [
+            "Study data arrives incomplete, inconsistent, and occasionally impossible, and someone has to notice before it reaches an analysis. This role is that check. You will review authorized study datasets for completeness and internal consistency, track queries to closure, and produce descriptive summaries and performance calculations in a reproducible way. The emphasis is on reproducibility and honest reporting, not on advanced statistical modeling."
+          ]
+        },
+        {
+          "title": "Principal Duties",
+          "paragraphs": [
+            "– Review authorized study datasets for missing values, out-of-range results, duplicates, and internal contradictions.",
+            "– Write and track data queries, and maintain a query log through to documented resolution.",
+            "– Produce descriptive summaries of study populations, enrollment, and completion using an agreed table format.",
+            "– Support diagnostic performance calculations such as sensitivity, specificity, and agreement, with denominators defined up front.",
+            "– Write analysis scripts that rerun end to end from the source dataset, so that any result can be reproduced on request.",
+            "– Document every data handling decision, including exclusions and assumptions, in a dated analysis log.",
+            "– Use approved AI tools to assist with code and documentation, then validate outputs against the raw dataset before reporting anything."
+          ]
+        },
+        {
+          "title": "Example Assignments",
+          "paragraphs": [
+            "Assignments depend on active studies, authorized data access, and the internship timeline. Examples may include: – A data quality review of an authorized study dataset with a prioritized query list",
+            "– A reproducible descriptive summary package with tables, figures, and a rerunnable script",
+            "– A performance metric calculation with documented denominators, exclusions, and confidence intervals"
+          ]
+        },
+        {
+          "title": "Your First Two Weeks",
+          "paragraphs": [
+            "– Get authorized access to one dataset and write down exactly what each field means.",
+            "– Run a first completeness and range check and draft the initial query list.",
+            "– Rebuild one existing summary table from the raw data and confirm the numbers match.",
+            "– Set up the analysis script to rerun from raw data in one command."
+          ]
+        },
+        {
+          "title": "About Hopkins Medtech",
+          "paragraphs": [
+            "Hopkins MedTech Group LLC is a U.S. company working in medical technology and in vitro diagnostics. Its work covers clinical performance studies, protocol development and site coordination, data review and quality assurance, and regulatory support for United States and European pathways. The group is also exploring AI and digital health through an early-stage research initiative in facial and skin analysis."
+          ]
+        },
+        {
+          "title": "Required Qualifications",
+          "paragraphs": [
+            "– Currently pursuing, or recently completed, a degree in statistics, biostatistics, data science, epidemiology, mathematics, life sciences, or a related field, or able to show equivalent self-study or project work.",
+            "– Working knowledge of at least one of Python, R, or SAS from coursework, an online course, or a personal project.",
+            "– Solid spreadsheet skills and comfort reconciling two sources that are supposed to agree and do not.",
+            "– The discipline to document assumptions and exclusions rather than quietly dropping inconvenient rows.",
+            "– Discretion with confidential and patient-related data, including strict adherence to authorized access boundaries.",
+            "– No prior clinical data management, biostatistics, or professional internship experience is required."
+          ]
+        },
+        {
+          "title": "Preferred Qualifications",
+          "paragraphs": [
+            "Not screening criteria. Coursework, labs, personal projects, and self- study all count as evidence. – Coursework in biostatistics, study design, epidemiology, or diagnostic test evaluation",
+            "– Exposure to version control, notebooks, or any habit that makes an analysis rerunnable by someone else",
+            "– Familiarity with concepts such as sensitivity, specificity, predictive value, or inter-rater agreement"
+          ]
+        },
+        {
+          "title": "What You Will Gain",
+          "paragraphs": [
+            "– Learn how clinical study data is reviewed, queried, and locked before anyone analyzes it.",
+            "– Practice reproducible analysis habits that research and industry teams both demand.",
+            "– Understand how diagnostic performance metrics are defined, and how definitions change the answer.",
+            "– Leave with a reproducible analysis package you can walk an interviewer through line by line."
+          ]
+        },
+        {
+          "title": "Deliverables",
+          "paragraphs": [
+            "– A data quality report with a query log and resolution status",
+            "– A reproducible analysis script, with the tables and figures it makes",
+            "– An analysis log of assumptions, exclusions, and open questions"
+          ]
+        },
+        {
+          "title": "Supervision And Evaluation",
+          "paragraphs": [
+            "Interns report to a named project lead, meet on a set weekly cadence, and receive written feedback on each deliverable. Work is evaluated on accuracy and traceability of sources, documentation quality, responsiveness to feedback, judgment about what to escalate, and disciplined use of approved AI tools. We expect steady learning and iteration rather than polished perfection on the first day."
+          ]
+        },
+        {
+          "title": "What We Do Not Expect",
+          "paragraphs": [
+            "– Prior internship experience, or a name-brand employer on your CV.",
+            "– Knowing the regulations, tools, or vocabulary before you start; the terms box above is where most people begin.",
+            "– Certainty. Saying what the evidence does not support is treated as a strength, not a gap."
+          ]
+        },
+        {
+          "title": "Application And Selection",
+          "paragraphs": [
+            "Candidates are referred through our education partners. An application is a CV plus a short note naming the track you want and one project from this document you would like to work on, and why. First-round interviews are with the project lead who would supervise the work, not with a screening panel."
+          ]
+        },
+        {
+          "title": "Data Handling, Privacy, And Responsible Ai",
+          "paragraphs": [
+            "Interns work only with data and documents they have been explicitly authorized to access. Patient-identifiable information, study data, client- confidential files, and proprietary materials must never be uploaded to public or unapproved AI services, shared outside the project team, or stored on personal accounts or devices. AI tools may be used only",
+            "where the project lead has approved them for that task, and all AI- assisted work must be independently verified before it enters any deliverable. The intern and the project lead remain accountable for the final result."
+          ]
+        },
+        {
+          "title": "Equal Opportunity & Educational Nature",
+          "paragraphs": [
+            "Hopkins MedTech Group LLC provides equal internship and employment opportunities without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, veteran status, or any other legally protected characteristic. Internships are educational in nature; interns do not provide medical advice, make regulatory determinations, or represent the company to any health authority, client, or study site. The AI and digital health initiative described here is early-stage research, not a cleared, approved, or clinically validated product. Assignments, data access, duration, and supervision are confirmed in the final project description."
+          ]
+        }
+      ],
+      "pdf": "/downloads/HOPKINS_MEDTECH_Clinical_Data_Biostatistics_Intern.pdf",
+      "pages": 2,
+      "status": "Educational partner referral; availability to be confirmed"
+    },
+    {
+      "id": "JD-HMT-A04",
+      "slug": "quality-assurance-intern",
+      "title": "Quality Assurance Intern, Quality Systems & Post-Market Compliance",
+      "excerpt": "Standard operating procedure support, document control, audit preparation, and post-market surveillance research within a medical device quality system",
+      "track": "Healthcare & MedTech",
+      "level": "Student / early career",
+      "sections": [
+        {
+          "title": "Key To Terms Used",
+          "paragraphs": [
+            "QMS Quality management system. The written rules a company follows, plus proof that it followed them.",
+            "SOP Standard operating procedure. Steps a stranger can follow without guessing.",
+            "CAPA Corrective and preventive action. What is done after a problem, and how recurrence is stopped.",
+            "DOC CONTROL Knowing which version is current, who approved it, and who was trained on it.",
+            "PMS Post-market surveillance. Watching for problems after a product is already in use.",
+            "AUDIT TRAIL The record showing who changed what, when, and why."
+          ]
+        },
+        {
+          "title": "Intended Role",
+          "paragraphs": [
+            "A quality system is a promise that the company does what it wrote down, and can prove it. This role supports that proof. You will help draft and control procedures, prepare audit evidence, and research post-market signals from public sources. The emphasis is on writing procedures people can actually follow and on evidence that holds up when someone asks for it, not on prior quality system experience."
+          ]
+        },
+        {
+          "title": "Principal Duties",
+          "paragraphs": [
+            "– Support drafting, formatting, and revision of standard operating procedures and work instructions using the approved house template.",
+            "– Maintain document control records, including version history, effective dates, and training acknowledgment tracking.",
+            "– Prepare audit and inspection readiness materials, such as evidence indexes that map each requirement to its record.",
+            "– Research public adverse event and recall databases for comparable products, and summarize the recurring themes.",
+            "– Support post-market surveillance literature searches and maintain a sourced, dated summary of findings.",
+            "– Help maintain logs for deviations, complaints, and corrective actions, tracking each item to documented closure.",
+            "– Use approved AI tools to draft and reformat procedure text, then verify every requirement reference against its controlling document."
+          ]
+        },
+        {
+          "title": "Example Assignments",
+          "paragraphs": [
+            "Assignments depend on active studies, authorized data access, and the internship timeline. Examples may include: – A drafted or revised procedure with a redline summary and a training note for affected staff",
+            "– An audit readiness evidence index mapping requirements to records, with a gap list",
+            "– A post-market surveillance summary of public complaint and recall themes for a product category"
+          ]
+        },
+        {
+          "title": "Your First Two Weeks",
+          "paragraphs": [
+            "– Read the current procedure set and map which document governs which activity.",
+            "– Pick one outdated procedure and draft a revision with a redline and change rationale.",
+            "– Build the first slice of the audit evidence index for one area.",
+            "– Search public recall and complaint databases for one product category and log the themes."
+          ]
+        },
+        {
+          "title": "About Hopkins Medtech",
+          "paragraphs": [
+            "Hopkins MedTech Group LLC is a U.S. company working in medical technology and in vitro diagnostics. Its work covers clinical performance studies, protocol development and site coordination, data review and quality assurance, and regulatory support for United States and European pathways. The group is also exploring AI and digital health through an early-stage research initiative in facial and skin analysis."
+          ]
+        },
+        {
+          "title": "Required Qualifications",
+          "paragraphs": [
+            "– Currently pursuing, or recently completed, a degree in life sciences, biomedical engineering, public health, industrial engineering, regulatory science, or a related field, or able to show equivalent self-study or project work.",
+            "– Clear, literal written English and the ability to write instructions that a stranger can follow without guessing.",
+            "– Comfort with structured, repetitive verification work and with maintaining logs to a consistent standard.",
+            "– Organized document habits, including disciplined naming, versioning, and change tracking.",
+            "– Willingness to record a finding accurately even when it reflects a gap in current practice.",
+            "– No prior quality assurance, auditing, or professional internship experience is required."
+          ]
+        },
+        {
+          "title": "Preferred Qualifications",
+          "paragraphs": [
+            "Not screening criteria. Coursework, labs, personal projects, and self- study all count as evidence. – Coursework or self-study in quality management, process improvement, regulatory affairs, or technical writing",
+            "– Familiarity with concepts such as document control, corrective action, deviation, or risk management",
+            "– Any experience writing procedures, lab protocols, manuals, or training material that others had to follow"
+          ]
+        },
+        {
+          "title": "What You Will Gain",
+          "paragraphs": [
+            "– Understand how a medical device quality system links procedures, records, training, and audits into one chain.",
+            "– Practice technical writing that is judged by whether people can follow it, not by how it reads.",
+            "– Learn how post-market signals are collected and turned into corrective action.",
+            "– Leave with procedure and audit evidence samples that demonstrate genuine documentation discipline."
+          ]
+        },
+        {
+          "title": "Deliverables",
+          "paragraphs": [
+            "– A drafted or revised procedure with its redline and change rationale",
+            "– An audit evidence index with an open gap list",
+            "– A sourced post-market surveillance summary with the recommended follow-up"
+          ]
+        },
+        {
+          "title": "Supervision And Evaluation",
+          "paragraphs": [
+            "Interns report to a named project lead, meet on a set weekly cadence, and receive written feedback on each deliverable. Work is evaluated on accuracy and traceability of sources, documentation quality, responsiveness to feedback, judgment about what to escalate, and disciplined use of approved AI tools. We expect steady learning and iteration rather than polished perfection on the first day."
+          ]
+        },
+        {
+          "title": "What We Do Not Expect",
+          "paragraphs": [
+            "– Prior internship experience, or a name-brand employer on your CV.",
+            "– Knowing the regulations, tools, or vocabulary before you start; the terms box above is where most people begin.",
+            "– Certainty. Saying what the evidence does not support is treated as a strength, not a gap."
+          ]
+        },
+        {
+          "title": "Application And Selection",
+          "paragraphs": [
+            "Candidates are referred through our education partners. An application is a CV plus a short note naming the track you want and one project from this document you would like to work on, and why. First-round interviews are with the project lead who would supervise the work, not with a screening panel."
+          ]
+        },
+        {
+          "title": "Data Handling, Privacy, And Responsible Ai",
+          "paragraphs": [
+            "Interns work only with data and documents they have been explicitly authorized to access. Patient-identifiable information, study data, client- confidential files, and proprietary materials must never be uploaded to public or unapproved AI services, shared outside the project team, or stored on personal accounts or devices. AI tools may be used only",
+            "where the project lead has approved them for that task, and all AI- assisted work must be independently verified before it enters any deliverable. The intern and the project lead remain accountable for the final result."
+          ]
+        },
+        {
+          "title": "Equal Opportunity & Educational Nature",
+          "paragraphs": [
+            "Hopkins MedTech Group LLC provides equal internship and employment opportunities without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, veteran status, or any other legally protected characteristic. Internships are educational in nature; interns do not provide medical advice, make regulatory determinations, or represent the company to any health authority, client, or study site. The AI and digital health initiative described here is early-stage research, not a cleared, approved, or clinically validated product. Assignments, data access, duration, and supervision are confirmed in the final project description."
+          ]
+        }
+      ],
+      "pdf": "/downloads/HOPKINS_MEDTECH_Quality_Assurance_Compliance_Intern.pdf",
+      "pages": 2,
+      "status": "Educational partner referral; availability to be confirmed"
+    },
+    {
+      "id": "JD-HMT-B01",
+      "slug": "ai-computer-vision-intern",
+      "title": "AI & Computer Vision Intern, Facial and Skin Image Analysis",
+      "excerpt": "Image preprocessing, face region detection and segmentation, visual feature analysis, and technical feasibility testing for an early-stage skin analysis initiative",
+      "track": "AI & Digital Health",
+      "level": "Student / early career",
+      "sections": [
+        {
+          "title": "Key To Terms Used",
+          "paragraphs": [
+            "SEGMENTATION Splitting an image into regions, for example separating cheek, forehead, and background.",
+            "LANDMARK Reference points on a face, used to align images so that they can be compared.",
+            "BASELINE The simple method a new method has to beat before it is worth anything.",
+            "FAILURE MODE The specific condition under which a method stops working, such as poor lighting.",
+            "PREPROCESSING Cleaning and standardizing images before any analysis runs.",
+            "REPRODUCIBLE A pipeline another engineer can rerun from the repository and get the same result."
+          ]
+        },
+        {
+          "title": "Intended Role",
+          "paragraphs": [
+            "The initiative asks whether standardized facial images can be turned into structured, useful skin insights. Nobody has decided that it works. This role runs the experiments that answer it. You will build preprocessing pipelines, test detection and segmentation approaches, and report honestly on where they break. The emphasis is on rigorous, reproducible feasibility testing, not on shipping a finished model."
+          ]
+        },
+        {
+          "title": "Principal Duties",
+          "paragraphs": [
+            "– Build reproducible preprocessing pipelines covering normalization, alignment, lighting correction, and quality gating.",
+            "– Test and compare open-source face detection, landmark, and region segmentation methods on sample images.",
+            "– Implement and evaluate candidate visual feature measures for skin characteristics such as texture, tone, and evenness of appearance.",
+            "– Design controlled experiments that isolate one variable at a time, and record settings so results can be reproduced.",
+            "– Quantify failure modes, including lighting, camera, angle, and skin tone effects, and report them without softening.",
+            "– Document every pipeline and experiment so another engineer can rerun it from the repository alone.",
+            "– Use approved AI coding tools to accelerate implementation, then verify behavior with unit tests and by inspecting outputs by hand."
+          ]
+        },
+        {
+          "title": "Example Assignments",
+          "paragraphs": [
+            "Assignments depend on active studies, authorized data access, and the internship timeline. Examples may include: – A preprocessing and quality-gate pipeline that standardizes incoming facial images",
+            "– A benchmark comparing detection and segmentation methods on accuracy, speed, and failure modes",
+            "– A feasibility report on whether a proposed visual feature can be measured reliably enough to be useful"
+          ]
+        },
+        {
+          "title": "Your First Two Weeks",
+          "paragraphs": [
+            "– Set up the environment and reproduce one published baseline on sample images.",
+            "– Build the preprocessing pipeline and run it over the first batch end to end.",
+            "– Benchmark two detection methods and record accuracy, speed, and where each fails.",
+            "– Write the experiment log format for the rest of the placement."
+          ]
+        },
+        {
+          "title": "About Hopkins Medtech",
+          "paragraphs": [
+            "Hopkins MedTech Group LLC is a U.S. company working in medical technology and in vitro diagnostics. Its work covers clinical performance studies, protocol development and site coordination, data review and quality assurance, and regulatory support for United States and European pathways. The group is also exploring AI and digital health through an early-stage research initiative in facial and skin analysis."
+          ]
+        },
+        {
+          "title": "Required Qualifications",
+          "paragraphs": [
+            "– Currently pursuing, or recently completed, a degree in computer science, electrical engineering, biomedical engineering, applied mathematics, or a related field, or able to show equivalent self- study or project work.",
+            "– Working Python skills and familiarity with at least one of NumPy, OpenCV, PyTorch, or TensorFlow from coursework or personal work.",
+            "– Understanding of basic image processing and evaluation concepts, including how to choose a metric and a baseline.",
+            "– The habit of reporting negative results clearly, since a well- documented failure is a valid and valuable outcome here.",
+            "– Careful handling of image data, including strict adherence to authorized datasets and storage locations.",
+            "– No prior machine learning, research lab, or professional internship experience is required."
+          ]
+        },
+        {
+          "title": "Preferred Qualifications",
+          "paragraphs": [
+            "Not screening criteria. Coursework, labs, personal projects, and self- study all count as evidence. – A course project or personal project involving image classification, detection, or segmentation",
+            "– Exposure to experiment tracking, version control, or containerized environments",
+            "– Awareness of fairness and bias issues in facial analysis, including performance differences across skin tones"
+          ]
+        },
+        {
+          "title": "What You Will Gain",
+          "paragraphs": [
+            "– Work on a genuinely open research question where the answer is not known in advance.",
+            "– Practice experimental discipline: baselines, controls, metrics chosen before results arrive.",
+            "– Learn how technical feasibility findings feed into product and regulatory thinking in health contexts.",
+            "– Leave with a documented benchmark and feasibility report that shows how you think, not just what you built."
+          ]
+        },
+        {
+          "title": "Deliverables",
+          "paragraphs": [
+            "– A documented preprocessing pipeline that runs end to end from the repository",
+            "– A benchmark report comparing methods with metrics, settings, and failure analysis",
+            "– A written feasibility recommendation stating what is supported, what is not, and what to test next"
+          ]
+        },
+        {
+          "title": "Supervision And Evaluation",
+          "paragraphs": [
+            "Interns report to a named project lead, meet on a set weekly cadence, and receive written feedback on each deliverable. Work is evaluated on accuracy and traceability of sources, documentation quality, responsiveness to feedback, judgment about what to escalate, and disciplined use of approved AI tools. We expect steady learning and iteration rather than polished perfection on the first day."
+          ]
+        },
+        {
+          "title": "What We Do Not Expect",
+          "paragraphs": [
+            "– Prior internship experience, or a name-brand employer on your CV.",
+            "– Knowing the regulations, tools, or vocabulary before you start; the terms box above is where most people begin.",
+            "– Certainty. Saying what the evidence does not support is treated as a strength, not a gap."
+          ]
+        },
+        {
+          "title": "Application And Selection",
+          "paragraphs": [
+            "Candidates are referred through our education partners. An application is a CV plus a short note naming the track you want and one project from this document you would like to work on, and why. First-round interviews are with the project lead who would supervise the work, not with a screening panel."
+          ]
+        },
+        {
+          "title": "Data Handling, Privacy, And Responsible Ai",
+          "paragraphs": [
+            "Interns work only with data and documents they have been explicitly authorized to access. Patient-identifiable information, study data, client- confidential files, and proprietary materials must never be uploaded to public or unapproved AI services, shared outside the project team, or stored on personal accounts or devices. AI tools may be used only",
+            "where the project lead has approved them for that task, and all AI- assisted work must be independently verified before it enters any deliverable. The intern and the project lead remain accountable for the final result."
+          ]
+        },
+        {
+          "title": "Equal Opportunity & Educational Nature",
+          "paragraphs": [
+            "Hopkins MedTech Group LLC provides equal internship and employment opportunities without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, veteran status, or any other legally protected characteristic. Internships are educational in nature; interns do not provide medical advice, make regulatory determinations, or represent the company to any health authority, client, or study site. The AI and digital health initiative described here is early-stage research, not a cleared, approved, or clinically validated product. Assignments, data access, duration, and supervision are confirmed in the final project description."
+          ]
+        }
+      ],
+      "pdf": "/downloads/HOPKINS_MEDTECH_AI_Computer_Vision_Intern.pdf",
+      "pages": 2,
+      "status": "Educational partner referral; availability to be confirmed"
+    },
+    {
+      "id": "JD-HMT-B02",
+      "slug": "data-science-intern",
+      "title": "Data Science Intern, Dataset Curation & Model Evaluation",
+      "excerpt": "Dataset survey and curation, annotation schema design, evaluation framework construction, and bias and reliability analysis for health- related AI research",
+      "track": "AI & Digital Health",
+      "level": "Student / early career",
+      "sections": [
+        {
+          "title": "Key To Terms Used",
+          "paragraphs": [
+            "ANNOTATION Human-assigned labels on data. The definition matters more than the tool.",
+            "AGREEMENT How often two independent annotators give the same label to the same item.",
+            "SPLIT Keeping training and test data separate so that results are not self-congratulatory.",
+            "SUBGROUP Performance reported per group, rather than one average that hides a failure.",
+            "LICENSE The terms under which a dataset may legally be used, including for commercial work.",
+            "THRESHOLD The success bar set before results exist, and not moved afterwards."
+          ]
+        },
+        {
+          "title": "Intended Role",
+          "paragraphs": [
+            "Before a health AI model can be trusted, someone has to define what the data means and what counts as good enough. This role does that upstream work. You will survey available datasets and their licenses, design annotation schemas, and build the evaluation framework the project will be judged against. The emphasis is on defining measurement honestly before results exist, not on chasing a headline accuracy number."
+          ]
+        },
+        {
+          "title": "Principal Duties",
+          "paragraphs": [
+            "– Survey publicly available image and health datasets, documenting content, licensing terms, and stated limitations.",
+            "– Assess dataset representativeness across demographics, capture conditions, and label quality, and state gaps plainly.",
+            "– Design annotation schemas and written labeling guidelines that two independent annotators could apply consistently.",
+            "– Measure annotation agreement, and revise guidelines where disagreement shows the definition is ambiguous.",
+            "– Define the evaluation framework, including metrics, splits, baselines, and success thresholds, before any comparison.",
+            "– Run subgroup and bias analyses so that reported performance is not an average hiding an unacceptable failure.",
+            "– Use approved AI tools for exploration and drafting, then verify all dataset claims against the original documentation."
+          ]
+        },
+        {
+          "title": "Example Assignments",
+          "paragraphs": [
+            "Assignments depend on active studies, authorized data access, and the internship timeline. Examples may include: – A dataset landscape review with licensing, representativeness, and suitability recommendations",
+            "– An annotation schema and labeling guideline with an inter- annotator agreement study",
+            "– An evaluation framework defining metrics, baselines, splits, and subgroup reporting requirements"
+          ]
+        },
+        {
+          "title": "Your First Two Weeks",
+          "paragraphs": [
+            "– Survey candidate datasets and record content, license terms, and stated limitations.",
+            "– Draft the first annotation guideline and label a pilot set yourself.",
+            "– Run a two-annotator pilot and measure how often the labels agree.",
+            "– Propose the metrics, splits, and success thresholds before any model is compared."
+          ]
+        },
+        {
+          "title": "About Hopkins Medtech",
+          "paragraphs": [
+            "Hopkins MedTech Group LLC is a U.S. company working in medical technology and in vitro diagnostics. Its work covers clinical performance studies, protocol development and site coordination, data review and quality assurance, and regulatory support for United States and European pathways. The group is also exploring AI and digital health through an early-stage research initiative in facial and skin analysis."
+          ]
+        },
+        {
+          "title": "Required Qualifications",
+          "paragraphs": [
+            "– Currently pursuing, or recently completed, a degree in data science, statistics, computer science, public health, or a related field, or able to show equivalent self-study or project work.",
+            "– Working Python or R skills for data handling, analysis, and visualization from coursework or personal projects.",
+            "– Understanding of evaluation fundamentals such as train and test separation, baselines, and the difference between accuracy and usefulness.",
+            "– The rigor to define success criteria before seeing results, and to leave them unchanged afterward.",
+            "– Careful reading of licensing and consent terms, and the discipline to respect authorized data boundaries.",
+            "– No prior data science, research lab, or professional internship experience is required."
+          ]
+        },
+        {
+          "title": "Preferred Qualifications",
+          "paragraphs": [
+            "Not screening criteria. Coursework, labs, personal projects, and self- study all count as evidence. – Coursework or self-study in machine learning, experimental design, epidemiology, or measurement theory",
+            "– Experience labeling or cleaning a dataset and discovering how ambiguous a definition can be",
+            "– Awareness of algorithmic fairness literature, especially in health and dermatology contexts"
+          ]
+        },
+        {
+          "title": "What You Will Gain",
+          "paragraphs": [
+            "– Learn the part of AI work that decides whether any later result means anything.",
+            "– Practice writing definitions precise enough that two people reach the same label.",
+            "– Understand how subgroup performance and dataset bias become clinical and regulatory concerns.",
+            "– Leave with an evaluation framework and agreement study that demonstrate real methodological maturity."
+          ]
+        },
+        {
+          "title": "Deliverables",
+          "paragraphs": [
+            "– A dataset review with licensing and representativeness findings",
+            "– An annotation guideline plus an inter-annotator agreement report",
+            "– A written evaluation framework with metrics, baselines, and subgroup requirements"
+          ]
+        },
+        {
+          "title": "Supervision And Evaluation",
+          "paragraphs": [
+            "Interns report to a named project lead, meet on a set weekly cadence, and receive written feedback on each deliverable. Work is evaluated on accuracy and traceability of sources, documentation quality, responsiveness to feedback, judgment about what to escalate, and disciplined use of approved AI tools. We expect steady learning and iteration rather than polished perfection on the first day."
+          ]
+        },
+        {
+          "title": "What We Do Not Expect",
+          "paragraphs": [
+            "– Prior internship experience, or a name-brand employer on your CV.",
+            "– Knowing the regulations, tools, or vocabulary before you start; the terms box above is where most people begin.",
+            "– Certainty. Saying what the evidence does not support is treated as a strength, not a gap."
+          ]
+        },
+        {
+          "title": "Application And Selection",
+          "paragraphs": [
+            "Candidates are referred through our education partners. An application is a CV plus a short note naming the track you want and one project from this document you would like to work on, and why. First-round interviews are with the project lead who would supervise the work, not with a screening panel."
+          ]
+        },
+        {
+          "title": "Data Handling, Privacy, And Responsible Ai",
+          "paragraphs": [
+            "Interns work only with data and documents they have been explicitly authorized to access. Patient-identifiable information, study data, client- confidential files, and proprietary materials must never be uploaded to public or unapproved AI services, shared outside the project team, or stored on personal accounts or devices. AI tools may be used only",
+            "where the project lead has approved them for that task, and all AI- assisted work must be independently verified before it enters any deliverable. The intern and the project lead remain accountable for the final result."
+          ]
+        },
+        {
+          "title": "Equal Opportunity & Educational Nature",
+          "paragraphs": [
+            "Hopkins MedTech Group LLC provides equal internship and employment opportunities without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, veteran status, or any other legally protected characteristic. Internships are educational in nature; interns do not provide medical advice, make regulatory determinations, or represent the company to any health authority, client, or study site. The AI and digital health initiative described here is early-stage research, not a cleared, approved, or clinically validated product. Assignments, data access, duration, and supervision are confirmed in the final project description."
+          ]
+        }
+      ],
+      "pdf": "/downloads/HOPKINS_MEDTECH_Data_Science_Evaluation_Intern.pdf",
+      "pages": 2,
+      "status": "Educational partner referral; availability to be confirmed"
+    },
+    {
+      "id": "JD-HMT-B03",
+      "slug": "digital-health-product-intern",
+      "title": "Digital Health Product Intern, User Research & Prototyping",
+      "excerpt": "User needs research, competitive product review, report and interface prototyping, and privacy-aware experience design for an early-stage digital health concept",
+      "track": "AI & Digital Health",
+      "level": "Student / early career",
+      "sections": [
+        {
+          "title": "Key To Terms Used",
+          "paragraphs": [
+            "PROTOTYPE A clickable mock-up used to test an idea before anything is built.",
+            "USABILITY Whether a real person uses it correctly on the first try. Measured, not assumed.",
+            "HEALTH LITERACY Writing a result so that a non-expert reads it correctly and does not panic.",
+            "CLAIM What a product says it can do. In health, the wording is a regulatory matter.",
+            "USER RESEARCH Structured evidence about what people need, not opinions about what they might like.",
+            "PHI Protected health information. Personal data that carries strict handling rules."
+          ]
+        },
+        {
+          "title": "Intended Role",
+          "paragraphs": [
+            "A skin analysis result is only useful if a real person understands it and trusts it. This role owns that translation. You will research what users actually want to know, review how comparable products present results, and prototype reports and interfaces that communicate findings without overclaiming. The emphasis is on evidence-based design judgment and responsible wording, not on visual polish alone."
+          ]
+        },
+        {
+          "title": "Principal Duties",
+          "paragraphs": [
+            "– Research target user needs, concerns, and behavior through interviews, surveys, forums, and published research.",
+            "– Review comparable consumer and clinical products, documenting what they measure, how they present it, and what they claim to know.",
+            "– Translate technical outputs into report layouts and visualizations a non-expert can read correctly on the first try.",
+            "– Build clickable prototypes of key flows such as capture, results, explanation, and follow-up guidance.",
+            "– Draft user-facing wording that describes findings accurately and avoids diagnostic or medical claims.",
+            "– Run informal usability sessions, record where people misread the result, and revise the design accordingly.",
+            "– Use approved AI tools for synthesis and drafting, then verify every quoted user insight and competitor claim against its original source."
+          ]
+        },
+        {
+          "title": "Example Assignments",
+          "paragraphs": [
+            "Assignments depend on active studies, authorized data access, and the internship timeline. Examples may include: – A user needs and behavior research summary with prioritized insights and supporting evidence",
+            "– A competitive product review of how comparable tools present results, with claim language analysis",
+            "– A clickable prototype of the capture-to-results experience with usability findings and revisions"
+          ]
+        },
+        {
+          "title": "Your First Two Weeks",
+          "paragraphs": [
+            "– Map the current concept into a user journey and mark where the user has to trust a number.",
+            "– Review three comparable products and record how each presents results and what it claims.",
+            "– Run two informal user conversations and write down what people actually asked.",
+            "– Produce a first low-fidelity result screen and test whether people read it correctly."
+          ]
+        },
+        {
+          "title": "About Hopkins Medtech",
+          "paragraphs": [
+            "Hopkins MedTech Group LLC is a U.S. company working in medical technology and in vitro diagnostics. Its work covers clinical performance studies, protocol development and site coordination, data review and quality assurance, and regulatory support for United States and European pathways. The group is also exploring AI and digital health through an early-stage research initiative in facial and skin analysis."
+          ]
+        },
+        {
+          "title": "Required Qualifications",
+          "paragraphs": [
+            "– Currently pursuing, or recently completed, a degree in product design, human-computer interaction, public health, psychology, business, communication, or a related field, or able to show equivalent self-study or project work.",
+            "– Clear written English and the ability to explain a technical result in plain, accurate language.",
+            "– Comfort with a design or prototyping tool such as Figma, or willingness to learn one quickly.",
+            "– Genuine curiosity about users, including the willingness to talk to people whose reaction contradicts your design.",
+            "– Judgment about responsible health communication, including the instinct to avoid implied medical claims.",
+            "– No prior product, design, or professional internship experience is required."
+          ]
+        },
+        {
+          "title": "Preferred Qualifications",
+          "paragraphs": [
+            "Not screening criteria. Coursework, labs, personal projects, and self- study all count as evidence. – A course or personal project involving user interviews, usability testing, or interface design",
+            "– Exposure to health literacy, risk communication, or data visualization principles",
+            "– Awareness of privacy expectations around facial images and personal health information"
+          ]
+        },
+        {
+          "title": "What You Will Gain",
+          "paragraphs": [
+            "– Practice the full product research loop from user evidence to prototype to tested revision.",
+            "– Learn how health products communicate uncertainty without either alarming or misleading users.",
+            "– Understand where privacy and claim constraints shape design decisions in regulated contexts.",
+            "– Leave with a research-backed prototype and a usability write-up that make strong portfolio material."
+          ]
+        },
+        {
+          "title": "Deliverables",
+          "paragraphs": [
+            "– A user research summary with prioritized, sourced insights",
+            "– A competitive review of presentation patterns and claim language",
+            "– A clickable prototype plus a usability findings and revision log"
+          ]
+        },
+        {
+          "title": "Supervision And Evaluation",
+          "paragraphs": [
+            "Interns report to a named project lead, meet on a set weekly cadence, and receive written feedback on each deliverable. Work is evaluated on accuracy and traceability of sources, documentation quality, responsiveness to feedback, judgment about what to escalate, and disciplined use of approved AI tools. We expect steady learning and iteration rather than polished perfection on the first day."
+          ]
+        },
+        {
+          "title": "What We Do Not Expect",
+          "paragraphs": [
+            "– Prior internship experience, or a name-brand employer on your CV.",
+            "– Knowing the regulations, tools, or vocabulary before you start; the terms box above is where most people begin.",
+            "– Certainty. Saying what the evidence does not support is treated as a strength, not a gap."
+          ]
+        },
+        {
+          "title": "Application And Selection",
+          "paragraphs": [
+            "Candidates are referred through our education partners. An application is a CV plus a short note naming the track you want and one project from this document you would like to work on, and why. First-round interviews are with the project lead who would supervise the work, not with a screening panel."
+          ]
+        },
+        {
+          "title": "Data Handling, Privacy, And Responsible Ai",
+          "paragraphs": [
+            "Interns work only with data and documents they have been explicitly authorized to access. Patient-identifiable information, study data, client- confidential files, and proprietary materials must never be uploaded to public or unapproved AI services, shared outside the project team, or stored on personal accounts or devices. AI tools may be used only",
+            "where the project lead has approved them for that task, and all AI- assisted work must be independently verified before it enters any deliverable. The intern and the project lead remain accountable for the final result."
+          ]
+        },
+        {
+          "title": "Equal Opportunity & Educational Nature",
+          "paragraphs": [
+            "Hopkins MedTech Group LLC provides equal internship and employment opportunities without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, veteran status, or any other legally protected characteristic. Internships are educational in nature; interns do not provide medical advice, make regulatory determinations, or represent the company to any health authority, client, or study site. The AI and digital health initiative described here is early-stage research, not a cleared, approved, or clinically validated product. Assignments, data access, duration, and supervision are confirmed in the final project description."
+          ]
+        }
+      ],
+      "pdf": "/downloads/HOPKINS_MEDTECH_Digital_Health_Product_Intern.pdf",
+      "pages": 2,
+      "status": "Educational partner referral; availability to be confirmed"
+    },
+    {
+      "id": "JD-HMT-B04",
+      "slug": "healthcare-market-research-intern",
+      "title": "Healthcare Market Research Intern, Digital Health Commercialization",
+      "excerpt": "Market sizing, competitive and channel landscape research, pricing and business model analysis, and commercialization pathway assessment for a digital health concept",
+      "track": "AI & Digital Health",
+      "level": "Student / early career",
+      "sections": [
+        {
+          "title": "Key To Terms Used",
+          "paragraphs": [
+            "TAM Total addressable market. Every possible buyer, before any realism is applied.",
+            "BOTTOM-UP Sizing built from units and prices you can source, not from a headline industry figure.",
+            "CHANNEL The route a product reaches a buyer: direct, clinic partnership, retail, or licensing.",
+            "A positioning choice that changes evidence burden, cost, and time to market.",
+            "WELLNESS / MEDICAL",
+            "SENSITIVITY Showing how the answer moves when the least certain assumption changes.",
+            "REIMBURSEMENT Whether an insurer pays. It often decides whether a health product has a business."
+          ]
+        },
+        {
+          "title": "Intended Role",
+          "paragraphs": [
+            "An early-stage concept needs a defensible answer to who would pay, how much, and through which channel. This role builds that answer from public evidence. You will size the market from the bottom up, map competitors and channels, and assess which commercialization paths are realistic given regulatory and cost constraints. The emphasis is on traceable assumptions, not on optimistic totals."
+          ]
+        },
+        {
+          "title": "Principal Duties",
+          "paragraphs": [
+            "– Build bottom-up market sizing models where each assumption is stated, sourced, and independently adjustable.",
+            "– Map the competitive landscape across consumer apps, clinical tools, device makers, and skincare brands.",
+            "– Research channel options such as direct to consumer, clinic and dermatology partnerships, retail, and licensing.",
+            "– Analyze pricing and business models in comparable products, including subscription, per-use, and bundled offers.",
+            "– Summarize how regulatory positioning, wellness versus medical, changes the cost and speed of each route.",
+            "– Maintain a sourced research log so any number in a deck can be traced back to its origin within one click.",
+            "– Use approved AI tools to accelerate research and drafting, then verify every figure against the primary source."
+          ]
+        },
+        {
+          "title": "Example Assignments",
+          "paragraphs": [
+            "Assignments depend on active studies, authorized data access, and the internship timeline. Examples may include: – A bottom-up market sizing model with a sensitivity analysis on the three assumptions that matter most",
+            "– A competitive and channel landscape map with positioning, pricing, and claim comparisons",
+            "– A commercialization pathway assessment comparing routes on cost, speed, evidence burden, and risk"
+          ]
+        },
+        {
+          "title": "Your First Two Weeks",
+          "paragraphs": [
+            "– Assemble the source list: industry data, filings, pricing pages, and public health statistics.",
+            "– Build the first bottom-up sizing model with every assumption stated and sourced.",
+            "– Map ten comparable products by positioning, price, channel, and claims made.",
+            "– Write the one-page question list: what we must know before choosing a commercial route."
+          ]
+        },
+        {
+          "title": "About Hopkins Medtech",
+          "paragraphs": [
+            "Hopkins MedTech Group LLC is a U.S. company working in medical technology and in vitro diagnostics. Its work covers clinical performance studies, protocol development and site coordination, data review and quality assurance, and regulatory support for United States and European pathways. The group is also exploring AI and digital health through an early-stage research initiative in facial and skin analysis."
+          ]
+        },
+        {
+          "title": "Required Qualifications",
+          "paragraphs": [
+            "– Currently pursuing, or recently completed, a degree in business, economics, public health, health administration, marketing, or a related field, or able to show equivalent self-study or project work.",
+            "– Solid spreadsheet skills, including building a model whose assumptions someone else can change and re-run.",
+            "– Strong written English and the ability to make a structured, evidence-based argument in a short document.",
+            "– Rigorous sourcing habits, including the willingness to label an estimate as an estimate.",
+            "– Comfort researching regulated healthcare markets where claims and evidence requirements shape economics.",
+            "– No prior market research, consulting, or professional internship experience is required."
+          ]
+        },
+        {
+          "title": "Preferred Qualifications",
+          "paragraphs": [
+            "Not screening criteria. Coursework, labs, personal projects, and self- study all count as evidence. – A course or competition project involving market sizing, a business case, or a pitch",
+            "– Exposure to healthcare reimbursement, consumer health markets, or dermatology and skincare categories",
+            "– Familiarity with research sources such as industry reports, company filings, or public health statistics"
+          ]
+        },
+        {
+          "title": "What You Will Gain",
+          "paragraphs": [
+            "– Learn to size a market from the bottom up, where every assumption has to survive a question.",
+            "– Understand how regulatory positioning changes the economics of a health product.",
+            "– Practice building analysis that an executive can challenge line by line and still trust.",
+            "– Leave with a sourced market model and pathway assessment you can defend in an interview."
+          ]
+        },
+        {
+          "title": "Deliverables",
+          "paragraphs": [
+            "– A sourced market sizing model with documented assumptions and sensitivity ranges",
+            "– A competitive and channel landscape map with pricing and positioning comparisons",
+            "– A commercialization pathway memo with a recommendation and its stated conditions"
+          ]
+        },
+        {
+          "title": "Supervision And Evaluation",
+          "paragraphs": [
+            "Interns report to a named project lead, meet on a set weekly cadence, and receive written feedback on each deliverable. Work is evaluated on accuracy and traceability of sources, documentation quality, responsiveness to feedback, judgment about what to escalate, and disciplined use of approved AI tools. We expect steady learning and iteration rather than polished perfection on the first day."
+          ]
+        },
+        {
+          "title": "What We Do Not Expect",
+          "paragraphs": [
+            "– Prior internship experience, or a name-brand employer on your CV.",
+            "– Knowing the regulations, tools, or vocabulary before you start; the terms box above is where most people begin.",
+            "– Certainty. Saying what the evidence does not support is treated as a strength, not a gap."
+          ]
+        },
+        {
+          "title": "Application And Selection",
+          "paragraphs": [
+            "Candidates are referred through our education partners. An application is a CV plus a short note naming the track you want and one project from this document you would like to work on, and why. First-round interviews are with the project lead who would supervise the work, not with a screening panel."
+          ]
+        },
+        {
+          "title": "Data Handling, Privacy, And Responsible Ai",
+          "paragraphs": [
+            "Interns work only with data and documents they have been explicitly authorized to access. Patient-identifiable information, study data, client- confidential files, and proprietary materials must never be uploaded to public or unapproved AI services, shared outside the project team, or stored on personal accounts or devices. AI tools may be used only",
+            "where the project lead has approved them for that task, and all AI- assisted work must be independently verified before it enters any deliverable. The intern and the project lead remain accountable for the final result."
+          ]
+        },
+        {
+          "title": "Equal Opportunity & Educational Nature",
+          "paragraphs": [
+            "Hopkins MedTech Group LLC provides equal internship and employment opportunities without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, veteran status, or any other legally protected characteristic. Internships are educational in nature; interns do not provide medical advice, make regulatory determinations, or represent the company to any health authority, client, or study site. The AI and digital health initiative described here is early-stage research, not a cleared, approved, or clinically validated product. Assignments, data access, duration, and supervision are confirmed in the final project description."
+          ]
+        }
+      ],
+      "pdf": "/downloads/HOPKINS_MEDTECH_Healthcare_Market_Research_Intern.pdf",
+      "pages": 2,
+      "status": "Educational partner referral; availability to be confirmed"
+    }
+  ],
+  "team": [
+    {
+      "id": "TEAM-JEFF",
+      "name": "Jeff Wu",
+      "role": null,
+      "slug": "jeff-wu",
+      "html": "",
+      "excerpt": "Professional profile available on LinkedIn.",
+      "initials": "JW",
+      "linkedin": "https://www.linkedin.com/in/jeffwu774/",
+      "image": null,
+      "sourceUrl": "https://www.linkedin.com/in/jeffwu774/",
+      "verified": false
+    },
+    {
+      "id": "TEAM-1",
+      "name": "Homer Wu, Ph.D.",
+      "role": "Chief Scientist",
+      "slug": "homer-wu",
+      "html": "\n<p>Over 25+ years of experience in professional services, Dr. Wu is a visionary, seasoned, and dynamic professional, offering in-depth scientific, regulatory, and clinical knowledge of developing medical devices including IVD and innovative medical devices, focused on driving corporate growth and innovation by translating goals/objectives into actionable strategies/operating plans that support the business.</p><p>Dr. Wu has led cross-functional teams responsible for product development, scale-up manufacturing, supply-chain management, and GMP compliance. Worked collaboratively with client’s executive management, board of directors, consultants, and outside thought leaders to shape clinical and regulatory strategy/direction fir HMC’s clients.</p><p>Before the foundation of HMC, Dr. Wu worked in various consulting roles at PwC, Lucent Technologies, has served in many pharmaceutical companies such as Pfizer, healthcare institution such as Memorial Sloan  Kettering Cancer Center, Hospital for Special Surgery, Atlantic Health System, etc.</p><p>Dr. Wu obtained his Ph.D. in Physics from New York University, and an M.S. in Computer Science and M.S. in Electrical Engineering also from New York University.</p><hr/>\n",
+      "excerpt": "Over 25+ years of experience in professional services, Dr. Wu is a visionary, seasoned, and dynamic professional, offering in-depth scientific, regulatory, and clinical knowledge of dev",
+      "initials": "HW",
+      "linkedin": "https://www.linkedin.com/in/homerwu/",
+      "image": null,
+      "sourceUrl": "http://www.hopkinsmedtech.com/submissions.aspx?ClassID=77",
+      "verified": true
+    },
+    {
+      "id": "TEAM-2",
+      "name": "Jennifer Stanford",
+      "role": "Director of Clinical Operation",
+      "slug": "jennifer-stanford",
+      "html": "\n<p>Over 25+ years of nursing and leadership experience in both clinical research and critical care, she has served in clinical operation director role in many health systems including Valley Health System, Cardiopulmonary Research Science and Technology Institute, UT Southwestern Medical Center. Her clinical expertise across different phases of trial, managed 125+ drug and device trials (Phases II-IV) in numerous therapeutic areas. She has established local Institutional Review Board/provided oversight and training for many of her client’s before joining HMC.</p><p>As the Director of Clinical operation, Jennifer has primarily responsible for overseeing the operational efficiency and quality of clinic services at all clinic sites, including direct supervision of Site Managers, and lead efforts to improve quality outcomes and clinic operations in a way that contributes to an enhanced experience for staff and patients, oversee the functioning of key systems vital to clinic operations.</p><p>Jennifer obtained her M.S. in Nursing from University of Texas at Arlington, and Bachelors of Science in Nursing     from Texas Christian University.</p><hr/>\n",
+      "excerpt": "Over 25+ years of nursing and leadership experience in both clinical research and critical care, she has served in clinical operation director role in many health systems including Vall",
+      "initials": "JS",
+      "linkedin": null,
+      "image": null,
+      "sourceUrl": "http://www.hopkinsmedtech.com/submissions.aspx?ClassID=77",
+      "verified": true
+    },
+    {
+      "id": "TEAM-3",
+      "name": "Wendy Zhou, Ph.D.",
+      "role": "Director of Laboratory Services",
+      "slug": "wendy-zhou",
+      "html": "\n<p>With over 25+ years of strong experience in the pharmaceutical and medical device clinical research industry, Dr. Zhou has thorough and demonstrated knowledge of methods of analysis used in Clinical Laboratories, and In-depth knowledgeable of fiscal and general healthcare issues, trends, quality management. Dr. Zhou has extensive experience in laboratory equipment and automation and laboratory practice &amp; standards, good understanding of scientific methodology and clinical study design.</p><p>Before joining HMC, Dr. Zhou has played Laboratory Director roles in many prestigious laboratories including: Paradigm Laboratories, Hangzhou Medical Biotechnology Clinical Laboratory, BAS Premier Laboratory, ViaGen, etc, the molecular diagnostic tests offered in these labs included the tests for infectious diseases, inherited conditions, precision medicine for chronic disease management, cancer companion diagnostics and prognostics, and pharmacogenetics.</p><p>Dr. Zhou obtained her Ph.D. in Biochemistry from Arizona State University.</p><hr/>\n",
+      "excerpt": "With over 25+ years of strong experience in the pharmaceutical and medical device clinical research industry, Dr. Zhou has thorough and demonstrated knowledge of methods of analysis use",
+      "initials": "WZ",
+      "linkedin": null,
+      "image": null,
+      "sourceUrl": "http://www.hopkinsmedtech.com/submissions.aspx?ClassID=77",
+      "verified": true
+    },
+    {
+      "id": "TEAM-4",
+      "name": "Andrew Wayland",
+      "role": "Director of Business Development",
+      "slug": "andrew-wayland",
+      "html": "\n<p>Master of Business Administration MBA </p><p>Clinical Research and Healthcare Administrator, Advance innovative discoveries for the treatment of human disease.<br/></p><p>Life Science professional and strategist with over 15 years of experience building disruptive partnerships across academia, CROs, diagnostics, biotechnology, pharmaceutical and medical device organizations.</p><p>Andrew's professional goal is to successfully impact healthcare organizations to advance innovative therapeutic discoveries for the treatment of human disease.</p><p>Highly recognized for accomplishments with Clinical Research Operations, Project Management, Business Development and Sponsored Research Funding within Healthcare Clinical Research. These results maximize efficiencies and accelerate cost-effective drug, medical device and therapeutic development.</p><p>Sponsored research funding derived from Federal (NIH, DoD, NSF), State (CPRIT), Foundation/Philanthropic, and Biopharma/Pharmaceutical research funding proposals (RFPs)</p><p>Therapeutic Areas: Oncology (Hematology and Solid Tumor), Immunology, Neurology/CNS, Clinical Pharmacology, Digital Health (AI), Medical Device, Therapeutic Diagnostics, Healthcare Prevention, Educational Services and Other Indications</p><p>Specialties: Clinical Operations, Business Development, Research Proposal Management, Clinical Trial Management, Business Entrepreneurship, ICH/GCP guidelines, GLP/GMP regulations, Research Analytics, People Leadership and Human Resource Management.</p><hr/>\n",
+      "excerpt": "Master of Business Administration MBA",
+      "initials": "AW",
+      "linkedin": null,
+      "image": null,
+      "sourceUrl": "http://www.hopkinsmedtech.com/submissions.aspx?ClassID=77",
+      "verified": true
+    },
+    {
+      "id": "TEAM-5",
+      "name": "Qian Cheng, Ph.D.",
+      "role": "Chief Biostatistician",
+      "slug": "qian-cheng",
+      "html": "\n<p>With less than 10% of investigational products making it to post-marketing surveillance during clinical trials, it is imperative to build a statistical analysis plan for any clinical study, Dr. Cheng brought to HMC of extensive and flexible biostatistical capabilities for different phases of clinical trials. Under his guidance, each analysis is custom built based on our client’s clinical research goals, and performed to ICH-GCP standards, and uses the latest, best-in-class statistical software.</p><p>Dr. Cheng’s extensive experience in clinical data analysis allows HMC to provide an individualized service offering for our clients in each clinical trial, regardless of the complexity of the biostatistical needs, from study design, to sample size calculation, to protocol development &amp; review, to randomization, and statistical analysis plans, analysis and Interpretation, data presentation and reports. Biostatistician is the key driver behind trial design, it’s one of the key components of clinical trial design, for many studies, regulatory agencies review the statistical analysis plan (SAP) as part of the trial design review.</p><p>Dr. Cheng obtained his Ph.D. in Pharmaceutical Science from University of Arizona</p><hr/>\n",
+      "excerpt": "With less than 10% of investigational products making it to post-marketing surveillance during clinical trials, it is imperative to build a statistical analysis plan for any clinical st",
+      "initials": "QC",
+      "linkedin": null,
+      "image": null,
+      "sourceUrl": "http://www.hopkinsmedtech.com/submissions.aspx?ClassID=77",
+      "verified": true
+    }
+  ],
+  "laboratoryService": {
+    "id": "S-LAB",
+    "slug": "laboratory-services",
+    "title": "Laboratory Services",
+    "route": "/services/laboratory-services",
+    "group": "Laboratory Services",
+    "excerpt": "Discuss diagnostic assay validation and laboratory support through associated businesses and partners.",
+    "html": "<p>Laboratory support is coordinated through associated businesses and partners. Hopkins MedTech Compliance (HMC) and Hopkins MedTech Lab (HML) are distinct entities; partner capabilities and accreditations should not be interpreted as HMC-owned facilities or certifications.</p><p>Contact us to confirm the provider, validation scope and quality requirements for your diagnostic project.</p>",
+    "image": "/media/0d78598a-20220224105150.webp",
+    "sections": [],
+    "reviewNote": "The specific laboratory provider and service scope are confirmed for each engagement.",
+    "sourceUrl": "https://www.diacarta.com/hmc-hml-partnership",
+    "sourceIds": []
+  },
+  "pendingLinkedin": [
+    {
+      "id": "L01",
+      "title": "诺贝尔奖与 AI 研究分析方向的变化",
+      "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7513767054097723392/",
+      "publicationStatus": "published",
+      "reason": "Public body, publisher and original timestamp verified; summary checked against linked primary sources. Original post archived locally.",
+      "sourceAccessStatus": "verified",
+      "originalPublicationDate": "2026-10-08T01:07:44.737Z",
+      "targetRoute": "/resources/nobel-science-ai-and-evidence"
+    },
+    {
+      "id": "L02",
+      "title": "欧盟 IVDR 过渡期与 EUDAMED 的关键日期",
+      "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7513659717945135104/",
+      "publicationStatus": "published",
+      "reason": "Public body, publisher and original timestamp verified; summary checked against linked primary sources. Original post archived locally.",
+      "sourceAccessStatus": "verified",
+      "originalPublicationDate": "2026-10-07T18:01:13.804Z",
+      "targetRoute": "/resources/ivdr-transition-and-eudamed-dates"
+    },
+    {
+      "id": "L03",
+      "title": "抗原快检的灵敏度取决于谁被检测",
+      "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7513279097154985985/",
+      "publicationStatus": "published",
+      "reason": "Public body, publisher and original timestamp verified; summary checked against linked primary sources. Original post archived locally.",
+      "sourceAccessStatus": "verified",
+      "originalPublicationDate": "2026-10-06T16:48:46.736Z",
+      "targetRoute": "/resources/antigen-test-performance-and-population"
+    },
+    {
+      "id": "L04",
+      "title": "FDA 公开 IVD 会议里的 Hopkins 提问",
+      "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7513130950092865536/",
+      "publicationStatus": "published",
+      "reason": "Public body, publisher and original timestamp verified; summary checked against linked primary sources. Original post archived locally.",
+      "sourceAccessStatus": "verified",
+      "originalPublicationDate": "2026-10-06T07:00:05.724Z",
+      "targetRoute": "/resources/hmc-questions-fda-town-halls-2022"
+    },
+    {
+      "id": "L05",
+      "title": "可核实的公司事实",
+      "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7513138611614187520/",
+      "publicationStatus": "published",
+      "reason": "Public body, publisher and original timestamp verified; summary checked against linked primary sources. Original post archived locally.",
+      "sourceAccessStatus": "verified",
+      "originalPublicationDate": "2026-10-06T07:30:32.373Z",
+      "targetRoute": "/resources/hmc-hml-documented-partnership"
+    },
+    {
+      "id": "L06",
+      "title": "欧盟 IVDR 下 B 类 IVD 的时间表",
+      "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7513048648583143424/",
+      "publicationStatus": "published",
+      "reason": "Public body, publisher and original timestamp verified; summary checked against linked primary sources. Original post archived locally.",
+      "sourceAccessStatus": "verified",
+      "originalPublicationDate": "2026-10-06T01:33:03.515Z",
+      "targetRoute": "/resources/class-b-ivdr-planning-milestones"
+    },
+    {
+      "id": "L07",
+      "title": "FDA 把黑色素瘤检测器械从三类降为二类",
+      "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7512866871008886785/",
+      "publicationStatus": "published",
+      "reason": "Public body, publisher and original timestamp verified; summary checked against linked primary sources. Original post archived locally.",
+      "sourceAccessStatus": "verified",
+      "originalPublicationDate": "2026-10-05T13:30:44.364Z",
+      "targetRoute": "/resources/fda-melanoma-device-reclassification-2026"
+    },
+    {
+      "id": "S01",
+      "title": "皮肤渗透仿真",
+      "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7513591552712040449/",
+      "publicationStatus": "published",
+      "reason": "Public body, publisher and original timestamp verified; summary checked against linked primary sources. Original post archived locally.",
+      "sourceAccessStatus": "verified",
+      "originalPublicationDate": "2026-10-07T13:30:21.946Z",
+      "targetRoute": "/resources/modelling-skin-and-transdermal-transport"
+    },
+    {
+      "id": "S02",
+      "title": "颗粒大小与进入皮肤的路径",
+      "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7513229325987434496/",
+      "publicationStatus": "published",
+      "reason": "Public body, publisher and original timestamp verified; summary checked against linked primary sources. Original post archived locally.",
+      "sourceAccessStatus": "verified",
+      "originalPublicationDate": "2026-10-06T13:31:00.365Z",
+      "targetRoute": "/resources/lipid-nanocarriers-skin-delivery"
+    },
+    {
+      "id": "S03",
+      "title": "AI 在皮肤科学里的变化",
+      "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7512640754020716544/",
+      "publicationStatus": "published",
+      "reason": "Public body, publisher and original timestamp verified; summary checked against linked primary sources. Original post archived locally.",
+      "sourceAccessStatus": "verified",
+      "originalPublicationDate": "2026-10-04T22:32:13.873Z",
+      "targetRoute": "/resources/ai-skin-science-different-evidence"
+    },
+    {
+      "id": "S04",
+      "title": "肤色审核的度量问题",
+      "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7511417237304418304/",
+      "publicationStatus": "published",
+      "reason": "Public body, publisher and original timestamp verified; summary checked against linked primary sources. Original post archived locally.",
+      "sourceAccessStatus": "verified",
+      "originalPublicationDate": "2026-10-01T13:30:24.755Z",
+      "targetRoute": "/resources/skin-tone-labels-and-metrics"
+    }
+  ]
+}

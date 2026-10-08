@@ -1,0 +1,2995 @@
+{
+  "pages": [
+    {
+      "path": "/",
+      "status": 200,
+      "links": [
+        "/industries/biopharma",
+        "/services/regulatory-submission",
+        "/industries",
+        "/services/laboratory-services",
+        "/industries/medical-devices",
+        "/privacy",
+        "/industries/pharmaceuticals",
+        "/industries/ivd",
+        "/about/team/jeff-wu",
+        "/about/team/homer-wu",
+        "/industries/gene-cell-therapies",
+        "/resources",
+        "/services/clinical-study",
+        "/services/eua-application",
+        "/services/quality-system",
+        "/services/fda-regulatory-consulting",
+        "/resources/antigen-test-performance-and-population",
+        "/contact",
+        "/services/ivdr",
+        "/about",
+        "/resources/ivdr-transition-and-eudamed-dates",
+        "/resources/nobel-science-ai-and-evidence",
+        "/services/medical-device-510k",
+        "/about/team/jennifer-stanford",
+        "/services/post-market-surveillance",
+        "/services/regulatory-strategy",
+        "/services/otc-drug",
+        "/about/team",
+        "/services/market-research",
+        "/",
+        "/about#client-perspectives",
+        "/services/product-development",
+        "/careers",
+        "/services"
+      ],
+      "images": [
+        "/media/f6fadab7-20220224112734.webp",
+        "/media/0d78598a-20220224105150.webp",
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Hopkins MedTech Compliance | Clinical Insight. Regulatory Clarity."
+    },
+    {
+      "path": "/about",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/c9522dc4-20220325150109.png",
+        "/media/e5ef6112-20220325150340.png",
+        "/media/a83049a4-20220224174612.webp",
+        "/media/2d264def-20220223150835.png",
+        "/media/e06961ea-20220325150517.png"
+      ],
+      "title": "Our Company | Hopkins MedTech"
+    },
+    {
+      "path": "/about/team",
+      "status": 200,
+      "links": [
+        "/about/team/wendy-zhou",
+        "/privacy",
+        "/about/team/qian-cheng",
+        "/about/team/jennifer-stanford",
+        "/about/team/andrew-wayland",
+        "/about/team",
+        "/",
+        "/industries",
+        "/about/team/jeff-wu",
+        "/contact",
+        "/about/team/homer-wu",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Our Team | Hopkins MedTech"
+    },
+    {
+      "path": "/services",
+      "status": 200,
+      "links": [
+        "/services/food-dietary-supplements",
+        "/services/regulatory-submission",
+        "/industries",
+        "/services/clinical-operations",
+        "/services/preclinical-research",
+        "/services/laboratory-services",
+        "/services/us-sales-office",
+        "/privacy",
+        "/services/cgmp",
+        "/resources",
+        "/services/clinical-study",
+        "/services/clinical-investigation",
+        "/services/eua-application",
+        "/services/quality-system",
+        "/services/data-management",
+        "/services/fda-regulatory-consulting",
+        "/services/marketing",
+        "/services/quality-assurance",
+        "/contact",
+        "/services/ivdr",
+        "/about",
+        "/services/medical-device-510k",
+        "/services/post-market-surveillance",
+        "/services/post-market-compliance",
+        "/services/fda-us-agent",
+        "/services/regulatory-strategy",
+        "/services/otc-drug",
+        "/about/team",
+        "/services/market-research",
+        "/",
+        "/services/facility-registration-listing",
+        "/services/biostatistics",
+        "/services/product-development",
+        "/careers",
+        "/services",
+        "/services/project-management"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Our Services | Hopkins MedTech"
+    },
+    {
+      "path": "/industries",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/industries/pharmaceuticals",
+        "/industries/ivd",
+        "/about/team",
+        "/",
+        "/industries/biopharma",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/industries/gene-cell-therapies",
+        "/resources",
+        "/industries/medical-devices"
+      ],
+      "images": [
+        "/media/a8787ccc-20220224105424.webp",
+        "/media/bd48ce81-20220224105615.webp",
+        "/media/0d78598a-20220224105150.webp",
+        "/media/2d264def-20220223150835.png",
+        "/media/3be3089c-20220224105550.webp",
+        "/media/7acad3f5-20220224103944.webp"
+      ],
+      "title": "Industries | Hopkins MedTech"
+    },
+    {
+      "path": "/resources",
+      "status": 200,
+      "links": [
+        "/resources/nobel-science-ai-and-evidence",
+        "/resources/performance-of-rapid-antigen-tests-to-detect-symptomatic-and-asymptomatic-sars-cov-2-infection-a-prospective-cohort-study",
+        "/privacy",
+        "/resources/fda-melanoma-device-reclassification-2026",
+        "/resources/antigen-test-performance-and-population",
+        "/resources/hmc-questions-fda-town-halls-2022",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/resources/hmc-hml-documented-partnership",
+        "/resources/class-b-ivdr-planning-milestones",
+        "/services",
+        "/about",
+        "/resources/evaluating-transparency-in-ai-ml-model-characteristics-for-fda-reviewed-medical-devices",
+        "/resources",
+        "/resources/ivdr-transition-and-eudamed-dates"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Resources | Hopkins MedTech"
+    },
+    {
+      "path": "/careers",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/careers/regulatory-affairs-intern",
+        "/careers/ai-computer-vision-intern",
+        "/careers/clinical-data-biostatistics-intern",
+        "/careers/quality-assurance-intern",
+        "/about/team",
+        "/careers/data-science-intern",
+        "/careers/digital-health-product-intern",
+        "/",
+        "/industries",
+        "/careers/clinical-research-intern",
+        "/contact",
+        "/resources/historical-clinical-manager-2023",
+        "/careers",
+        "/careers/healthcare-market-research-intern",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Careers | Hopkins MedTech"
+    },
+    {
+      "path": "/contact",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/careers#application-information",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Contact Us | Hopkins MedTech"
+    },
+    {
+      "path": "/privacy",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Privacy Information | Hopkins MedTech"
+    },
+    {
+      "path": "/search?q=clinical",
+      "status": 200,
+      "links": [
+        "/resources/historical-drug-regulatory-pathways",
+        "/careers/regulatory-affairs-intern",
+        "/resources/blood-based-tests-for-multicancer-early-detection-pathfinder-a-prospective-cohort-study",
+        "/careers/data-science-intern",
+        "/resources/characteristics-of-clinical-studies-used-for-us-food-and-drug-administration-approval-of-high-risk-medical-device-supplements",
+        "/services/regulatory-submission",
+        "/industries",
+        "/industries/biopharma",
+        "/resources/detection-and-localization-of-surgically-resectable-cancers-with-a-multi-analyte-blood-test",
+        "/services/clinical-operations",
+        "/services/preclinical-research",
+        "/resources/disparities-in-dermatology-ai-performance-on-a-diverse-curated-clinical-image-set",
+        "/resources/historical-clinical-manager-2023",
+        "/careers/healthcare-market-research-intern",
+        "/resources/fda-melanoma-device-reclassification-2026",
+        "/resources/the-clinician-ai-interface-intended-use-and-explainability-in-fda-cleared-ai-devices-for-medical-image-interpretation",
+        "/industries/medical-devices",
+        "/privacy",
+        "/careers/ai-computer-vision-intern",
+        "/resources/ai-skin-science-different-evidence",
+        "/about/team/qian-cheng",
+        "/industries/pharmaceuticals",
+        "/industries/ivd",
+        "/resources/how-ai-is-used-in-fda-authorized-medical-devices-a-taxonomy-across-1-016-authorizations",
+        "/resources/tripod-ai-statement-updated-guidance-for-reporting-clinical-prediction-models-that-use-regression-or-machine-learning-methods",
+        "/careers/digital-health-product-intern",
+        "/resources/next-generation-multitarget-stool-dna-test-for-colorectal-cancer-screening",
+        "/resources/skin-tone-labels-and-metrics",
+        "/about/team/homer-wu",
+        "/resources/guidelines-for-clinical-trial-protocols-for-interventions-involving-artificial-intelligence-the-spirit-ai-extension",
+        "/industries/gene-cell-therapies",
+        "/resources",
+        "/services/clinical-study",
+        "/services/clinical-investigation",
+        "/about/team/wendy-zhou",
+        "/resources/performance-of-rapid-antigen-tests-to-detect-symptomatic-and-asymptomatic-sars-cov-2-infection-a-prospective-cohort-study",
+        "/resources/checklist-for-artificial-intelligence-in-medical-imaging-claim-a-guide-for-authors-and-reviewers",
+        "/services/data-management",
+        "/services/fda-regulatory-consulting",
+        "/resources/quadas-2-a-revised-tool-for-the-quality-assessment-of-diagnostic-accuracy-studies",
+        "/resources/hmc-questions-fda-town-halls-2022",
+        "/resources/reporting-guideline-for-the-early-stage-clinical-evaluation-of-decision-support-systems-driven-by-artificial-intelligence-decide-ai",
+        "/resources/a-cell-free-dna-blood-based-test-for-colorectal-cancer-screening",
+        "/resources/reporting-guidelines-for-clinical-trial-reports-for-interventions-involving-artificial-intelligence-the-consort-ai-extension",
+        "/resources/characteristics-of-clinical-studies-conducted-over-the-total-product-life-cycle-of-high-risk-therapeutic-medical-devices-receiving-fda-premarket-approval-in-2010-and-2011",
+        "/services/quality-assurance",
+        "/contact",
+        "/resources/hmc-hml-documented-partnership",
+        "/resources/evaluating-transparency-in-ai-ml-model-characteristics-for-fda-reviewed-medical-devices",
+        "/about",
+        "/resources/diagnostic-accuracy-of-rapid-antigen-tests-in-asymptomatic-and-presymptomatic-close-contacts-of-individuals-with-confirmed-sars-cov-2-infection-cross-sectional-study",
+        "/resources/how-medical-ai-devices-are-evaluated-limitations-and-recommendations-from-an-analysis-of-fda-approvals",
+        "/resources/design-and-implementation-of-a-digital-site-less-clinical-study-of-serial-rapid-antigen-testing-to-identify-asymptomatic-sars-cov-2-infection",
+        "/resources/nobel-science-ai-and-evidence",
+        "/resources/modelling-skin-and-transdermal-transport",
+        "/resources/nonconcurrent-control-use-in-fda-approval-of-high-risk-medical-devices",
+        "/careers/clinical-data-biostatistics-intern",
+        "/about/team/jennifer-stanford",
+        "/about/team/andrew-wayland",
+        "/services/post-market-compliance",
+        "/services/regulatory-strategy",
+        "/careers/quality-assurance-intern",
+        "/about/team",
+        "/resources/dermatologist-level-classification-of-skin-cancer-with-deep-neural-networks",
+        "/resources/nationwide-real-world-implementation-of-ai-for-cancer-detection-in-population-based-mammography-screening",
+        "/",
+        "/services/biostatistics",
+        "/resources/pivotal-trial-of-an-autonomous-ai-based-diagnostic-system-for-detection-of-diabetic-retinopathy-in-primary-care-offices",
+        "/careers/clinical-research-intern",
+        "/services/product-development",
+        "/careers",
+        "/services",
+        "/services/project-management"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Search | Hopkins MedTech"
+    },
+    {
+      "path": "/sitemap.xml",
+      "status": 200,
+      "links": [],
+      "images": [],
+      "title": null
+    },
+    {
+      "path": "/robots.txt",
+      "status": 200,
+      "links": [],
+      "images": [],
+      "title": null
+    },
+    {
+      "path": "/services/us-sales-office",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/services/market-research",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/services/marketing",
+        "/resources"
+      ],
+      "images": [
+        "/media/17362bbc-20220224113027.webp",
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "US Sales Office | Hopkins MedTech"
+    },
+    {
+      "path": "/services/clinical-study",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/services/data-management",
+        "/about/team",
+        "/",
+        "/industries",
+        "/services/biostatistics",
+        "/services/quality-assurance",
+        "/services/clinical-operations",
+        "/contact",
+        "/services/preclinical-research",
+        "/careers",
+        "/services",
+        "/about",
+        "/services/project-management",
+        "/resources"
+      ],
+      "images": [
+        "/media/54e10fd2-20220224112925.webp",
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Clinical study | Hopkins MedTech"
+    },
+    {
+      "path": "/services/otc-drug",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/services/post-market-surveillance",
+        "/services/post-market-compliance",
+        "/about/team",
+        "/services/cgmp",
+        "/services/food-dietary-supplements",
+        "/",
+        "/industries",
+        "/services/product-development",
+        "/contact",
+        "/services/ivdr",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/82929112-20220224112941.webp",
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "OTC Drug | Hopkins MedTech"
+    },
+    {
+      "path": "/services/product-development",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/services/post-market-surveillance",
+        "/services/post-market-compliance",
+        "/services/otc-drug",
+        "/about/team",
+        "/services/cgmp",
+        "/services/food-dietary-supplements",
+        "/",
+        "/industries",
+        "/contact",
+        "/services/ivdr",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/7213ee87-20220302152324.webp",
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Product Development | Hopkins MedTech"
+    },
+    {
+      "path": "/services/regulatory-strategy",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/services/medical-device-510k",
+        "/services/eua-application",
+        "/services/fda-us-agent",
+        "/services/fda-regulatory-consulting",
+        "/about/team",
+        "/services/facility-registration-listing",
+        "/",
+        "/services/regulatory-submission",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/89138083-20220302152342.webp",
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Regulatory Strategy | Hopkins MedTech"
+    },
+    {
+      "path": "/services/regulatory-submission",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/services/medical-device-510k",
+        "/services/eua-application",
+        "/services/fda-us-agent",
+        "/services/fda-regulatory-consulting",
+        "/services/regulatory-strategy",
+        "/about/team",
+        "/services/facility-registration-listing",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/b73432fc-20220302152633.webp",
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Regulatory Submission | Hopkins MedTech"
+    },
+    {
+      "path": "/services/post-market-surveillance",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/services/post-market-compliance",
+        "/services/otc-drug",
+        "/about/team",
+        "/services/cgmp",
+        "/services/food-dietary-supplements",
+        "/",
+        "/industries",
+        "/services/product-development",
+        "/contact",
+        "/services/ivdr",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/002d20b6-20220302152656.webp",
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Post Market Surveillance | Hopkins MedTech"
+    },
+    {
+      "path": "/services/facility-registration-listing",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/services/medical-device-510k",
+        "/services/eua-application",
+        "/services/fda-us-agent",
+        "/services/fda-regulatory-consulting",
+        "/services/regulatory-strategy",
+        "/about/team",
+        "/",
+        "/services/regulatory-submission",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/4b44fb6d-20220224112959.webp",
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Facility Registration and Listing | Hopkins MedTech"
+    },
+    {
+      "path": "/services/fda-us-agent",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/services/medical-device-510k",
+        "/services/eua-application",
+        "/services/fda-regulatory-consulting",
+        "/services/regulatory-strategy",
+        "/about/team",
+        "/services/facility-registration-listing",
+        "/",
+        "/services/regulatory-submission",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/cf7d728d-20220224104609.webp",
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "FDA US Agent | Hopkins MedTech"
+    },
+    {
+      "path": "/services/food-dietary-supplements",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/services/post-market-surveillance",
+        "/services/post-market-compliance",
+        "/services/otc-drug",
+        "/about/team",
+        "/services/cgmp",
+        "/",
+        "/industries",
+        "/services/product-development",
+        "/contact",
+        "/services/ivdr",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/7647f80f-20220224104650.webp",
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Food and Dietary Supplements | Hopkins MedTech"
+    },
+    {
+      "path": "/services/cgmp",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/services/post-market-surveillance",
+        "/services/post-market-compliance",
+        "/services/otc-drug",
+        "/about/team",
+        "/services/food-dietary-supplements",
+        "/",
+        "/industries",
+        "/services/product-development",
+        "/contact",
+        "/services/ivdr",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/b35b6e39-20220224104239.webp",
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "CGMP | Hopkins MedTech"
+    },
+    {
+      "path": "/services/medical-device-510k",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/services/eua-application",
+        "/services/fda-us-agent",
+        "/services/fda-regulatory-consulting",
+        "/services/regulatory-strategy",
+        "/about/team",
+        "/services/facility-registration-listing",
+        "/",
+        "/services/regulatory-submission",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/6bb2b09d-20220224112908.webp",
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Medical Device 510(k) | Hopkins MedTech"
+    },
+    {
+      "path": "/services/eua-application",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/services/medical-device-510k",
+        "/services/fda-us-agent",
+        "/services/fda-regulatory-consulting",
+        "/services/regulatory-strategy",
+        "/about/team",
+        "/services/facility-registration-listing",
+        "/",
+        "/services/regulatory-submission",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/ba95a04a-20220224104539.webp",
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "EUA Application | Hopkins MedTech"
+    },
+    {
+      "path": "/services/marketing",
+      "status": 200,
+      "links": [
+        "/services/us-sales-office",
+        "/privacy",
+        "/about/team",
+        "/services/market-research",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/42ce03f4-20220224113014.webp",
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Marketing | Hopkins MedTech"
+    },
+    {
+      "path": "/services/project-management",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/services/data-management",
+        "/about/team",
+        "/",
+        "/industries",
+        "/services/biostatistics",
+        "/services/quality-assurance",
+        "/services/clinical-operations",
+        "/contact",
+        "/services/preclinical-research",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources",
+        "/services/clinical-study"
+      ],
+      "images": [
+        "/media/b82a431f-20220224112638.webp",
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Project Management | Hopkins MedTech"
+    },
+    {
+      "path": "/services/clinical-operations",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/services/data-management",
+        "/about/team",
+        "/",
+        "/industries",
+        "/services/biostatistics",
+        "/services/quality-assurance",
+        "/services/preclinical-research",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/services/project-management",
+        "/resources",
+        "/services/clinical-study"
+      ],
+      "images": [
+        "/media/667f614a-20220224104220.webp",
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Clinical Operations | Hopkins MedTech"
+    },
+    {
+      "path": "/services/data-management",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/services/biostatistics",
+        "/services/quality-assurance",
+        "/services/clinical-operations",
+        "/contact",
+        "/services/preclinical-research",
+        "/careers",
+        "/services",
+        "/about",
+        "/services/project-management",
+        "/resources",
+        "/services/clinical-study"
+      ],
+      "images": [
+        "/media/19b64de0-20220224113106.webp",
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Data Management | Hopkins MedTech"
+    },
+    {
+      "path": "/services/biostatistics",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/services/data-management",
+        "/about/team",
+        "/",
+        "/industries",
+        "/services/quality-assurance",
+        "/services/clinical-operations",
+        "/contact",
+        "/services/preclinical-research",
+        "/careers",
+        "/services",
+        "/about",
+        "/services/project-management",
+        "/resources",
+        "/services/clinical-study"
+      ],
+      "images": [
+        "/media/8642e28f-20220224103918.webp",
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Biostatistics | Hopkins MedTech"
+    },
+    {
+      "path": "/services/quality-assurance",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/services/data-management",
+        "/about/team",
+        "/",
+        "/industries",
+        "/services/biostatistics",
+        "/services/clinical-operations",
+        "/contact",
+        "/services/preclinical-research",
+        "/careers",
+        "/services",
+        "/about",
+        "/services/project-management",
+        "/resources",
+        "/services/clinical-study"
+      ],
+      "images": [
+        "/media/b758202e-20220224112655.webp",
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Quality Assurance | Hopkins MedTech"
+    },
+    {
+      "path": "/services/fda-regulatory-consulting",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/services/medical-device-510k",
+        "/services/eua-application",
+        "/services/fda-us-agent",
+        "/services/regulatory-strategy",
+        "/about/team",
+        "/services/facility-registration-listing",
+        "/",
+        "/services/regulatory-submission",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/ce3dea35-20220224104625.webp",
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "FDA Regulatory Consulting | Hopkins MedTech"
+    },
+    {
+      "path": "/services/ivdr",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/services/post-market-surveillance",
+        "/services/post-market-compliance",
+        "/services/otc-drug",
+        "/about/team",
+        "/services/cgmp",
+        "/services/food-dietary-supplements",
+        "/",
+        "/industries",
+        "/services/product-development",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/f6fadab7-20220224112734.webp",
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "European IVDR | Hopkins MedTech"
+    },
+    {
+      "path": "/services/market-research",
+      "status": 200,
+      "links": [
+        "/services/us-sales-office",
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/services/marketing",
+        "/resources"
+      ],
+      "images": [
+        "/media/6390b9f6-20220224112816.webp",
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Market Research | Hopkins MedTech"
+    },
+    {
+      "path": "/services/post-market-compliance",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/services/post-market-surveillance",
+        "/services/otc-drug",
+        "/about/team",
+        "/services/cgmp",
+        "/services/food-dietary-supplements",
+        "/",
+        "/industries",
+        "/services/product-development",
+        "/contact",
+        "/services/ivdr",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/df24506e-20220224112832.webp",
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Post Market Compliance | Hopkins MedTech"
+    },
+    {
+      "path": "/services/preclinical-research",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/services/data-management",
+        "/about/team",
+        "/",
+        "/industries",
+        "/services/biostatistics",
+        "/services/quality-assurance",
+        "/services/clinical-operations",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/services/project-management",
+        "/resources",
+        "/services/clinical-study"
+      ],
+      "images": [
+        "/media/cc0d3cbb-20220302152756.webp",
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Preclinical Research | Hopkins MedTech"
+    },
+    {
+      "path": "/services/clinical-investigation",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/services/data-management",
+        "/about/team",
+        "/",
+        "/industries",
+        "/services/biostatistics",
+        "/services/quality-assurance",
+        "/services/clinical-operations",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/services/project-management",
+        "/resources",
+        "/services/clinical-study"
+      ],
+      "images": [
+        "/media/a9ec1879-20220302152717.webp",
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Clinical investigation. | Hopkins MedTech"
+    },
+    {
+      "path": "/services/quality-system",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/services/post-market-surveillance",
+        "/services/otc-drug",
+        "/about/team",
+        "/services/cgmp",
+        "/services/food-dietary-supplements",
+        "/",
+        "/industries",
+        "/services/product-development",
+        "/contact",
+        "/services/ivdr",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/9e03c40d-20220302152734.webp",
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Quality Systems | Hopkins MedTech"
+    },
+    {
+      "path": "/services/laboratory-services",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/0d78598a-20220224105150.webp",
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Laboratory Services | Hopkins MedTech"
+    },
+    {
+      "path": "/industries/ivd",
+      "status": 200,
+      "links": [
+        "/services/regulatory-submission",
+        "/industries",
+        "/services/laboratory-services",
+        "/privacy",
+        "/resources",
+        "/services/clinical-study",
+        "/services/clinical-investigation",
+        "/services/quality-system",
+        "/services/fda-regulatory-consulting",
+        "/contact",
+        "/services/ivdr",
+        "/about",
+        "/services/post-market-surveillance",
+        "/services/regulatory-strategy",
+        "/about/team",
+        "/services/market-research",
+        "/",
+        "/services/product-development",
+        "/careers",
+        "/services"
+      ],
+      "images": [
+        "/media/0d78598a-20220224105150.webp",
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "In Vitro Diagnostics | Hopkins MedTech"
+    },
+    {
+      "path": "/industries/medical-devices",
+      "status": 200,
+      "links": [
+        "/services/regulatory-submission",
+        "/industries",
+        "/services/laboratory-services",
+        "/privacy",
+        "/resources",
+        "/services/clinical-study",
+        "/services/clinical-investigation",
+        "/services/quality-system",
+        "/services/fda-regulatory-consulting",
+        "/contact",
+        "/services/ivdr",
+        "/about",
+        "/services/post-market-surveillance",
+        "/services/regulatory-strategy",
+        "/about/team",
+        "/services/market-research",
+        "/",
+        "/services/product-development",
+        "/careers",
+        "/services"
+      ],
+      "images": [
+        "/media/a8787ccc-20220224105424.webp",
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Medical Devices | Hopkins MedTech"
+    },
+    {
+      "path": "/industries/gene-cell-therapies",
+      "status": 200,
+      "links": [
+        "/services/regulatory-submission",
+        "/industries",
+        "/services/preclinical-research",
+        "/services/laboratory-services",
+        "/privacy",
+        "/resources",
+        "/services/clinical-study",
+        "/services/clinical-investigation",
+        "/services/quality-system",
+        "/services/fda-regulatory-consulting",
+        "/contact",
+        "/services/ivdr",
+        "/about",
+        "/services/post-market-surveillance",
+        "/services/regulatory-strategy",
+        "/about/team",
+        "/services/market-research",
+        "/",
+        "/services/product-development",
+        "/careers",
+        "/services"
+      ],
+      "images": [
+        "/media/3be3089c-20220224105550.webp",
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Gene & Cell Therapies | Hopkins MedTech"
+    },
+    {
+      "path": "/industries/biopharma",
+      "status": 200,
+      "links": [
+        "/services/regulatory-submission",
+        "/industries",
+        "/services/laboratory-services",
+        "/privacy",
+        "/resources",
+        "/services/clinical-study",
+        "/services/clinical-investigation",
+        "/services/quality-system",
+        "/services/fda-regulatory-consulting",
+        "/contact",
+        "/services/ivdr",
+        "/about",
+        "/services/post-market-surveillance",
+        "/services/regulatory-strategy",
+        "/about/team",
+        "/services/market-research",
+        "/",
+        "/services/product-development",
+        "/careers",
+        "/services"
+      ],
+      "images": [
+        "/media/7acad3f5-20220224103944.webp",
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Biopharma | Hopkins MedTech"
+    },
+    {
+      "path": "/industries/pharmaceuticals",
+      "status": 200,
+      "links": [
+        "/services/regulatory-submission",
+        "/industries",
+        "/services/laboratory-services",
+        "/privacy",
+        "/resources",
+        "/services/clinical-study",
+        "/services/clinical-investigation",
+        "/services/quality-system",
+        "/services/fda-regulatory-consulting",
+        "/contact",
+        "/services/ivdr",
+        "/about",
+        "/services/regulatory-strategy",
+        "/about/team",
+        "/services/market-research",
+        "/",
+        "/services/product-development",
+        "/careers",
+        "/services"
+      ],
+      "images": [
+        "/media/bd48ce81-20220224105615.webp",
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Pharmaceuticals | Hopkins MedTech"
+    },
+    {
+      "path": "/about/team/jeff-wu",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Jeff Wu | Hopkins MedTech"
+    },
+    {
+      "path": "/about/team/homer-wu",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Homer Wu, Ph.D. | Hopkins MedTech"
+    },
+    {
+      "path": "/about/team/jennifer-stanford",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Jennifer Stanford | Hopkins MedTech"
+    },
+    {
+      "path": "/about/team/wendy-zhou",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Wendy Zhou, Ph.D. | Hopkins MedTech"
+    },
+    {
+      "path": "/about/team/andrew-wayland",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Andrew Wayland | Hopkins MedTech"
+    },
+    {
+      "path": "/about/team/qian-cheng",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Qian Cheng, Ph.D. | Hopkins MedTech"
+    },
+    {
+      "path": "/careers/clinical-research-intern",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources",
+        "/downloads/HOPKINS_MEDTECH_Clinical_Research_Intern.pdf"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Clinical Research Intern, Clinical Operations & Site Coordination | Hopkins MedTech"
+    },
+    {
+      "path": "/careers/regulatory-affairs-intern",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/downloads/HOPKINS_MEDTECH_Regulatory_Affairs_Intern.pdf",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Regulatory Affairs Intern, FDA and EU Submission Support | Hopkins MedTech"
+    },
+    {
+      "path": "/careers/clinical-data-biostatistics-intern",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/downloads/HOPKINS_MEDTECH_Clinical_Data_Biostatistics_Intern.pdf",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Clinical Data & Biostatistics Intern, Data Review and Study Quality | Hopkins MedTech"
+    },
+    {
+      "path": "/careers/quality-assurance-intern",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/downloads/HOPKINS_MEDTECH_Quality_Assurance_Compliance_Intern.pdf",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Quality Assurance Intern, Quality Systems & Post-Market Compliance | Hopkins MedTech"
+    },
+    {
+      "path": "/careers/ai-computer-vision-intern",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources",
+        "/downloads/HOPKINS_MEDTECH_AI_Computer_Vision_Intern.pdf"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "AI & Computer Vision Intern, Facial and Skin Image Analysis | Hopkins MedTech"
+    },
+    {
+      "path": "/careers/data-science-intern",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/downloads/HOPKINS_MEDTECH_Data_Science_Evaluation_Intern.pdf",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Data Science Intern, Dataset Curation & Model Evaluation | Hopkins MedTech"
+    },
+    {
+      "path": "/careers/digital-health-product-intern",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/downloads/HOPKINS_MEDTECH_Digital_Health_Product_Intern.pdf",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Digital Health Product Intern, User Research & Prototyping | Hopkins MedTech"
+    },
+    {
+      "path": "/careers/healthcare-market-research-intern",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/downloads/HOPKINS_MEDTECH_Healthcare_Market_Research_Intern.pdf",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Healthcare Market Research Intern, Digital Health Commercialization | Hopkins MedTech"
+    },
+    {
+      "path": "/resources/evaluating-transparency-in-ai-ml-model-characteristics-for-fda-reviewed-medical-devices",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Evaluating transparency in AI/ML model characteristics for FDA-reviewed medical devices | Hopkins MedTech"
+    },
+    {
+      "path": "/resources/performance-of-rapid-antigen-tests-to-detect-symptomatic-and-asymptomatic-sars-cov-2-infection-a-prospective-cohort-study",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Performance of Rapid Antigen Tests to Detect Symptomatic and Asymptomatic SARS-CoV-2 Infection : A Prospective Cohort Study | Hopkins MedTech"
+    },
+    {
+      "path": "/resources/pivotal-trial-of-an-autonomous-ai-based-diagnostic-system-for-detection-of-diabetic-retinopathy-in-primary-care-offices",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Pivotal trial of an autonomous AI-based diagnostic system for detection of diabetic retinopathy in primary care offices | Hopkins MedTech"
+    },
+    {
+      "path": "/resources/diagnostic-accuracy-of-covid-19-rapid-antigen-tests-with-unsupervised-self-sampling-in-people-with-symptoms-in-the-omicron-period-cross-sectional-study",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Diagnostic accuracy of covid-19 rapid antigen tests with unsupervised self-sampling in people with symptoms in the omicron period: cross sectional study | Hopkins MedTech"
+    },
+    {
+      "path": "/resources/diagnostic-accuracy-of-rapid-antigen-tests-in-asymptomatic-and-presymptomatic-close-contacts-of-individuals-with-confirmed-sars-cov-2-infection-cross-sectional-study",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Diagnostic accuracy of rapid antigen tests in asymptomatic and presymptomatic close contacts of individuals with confirmed SARS-CoV-2 infection: cross sectional study | Hopkins MedTech"
+    },
+    {
+      "path": "/resources/design-and-implementation-of-a-digital-site-less-clinical-study-of-serial-rapid-antigen-testing-to-identify-asymptomatic-sars-cov-2-infection",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Design and implementation of a digital site-less clinical study of serial rapid antigen testing to identify asymptomatic SARS-CoV-2 infection | Hopkins MedTech"
+    },
+    {
+      "path": "/resources/disparities-in-dermatology-ai-performance-on-a-diverse-curated-clinical-image-set",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Disparities in dermatology AI performance on a diverse, curated clinical image set | Hopkins MedTech"
+    },
+    {
+      "path": "/resources/detection-and-localization-of-surgically-resectable-cancers-with-a-multi-analyte-blood-test",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Detection and localization of surgically resectable cancers with a multi-analyte blood test | Hopkins MedTech"
+    },
+    {
+      "path": "/resources/blood-based-tests-for-multicancer-early-detection-pathfinder-a-prospective-cohort-study",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Blood-based tests for multicancer early detection (PATHFINDER): a prospective cohort study | Hopkins MedTech"
+    },
+    {
+      "path": "/resources/marketing-and-us-food-and-drug-administration-clearance-of-artificial-intelligence-and-machine-learning-enabled-software-in-and-as-medical-devices-a-systematic-review",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Marketing and US Food and Drug Administration Clearance of Artificial Intelligence and Machine Learning Enabled Software in and as Medical Devices: A Systematic Review | Hopkins MedTech"
+    },
+    {
+      "path": "/resources/nonconcurrent-control-use-in-fda-approval-of-high-risk-medical-devices",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Nonconcurrent Control Use in FDA Approval of High-Risk Medical Devices | Hopkins MedTech"
+    },
+    {
+      "path": "/resources/characteristics-of-clinical-studies-conducted-over-the-total-product-life-cycle-of-high-risk-therapeutic-medical-devices-receiving-fda-premarket-approval-in-2010-and-2011",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Characteristics of Clinical Studies Conducted Over the Total Product Life Cycle of High-Risk Therapeutic Medical Devices Receiving FDA Premarket Approval in 2010 and 2011 | Hopkins MedTech"
+    },
+    {
+      "path": "/resources/characteristics-of-clinical-studies-used-for-us-food-and-drug-administration-approval-of-high-risk-medical-device-supplements",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Characteristics of Clinical Studies Used for US Food and Drug Administration Approval of High-Risk Medical Device Supplements | Hopkins MedTech"
+    },
+    {
+      "path": "/resources/how-medical-ai-devices-are-evaluated-limitations-and-recommendations-from-an-analysis-of-fda-approvals",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "How medical AI devices are evaluated: limitations and recommendations from an analysis of FDA approvals | Hopkins MedTech"
+    },
+    {
+      "path": "/resources/how-ai-is-used-in-fda-authorized-medical-devices-a-taxonomy-across-1-016-authorizations",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "How AI is used in FDA-authorized medical devices: a taxonomy across 1,016 authorizations | Hopkins MedTech"
+    },
+    {
+      "path": "/resources/the-clinician-ai-interface-intended-use-and-explainability-in-fda-cleared-ai-devices-for-medical-image-interpretation",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "The clinician-AI interface: intended use and explainability in FDA-cleared AI devices for medical image interpretation | Hopkins MedTech"
+    },
+    {
+      "path": "/resources/nationwide-real-world-implementation-of-ai-for-cancer-detection-in-population-based-mammography-screening",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Nationwide real-world implementation of AI for cancer detection in population-based mammography screening | Hopkins MedTech"
+    },
+    {
+      "path": "/resources/dermatologist-level-classification-of-skin-cancer-with-deep-neural-networks",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Dermatologist-level classification of skin cancer with deep neural networks | Hopkins MedTech"
+    },
+    {
+      "path": "/resources/a-cell-free-dna-blood-based-test-for-colorectal-cancer-screening",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "A Cell-free DNA Blood-Based Test for Colorectal Cancer Screening | Hopkins MedTech"
+    },
+    {
+      "path": "/resources/next-generation-multitarget-stool-dna-test-for-colorectal-cancer-screening",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Next-Generation Multitarget Stool DNA Test for Colorectal Cancer Screening | Hopkins MedTech"
+    },
+    {
+      "path": "/resources/reporting-guidelines-for-clinical-trial-reports-for-interventions-involving-artificial-intelligence-the-consort-ai-extension",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Reporting guidelines for clinical trial reports for interventions involving artificial intelligence: the CONSORT-AI Extension | Hopkins MedTech"
+    },
+    {
+      "path": "/resources/guidelines-for-clinical-trial-protocols-for-interventions-involving-artificial-intelligence-the-spirit-ai-extension",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Guidelines for clinical trial protocols for interventions involving artificial intelligence: the SPIRIT-AI Extension | Hopkins MedTech"
+    },
+    {
+      "path": "/resources/reporting-guideline-for-the-early-stage-clinical-evaluation-of-decision-support-systems-driven-by-artificial-intelligence-decide-ai",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Reporting guideline for the early-stage clinical evaluation of decision support systems driven by artificial intelligence: DECIDE-AI | Hopkins MedTech"
+    },
+    {
+      "path": "/resources/stard-2015-an-updated-list-of-essential-items-for-reporting-diagnostic-accuracy-studies",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "STARD 2015: an updated list of essential items for reporting diagnostic accuracy studies | Hopkins MedTech"
+    },
+    {
+      "path": "/resources/quadas-2-a-revised-tool-for-the-quality-assessment-of-diagnostic-accuracy-studies",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "QUADAS-2: a revised tool for the quality assessment of diagnostic accuracy studies | Hopkins MedTech"
+    },
+    {
+      "path": "/resources/tripod-ai-statement-updated-guidance-for-reporting-clinical-prediction-models-that-use-regression-or-machine-learning-methods",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "TRIPOD+AI statement: updated guidance for reporting clinical prediction models that use regression or machine learning methods | Hopkins MedTech"
+    },
+    {
+      "path": "/resources/checklist-for-artificial-intelligence-in-medical-imaging-claim-a-guide-for-authors-and-reviewers",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Checklist for Artificial Intelligence in Medical Imaging (CLAIM): A Guide for Authors and Reviewers | Hopkins MedTech"
+    },
+    {
+      "path": "/resources/nobel-science-ai-and-evidence",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "From molecular insight to AI-assisted research | Hopkins MedTech"
+    },
+    {
+      "path": "/resources/ivdr-transition-and-eudamed-dates",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "IVDR transition and EUDAMED: two timelines to track | Hopkins MedTech"
+    },
+    {
+      "path": "/resources/modelling-skin-and-transdermal-transport",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "What a skin-transport model can help us explore | Hopkins MedTech"
+    },
+    {
+      "path": "/resources/antigen-test-performance-and-population",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Antigen-test sensitivity depends on the population | Hopkins MedTech"
+    },
+    {
+      "path": "/resources/hmc-questions-fda-town-halls-2022",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "HMC questions in the FDA\u2019s 2022 IVD town halls | Hopkins MedTech"
+    },
+    {
+      "path": "/resources/hmc-hml-documented-partnership",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "HMC, HML and a documented laboratory partnership | Hopkins MedTech"
+    },
+    {
+      "path": "/resources/class-b-ivdr-planning-milestones",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Class B IVDR planning starts before the final deadline | Hopkins MedTech"
+    },
+    {
+      "path": "/resources/lipid-nanocarriers-skin-delivery",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Particle size is one part of the skin-delivery story | Hopkins MedTech"
+    },
+    {
+      "path": "/resources/fda-melanoma-device-reclassification-2026",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "FDA reclassification of two melanoma assessment device types | Hopkins MedTech"
+    },
+    {
+      "path": "/resources/ai-skin-science-different-evidence",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "AI in skin science: different questions, different evidence | Hopkins MedTech"
+    },
+    {
+      "path": "/resources/skin-tone-labels-and-metrics",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Skin-tone auditing starts with the measurement | Hopkins MedTech"
+    },
+    {
+      "path": "/resources/historical-intended-use-validation",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/a50bb3ad-6378132092524774754374526.webp",
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Intended Use Validation | Hopkins MedTech"
+    },
+    {
+      "path": "/resources/historical-cbd-otc",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/2ecf86fb-6378132031357480724943499.webp",
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "The FDA, CBD, and OTC Drugs | Hopkins MedTech"
+    },
+    {
+      "path": "/resources/historical-sterile-device-510k",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/36a52f81-6378131989060500463230872.webp",
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "510k Submissions for Sterile Devices | Hopkins MedTech"
+    },
+    {
+      "path": "/resources/historical-drug-regulatory-pathways",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/7666da81-6378132371855646508169408.webp",
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Determining the Right Regulatory Pathway for your Drug | Hopkins MedTech"
+    },
+    {
+      "path": "/resources/historical-internal-audits",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/71471dd8-6378131992601118773146939.webp",
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "5 Reasons Why Internal Auditing is Important | Hopkins MedTech"
+    },
+    {
+      "path": "/resources/historical-clinical-manager-2023",
+      "status": 200,
+      "links": [
+        "/privacy",
+        "/about/team",
+        "/",
+        "/industries",
+        "/contact",
+        "/careers",
+        "/services",
+        "/about",
+        "/resources"
+      ],
+      "images": [
+        "/media/2d264def-20220223150835.png"
+      ],
+      "title": "Clinical Manager \u2014 historical vacancy (2023) | Hopkins MedTech"
+    }
+  ],
+  "assetsAndLinks": [
+    {
+      "path": "/media/2ecf86fb-6378132031357480724943499.webp",
+      "status": 200,
+      "links": [],
+      "images": [],
+      "title": null
+    },
+    {
+      "path": "/media/df24506e-20220224112832.webp",
+      "status": 200,
+      "links": [],
+      "images": [],
+      "title": null
+    },
+    {
+      "path": "/media/ce3dea35-20220224104625.webp",
+      "status": 200,
+      "links": [],
+      "images": [],
+      "title": null
+    },
+    {
+      "path": "/media/36a52f81-6378131989060500463230872.webp",
+      "status": 200,
+      "links": [],
+      "images": [],
+      "title": null
+    },
+    {
+      "path": "/media/19b64de0-20220224113106.webp",
+      "status": 200,
+      "links": [],
+      "images": [],
+      "title": null
+    },
+    {
+      "path": "/media/bd48ce81-20220224105615.webp",
+      "status": 200,
+      "links": [],
+      "images": [],
+      "title": null
+    },
+    {
+      "path": "/media/a83049a4-20220224174612.webp",
+      "status": 200,
+      "links": [],
+      "images": [],
+      "title": null
+    },
+    {
+      "path": "/media/b82a431f-20220224112638.webp",
+      "status": 200,
+      "links": [],
+      "images": [],
+      "title": null
+    },
+    {
+      "path": "/downloads/HOPKINS_MEDTECH_Digital_Health_Product_Intern.pdf",
+      "status": 200,
+      "links": [],
+      "images": [],
+      "title": null
+    },
+    {
+      "path": "/media/b758202e-20220224112655.webp",
+      "status": 200,
+      "links": [],
+      "images": [],
+      "title": null
+    },
+    {
+      "path": "/media/7acad3f5-20220224103944.webp",
+      "status": 200,
+      "links": [],
+      "images": [],
+      "title": null
+    },
+    {
+      "path": "/downloads/HOPKINS_MEDTECH_Quality_Assurance_Compliance_Intern.pdf",
+      "status": 200,
+      "links": [],
+      "images": [],
+      "title": null
+    },
+    {
+      "path": "/downloads/HOPKINS_MEDTECH_Healthcare_Market_Research_Intern.pdf",
+      "status": 200,
+      "links": [],
+      "images": [],
+      "title": null
+    },
+    {
+      "path": "/downloads/HOPKINS_MEDTECH_AI_Computer_Vision_Intern.pdf",
+      "status": 200,
+      "links": [],
+      "images": [],
+      "title": null
+    },
+    {
+      "path": "/media/cc0d3cbb-20220302152756.webp",
+      "status": 200,
+      "links": [],
+      "images": [],
+      "title": null
+    },
+    {
+      "path": "/media/89138083-20220302152342.webp",
+      "status": 200,
+      "links": [],
+      "images": [],
+      "title": null
+    },
+    {
+      "path": "/media/f6fadab7-20220224112734.webp",
+      "status": 200,
+      "links": [],
+      "images": [],
+      "title": null
+    },
+    {
+      "path": "/media/e5ef6112-20220325150340.png",
+      "status": 200,
+      "links": [],
+      "images": [],
+      "title": null
+    },
+    {
+      "path": "/media/667f614a-20220224104220.webp",
+      "status": 200,
+      "links": [],
+      "images": [],
+      "title": null
+    },
+    {
+      "path": "/media/002d20b6-20220302152656.webp",
+      "status": 200,
+      "links": [],
+      "images": [],
+      "title": null
+    },
+    {
+      "path": "/media/8642e28f-20220224103918.webp",
+      "status": 200,
+      "links": [],
+      "images": [],
+      "title": null
+    },
+    {
+      "path": "/media/7647f80f-20220224104650.webp",
+      "status": 200,
+      "links": [],
+      "images": [],
+      "title": null
+    },
+    {
+      "path": "/media/54e10fd2-20220224112925.webp",
+      "status": 200,
+      "links": [],
+      "images": [],
+      "title": null
+    },
+    {
+      "path": "/media/9e03c40d-20220302152734.webp",
+      "status": 200,
+      "links": [],
+      "images": [],
+      "title": null
+    },
+    {
+      "path": "/downloads/HOPKINS_MEDTECH_Clinical_Research_Intern.pdf",
+      "status": 200,
+      "links": [],
+      "images": [],
+      "title": null
+    },
+    {
+      "path": "/downloads/HOPKINS_MEDTECH_Regulatory_Affairs_Intern.pdf",
+      "status": 200,
+      "links": [],
+      "images": [],
+      "title": null
+    },
+    {
+      "path": "/media/ba95a04a-20220224104539.webp",
+      "status": 200,
+      "links": [],
+      "images": [],
+      "title": null
+    },
+    {
+      "path": "/media/a8787ccc-20220224105424.webp",
+      "status": 200,
+      "links": [],
+      "images": [],
+      "title": null
+    },
+    {
+      "path": "/media/e06961ea-20220325150517.png",
+      "status": 200,
+      "links": [],
+      "images": [],
+      "title": null
+    },
+    {
+      "path": "/media/b35b6e39-20220224104239.webp",
+      "status": 200,
+      "links": [],
+      "images": [],
+      "title": null
+    },
+    {
+      "path": "/media/0d78598a-20220224105150.webp",
+      "status": 200,
+      "links": [],
+      "images": [],
+      "title": null
+    },
+    {
+      "path": "/media/2d264def-20220223150835.png",
+      "status": 200,
+      "links": [],
+      "images": [],
+      "title": null
+    },
+    {
+      "path": "/media/82929112-20220224112941.webp",
+      "status": 200,
+      "links": [],
+      "images": [],
+      "title": null
+    },
+    {
+      "path": "/media/4b44fb6d-20220224112959.webp",
+      "status": 200,
+      "links": [],
+      "images": [],
+      "title": null
+    },
+    {
+      "path": "/media/7213ee87-20220302152324.webp",
+      "status": 200,
+      "links": [],
+      "images": [],
+      "title": null
+    },
+    {
+      "path": "/media/a50bb3ad-6378132092524774754374526.webp",
+      "status": 200,
+      "links": [],
+      "images": [],
+      "title": null
+    },
+    {
+      "path": "/media/6bb2b09d-20220224112908.webp",
+      "status": 200,
+      "links": [],
+      "images": [],
+      "title": null
+    },
+    {
+      "path": "/media/71471dd8-6378131992601118773146939.webp",
+      "status": 200,
+      "links": [],
+      "images": [],
+      "title": null
+    },
+    {
+      "path": "/media/a9ec1879-20220302152717.webp",
+      "status": 200,
+      "links": [],
+      "images": [],
+      "title": null
+    },
+    {
+      "path": "/downloads/HOPKINS_MEDTECH_Clinical_Data_Biostatistics_Intern.pdf",
+      "status": 200,
+      "links": [],
+      "images": [],
+      "title": null
+    },
+    {
+      "path": "/media/17362bbc-20220224113027.webp",
+      "status": 200,
+      "links": [],
+      "images": [],
+      "title": null
+    },
+    {
+      "path": "/media/c9522dc4-20220325150109.png",
+      "status": 200,
+      "links": [],
+      "images": [],
+      "title": null
+    },
+    {
+      "path": "/media/6390b9f6-20220224112816.webp",
+      "status": 200,
+      "links": [],
+      "images": [],
+      "title": null
+    },
+    {
+      "path": "/media/42ce03f4-20220224113014.webp",
+      "status": 200,
+      "links": [],
+      "images": [],
+      "title": null
+    },
+    {
+      "path": "/media/3be3089c-20220224105550.webp",
+      "status": 200,
+      "links": [],
+      "images": [],
+      "title": null
+    },
+    {
+      "path": "/downloads/HOPKINS_MEDTECH_Data_Science_Evaluation_Intern.pdf",
+      "status": 200,
+      "links": [],
+      "images": [],
+      "title": null
+    },
+    {
+      "path": "/media/cf7d728d-20220224104609.webp",
+      "status": 200,
+      "links": [],
+      "images": [],
+      "title": null
+    },
+    {
+      "path": "/media/b73432fc-20220302152633.webp",
+      "status": 200,
+      "links": [],
+      "images": [],
+      "title": null
+    },
+    {
+      "path": "/media/7666da81-6378132371855646508169408.webp",
+      "status": 200,
+      "links": [],
+      "images": [],
+      "title": null
+    }
+  ],
+  "redirects": [
+    {
+      "path": "/About.aspx?ClassID=81",
+      "status": 308,
+      "location": "/services/us-sales-office",
+      "expected": "/services/us-sales-office",
+      "passed": true
+    },
+    {
+      "path": "/Contact.aspx?ClassID=82",
+      "status": 308,
+      "location": "/contact",
+      "expected": "/contact",
+      "passed": true
+    },
+    {
+      "path": "/News.aspx?ClassID=102",
+      "status": 308,
+      "location": "/resources",
+      "expected": "/resources",
+      "passed": true
+    },
+    {
+      "path": "/NewsDetail.aspx?ID=124",
+      "status": 308,
+      "location": "/resources/historical-intended-use-validation",
+      "expected": "/resources/historical-intended-use-validation",
+      "passed": true
+    },
+    {
+      "path": "/NewsDetail.aspx?ID=126",
+      "status": 308,
+      "location": "/resources/historical-cbd-otc",
+      "expected": "/resources/historical-cbd-otc",
+      "passed": true
+    },
+    {
+      "path": "/NewsDetail.aspx?ID=127",
+      "status": 308,
+      "location": "/resources/historical-sterile-device-510k",
+      "expected": "/resources/historical-sterile-device-510k",
+      "passed": true
+    },
+    {
+      "path": "/NewsDetail.aspx?ID=128",
+      "status": 308,
+      "location": "/resources/historical-drug-regulatory-pathways",
+      "expected": "/resources/historical-drug-regulatory-pathways",
+      "passed": true
+    },
+    {
+      "path": "/default.aspx",
+      "status": 308,
+      "location": "/",
+      "expected": "/",
+      "passed": true
+    },
+    {
+      "path": "/management.aspx?ClassID=20",
+      "status": 308,
+      "location": "/about",
+      "expected": "/about",
+      "passed": true
+    },
+    {
+      "path": "/management.aspx?ClassID=56",
+      "status": 308,
+      "location": "/services/clinical-study",
+      "expected": "/services/clinical-study",
+      "passed": true
+    },
+    {
+      "path": "/management.aspx?ClassID=57",
+      "status": 308,
+      "location": "/services/otc-drug",
+      "expected": "/services/otc-drug",
+      "passed": true
+    },
+    {
+      "path": "/management.aspx?ClassID=60",
+      "status": 308,
+      "location": "/services/product-development",
+      "expected": "/services/product-development",
+      "passed": true
+    },
+    {
+      "path": "/management.aspx?ClassID=61",
+      "status": 308,
+      "location": "/services/regulatory-strategy",
+      "expected": "/services/regulatory-strategy",
+      "passed": true
+    },
+    {
+      "path": "/management.aspx?ClassID=62",
+      "status": 308,
+      "location": "/services/regulatory-submission",
+      "expected": "/services/regulatory-submission",
+      "passed": true
+    },
+    {
+      "path": "/management.aspx?ClassID=63",
+      "status": 308,
+      "location": "/services/post-market-surveillance",
+      "expected": "/services/post-market-surveillance",
+      "passed": true
+    },
+    {
+      "path": "/management.aspx?ClassID=72",
+      "status": 308,
+      "location": "/services/facility-registration-listing",
+      "expected": "/services/facility-registration-listing",
+      "passed": true
+    },
+    {
+      "path": "/management.aspx?ClassID=73",
+      "status": 308,
+      "location": "/services/fda-us-agent",
+      "expected": "/services/fda-us-agent",
+      "passed": true
+    },
+    {
+      "path": "/management.aspx?ClassID=74",
+      "status": 308,
+      "location": "/services/food-dietary-supplements",
+      "expected": "/services/food-dietary-supplements",
+      "passed": true
+    },
+    {
+      "path": "/management.aspx?ClassID=75",
+      "status": 308,
+      "location": "/services/cgmp",
+      "expected": "/services/cgmp",
+      "passed": true
+    },
+    {
+      "path": "/management.aspx?ClassID=78",
+      "status": 308,
+      "location": "/services/medical-device-510k",
+      "expected": "/services/medical-device-510k",
+      "passed": true
+    },
+    {
+      "path": "/management.aspx?ClassID=79",
+      "status": 308,
+      "location": "/services/eua-application",
+      "expected": "/services/eua-application",
+      "passed": true
+    },
+    {
+      "path": "/management.aspx?ClassID=80",
+      "status": 308,
+      "location": "/services/marketing",
+      "expected": "/services/marketing",
+      "passed": true
+    },
+    {
+      "path": "/management.aspx?ClassID=85",
+      "status": 308,
+      "location": "/services/project-management",
+      "expected": "/services/project-management",
+      "passed": true
+    },
+    {
+      "path": "/management.aspx?ClassID=86",
+      "status": 308,
+      "location": "/services/clinical-operations",
+      "expected": "/services/clinical-operations",
+      "passed": true
+    },
+    {
+      "path": "/management.aspx?ClassID=87",
+      "status": 308,
+      "location": "/services/data-management",
+      "expected": "/services/data-management",
+      "passed": true
+    },
+    {
+      "path": "/management.aspx?ClassID=88",
+      "status": 308,
+      "location": "/services/biostatistics",
+      "expected": "/services/biostatistics",
+      "passed": true
+    },
+    {
+      "path": "/management.aspx?ClassID=89",
+      "status": 308,
+      "location": "/services/quality-assurance",
+      "expected": "/services/quality-assurance",
+      "passed": true
+    },
+    {
+      "path": "/management.aspx?ClassID=92",
+      "status": 308,
+      "location": "/services/fda-regulatory-consulting",
+      "expected": "/services/fda-regulatory-consulting",
+      "passed": true
+    },
+    {
+      "path": "/management.aspx?ClassID=93",
+      "status": 308,
+      "location": "/services/ivdr",
+      "expected": "/services/ivdr",
+      "passed": true
+    },
+    {
+      "path": "/management.aspx?ClassID=94",
+      "status": 308,
+      "location": "/services/market-research",
+      "expected": "/services/market-research",
+      "passed": true
+    },
+    {
+      "path": "/management.aspx?ClassID=95",
+      "status": 308,
+      "location": "/services/post-market-compliance",
+      "expected": "/services/post-market-compliance",
+      "passed": true
+    },
+    {
+      "path": "/submissions.aspx?ClassID=3",
+      "status": 308,
+      "location": "/industries/ivd",
+      "expected": "/industries/ivd",
+      "passed": true
+    },
+    {
+      "path": "/submissions.aspx?ClassID=64",
+      "status": 308,
+      "location": "/industries/medical-devices",
+      "expected": "/industries/medical-devices",
+      "passed": true
+    },
+    {
+      "path": "/submissions.aspx?ClassID=65",
+      "status": 308,
+      "location": "/industries/gene-cell-therapies",
+      "expected": "/industries/gene-cell-therapies",
+      "passed": true
+    },
+    {
+      "path": "/submissions.aspx?ClassID=66",
+      "status": 308,
+      "location": "/industries/biopharma",
+      "expected": "/industries/biopharma",
+      "passed": true
+    },
+    {
+      "path": "/submissions.aspx?ClassID=67",
+      "status": 308,
+      "location": "/industries/pharmaceuticals",
+      "expected": "/industries/pharmaceuticals",
+      "passed": true
+    },
+    {
+      "path": "/submissions.aspx?ClassID=77",
+      "status": 308,
+      "location": "/about/team",
+      "expected": "/about/team",
+      "passed": true
+    },
+    {
+      "path": "/NewsDetail.aspx?ID=119",
+      "status": 308,
+      "location": "/resources/historical-internal-audits",
+      "expected": "/resources/historical-internal-audits",
+      "passed": true
+    },
+    {
+      "path": "/NewsDetail.aspx?ID=139",
+      "status": 308,
+      "location": "/resources/historical-clinical-manager-2023",
+      "expected": "/resources/historical-clinical-manager-2023",
+      "passed": true
+    },
+    {
+      "path": "/development.aspx?ClassID=100",
+      "status": 308,
+      "location": "/services/preclinical-research",
+      "expected": "/services/preclinical-research",
+      "passed": true
+    },
+    {
+      "path": "/development.aspx?ClassID=60",
+      "status": 308,
+      "location": "/services/product-development",
+      "expected": "/services/product-development",
+      "passed": true
+    },
+    {
+      "path": "/development.aspx?ClassID=61",
+      "status": 308,
+      "location": "/services/regulatory-strategy",
+      "expected": "/services/regulatory-strategy",
+      "passed": true
+    },
+    {
+      "path": "/development.aspx?ClassID=62",
+      "status": 308,
+      "location": "/services/regulatory-submission",
+      "expected": "/services/regulatory-submission",
+      "passed": true
+    },
+    {
+      "path": "/development.aspx?ClassID=63",
+      "status": 308,
+      "location": "/services/post-market-surveillance",
+      "expected": "/services/post-market-surveillance",
+      "passed": true
+    },
+    {
+      "path": "/development.aspx?ClassID=98",
+      "status": 308,
+      "location": "/services/clinical-investigation",
+      "expected": "/services/clinical-investigation",
+      "passed": true
+    },
+    {
+      "path": "/development.aspx?ClassID=99",
+      "status": 308,
+      "location": "/services/quality-system",
+      "expected": "/services/quality-system",
+      "passed": true
+    },
+    {
+      "path": "search variant",
+      "status": 308,
+      "location": "/search?q=IVD%20study",
+      "passed": true
+    }
+  ],
+  "notFoundStatus": 404
+}

@@ -1,0 +1,2213 @@
+{
+  "date": "2026-10-08",
+  "deployment": {
+    "project": "hopkins-medtech",
+    "scope": "wei34",
+    "url": "https://hopkins-medtech.vercel.app",
+    "deploymentId": "dpl_4LpMfUn5fW88YzV6DKuYgkPEMapE",
+    "deploymentUrl": "https://hopkins-medtech-hx12qo329-wei34.vercel.app",
+    "dashboard": "https://vercel.com/wei34/hopkins-medtech",
+    "status": "READY",
+    "indexable": false,
+    "productionDomainChanged": false,
+    "previousVerifiedDeploymentId": "dpl_7taPcFF7oWqEanGtBiqpQhJACxXZ",
+    "revision": "Original content restoration with public historical archive",
+    "verification": "qa/content-repair/report.md"
+  },
+  "verifiedSummary": {
+    "origin": "https://hopkins-medtech.vercel.app",
+    "contentPages": 246,
+    "pages200": 246,
+    "sourceRecords": 139,
+    "uniqueSourceTextStrings": 656,
+    "matchedSourceTextStrings": 656,
+    "unmatchedSourceTextStrings": 0,
+    "uniqueOriginalImages": 76,
+    "renderedOriginalImages": 76,
+    "imagesInRegularPages": 58,
+    "imagesOnlyInArchive": 18,
+    "oldAddressChecks": 138,
+    "oldAddressesPassed": 138,
+    "assetAndDownloadChecks": 142,
+    "assets200": 142,
+    "brokenAnchors": 0
+  },
+  "sourceRecords": [
+    {
+      "id": "hmc-01",
+      "sourceUrl": "http://www.hopkinsmedtech.com/",
+      "route": "/archive/records/hmc-01",
+      "currentRoutes": [
+        "/"
+      ],
+      "category": "Company"
+    },
+    {
+      "id": "hmc-02",
+      "sourceUrl": "http://www.hopkinsmedtech.com/About.aspx?ClassID=81",
+      "route": "/archive/records/hmc-02",
+      "currentRoutes": [
+        "/services/us-sales-office"
+      ],
+      "category": "Services"
+    },
+    {
+      "id": "hmc-03",
+      "sourceUrl": "http://www.hopkinsmedtech.com/Contact.aspx?ClassID=82",
+      "route": "/archive/records/hmc-03",
+      "currentRoutes": [
+        "/contact"
+      ],
+      "category": "Company"
+    },
+    {
+      "id": "hmc-04",
+      "sourceUrl": "http://www.hopkinsmedtech.com/News.aspx?ClassID=102",
+      "route": "/archive/records/hmc-04",
+      "currentRoutes": [
+        "/resources"
+      ],
+      "category": "Resources"
+    },
+    {
+      "id": "hmc-05",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=124",
+      "route": "/archive/records/hmc-05",
+      "currentRoutes": [
+        "/resources/historical-intended-use-validation"
+      ],
+      "category": "Resources"
+    },
+    {
+      "id": "hmc-06",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=126",
+      "route": "/archive/records/hmc-06",
+      "currentRoutes": [
+        "/resources/historical-cbd-otc"
+      ],
+      "category": "Resources"
+    },
+    {
+      "id": "hmc-07",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=127",
+      "route": "/archive/records/hmc-07",
+      "currentRoutes": [
+        "/resources/historical-sterile-device-510k"
+      ],
+      "category": "Resources"
+    },
+    {
+      "id": "hmc-08",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=128",
+      "route": "/archive/records/hmc-08",
+      "currentRoutes": [
+        "/resources/historical-drug-regulatory-pathways"
+      ],
+      "category": "Resources"
+    },
+    {
+      "id": "hmc-09",
+      "sourceUrl": "http://www.hopkinsmedtech.com/default.aspx",
+      "route": "/archive/records/hmc-09",
+      "currentRoutes": [
+        "/"
+      ],
+      "category": "Company"
+    },
+    {
+      "id": "hmc-10",
+      "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=20",
+      "route": "/archive/records/hmc-10",
+      "currentRoutes": [
+        "/about"
+      ],
+      "category": "Company"
+    },
+    {
+      "id": "hmc-11",
+      "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=56",
+      "route": "/archive/records/hmc-11",
+      "currentRoutes": [
+        "/services/clinical-study"
+      ],
+      "category": "Services"
+    },
+    {
+      "id": "hmc-12",
+      "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=57",
+      "route": "/archive/records/hmc-12",
+      "currentRoutes": [
+        "/services/otc-drug"
+      ],
+      "category": "Services"
+    },
+    {
+      "id": "hmc-13",
+      "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=60",
+      "route": "/archive/records/hmc-13",
+      "currentRoutes": [
+        "/services/product-development"
+      ],
+      "category": "Services"
+    },
+    {
+      "id": "hmc-14",
+      "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=61",
+      "route": "/archive/records/hmc-14",
+      "currentRoutes": [
+        "/services/regulatory-strategy"
+      ],
+      "category": "Services"
+    },
+    {
+      "id": "hmc-15",
+      "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=62",
+      "route": "/archive/records/hmc-15",
+      "currentRoutes": [
+        "/services/regulatory-submission"
+      ],
+      "category": "Services"
+    },
+    {
+      "id": "hmc-16",
+      "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=63",
+      "route": "/archive/records/hmc-16",
+      "currentRoutes": [
+        "/services/post-market-surveillance"
+      ],
+      "category": "Services"
+    },
+    {
+      "id": "hmc-17",
+      "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=72",
+      "route": "/archive/records/hmc-17",
+      "currentRoutes": [
+        "/services/facility-registration-listing"
+      ],
+      "category": "Services"
+    },
+    {
+      "id": "hmc-18",
+      "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=73",
+      "route": "/archive/records/hmc-18",
+      "currentRoutes": [
+        "/services/fda-us-agent"
+      ],
+      "category": "Services"
+    },
+    {
+      "id": "hmc-19",
+      "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=74",
+      "route": "/archive/records/hmc-19",
+      "currentRoutes": [
+        "/services/food-dietary-supplements"
+      ],
+      "category": "Services"
+    },
+    {
+      "id": "hmc-20",
+      "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=75",
+      "route": "/archive/records/hmc-20",
+      "currentRoutes": [
+        "/services/cgmp"
+      ],
+      "category": "Services"
+    },
+    {
+      "id": "hmc-21",
+      "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=78",
+      "route": "/archive/records/hmc-21",
+      "currentRoutes": [
+        "/services/medical-device-510k"
+      ],
+      "category": "Services"
+    },
+    {
+      "id": "hmc-22",
+      "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=79",
+      "route": "/archive/records/hmc-22",
+      "currentRoutes": [
+        "/services/eua-application"
+      ],
+      "category": "Services"
+    },
+    {
+      "id": "hmc-23",
+      "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=80",
+      "route": "/archive/records/hmc-23",
+      "currentRoutes": [
+        "/services/marketing"
+      ],
+      "category": "Services"
+    },
+    {
+      "id": "hmc-24",
+      "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=85",
+      "route": "/archive/records/hmc-24",
+      "currentRoutes": [
+        "/services/project-management"
+      ],
+      "category": "Services"
+    },
+    {
+      "id": "hmc-25",
+      "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=86",
+      "route": "/archive/records/hmc-25",
+      "currentRoutes": [
+        "/services/clinical-operations"
+      ],
+      "category": "Services"
+    },
+    {
+      "id": "hmc-26",
+      "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=87",
+      "route": "/archive/records/hmc-26",
+      "currentRoutes": [
+        "/services/data-management"
+      ],
+      "category": "Services"
+    },
+    {
+      "id": "hmc-27",
+      "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=88",
+      "route": "/archive/records/hmc-27",
+      "currentRoutes": [
+        "/services/biostatistics"
+      ],
+      "category": "Services"
+    },
+    {
+      "id": "hmc-28",
+      "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=89",
+      "route": "/archive/records/hmc-28",
+      "currentRoutes": [
+        "/services/quality-assurance"
+      ],
+      "category": "Services"
+    },
+    {
+      "id": "hmc-29",
+      "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=92",
+      "route": "/archive/records/hmc-29",
+      "currentRoutes": [
+        "/services/fda-regulatory-consulting"
+      ],
+      "category": "Services"
+    },
+    {
+      "id": "hmc-30",
+      "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=93",
+      "route": "/archive/records/hmc-30",
+      "currentRoutes": [
+        "/services/ivdr"
+      ],
+      "category": "Services"
+    },
+    {
+      "id": "hmc-31",
+      "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=94",
+      "route": "/archive/records/hmc-31",
+      "currentRoutes": [
+        "/services/market-research"
+      ],
+      "category": "Services"
+    },
+    {
+      "id": "hmc-32",
+      "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=95",
+      "route": "/archive/records/hmc-32",
+      "currentRoutes": [
+        "/services/post-market-compliance"
+      ],
+      "category": "Services"
+    },
+    {
+      "id": "hmc-33",
+      "sourceUrl": "http://www.hopkinsmedtech.com/submissions.aspx?ClassID=3",
+      "route": "/archive/records/hmc-33",
+      "currentRoutes": [
+        "/industries/ivd"
+      ],
+      "category": "Industries"
+    },
+    {
+      "id": "hmc-34",
+      "sourceUrl": "http://www.hopkinsmedtech.com/submissions.aspx?ClassID=64",
+      "route": "/archive/records/hmc-34",
+      "currentRoutes": [
+        "/industries/medical-devices"
+      ],
+      "category": "Industries"
+    },
+    {
+      "id": "hmc-35",
+      "sourceUrl": "http://www.hopkinsmedtech.com/submissions.aspx?ClassID=65",
+      "route": "/archive/records/hmc-35",
+      "currentRoutes": [
+        "/industries/gene-cell-therapies"
+      ],
+      "category": "Industries"
+    },
+    {
+      "id": "hmc-36",
+      "sourceUrl": "http://www.hopkinsmedtech.com/submissions.aspx?ClassID=66",
+      "route": "/archive/records/hmc-36",
+      "currentRoutes": [
+        "/industries/biopharma"
+      ],
+      "category": "Industries"
+    },
+    {
+      "id": "hmc-37",
+      "sourceUrl": "http://www.hopkinsmedtech.com/submissions.aspx?ClassID=67",
+      "route": "/archive/records/hmc-37",
+      "currentRoutes": [
+        "/industries/pharmaceuticals"
+      ],
+      "category": "Industries"
+    },
+    {
+      "id": "hmc-38",
+      "sourceUrl": "http://www.hopkinsmedtech.com/submissions.aspx?ClassID=77",
+      "route": "/archive/records/hmc-38",
+      "currentRoutes": [
+        "/about/team"
+      ],
+      "category": "People"
+    },
+    {
+      "id": "hmc-39",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=119",
+      "route": "/archive/records/hmc-39",
+      "currentRoutes": [
+        "/resources/historical-internal-audits"
+      ],
+      "category": "Resources"
+    },
+    {
+      "id": "hmc-40",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=139",
+      "route": "/archive/records/hmc-40",
+      "currentRoutes": [
+        "/resources/historical-clinical-manager-2023"
+      ],
+      "category": "Resources"
+    },
+    {
+      "id": "hmc-41",
+      "sourceUrl": "http://www.hopkinsmedtech.com/development.aspx?ClassID=100",
+      "route": "/archive/records/hmc-41",
+      "currentRoutes": [
+        "/services/preclinical-research"
+      ],
+      "category": "Services"
+    },
+    {
+      "id": "hmc-42",
+      "sourceUrl": "http://www.hopkinsmedtech.com/development.aspx?ClassID=60",
+      "route": "/archive/records/hmc-42",
+      "currentRoutes": [
+        "/services/product-development"
+      ],
+      "category": "Services"
+    },
+    {
+      "id": "hmc-43",
+      "sourceUrl": "http://www.hopkinsmedtech.com/development.aspx?ClassID=61",
+      "route": "/archive/records/hmc-43",
+      "currentRoutes": [
+        "/services/regulatory-strategy"
+      ],
+      "category": "Services"
+    },
+    {
+      "id": "hmc-44",
+      "sourceUrl": "http://www.hopkinsmedtech.com/development.aspx?ClassID=62",
+      "route": "/archive/records/hmc-44",
+      "currentRoutes": [
+        "/services/regulatory-submission"
+      ],
+      "category": "Services"
+    },
+    {
+      "id": "hmc-45",
+      "sourceUrl": "http://www.hopkinsmedtech.com/development.aspx?ClassID=63",
+      "route": "/archive/records/hmc-45",
+      "currentRoutes": [
+        "/services/post-market-surveillance"
+      ],
+      "category": "Services"
+    },
+    {
+      "id": "hmc-46",
+      "sourceUrl": "http://www.hopkinsmedtech.com/development.aspx?ClassID=98",
+      "route": "/archive/records/hmc-46",
+      "currentRoutes": [
+        "/services/clinical-investigation"
+      ],
+      "category": "Services"
+    },
+    {
+      "id": "hmc-47",
+      "sourceUrl": "http://www.hopkinsmedtech.com/development.aspx?ClassID=99",
+      "route": "/archive/records/hmc-47",
+      "currentRoutes": [
+        "/services/quality-system"
+      ],
+      "category": "Services"
+    },
+    {
+      "id": "news-1",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=1",
+      "route": "/archive/records/news-1",
+      "currentRoutes": [],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-6",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=6",
+      "route": "/archive/records/news-6",
+      "currentRoutes": [
+        "/industries/ivd"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-7",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=7",
+      "route": "/archive/records/news-7",
+      "currentRoutes": [
+        "/industries/ivd"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-8",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=8",
+      "route": "/archive/records/news-8",
+      "currentRoutes": [
+        "/industries/ivd"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-28",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=28",
+      "route": "/archive/records/news-28",
+      "currentRoutes": [
+        "/services/product-development"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-29",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=29",
+      "route": "/archive/records/news-29",
+      "currentRoutes": [
+        "/services/disciplines/clinical"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-30",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=30",
+      "route": "/archive/records/news-30",
+      "currentRoutes": [
+        "/services/disciplines/regulatory"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-31",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=31",
+      "route": "/archive/records/news-31",
+      "currentRoutes": [
+        "/services/market-research"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-32",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=32",
+      "route": "/archive/records/news-32",
+      "currentRoutes": [
+        "/services/disciplines/post-market"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-38",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=38",
+      "route": "/archive/records/news-38",
+      "currentRoutes": [
+        "/industries/ivd"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-39",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=39",
+      "route": "/archive/records/news-39",
+      "currentRoutes": [
+        "/industries/ivd"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-40",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=40",
+      "route": "/archive/records/news-40",
+      "currentRoutes": [
+        "/industries/ivd"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-41",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=41",
+      "route": "/archive/records/news-41",
+      "currentRoutes": [
+        "/industries/ivd"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-43",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=43",
+      "route": "/archive/records/news-43",
+      "currentRoutes": [
+        "/services/product-development"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-44",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=44",
+      "route": "/archive/records/news-44",
+      "currentRoutes": [
+        "/services/regulatory-strategy"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-45",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=45",
+      "route": "/archive/records/news-45",
+      "currentRoutes": [
+        "/services/regulatory-submission"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-46",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=46",
+      "route": "/archive/records/news-46",
+      "currentRoutes": [
+        "/services/post-market-surveillance"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-47",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=47",
+      "route": "/archive/records/news-47",
+      "currentRoutes": [],
+      "category": "Test record"
+    },
+    {
+      "id": "news-48",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=48",
+      "route": "/archive/records/news-48",
+      "currentRoutes": [
+        "/industries/medical-devices"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-49",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=49",
+      "route": "/archive/records/news-49",
+      "currentRoutes": [
+        "/industries/biopharma"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-50",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=50",
+      "route": "/archive/records/news-50",
+      "currentRoutes": [
+        "/industries/biopharma"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-51",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=51",
+      "route": "/archive/records/news-51",
+      "currentRoutes": [
+        "/industries/medical-devices"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-52",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=52",
+      "route": "/archive/records/news-52",
+      "currentRoutes": [
+        "/industries/ivd"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-53",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=53",
+      "route": "/archive/records/news-53",
+      "currentRoutes": [
+        "/industries/medical-devices"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-54",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=54",
+      "route": "/archive/records/news-54",
+      "currentRoutes": [
+        "/industries/medical-devices"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-55",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=55",
+      "route": "/archive/records/news-55",
+      "currentRoutes": [
+        "/industries/gene-cell-therapies"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-56",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=56",
+      "route": "/archive/records/news-56",
+      "currentRoutes": [
+        "/industries/gene-cell-therapies"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-57",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=57",
+      "route": "/archive/records/news-57",
+      "currentRoutes": [
+        "/industries/biopharma"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-58",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=58",
+      "route": "/archive/records/news-58",
+      "currentRoutes": [
+        "/industries/gene-cell-therapies"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-59",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=59",
+      "route": "/archive/records/news-59",
+      "currentRoutes": [
+        "/industries/biopharma"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-60",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=60",
+      "route": "/archive/records/news-60",
+      "currentRoutes": [
+        "/industries/biopharma"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-61",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=61",
+      "route": "/archive/records/news-61",
+      "currentRoutes": [
+        "/industries/ivd"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-62",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=62",
+      "route": "/archive/records/news-62",
+      "currentRoutes": [
+        "/industries/biopharma"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-63",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=63",
+      "route": "/archive/records/news-63",
+      "currentRoutes": [
+        "/industries/biopharma"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-64",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=64",
+      "route": "/archive/records/news-64",
+      "currentRoutes": [
+        "/industries/biopharma"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-65",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=65",
+      "route": "/archive/records/news-65",
+      "currentRoutes": [
+        "/industries/biopharma"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-66",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=66",
+      "route": "/archive/records/news-66",
+      "currentRoutes": [
+        "/industries/biopharma"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-67",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=67",
+      "route": "/archive/records/news-67",
+      "currentRoutes": [
+        "/industries/biopharma"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-68",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=68",
+      "route": "/archive/records/news-68",
+      "currentRoutes": [
+        "/industries/biopharma"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-69",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=69",
+      "route": "/archive/records/news-69",
+      "currentRoutes": [
+        "/industries/biopharma"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-70",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=70",
+      "route": "/archive/records/news-70",
+      "currentRoutes": [
+        "/industries/ivd"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-71",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=71",
+      "route": "/archive/records/news-71",
+      "currentRoutes": [
+        "/industries/biopharma"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-72",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=72",
+      "route": "/archive/records/news-72",
+      "currentRoutes": [
+        "/industries/biopharma"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-73",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=73",
+      "route": "/archive/records/news-73",
+      "currentRoutes": [
+        "/industries/pharmaceuticals"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-74",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=74",
+      "route": "/archive/records/news-74",
+      "currentRoutes": [
+        "/industries/pharmaceuticals"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-75",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=75",
+      "route": "/archive/records/news-75",
+      "currentRoutes": [
+        "/industries/pharmaceuticals"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-76",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=76",
+      "route": "/archive/records/news-76",
+      "currentRoutes": [
+        "/industries/pharmaceuticals"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-77",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=77",
+      "route": "/archive/records/news-77",
+      "currentRoutes": [
+        "/industries/pharmaceuticals"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-78",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=78",
+      "route": "/archive/records/news-78",
+      "currentRoutes": [
+        "/industries/pharmaceuticals"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-79",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=79",
+      "route": "/archive/records/news-79",
+      "currentRoutes": [
+        "/industries/pharmaceuticals"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-80",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=80",
+      "route": "/archive/records/news-80",
+      "currentRoutes": [
+        "/industries/biopharma"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-81",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=81",
+      "route": "/archive/records/news-81",
+      "currentRoutes": [
+        "/industries/pharmaceuticals"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-83",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=83",
+      "route": "/archive/records/news-83",
+      "currentRoutes": [
+        "/services/eua-application"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-84",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=84",
+      "route": "/archive/records/news-84",
+      "currentRoutes": [
+        "/services/medical-device-510k"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-85",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=85",
+      "route": "/archive/records/news-85",
+      "currentRoutes": [
+        "/services/clinical-study"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-86",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=86",
+      "route": "/archive/records/news-86",
+      "currentRoutes": [
+        "/services/otc-drug"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-87",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=87",
+      "route": "/archive/records/news-87",
+      "currentRoutes": [
+        "/services/facility-registration-listing"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-88",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=88",
+      "route": "/archive/records/news-88",
+      "currentRoutes": [
+        "/services/fda-us-agent"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-89",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=89",
+      "route": "/archive/records/news-89",
+      "currentRoutes": [
+        "/services/food-dietary-supplements"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-90",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=90",
+      "route": "/archive/records/news-90",
+      "currentRoutes": [
+        "/services/cgmp"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-91",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=91",
+      "route": "/archive/records/news-91",
+      "currentRoutes": [
+        "/services/marketing"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-92",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=92",
+      "route": "/archive/records/news-92",
+      "currentRoutes": [
+        "/services/us-sales-office"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-93",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=93",
+      "route": "/archive/records/news-93",
+      "currentRoutes": [
+        "/about"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-94",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=94",
+      "route": "/archive/records/news-94",
+      "currentRoutes": [
+        "/contact"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-95",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=95",
+      "route": "/archive/records/news-95",
+      "currentRoutes": [
+        "/about/team/jennifer-stanford"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-96",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=96",
+      "route": "/archive/records/news-96",
+      "currentRoutes": [
+        "/about/team/homer-wu"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-98",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=98",
+      "route": "/archive/records/news-98",
+      "currentRoutes": [
+        "/services/project-management"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-99",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=99",
+      "route": "/archive/records/news-99",
+      "currentRoutes": [
+        "/services/clinical-operations"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-100",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=100",
+      "route": "/archive/records/news-100",
+      "currentRoutes": [
+        "/services/data-management"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-101",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=101",
+      "route": "/archive/records/news-101",
+      "currentRoutes": [
+        "/services/biostatistics"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-102",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=102",
+      "route": "/archive/records/news-102",
+      "currentRoutes": [
+        "/services/quality-assurance"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-105",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=105",
+      "route": "/archive/records/news-105",
+      "currentRoutes": [
+        "/services/fda-regulatory-consulting"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-106",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=106",
+      "route": "/archive/records/news-106",
+      "currentRoutes": [
+        "/services/ivdr"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-107",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=107",
+      "route": "/archive/records/news-107",
+      "currentRoutes": [
+        "/services/market-research"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-108",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=108",
+      "route": "/archive/records/news-108",
+      "currentRoutes": [
+        "/services/post-market-compliance"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-112",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=112",
+      "route": "/archive/records/news-112",
+      "currentRoutes": [
+        "/resources#original-resources"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-113",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=113",
+      "route": "/archive/records/news-113",
+      "currentRoutes": [
+        "/services/clinical-investigation"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-114",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=114",
+      "route": "/archive/records/news-114",
+      "currentRoutes": [
+        "/services/quality-system"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-115",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=115",
+      "route": "/archive/records/news-115",
+      "currentRoutes": [
+        "/services/preclinical-research"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-116",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=116",
+      "route": "/archive/records/news-116",
+      "currentRoutes": [
+        "/about/team/qian-cheng"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-117",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=117",
+      "route": "/archive/records/news-117",
+      "currentRoutes": [
+        "/about/team/andrew-wayland"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-118",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=118",
+      "route": "/archive/records/news-118",
+      "currentRoutes": [
+        "/about/team/wendy-zhou"
+      ],
+      "category": "Extended records"
+    },
+    {
+      "id": "news-130",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=130",
+      "route": "/archive/records/news-130",
+      "currentRoutes": [
+        "/services/otc-drug"
+      ],
+      "category": "Component records"
+    },
+    {
+      "id": "news-131",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=131",
+      "route": "/archive/records/news-131",
+      "currentRoutes": [
+        "/services/clinical-study"
+      ],
+      "category": "Component records"
+    },
+    {
+      "id": "news-132",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=132",
+      "route": "/archive/records/news-132",
+      "currentRoutes": [
+        "/services/medical-device-510k"
+      ],
+      "category": "Component records"
+    },
+    {
+      "id": "news-133",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=133",
+      "route": "/archive/records/news-133",
+      "currentRoutes": [
+        "/services/eua-application"
+      ],
+      "category": "Component records"
+    },
+    {
+      "id": "news-134",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=134",
+      "route": "/archive/records/news-134",
+      "currentRoutes": [
+        "/about#approach"
+      ],
+      "category": "Component records"
+    },
+    {
+      "id": "news-135",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=135",
+      "route": "/archive/records/news-135",
+      "currentRoutes": [
+        "/about#approach"
+      ],
+      "category": "Component records"
+    },
+    {
+      "id": "news-136",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=136",
+      "route": "/archive/records/news-136",
+      "currentRoutes": [
+        "/about#approach"
+      ],
+      "category": "Component records"
+    },
+    {
+      "id": "news-137",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=137",
+      "route": "/archive/records/news-137",
+      "currentRoutes": [
+        "/about#client-perspectives"
+      ],
+      "category": "Component records"
+    },
+    {
+      "id": "news-138",
+      "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=138",
+      "route": "/archive/records/news-138",
+      "currentRoutes": [
+        "/about#client-perspectives"
+      ],
+      "category": "Component records"
+    }
+  ],
+  "images": [
+    {
+      "id": "img-001",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/img/20220223150835.png",
+      "title": "Hopkins MedTech Compliance logo",
+      "sha256": "f7ea785f448d4394adefbf0ee712bfcbea6bea72842b47119a67cd14df0fec38",
+      "originalFile": "public/media/2d264def-20220223150835.png",
+      "displayFile": "public/media/2d264def-20220223150835.webp",
+      "businessPages": "/ | /about | /about/team | /about/team/andrew-wayland | /about/team/homer-wu | /about/team/jeff-wu | /about/team/jennifer-stanford | /about/team/qian-cheng | /about/team/wendy-zhou | /careers | /careers/ai-computer-vision-intern | /careers/clinical-data-biostatistics-intern | /careers/clinical-research-intern | /careers/data-science-intern | /careers/digital-health-product-intern | /careers/healthcare-market-research-intern | /careers/quality-assurance-intern | /careers/regulatory-affairs-intern | /contact | /industries | /industries/biopharma | /industries/gene-cell-therapies | /industries/ivd | /industries/medical-devices | /industries/pharmaceuticals | /privacy | /resources | /resources/a-cell-free-dna-blood-based-test-for-colorectal-cancer-screening | /resources/ai-skin-science-different-evidence | /resources/antigen-test-performance-and-population | /resources/blood-based-tests-for-multicancer-early-detection-pathfinder-a-prospective-cohort-study | /resources/characteristics-of-clinical-studies-conducted-over-the-total-product-life-cycle-of-high-risk-therapeutic-medical-devices-receiving-fda-premarket-approval-in-2010-and-2011 | /resources/characteristics-of-clinical-studies-used-for-us-food-and-drug-administration-approval-of-high-risk-medical-device-supplements | /resources/checklist-for-artificial-intelligence-in-medical-imaging-claim-a-guide-for-authors-and-reviewers | /resources/class-b-ivdr-planning-milestones | /resources/dermatologist-level-classification-of-skin-cancer-with-deep-neural-networks | /resources/design-and-implementation-of-a-digital-site-less-clinical-study-of-serial-rapid-antigen-testing-to-identify-asymptomatic-sars-cov-2-infection | /resources/detection-and-localization-of-surgically-resectable-cancers-with-a-multi-analyte-blood-test | /resources/diagnostic-accuracy-of-covid-19-rapid-antigen-tests-with-unsupervised-self-sampling-in-people-with-symptoms-in-the-omicron-period-cross-sectional-study | /resources/diagnostic-accuracy-of-rapid-antigen-tests-in-asymptomatic-and-presymptomatic-close-contacts-of-individuals-with-confirmed-sars-cov-2-infection-cross-sectional-study | /resources/disparities-in-dermatology-ai-performance-on-a-diverse-curated-clinical-image-set | /resources/evaluating-transparency-in-ai-ml-model-characteristics-for-fda-reviewed-medical-devices | /resources/fda-melanoma-device-reclassification-2026 | /resources/guidelines-for-clinical-trial-protocols-for-interventions-involving-artificial-intelligence-the-spirit-ai-extension | /resources/historical-cbd-otc | /resources/historical-clinical-manager-2023 | /resources/historical-drug-regulatory-pathways | /resources/historical-intended-use-validation | /resources/historical-internal-audits | /resources/historical-sterile-device-510k | /resources/hmc-hml-documented-partnership | /resources/hmc-questions-fda-town-halls-2022 | /resources/how-ai-is-used-in-fda-authorized-medical-devices-a-taxonomy-across-1-016-authorizations | /resources/how-medical-ai-devices-are-evaluated-limitations-and-recommendations-from-an-analysis-of-fda-approvals | /resources/ivdr-transition-and-eudamed-dates | /resources/lipid-nanocarriers-skin-delivery | /resources/marketing-and-us-food-and-drug-administration-clearance-of-artificial-intelligence-and-machine-learning-enabled-software-in-and-as-medical-devices-a-systematic-review | /resources/modelling-skin-and-transdermal-transport | /resources/nationwide-real-world-implementation-of-ai-for-cancer-detection-in-population-based-mammography-screening | /resources/next-generation-multitarget-stool-dna-test-for-colorectal-cancer-screening | /resources/nobel-science-ai-and-evidence | /resources/nonconcurrent-control-use-in-fda-approval-of-high-risk-medical-devices | /resources/performance-of-rapid-antigen-tests-to-detect-symptomatic-and-asymptomatic-sars-cov-2-infection-a-prospective-cohort-study | /resources/pivotal-trial-of-an-autonomous-ai-based-diagnostic-system-for-detection-of-diabetic-retinopathy-in-primary-care-offices | /resources/quadas-2-a-revised-tool-for-the-quality-assessment-of-diagnostic-accuracy-studies | /resources/reporting-guideline-for-the-early-stage-clinical-evaluation-of-decision-support-systems-driven-by-artificial-intelligence-decide-ai | /resources/reporting-guidelines-for-clinical-trial-reports-for-interventions-involving-artificial-intelligence-the-consort-ai-extension | /resources/skin-tone-labels-and-metrics | /resources/stard-2015-an-updated-list-of-essential-items-for-reporting-diagnostic-accuracy-studies | /resources/the-clinician-ai-interface-intended-use-and-explainability-in-fda-cleared-ai-devices-for-medical-image-interpretation | /resources/tripod-ai-statement-updated-guidance-for-reporting-clinical-prediction-models-that-use-regression-or-machine-learning-methods | /search?q=clinical | /services | /services/biostatistics | /services/cgmp | /services/clinical-investigation | /services/clinical-operations | /services/clinical-study | /services/data-management | /services/disciplines/clinical | /services/disciplines/marketing | /services/disciplines/post-market | /services/disciplines/regulatory | /services/disciplines/technology | /services/eua-application | /services/facility-registration-listing | /services/fda-regulatory-consulting | /services/fda-us-agent | /services/food-dietary-supplements | /services/ivdr | /services/laboratory-services | /services/market-research | /services/marketing | /services/medical-device-510k | /services/otc-drug | /services/post-market-compliance | /services/post-market-surveillance | /services/preclinical-research | /services/product-development | /services/project-management | /services/projects | /services/quality-assurance | /services/quality-system | /services/regulatory-strategy | /services/regulatory-submission | /services/us-sales-office",
+      "publicCollection": "/archive/media#img-001",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-001",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/img/20220223150840.png",
+      "title": "Hopkins MedTech Compliance logo",
+      "sha256": "f7ea785f448d4394adefbf0ee712bfcbea6bea72842b47119a67cd14df0fec38",
+      "originalFile": "public/media/2d264def-20220223150835.png",
+      "displayFile": "public/media/2d264def-20220223150835.webp",
+      "businessPages": "/ | /about | /about/team | /about/team/andrew-wayland | /about/team/homer-wu | /about/team/jeff-wu | /about/team/jennifer-stanford | /about/team/qian-cheng | /about/team/wendy-zhou | /careers | /careers/ai-computer-vision-intern | /careers/clinical-data-biostatistics-intern | /careers/clinical-research-intern | /careers/data-science-intern | /careers/digital-health-product-intern | /careers/healthcare-market-research-intern | /careers/quality-assurance-intern | /careers/regulatory-affairs-intern | /contact | /industries | /industries/biopharma | /industries/gene-cell-therapies | /industries/ivd | /industries/medical-devices | /industries/pharmaceuticals | /privacy | /resources | /resources/a-cell-free-dna-blood-based-test-for-colorectal-cancer-screening | /resources/ai-skin-science-different-evidence | /resources/antigen-test-performance-and-population | /resources/blood-based-tests-for-multicancer-early-detection-pathfinder-a-prospective-cohort-study | /resources/characteristics-of-clinical-studies-conducted-over-the-total-product-life-cycle-of-high-risk-therapeutic-medical-devices-receiving-fda-premarket-approval-in-2010-and-2011 | /resources/characteristics-of-clinical-studies-used-for-us-food-and-drug-administration-approval-of-high-risk-medical-device-supplements | /resources/checklist-for-artificial-intelligence-in-medical-imaging-claim-a-guide-for-authors-and-reviewers | /resources/class-b-ivdr-planning-milestones | /resources/dermatologist-level-classification-of-skin-cancer-with-deep-neural-networks | /resources/design-and-implementation-of-a-digital-site-less-clinical-study-of-serial-rapid-antigen-testing-to-identify-asymptomatic-sars-cov-2-infection | /resources/detection-and-localization-of-surgically-resectable-cancers-with-a-multi-analyte-blood-test | /resources/diagnostic-accuracy-of-covid-19-rapid-antigen-tests-with-unsupervised-self-sampling-in-people-with-symptoms-in-the-omicron-period-cross-sectional-study | /resources/diagnostic-accuracy-of-rapid-antigen-tests-in-asymptomatic-and-presymptomatic-close-contacts-of-individuals-with-confirmed-sars-cov-2-infection-cross-sectional-study | /resources/disparities-in-dermatology-ai-performance-on-a-diverse-curated-clinical-image-set | /resources/evaluating-transparency-in-ai-ml-model-characteristics-for-fda-reviewed-medical-devices | /resources/fda-melanoma-device-reclassification-2026 | /resources/guidelines-for-clinical-trial-protocols-for-interventions-involving-artificial-intelligence-the-spirit-ai-extension | /resources/historical-cbd-otc | /resources/historical-clinical-manager-2023 | /resources/historical-drug-regulatory-pathways | /resources/historical-intended-use-validation | /resources/historical-internal-audits | /resources/historical-sterile-device-510k | /resources/hmc-hml-documented-partnership | /resources/hmc-questions-fda-town-halls-2022 | /resources/how-ai-is-used-in-fda-authorized-medical-devices-a-taxonomy-across-1-016-authorizations | /resources/how-medical-ai-devices-are-evaluated-limitations-and-recommendations-from-an-analysis-of-fda-approvals | /resources/ivdr-transition-and-eudamed-dates | /resources/lipid-nanocarriers-skin-delivery | /resources/marketing-and-us-food-and-drug-administration-clearance-of-artificial-intelligence-and-machine-learning-enabled-software-in-and-as-medical-devices-a-systematic-review | /resources/modelling-skin-and-transdermal-transport | /resources/nationwide-real-world-implementation-of-ai-for-cancer-detection-in-population-based-mammography-screening | /resources/next-generation-multitarget-stool-dna-test-for-colorectal-cancer-screening | /resources/nobel-science-ai-and-evidence | /resources/nonconcurrent-control-use-in-fda-approval-of-high-risk-medical-devices | /resources/performance-of-rapid-antigen-tests-to-detect-symptomatic-and-asymptomatic-sars-cov-2-infection-a-prospective-cohort-study | /resources/pivotal-trial-of-an-autonomous-ai-based-diagnostic-system-for-detection-of-diabetic-retinopathy-in-primary-care-offices | /resources/quadas-2-a-revised-tool-for-the-quality-assessment-of-diagnostic-accuracy-studies | /resources/reporting-guideline-for-the-early-stage-clinical-evaluation-of-decision-support-systems-driven-by-artificial-intelligence-decide-ai | /resources/reporting-guidelines-for-clinical-trial-reports-for-interventions-involving-artificial-intelligence-the-consort-ai-extension | /resources/skin-tone-labels-and-metrics | /resources/stard-2015-an-updated-list-of-essential-items-for-reporting-diagnostic-accuracy-studies | /resources/the-clinician-ai-interface-intended-use-and-explainability-in-fda-cleared-ai-devices-for-medical-image-interpretation | /resources/tripod-ai-statement-updated-guidance-for-reporting-clinical-prediction-models-that-use-regression-or-machine-learning-methods | /search?q=clinical | /services | /services/biostatistics | /services/cgmp | /services/clinical-investigation | /services/clinical-operations | /services/clinical-study | /services/data-management | /services/disciplines/clinical | /services/disciplines/marketing | /services/disciplines/post-market | /services/disciplines/regulatory | /services/disciplines/technology | /services/eua-application | /services/facility-registration-listing | /services/fda-regulatory-consulting | /services/fda-us-agent | /services/food-dietary-supplements | /services/ivdr | /services/laboratory-services | /services/market-research | /services/marketing | /services/medical-device-510k | /services/otc-drug | /services/post-market-compliance | /services/post-market-surveillance | /services/preclinical-research | /services/product-development | /services/project-management | /services/projects | /services/quality-assurance | /services/quality-system | /services/regulatory-strategy | /services/regulatory-submission | /services/us-sales-office",
+      "publicCollection": "/archive/media#img-001",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-002",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/202202231610531.png",
+      "title": "Industries navigation artwork",
+      "sha256": "5197de54b21a7ead9a1118317bec78b34ccf3bfaacb8262df0cf166eed3ff412",
+      "originalFile": "public/media/bef89ac0-202202231610531.png",
+      "displayFile": "public/media/bef89ac0-202202231610531.webp",
+      "businessPages": "/",
+      "publicCollection": "/archive/media#img-002",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-003",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/202202231611071.png",
+      "title": "Services navigation artwork",
+      "sha256": "cddf5acad3f89e5fd7398a9ff250aea7fe9ea48dac8be3610df3b5ca75d0f917",
+      "originalFile": "public/media/7e12352f-202202231611071.png",
+      "displayFile": "public/media/7e12352f-202202231611071.webp",
+      "businessPages": "/",
+      "publicCollection": "/archive/media#img-003",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-004",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/202202231612001.png",
+      "title": "Projects navigation artwork",
+      "sha256": "20586fdc26cd78a44bdef00666abcd26dd6c9c126525a2d1298336839badd993",
+      "originalFile": "public/media/172f159d-202202231612001.png",
+      "displayFile": "public/media/172f159d-202202231612001.webp",
+      "businessPages": "/services | /services/projects",
+      "publicCollection": "/archive/media#img-004",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-005",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/202202231612131.png",
+      "title": "Resources navigation artwork",
+      "sha256": "3d72472559ae1c9d384fa63256481c2ed83ff867900f6042b592180b7157c8a6",
+      "originalFile": "public/media/28161479-202202231612131.png",
+      "displayFile": "public/media/28161479-202202231612131.webp",
+      "businessPages": "/resources",
+      "publicCollection": "/archive/media#img-005",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-006",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/202202231613541.png",
+      "title": "About navigation artwork",
+      "sha256": "929e690b2558a604aa4f3246aa33dd379303ada9023cd6b3024317ebabf8bf59",
+      "originalFile": "public/media/c9a0bae7-202202231613541.png",
+      "displayFile": "public/media/c9a0bae7-202202231613541.webp",
+      "businessPages": "/",
+      "publicCollection": "/archive/media#img-006",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-007",
+      "sourceUrl": "http://www.hopkinsmedtech.com/images/QQ截图20220125164247.png",
+      "title": "Original search icon",
+      "sha256": "8076f3fd37e67073fffb3c7167170f1da2351e5cef24757117bf7354fcb15549",
+      "originalFile": "public/media/ab9174fe-QQ__20220125164247.png",
+      "displayFile": "public/media/ab9174fe-QQ__20220125164247.png",
+      "businessPages": "",
+      "publicCollection": "/archive/media#img-007",
+      "placement": "Original interface artwork / test placeholder archive"
+    },
+    {
+      "id": "img-008",
+      "sourceUrl": "http://www.hopkinsmedtech.com/images/QQ截图20220126100329.png",
+      "title": "Original close icon",
+      "sha256": "19f354af5ad3f6f0868487d8b21de9ab71f4d5e86f629a034e259918d603ade7",
+      "originalFile": "public/media/c74ac52d-QQ__20220126100329.png",
+      "displayFile": "public/media/c74ac52d-QQ__20220126100329.png",
+      "businessPages": "",
+      "publicCollection": "/archive/media#img-008",
+      "placement": "Original interface artwork / test placeholder archive"
+    },
+    {
+      "id": "img-009",
+      "sourceUrl": "http://www.hopkinsmedtech.com/images/QQ截图20220126101453.png",
+      "title": "Original menu icon",
+      "sha256": "7b3ede10548a5477c2aaa07f6383c84c86a327b96656ea8f6c20ce4b6c99c36b",
+      "originalFile": "public/media/abacc291-QQ__20220126101453.png",
+      "displayFile": "public/media/abacc291-QQ__20220126101453.png",
+      "businessPages": "",
+      "publicCollection": "/archive/media#img-009",
+      "placement": "Original interface artwork / test placeholder archive"
+    },
+    {
+      "id": "img-010",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/img/20220223151006.png",
+      "title": "CRO for IVD and MedTech Innovations — clinical research",
+      "sha256": "c052b6c81f7467e6929494ec1bc01f0030c65ef2df0444282c613f25c582ad19",
+      "originalFile": "public/media/e8f0873e-20220223151006.png",
+      "displayFile": "public/media/e8f0873e-20220223151006.webp",
+      "businessPages": "/",
+      "publicCollection": "/archive/media#img-010",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-011",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/img/20220223151019.png",
+      "title": "CRO for IVD and MedTech Innovations — laboratory work",
+      "sha256": "7ef859bd665c485b763dc409db81e7b6bc10e2f868b0d737a8a6503448106923",
+      "originalFile": "public/media/d34f02c4-20220223151019.png",
+      "displayFile": "public/media/d34f02c4-20220223151019.webp",
+      "businessPages": "/",
+      "publicCollection": "/archive/media#img-011",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-012",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/img/20220223151012.png",
+      "title": "CRO for IVD and MedTech Innovations — microscopy",
+      "sha256": "28d281f152b7b4850eb8dc1f3b8185fd133a52965eeda773e020b2033f68a1ed",
+      "originalFile": "public/media/f3da623b-20220223151012.png",
+      "displayFile": "public/media/f3da623b-20220223151012.webp",
+      "businessPages": "/",
+      "publicCollection": "/archive/media#img-012",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-013",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/20220325150109.png",
+      "title": "Client First value icon",
+      "sha256": "a4a12442a4b6ca090306f9138b5ce48117131ef6c593b06652b3a195b0a6ed46",
+      "originalFile": "public/media/c9522dc4-20220325150109.png",
+      "displayFile": "public/media/c9522dc4-20220325150109.png",
+      "businessPages": "/about",
+      "publicCollection": "/archive/media#img-013",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-014",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/20220325150340.png",
+      "title": "A Holistic Approach value icon",
+      "sha256": "1966506d39034d7f089c37bcae379f87150e82cbeebc4852a7c0afec06dadf13",
+      "originalFile": "public/media/e5ef6112-20220325150340.png",
+      "displayFile": "public/media/e5ef6112-20220325150340.png",
+      "businessPages": "/about",
+      "publicCollection": "/archive/media#img-014",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-015",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/20220325150517.png",
+      "title": "Partnership value icon",
+      "sha256": "1dca2b50aa2c264cb15bdbdfbf12157894bbfa61d8df407ea67ed409d0263a5d",
+      "originalFile": "public/media/e06961ea-20220325150517.png",
+      "displayFile": "public/media/e06961ea-20220325150517.png",
+      "businessPages": "/about",
+      "publicCollection": "/archive/media#img-015",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-016",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/img/20220302093727.png",
+      "title": "Contact the Hopkins MedTech team",
+      "sha256": "4be42006c84be844af7e21e66cf6fad567426fa96d4f168c201c1ea24a04380f",
+      "originalFile": "public/media/baa146d4-20220302093727.png",
+      "displayFile": "public/media/baa146d4-20220302093727.png",
+      "businessPages": "/ | /about | /about/team | /about/team/andrew-wayland | /about/team/homer-wu | /about/team/jeff-wu | /about/team/jennifer-stanford | /about/team/qian-cheng | /about/team/wendy-zhou | /careers | /industries | /industries/biopharma | /industries/gene-cell-therapies | /industries/ivd | /industries/medical-devices | /industries/pharmaceuticals | /resources | /resources/a-cell-free-dna-blood-based-test-for-colorectal-cancer-screening | /resources/ai-skin-science-different-evidence | /resources/antigen-test-performance-and-population | /resources/blood-based-tests-for-multicancer-early-detection-pathfinder-a-prospective-cohort-study | /resources/characteristics-of-clinical-studies-conducted-over-the-total-product-life-cycle-of-high-risk-therapeutic-medical-devices-receiving-fda-premarket-approval-in-2010-and-2011 | /resources/characteristics-of-clinical-studies-used-for-us-food-and-drug-administration-approval-of-high-risk-medical-device-supplements | /resources/checklist-for-artificial-intelligence-in-medical-imaging-claim-a-guide-for-authors-and-reviewers | /resources/class-b-ivdr-planning-milestones | /resources/dermatologist-level-classification-of-skin-cancer-with-deep-neural-networks | /resources/design-and-implementation-of-a-digital-site-less-clinical-study-of-serial-rapid-antigen-testing-to-identify-asymptomatic-sars-cov-2-infection | /resources/detection-and-localization-of-surgically-resectable-cancers-with-a-multi-analyte-blood-test | /resources/diagnostic-accuracy-of-covid-19-rapid-antigen-tests-with-unsupervised-self-sampling-in-people-with-symptoms-in-the-omicron-period-cross-sectional-study | /resources/diagnostic-accuracy-of-rapid-antigen-tests-in-asymptomatic-and-presymptomatic-close-contacts-of-individuals-with-confirmed-sars-cov-2-infection-cross-sectional-study | /resources/disparities-in-dermatology-ai-performance-on-a-diverse-curated-clinical-image-set | /resources/evaluating-transparency-in-ai-ml-model-characteristics-for-fda-reviewed-medical-devices | /resources/fda-melanoma-device-reclassification-2026 | /resources/guidelines-for-clinical-trial-protocols-for-interventions-involving-artificial-intelligence-the-spirit-ai-extension | /resources/historical-cbd-otc | /resources/historical-clinical-manager-2023 | /resources/historical-drug-regulatory-pathways | /resources/historical-intended-use-validation | /resources/historical-internal-audits | /resources/historical-sterile-device-510k | /resources/hmc-hml-documented-partnership | /resources/hmc-questions-fda-town-halls-2022 | /resources/how-ai-is-used-in-fda-authorized-medical-devices-a-taxonomy-across-1-016-authorizations | /resources/how-medical-ai-devices-are-evaluated-limitations-and-recommendations-from-an-analysis-of-fda-approvals | /resources/ivdr-transition-and-eudamed-dates | /resources/lipid-nanocarriers-skin-delivery | /resources/marketing-and-us-food-and-drug-administration-clearance-of-artificial-intelligence-and-machine-learning-enabled-software-in-and-as-medical-devices-a-systematic-review | /resources/modelling-skin-and-transdermal-transport | /resources/nationwide-real-world-implementation-of-ai-for-cancer-detection-in-population-based-mammography-screening | /resources/next-generation-multitarget-stool-dna-test-for-colorectal-cancer-screening | /resources/nobel-science-ai-and-evidence | /resources/nonconcurrent-control-use-in-fda-approval-of-high-risk-medical-devices | /resources/performance-of-rapid-antigen-tests-to-detect-symptomatic-and-asymptomatic-sars-cov-2-infection-a-prospective-cohort-study | /resources/pivotal-trial-of-an-autonomous-ai-based-diagnostic-system-for-detection-of-diabetic-retinopathy-in-primary-care-offices | /resources/quadas-2-a-revised-tool-for-the-quality-assessment-of-diagnostic-accuracy-studies | /resources/reporting-guideline-for-the-early-stage-clinical-evaluation-of-decision-support-systems-driven-by-artificial-intelligence-decide-ai | /resources/reporting-guidelines-for-clinical-trial-reports-for-interventions-involving-artificial-intelligence-the-consort-ai-extension | /resources/skin-tone-labels-and-metrics | /resources/stard-2015-an-updated-list-of-essential-items-for-reporting-diagnostic-accuracy-studies | /resources/the-clinician-ai-interface-intended-use-and-explainability-in-fda-cleared-ai-devices-for-medical-image-interpretation | /resources/tripod-ai-statement-updated-guidance-for-reporting-clinical-prediction-models-that-use-regression-or-machine-learning-methods | /services | /services/biostatistics | /services/cgmp | /services/clinical-investigation | /services/clinical-operations | /services/clinical-study | /services/data-management | /services/disciplines/clinical | /services/disciplines/marketing | /services/disciplines/post-market | /services/disciplines/regulatory | /services/disciplines/technology | /services/eua-application | /services/facility-registration-listing | /services/fda-regulatory-consulting | /services/fda-us-agent | /services/food-dietary-supplements | /services/ivdr | /services/laboratory-services | /services/market-research | /services/marketing | /services/medical-device-510k | /services/otc-drug | /services/post-market-compliance | /services/post-market-surveillance | /services/preclinical-research | /services/product-development | /services/project-management | /services/projects | /services/quality-assurance | /services/quality-system | /services/regulatory-strategy | /services/regulatory-submission | /services/us-sales-office",
+      "publicCollection": "/archive/media#img-016",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-017",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/20220224182345.png",
+      "title": "Determining the Right Regulatory Pathway for your Drug",
+      "sha256": "30833904faf17ffb2b7ccb79d47999a997da6de45e13900cf909dcc4b9400382",
+      "originalFile": "public/media/e65c93ac-20220224182345.png",
+      "displayFile": "public/media/e65c93ac-20220224182345.webp",
+      "businessPages": "/resources | /resources/historical-drug-regulatory-pathways",
+      "publicCollection": "/archive/media#img-017",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-017",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/image/20220224/6378132371855646508169408.png",
+      "title": "Determining the Right Regulatory Pathway for your Drug",
+      "sha256": "30833904faf17ffb2b7ccb79d47999a997da6de45e13900cf909dcc4b9400382",
+      "originalFile": "public/media/e65c93ac-20220224182345.png",
+      "displayFile": "public/media/e65c93ac-20220224182345.webp",
+      "businessPages": "/resources | /resources/historical-drug-regulatory-pathways",
+      "publicCollection": "/archive/media#img-017",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-018",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/20220224173154.png",
+      "title": "510k Submissions for Sterile Devices",
+      "sha256": "69562d3b959c1e2438681bce41adedaf25d530c82fd720bd380ad7676da4bf2b",
+      "originalFile": "public/media/0b137e45-20220224173154.png",
+      "displayFile": "public/media/0b137e45-20220224173154.webp",
+      "businessPages": "/resources | /resources/historical-sterile-device-510k",
+      "publicCollection": "/archive/media#img-018",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-018",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/image/20220224/6378131989060500463230872.png",
+      "title": "510k Submissions for Sterile Devices",
+      "sha256": "69562d3b959c1e2438681bce41adedaf25d530c82fd720bd380ad7676da4bf2b",
+      "originalFile": "public/media/0b137e45-20220224173154.png",
+      "displayFile": "public/media/0b137e45-20220224173154.webp",
+      "businessPages": "/resources | /resources/historical-sterile-device-510k",
+      "publicCollection": "/archive/media#img-018",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-019",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/20220224173357.png",
+      "title": "The FDA, CBD, and OTC Drugs",
+      "sha256": "fa2b8584f97562730a9e9f91f7571e0ec7793dc74c99c08263578da5e809e9e0",
+      "originalFile": "public/media/5ca63c0f-20220224173357.png",
+      "displayFile": "public/media/5ca63c0f-20220224173357.webp",
+      "businessPages": "/resources | /resources/historical-cbd-otc",
+      "publicCollection": "/archive/media#img-019",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-020",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/20220224173659.png",
+      "title": "Intended Use Validation",
+      "sha256": "f39259aaa430224d74217d89e9f98f9f2708b22fc66fab51db3e824e7f5f0561",
+      "originalFile": "public/media/e379d8d0-20220224173659.png",
+      "displayFile": "public/media/e379d8d0-20220224173659.webp",
+      "businessPages": "/resources | /resources/historical-intended-use-validation",
+      "publicCollection": "/archive/media#img-020",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-020",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/image/20220224/6378132092524774754374526.png",
+      "title": "Intended Use Validation",
+      "sha256": "f39259aaa430224d74217d89e9f98f9f2708b22fc66fab51db3e824e7f5f0561",
+      "originalFile": "public/media/e379d8d0-20220224173659.png",
+      "displayFile": "public/media/e379d8d0-20220224173659.webp",
+      "businessPages": "/resources | /resources/historical-intended-use-validation",
+      "publicCollection": "/archive/media#img-020",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-022",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/img/20220224113027.png",
+      "title": "US Sales Office — original website image",
+      "sha256": "777e130ad1b751b6110e5aff6d07ea914c63ebf5a33fbd9a69f9322af1f319c2",
+      "originalFile": "public/media/17362bbc-20220224113027.png",
+      "displayFile": "public/media/17362bbc-20220224113027.webp",
+      "businessPages": "/services/us-sales-office",
+      "publicCollection": "/archive/media#img-022",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-023",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/img/20220224174810.png",
+      "title": "Contact page banner",
+      "sha256": "def6b1f8aa407c968677958720c455de0075dfd23add429696eec16247e2bcb6",
+      "originalFile": "public/media/ae9d8ed7-20220224174810.png",
+      "displayFile": "public/media/ae9d8ed7-20220224174810.webp",
+      "businessPages": "/contact",
+      "publicCollection": "/archive/media#img-023",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-024",
+      "sourceUrl": "http://www.hopkinsmedtech.com/images/c_ico_tel1.png",
+      "title": "Original phone icon",
+      "sha256": "e652074e5cdb23264847229875741cf730e409c4b72602c0409f3efb3233fd8c",
+      "originalFile": "public/media/d2c1cc58-c_ico_tel1.png",
+      "displayFile": "public/media/d2c1cc58-c_ico_tel1.png",
+      "businessPages": "/contact",
+      "publicCollection": "/archive/media#img-024",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-025",
+      "sourceUrl": "http://www.hopkinsmedtech.com/images/c_ico_add1.png",
+      "title": "Original address icon",
+      "sha256": "6ad13ea2ac9201478eeffd300c3b673755585e48c48ecf79ad0af6479de480cf",
+      "originalFile": "public/media/c0fc4694-c_ico_add1.png",
+      "displayFile": "public/media/c0fc4694-c_ico_add1.png",
+      "businessPages": "/contact",
+      "publicCollection": "/archive/media#img-025",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-026",
+      "sourceUrl": "http://www.hopkinsmedtech.com/images/c_ico_email1.png",
+      "title": "Original email icon",
+      "sha256": "ced807492b5519f65c81de92e7b1138ecded50cd671b64ed72d98383f83fbf8a",
+      "originalFile": "public/media/970d8209-c_ico_email1.png",
+      "displayFile": "public/media/970d8209-c_ico_email1.png",
+      "businessPages": "/contact",
+      "publicCollection": "/archive/media#img-026",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-027",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/img/20220224175348.png",
+      "title": "Resource center banner",
+      "sha256": "773873399bfaacb28404f62bd2dd4ac492f1bbc16ee3fe62ed47a30842c53bcb",
+      "originalFile": "public/media/252121ec-20220224175348.png",
+      "displayFile": "public/media/252121ec-20220224175348.webp",
+      "businessPages": "/resources",
+      "publicCollection": "/archive/media#img-027",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-028",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/20220224173902.png",
+      "title": "5 Reasons Why Internal Auditing is Important",
+      "sha256": "d4d01bc1665dc2506ec22a34efc211e6550eddf39970ab997941ec18f33a62ff",
+      "originalFile": "public/media/f5d06bb9-20220224173902.png",
+      "displayFile": "public/media/f5d06bb9-20220224173902.webp",
+      "businessPages": "/resources | /resources/historical-internal-audits",
+      "publicCollection": "/archive/media#img-028",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-029",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/20230927164725.jpg",
+      "title": "Join Us — original recruitment image",
+      "sha256": "b5ac1d785e86a9ae300d8132f9af4c253d44f07ffeb1fb695c59fdbd032ef7e5",
+      "originalFile": "public/media/12351364-20230927164725.jpg",
+      "displayFile": "public/media/12351364-20230927164725.webp",
+      "businessPages": "/resources | /resources/historical-clinical-manager-2023",
+      "publicCollection": "/archive/media#img-029",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-031",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/image/20220224/6378132031357480724943499.png",
+      "title": "Original resource article illustration",
+      "sha256": "d9ab919406cf631aa4382e7043d581ea4e1d7d91776b27a64cfbcbaf061497cb",
+      "originalFile": "public/media/2ecf86fb-6378132031357480724943499.png",
+      "displayFile": "public/media/2ecf86fb-6378132031357480724943499.webp",
+      "businessPages": "/resources/historical-cbd-otc",
+      "publicCollection": "/archive/media#img-031",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-034",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/img/20220224174612.png",
+      "title": "Our Company — original website image",
+      "sha256": "d0c8b3bfc77d06f2ebea584788806f5cdd09ffbeeb7fbc367cfdb1c09ed5eb69",
+      "originalFile": "public/media/a83049a4-20220224174612.png",
+      "displayFile": "public/media/a83049a4-20220224174612.webp",
+      "businessPages": "/about",
+      "publicCollection": "/archive/media#img-034",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-035",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/img/20220224112925.png",
+      "title": "Clinical study — original website image",
+      "sha256": "654521d2f1cd9d2ff11931ef805b991da8cf1abc93ed568ab2e0bdcff437a11b",
+      "originalFile": "public/media/54e10fd2-20220224112925.png",
+      "displayFile": "public/media/54e10fd2-20220224112925.webp",
+      "businessPages": "/services/clinical-study",
+      "publicCollection": "/archive/media#img-035",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-035",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/img/20220224104220.png",
+      "title": "Clinical study — original website image",
+      "sha256": "654521d2f1cd9d2ff11931ef805b991da8cf1abc93ed568ab2e0bdcff437a11b",
+      "originalFile": "public/media/54e10fd2-20220224112925.png",
+      "displayFile": "public/media/54e10fd2-20220224112925.webp",
+      "businessPages": "/services/clinical-study",
+      "publicCollection": "/archive/media#img-035",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-035",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/img/20220302152717.png",
+      "title": "Clinical study — original website image",
+      "sha256": "654521d2f1cd9d2ff11931ef805b991da8cf1abc93ed568ab2e0bdcff437a11b",
+      "originalFile": "public/media/54e10fd2-20220224112925.png",
+      "displayFile": "public/media/54e10fd2-20220224112925.webp",
+      "businessPages": "/services/clinical-study",
+      "publicCollection": "/archive/media#img-035",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-036",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/img/20220224112941.png",
+      "title": "OTC Drug — original website image",
+      "sha256": "8f2ae322e361e14ddb8f2f3de59a7c6550a60a591ce8f03fdde407505f83e844",
+      "originalFile": "public/media/82929112-20220224112941.png",
+      "displayFile": "public/media/82929112-20220224112941.webp",
+      "businessPages": "/services/otc-drug",
+      "publicCollection": "/archive/media#img-036",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-037",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/img/20220302152324.png",
+      "title": "Product Development — original website image",
+      "sha256": "76985f45f9039d2bd0f99a6e4c5b58c743e4b5687bf4c623a4071284d9a8b0de",
+      "originalFile": "public/media/7213ee87-20220302152324.png",
+      "displayFile": "public/media/7213ee87-20220302152324.webp",
+      "businessPages": "/services/product-development",
+      "publicCollection": "/archive/media#img-037",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-038",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/img/20220302152342.png",
+      "title": "Regulatory Strategy — original website image",
+      "sha256": "ab5638797026e15d1bb8154e1a32811a4dc9a53034a775a92c5573f99aa38bc3",
+      "originalFile": "public/media/89138083-20220302152342.png",
+      "displayFile": "public/media/89138083-20220302152342.webp",
+      "businessPages": "/services/regulatory-strategy",
+      "publicCollection": "/archive/media#img-038",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-039",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/img/20220302152633.png",
+      "title": "Regulatory Submission — original website image",
+      "sha256": "40e97e631c30e5cedc0f2b6ce53d29712d5b18ba9a4e53c13dd13fcdd2a3a663",
+      "originalFile": "public/media/b73432fc-20220302152633.png",
+      "displayFile": "public/media/b73432fc-20220302152633.webp",
+      "businessPages": "/services/regulatory-submission",
+      "publicCollection": "/archive/media#img-039",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-040",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/img/20220302152656.png",
+      "title": "Post Market Surveillance — original website image",
+      "sha256": "452a6b175a4902bb9292027ed23effdf13e981b84ea1978133088bc4f91b6762",
+      "originalFile": "public/media/002d20b6-20220302152656.png",
+      "displayFile": "public/media/002d20b6-20220302152656.webp",
+      "businessPages": "/services/post-market-surveillance",
+      "publicCollection": "/archive/media#img-040",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-041",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/img/20220224112959.png",
+      "title": "Facility Registration and Listing — original website image",
+      "sha256": "49e4b29d902f821ceacba545d493f1658034b4b764bdae7160bc1d5a1cb878f8",
+      "originalFile": "public/media/4b44fb6d-20220224112959.png",
+      "displayFile": "public/media/4b44fb6d-20220224112959.webp",
+      "businessPages": "/services/facility-registration-listing",
+      "publicCollection": "/archive/media#img-041",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-042",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/img/20220224104609.png",
+      "title": "FDA US Agent — original website image",
+      "sha256": "f9a2b6b7d4defe7bca08c4aef41ea77f7075eea9ff862a46ba43bab40c5aa177",
+      "originalFile": "public/media/cf7d728d-20220224104609.png",
+      "displayFile": "public/media/cf7d728d-20220224104609.webp",
+      "businessPages": "/services/fda-us-agent",
+      "publicCollection": "/archive/media#img-042",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-043",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/img/20220224104650.png",
+      "title": "Food and Dietary Supplements — original website image",
+      "sha256": "73ad8d4dcb831a2fe85061f4da552b11641eac73785f68ca86ca61f76f67d75d",
+      "originalFile": "public/media/7647f80f-20220224104650.png",
+      "displayFile": "public/media/7647f80f-20220224104650.webp",
+      "businessPages": "/services/food-dietary-supplements",
+      "publicCollection": "/archive/media#img-043",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-044",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/img/20220224104239.png",
+      "title": "CGMP — original website image",
+      "sha256": "64a1fe2417add0aac0a9b57a691cbe4178703a771150fa59cc1c4f67ea7a9c1b",
+      "originalFile": "public/media/b35b6e39-20220224104239.png",
+      "displayFile": "public/media/b35b6e39-20220224104239.webp",
+      "businessPages": "/services/cgmp",
+      "publicCollection": "/archive/media#img-044",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-045",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/img/20220224112908.png",
+      "title": "Medical Device 510(k) — original website image",
+      "sha256": "c12f1e238c8eeb3a3e20f93b37e83258ae6dc9a8f71812ec8fb69724585a1d2f",
+      "originalFile": "public/media/6bb2b09d-20220224112908.png",
+      "displayFile": "public/media/6bb2b09d-20220224112908.webp",
+      "businessPages": "/services/medical-device-510k",
+      "publicCollection": "/archive/media#img-045",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-046",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/img/20220224104539.png",
+      "title": "EUA Application — original website image",
+      "sha256": "5667acdebd658cedb5a8c156bb93fd84c8b418f29c9f4997f5296782508c994a",
+      "originalFile": "public/media/ba95a04a-20220224104539.png",
+      "displayFile": "public/media/ba95a04a-20220224104539.webp",
+      "businessPages": "/services/eua-application",
+      "publicCollection": "/archive/media#img-046",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-047",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/img/20220224113014.png",
+      "title": "Marketing — original website image",
+      "sha256": "122a1f627adcbd3cf8952bed16e18618fdd590b2649940eba6a93b80c6f2eb13",
+      "originalFile": "public/media/42ce03f4-20220224113014.png",
+      "displayFile": "public/media/42ce03f4-20220224113014.webp",
+      "businessPages": "/services/marketing",
+      "publicCollection": "/archive/media#img-047",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-048",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/img/20220224112638.png",
+      "title": "Project Management — original website image",
+      "sha256": "a9499ae2081ab90eb91bbf1c4f489deeabe873e6714e16588bf003a9837a0fd1",
+      "originalFile": "public/media/b82a431f-20220224112638.png",
+      "displayFile": "public/media/b82a431f-20220224112638.webp",
+      "businessPages": "/services/project-management",
+      "publicCollection": "/archive/media#img-048",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-048",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/img/20220302152756.png",
+      "title": "Project Management — original website image",
+      "sha256": "a9499ae2081ab90eb91bbf1c4f489deeabe873e6714e16588bf003a9837a0fd1",
+      "originalFile": "public/media/b82a431f-20220224112638.png",
+      "displayFile": "public/media/b82a431f-20220224112638.webp",
+      "businessPages": "/services/project-management",
+      "publicCollection": "/archive/media#img-048",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-050",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/img/20220224113106.png",
+      "title": "Data Management — original website image",
+      "sha256": "67ff6fb293e4f8e654c822565e2c47ab8abf4486bbced216b11883667a38e485",
+      "originalFile": "public/media/19b64de0-20220224113106.png",
+      "displayFile": "public/media/19b64de0-20220224113106.webp",
+      "businessPages": "/services/data-management",
+      "publicCollection": "/archive/media#img-050",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-051",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/img/20220224103918.png",
+      "title": "Biostatistics — original website image",
+      "sha256": "c616f8c11dc6b356f8f822785d3c980e0b340d9840f71ab975f052e16bbef506",
+      "originalFile": "public/media/8642e28f-20220224103918.png",
+      "displayFile": "public/media/8642e28f-20220224103918.webp",
+      "businessPages": "/services/biostatistics",
+      "publicCollection": "/archive/media#img-051",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-052",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/img/20220224112655.png",
+      "title": "Quality Assurance — original website image",
+      "sha256": "1a83450ecc8bcbb342a174c5ba65431c69ef1464b4c51a8dd0702a8e1bd50c7d",
+      "originalFile": "public/media/b758202e-20220224112655.png",
+      "displayFile": "public/media/b758202e-20220224112655.webp",
+      "businessPages": "/services/quality-assurance",
+      "publicCollection": "/archive/media#img-052",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-052",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/img/20220302152734.png",
+      "title": "Quality Assurance — original website image",
+      "sha256": "1a83450ecc8bcbb342a174c5ba65431c69ef1464b4c51a8dd0702a8e1bd50c7d",
+      "originalFile": "public/media/b758202e-20220224112655.png",
+      "displayFile": "public/media/b758202e-20220224112655.webp",
+      "businessPages": "/services/quality-assurance",
+      "publicCollection": "/archive/media#img-052",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-053",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/img/20220224104625.png",
+      "title": "FDA Regulatory Consulting — original website image",
+      "sha256": "73ede2939415af3cf27ad52e923f387a81389c2c442a41dc82cd2ef317dda1d2",
+      "originalFile": "public/media/ce3dea35-20220224104625.png",
+      "displayFile": "public/media/ce3dea35-20220224104625.webp",
+      "businessPages": "/services/fda-regulatory-consulting",
+      "publicCollection": "/archive/media#img-053",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-054",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/img/20220224112734.png",
+      "title": "European IVDR — original website image",
+      "sha256": "44fa0297f24d02dd638ece8b4dcfd02cb13b245ee7250aa91b12065bef604854",
+      "originalFile": "public/media/f6fadab7-20220224112734.png",
+      "displayFile": "public/media/f6fadab7-20220224112734.webp",
+      "businessPages": "/ | /services/ivdr",
+      "publicCollection": "/archive/media#img-054",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-055",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/img/20220224112816.png",
+      "title": "Market Research — original website image",
+      "sha256": "208cdb3e78de37148d3f8813454d757c9709fde41a9698211873213c6925c65c",
+      "originalFile": "public/media/6390b9f6-20220224112816.png",
+      "displayFile": "public/media/6390b9f6-20220224112816.webp",
+      "businessPages": "/services/market-research",
+      "publicCollection": "/archive/media#img-055",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-056",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/img/20220224112832.png",
+      "title": "Post Market Compliance — original website image",
+      "sha256": "d90e021d9f94ca401dee69e36f62a3d5f756975618b34cb591bf88d73314ddc7",
+      "originalFile": "public/media/df24506e-20220224112832.png",
+      "displayFile": "public/media/df24506e-20220224112832.webp",
+      "businessPages": "/services/post-market-compliance",
+      "publicCollection": "/archive/media#img-056",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-057",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/img/20220224105150.png",
+      "title": "Laboratory Services — original website image",
+      "sha256": "f59b620a23a8325e84bb737a81e7dc5ac6dd179541dc74c547d8b459cee48097",
+      "originalFile": "public/media/0d78598a-20220224105150.png",
+      "displayFile": "public/media/0d78598a-20220224105150.webp",
+      "businessPages": "/ | /industries | /industries/ivd | /services/laboratory-services",
+      "publicCollection": "/archive/media#img-057",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-058",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/img/20220224105424.png",
+      "title": "Medical Devices — original website image",
+      "sha256": "8537c79ce4170be27f79029007abe7531b23a5cb297da681685bc94c7f8cc91a",
+      "originalFile": "public/media/a8787ccc-20220224105424.png",
+      "displayFile": "public/media/a8787ccc-20220224105424.webp",
+      "businessPages": "/industries | /industries/medical-devices",
+      "publicCollection": "/archive/media#img-058",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-059",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/img/20220224105550.png",
+      "title": "Gene & Cell Therapies — original website image",
+      "sha256": "dc9dae91c66139a6aebe3af77d467ed5d4be1c903d4fb0a9fff5244f32f1e0dd",
+      "originalFile": "public/media/3be3089c-20220224105550.png",
+      "displayFile": "public/media/3be3089c-20220224105550.webp",
+      "businessPages": "/industries | /industries/gene-cell-therapies",
+      "publicCollection": "/archive/media#img-059",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-060",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/img/20220224103944.png",
+      "title": "Biopharma — original website image",
+      "sha256": "c267512bb8674eb5a24c688df8111284b4a9fb3f8a1e21a85e0c5fd0ef6bb105",
+      "originalFile": "public/media/7acad3f5-20220224103944.png",
+      "displayFile": "public/media/7acad3f5-20220224103944.webp",
+      "businessPages": "/industries | /industries/biopharma",
+      "publicCollection": "/archive/media#img-060",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-061",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/img/20220224105615.png",
+      "title": "Pharmaceuticals — original website image",
+      "sha256": "d156f2e8dfa1b6aa4b6069ca61f1c39e4f5f3f31f44412f142e5690a79617996",
+      "originalFile": "public/media/bd48ce81-20220224105615.png",
+      "displayFile": "public/media/bd48ce81-20220224105615.webp",
+      "businessPages": "/industries | /industries/pharmaceuticals",
+      "publicCollection": "/archive/media#img-061",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-062",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/img/20220224174850.png",
+      "title": "Our Team — original website banner",
+      "sha256": "b6c98fc88237052fe3c740aa5f2d5d1ea8de226f1f5a0d8775cbfc3fc0b9a943",
+      "originalFile": "public/media/f23e4377-20220224174850.png",
+      "displayFile": "public/media/f23e4377-20220224174850.webp",
+      "businessPages": "/about/team",
+      "publicCollection": "/archive/media#img-062",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-063",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/image/20220224/6378131992601118773146939.png",
+      "title": "Internal auditing — original article illustration",
+      "sha256": "a9579f14f4ca6f305ced152194b36f24b34599d3b17efbccd37ed87c399639d7",
+      "originalFile": "public/media/71471dd8-6378131992601118773146939.png",
+      "displayFile": "public/media/71471dd8-6378131992601118773146939.webp",
+      "businessPages": "/resources/historical-internal-audits",
+      "publicCollection": "/archive/media#img-063",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-067",
+      "sourceUrl": "http://www.hopkinsmedtech.com/images/Emma-Pattern-KO-1.png",
+      "title": "Original EMMA International article artwork",
+      "sha256": "7ef87f0c3a083dc477ce092aab26785deccbdf684cf09ee5f3d99063db68d632",
+      "originalFile": "public/media/89482ae5-Emma-Pattern-KO-1.png",
+      "displayFile": "public/media/89482ae5-Emma-Pattern-KO-1.webp",
+      "businessPages": "/resources/historical-cbd-otc | /resources/historical-drug-regulatory-pathways | /resources/historical-intended-use-validation | /resources/historical-internal-audits | /resources/historical-sterile-device-510k",
+      "publicCollection": "/archive/media#img-067",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-068",
+      "sourceUrl": "http://www.hopkinsmedtech.com/images/cont.png",
+      "title": "Original contact section background",
+      "sha256": "5bafbdcfc87c7a57c63922a6aadd90b0b99da68b9c5fb2c4143e71da3dba1fd5",
+      "originalFile": "public/media/8dac6e4a-cont.png",
+      "displayFile": "public/media/8dac6e4a-cont.webp",
+      "businessPages": "/ | /about | /about/team | /about/team/andrew-wayland | /about/team/homer-wu | /about/team/jeff-wu | /about/team/jennifer-stanford | /about/team/qian-cheng | /about/team/wendy-zhou | /careers | /industries | /industries/biopharma | /industries/gene-cell-therapies | /industries/ivd | /industries/medical-devices | /industries/pharmaceuticals | /resources | /resources/a-cell-free-dna-blood-based-test-for-colorectal-cancer-screening | /resources/ai-skin-science-different-evidence | /resources/antigen-test-performance-and-population | /resources/blood-based-tests-for-multicancer-early-detection-pathfinder-a-prospective-cohort-study | /resources/characteristics-of-clinical-studies-conducted-over-the-total-product-life-cycle-of-high-risk-therapeutic-medical-devices-receiving-fda-premarket-approval-in-2010-and-2011 | /resources/characteristics-of-clinical-studies-used-for-us-food-and-drug-administration-approval-of-high-risk-medical-device-supplements | /resources/checklist-for-artificial-intelligence-in-medical-imaging-claim-a-guide-for-authors-and-reviewers | /resources/class-b-ivdr-planning-milestones | /resources/dermatologist-level-classification-of-skin-cancer-with-deep-neural-networks | /resources/design-and-implementation-of-a-digital-site-less-clinical-study-of-serial-rapid-antigen-testing-to-identify-asymptomatic-sars-cov-2-infection | /resources/detection-and-localization-of-surgically-resectable-cancers-with-a-multi-analyte-blood-test | /resources/diagnostic-accuracy-of-covid-19-rapid-antigen-tests-with-unsupervised-self-sampling-in-people-with-symptoms-in-the-omicron-period-cross-sectional-study | /resources/diagnostic-accuracy-of-rapid-antigen-tests-in-asymptomatic-and-presymptomatic-close-contacts-of-individuals-with-confirmed-sars-cov-2-infection-cross-sectional-study | /resources/disparities-in-dermatology-ai-performance-on-a-diverse-curated-clinical-image-set | /resources/evaluating-transparency-in-ai-ml-model-characteristics-for-fda-reviewed-medical-devices | /resources/fda-melanoma-device-reclassification-2026 | /resources/guidelines-for-clinical-trial-protocols-for-interventions-involving-artificial-intelligence-the-spirit-ai-extension | /resources/historical-cbd-otc | /resources/historical-clinical-manager-2023 | /resources/historical-drug-regulatory-pathways | /resources/historical-intended-use-validation | /resources/historical-internal-audits | /resources/historical-sterile-device-510k | /resources/hmc-hml-documented-partnership | /resources/hmc-questions-fda-town-halls-2022 | /resources/how-ai-is-used-in-fda-authorized-medical-devices-a-taxonomy-across-1-016-authorizations | /resources/how-medical-ai-devices-are-evaluated-limitations-and-recommendations-from-an-analysis-of-fda-approvals | /resources/ivdr-transition-and-eudamed-dates | /resources/lipid-nanocarriers-skin-delivery | /resources/marketing-and-us-food-and-drug-administration-clearance-of-artificial-intelligence-and-machine-learning-enabled-software-in-and-as-medical-devices-a-systematic-review | /resources/modelling-skin-and-transdermal-transport | /resources/nationwide-real-world-implementation-of-ai-for-cancer-detection-in-population-based-mammography-screening | /resources/next-generation-multitarget-stool-dna-test-for-colorectal-cancer-screening | /resources/nobel-science-ai-and-evidence | /resources/nonconcurrent-control-use-in-fda-approval-of-high-risk-medical-devices | /resources/performance-of-rapid-antigen-tests-to-detect-symptomatic-and-asymptomatic-sars-cov-2-infection-a-prospective-cohort-study | /resources/pivotal-trial-of-an-autonomous-ai-based-diagnostic-system-for-detection-of-diabetic-retinopathy-in-primary-care-offices | /resources/quadas-2-a-revised-tool-for-the-quality-assessment-of-diagnostic-accuracy-studies | /resources/reporting-guideline-for-the-early-stage-clinical-evaluation-of-decision-support-systems-driven-by-artificial-intelligence-decide-ai | /resources/reporting-guidelines-for-clinical-trial-reports-for-interventions-involving-artificial-intelligence-the-consort-ai-extension | /resources/skin-tone-labels-and-metrics | /resources/stard-2015-an-updated-list-of-essential-items-for-reporting-diagnostic-accuracy-studies | /resources/the-clinician-ai-interface-intended-use-and-explainability-in-fda-cleared-ai-devices-for-medical-image-interpretation | /resources/tripod-ai-statement-updated-guidance-for-reporting-clinical-prediction-models-that-use-regression-or-machine-learning-methods | /services | /services/biostatistics | /services/cgmp | /services/clinical-investigation | /services/clinical-operations | /services/clinical-study | /services/data-management | /services/disciplines/clinical | /services/disciplines/marketing | /services/disciplines/post-market | /services/disciplines/regulatory | /services/disciplines/technology | /services/eua-application | /services/facility-registration-listing | /services/fda-regulatory-consulting | /services/fda-us-agent | /services/food-dietary-supplements | /services/ivdr | /services/laboratory-services | /services/market-research | /services/marketing | /services/medical-device-510k | /services/otc-drug | /services/post-market-compliance | /services/post-market-surveillance | /services/preclinical-research | /services/product-development | /services/project-management | /services/projects | /services/quality-assurance | /services/quality-system | /services/regulatory-strategy | /services/regulatory-submission | /services/us-sales-office",
+      "publicCollection": "/archive/media#img-068",
+      "placement": "Business pages and archive"
+    },
+    {
+      "id": "img-069",
+      "sourceUrl": "http://www.hopkinsmedtech.com/images/time.png",
+      "title": "Original publication date icon",
+      "sha256": "dfc787e62a9d8fba9451cecc75068dec076321604e6561bfea161270f4cdfcb1",
+      "originalFile": "public/media/7d0724e1-time.png",
+      "displayFile": "public/media/7d0724e1-time.png",
+      "businessPages": "",
+      "publicCollection": "/archive/media#img-069",
+      "placement": "Original interface artwork / test placeholder archive"
+    },
+    {
+      "id": "img-070",
+      "sourceUrl": "http://www.hopkinsmedtech.com/images/eye.png",
+      "title": "Original article view icon",
+      "sha256": "bcb5aa488e0e6d52066ab3ca10a326cb3cb8b057d2d398a8cca13ee7f81b1449",
+      "originalFile": "public/media/6942a077-eye.png",
+      "displayFile": "public/media/6942a077-eye.png",
+      "businessPages": "",
+      "publicCollection": "/archive/media#img-070",
+      "placement": "Original interface artwork / test placeholder archive"
+    },
+    {
+      "id": "img-071",
+      "sourceUrl": "http://www.hopkinsmedtech.com/images/admin.png",
+      "title": "Original author icon",
+      "sha256": "e4557271aabcd38c8a8793fdc27ebbb8a532c9f00b6be73d874173df6178407a",
+      "originalFile": "public/media/be961cc5-admin.png",
+      "displayFile": "public/media/be961cc5-admin.png",
+      "businessPages": "",
+      "publicCollection": "/archive/media#img-071",
+      "placement": "Original interface artwork / test placeholder archive"
+    },
+    {
+      "id": "img-072",
+      "sourceUrl": "http://www.hopkinsmedtech.com/images/c_ico_add.png",
+      "title": "Original location icon",
+      "sha256": "c84e606d281e7e465198bd9320173bacfaa822bb0507e071a487a1474c79fc2d",
+      "originalFile": "public/media/fe5487be-c_ico_add.png",
+      "displayFile": "public/media/fe5487be-c_ico_add.png",
+      "businessPages": "",
+      "publicCollection": "/archive/media#img-072",
+      "placement": "Original interface artwork / test placeholder archive"
+    },
+    {
+      "id": "img-073",
+      "sourceUrl": "http://www.hopkinsmedtech.com/images/c_ico_tel.png",
+      "title": "Original telephone icon",
+      "sha256": "652bf8ac59a58093c71217919dedd713f6236571ed54dab79b67bbe29ed41f79",
+      "originalFile": "public/media/a958b11f-c_ico_tel.png",
+      "displayFile": "public/media/a958b11f-c_ico_tel.png",
+      "businessPages": "",
+      "publicCollection": "/archive/media#img-073",
+      "placement": "Original interface artwork / test placeholder archive"
+    },
+    {
+      "id": "img-074",
+      "sourceUrl": "http://www.hopkinsmedtech.com/images/c_ico_wechat.png",
+      "title": "Original WeChat icon",
+      "sha256": "80096a14b354f9cbdb0b348b6fa7b5a3bd6e2a7e78d91af1d2bf88a742061360",
+      "originalFile": "public/media/f3e5fc93-c_ico_wechat.png",
+      "displayFile": "public/media/f3e5fc93-c_ico_wechat.png",
+      "businessPages": "",
+      "publicCollection": "/archive/media#img-074",
+      "placement": "Original interface artwork / test placeholder archive"
+    },
+    {
+      "id": "img-075",
+      "sourceUrl": "http://www.hopkinsmedtech.com/images/c_ico_email.png",
+      "title": "Original email icon",
+      "sha256": "c461eca4b851415860110f380de6d00b95faa68abf4741f1d6a2c8384331f499",
+      "originalFile": "public/media/69323252-c_ico_email.png",
+      "displayFile": "public/media/69323252-c_ico_email.png",
+      "businessPages": "",
+      "publicCollection": "/archive/media#img-075",
+      "placement": "Original interface artwork / test placeholder archive"
+    },
+    {
+      "id": "img-076",
+      "sourceUrl": "http://www.hopkinsmedtech.com/images/c_ico_web.png",
+      "title": "Original website icon",
+      "sha256": "58da7fef60a72f976578618a4c82521dd6b52663b8a27ea547468c9721a41b49",
+      "originalFile": "public/media/3877d5d2-c_ico_web.png",
+      "displayFile": "public/media/3877d5d2-c_ico_web.png",
+      "businessPages": "",
+      "publicCollection": "/archive/media#img-076",
+      "placement": "Original interface artwork / test placeholder archive"
+    },
+    {
+      "id": "img-077",
+      "sourceUrl": "http://www.hopkinsmedtech.com/images/tel_icon.png",
+      "title": "Original phone graphic",
+      "sha256": "76721a80aa24a5d0e99c805412a9932ce385a6745c96d4bbc084de96aa859869",
+      "originalFile": "public/media/b2b39415-tel_icon.png",
+      "displayFile": "public/media/b2b39415-tel_icon.png",
+      "businessPages": "",
+      "publicCollection": "/archive/media#img-077",
+      "placement": "Original interface artwork / test placeholder archive"
+    },
+    {
+      "id": "img-078",
+      "sourceUrl": "http://www.hopkinsmedtech.com/images/pc-xc-icon2.png",
+      "title": "Original contact phone graphic",
+      "sha256": "ba8800c0dc43ce1707fd970362ad2d85a8eac32432a2422c23a3631b8c56cdbb",
+      "originalFile": "public/media/6217984d-pc-xc-icon2.png",
+      "displayFile": "public/media/6217984d-pc-xc-icon2.png",
+      "businessPages": "",
+      "publicCollection": "/archive/media#img-078",
+      "placement": "Original interface artwork / test placeholder archive"
+    },
+    {
+      "id": "img-079",
+      "sourceUrl": "http://www.hopkinsmedtech.com/images/updeta_home1.png",
+      "title": "Original home icon",
+      "sha256": "f67022a96b38ebc40fc0582576f1e79e8bc00d4b9ac505c65c8ebcbe0c9344cf",
+      "originalFile": "public/media/5d2ed25b-updeta_home1.png",
+      "displayFile": "public/media/5d2ed25b-updeta_home1.png",
+      "businessPages": "",
+      "publicCollection": "/archive/media#img-079",
+      "placement": "Original interface artwork / test placeholder archive"
+    },
+    {
+      "id": "img-080",
+      "sourceUrl": "http://www.hopkinsmedtech.com/images/about-cn3_19.png",
+      "title": "Original breadcrumb arrow",
+      "sha256": "045fba1ec45a9fde1296bd3aeab82eba6e1f8b38590841514ead6907d4278f8f",
+      "originalFile": "public/media/0b1d019e-about-cn3_19.png",
+      "displayFile": "public/media/0b1d019e-about-cn3_19.png",
+      "businessPages": "",
+      "publicCollection": "/archive/media#img-080",
+      "placement": "Original interface artwork / test placeholder archive"
+    },
+    {
+      "id": "img-081",
+      "sourceUrl": "http://www.hopkinsmedtech.com/images/update_search.png",
+      "title": "Original resource search icon",
+      "sha256": "6025b20d58efe7b16da4a7210cfdbf7967c234f433fc63f981984382d1d9b44c",
+      "originalFile": "public/media/fc09130c-update_search.png",
+      "displayFile": "public/media/fc09130c-update_search.png",
+      "businessPages": "",
+      "publicCollection": "/archive/media#img-081",
+      "placement": "Original interface artwork / test placeholder archive"
+    },
+    {
+      "id": "img-082",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/20220222152604.jpg",
+      "title": "Apple illustration from an original test record",
+      "sha256": "d671fb5e820b5dc6d81b0d05a0709dc77e15db099f19d92e58afab681f089fff",
+      "originalFile": "public/media/12953fbd64-20220222152604.jpg",
+      "displayFile": "public/media/12953fbd64-20220222152604.jpg",
+      "businessPages": "",
+      "publicCollection": "/archive/media#img-082",
+      "placement": "Original interface artwork / test placeholder archive"
+    },
+    {
+      "id": "img-083",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/default.jpg",
+      "title": "Original no-image placeholder",
+      "sha256": "dc93e844bb25512c8cdac74a05da14b733165ba17745d9cbf69f3614024e1a0f",
+      "originalFile": "public/media/18949e7628-default.jpg",
+      "displayFile": "public/media/18949e7628-default.jpg",
+      "businessPages": "",
+      "publicCollection": "/archive/media#img-083",
+      "placement": "Original interface artwork / test placeholder archive"
+    },
+    {
+      "id": "img-084",
+      "sourceUrl": "http://www.hopkinsmedtech.com/upload/img/20220218165456.jpg",
+      "title": "CRO for IVD and MedTech Innovations — original brand banner",
+      "sha256": "555c0bf5d0a4a0cdd3ec9dfff21111f4eb01fd3f993ab3c282efeecfe941c943",
+      "originalFile": "public/media/7fc710928c-20220218165456.jpg",
+      "displayFile": "public/media/7fc710928c-20220218165456.jpg",
+      "businessPages": "/",
+      "publicCollection": "/archive/media#img-084",
+      "placement": "Business pages and archive"
+    }
+  ],
+  "knownOriginalFailures": [
+    {
+      "sourceUrl": "http://www.hopkinsmedtech.com/images/202202231610531.png",
+      "status": 404,
+      "resolution": "The available /upload/ version is preserved."
+    },
+    {
+      "sourceUrl": "http://www.hopkinsmedtech.com/images/inbannerbg1.png",
+      "status": 404,
+      "resolution": "No recoverable original file was found; not counted among the 76 valid original images."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+﻿sourceId,text,assessment
+2ef220fb30,INDUSTRY FOCUS,栏目/标题改名或纠正拼写；对应内容页面存在
+2ef220fb30,Gene and Cell Therapies,栏目/标题改名或纠正拼写；对应内容页面存在
+2ef220fb30,Biostatics,栏目/标题改名或纠正拼写；对应内容页面存在
+2ef220fb30,Setup and Operation of US Based Sale Office,栏目/标题改名或纠正拼写；对应内容页面存在
+2ef220fb30,Ready to learn more about working with us?,联系 CTA 原句未使用，改为新文案
+2ef220fb30,SEE ALL RESOURCES,按钮改为 Explore resources；资源总览入口存在
+2ef220fb30,Headquarters,标签改为 New York office；原站地址仍保留，当前总部身份待核实
+2ef220fb30,"5 Penn Plaza, 19th Floor, New York, New York, 10001, United States of America","地址缩写：New York, NY 10001 / United States；实质地址未丢失"
+2ef220fb30,NEWSLETTER SIGNUP,标题改为 Stay connected to MedTech；订阅界面保留，接收后台未连接
+2ef220fb30,SUBSCRIBE,按钮改为箭头图标，aria-label=Subscribe；接收后台未连接
+HMC-03,REGULATORY AND COMPLIANCE HELP WORLDWIDE,原完整文案未在新站使用，已改写
+HMC-03,"Have questions about FDA compliance? Want help navigating the regulatory process in medical devices, biotechnology or pharmaceuticals? Or did you receive an FDA warning letter? Send us a note below.",原完整文案未在新站使用，已改写
+HMC-03,Your theme,字段改为 Subject（下拉）/Phone number；主题由自由文本改为分类选择
+HMC-03,Mobile,字段改为 Subject（下拉）/Phone number；主题由自由文本改为分类选择
+HMC-04,Find the latest content and resources from our team of experts to keep you in the know for all things quality and regulatory in the life science industry.,原完整文案未在新站使用，已改写
+HMC-04,sort by topic,旧资源分类/类型选项未沿用；详见 resource-filters.csv（不能据此假定存在未抓取文章）
+HMC-04,Cosmetics,旧资源分类/类型选项未沿用；详见 resource-filters.csv（不能据此假定存在未抓取文章）
+HMC-04,MDSAP,旧资源分类/类型选项未沿用；详见 resource-filters.csv（不能据此假定存在未抓取文章）
+HMC-04,Blogs,旧资源分类/类型选项未沿用；详见 resource-filters.csv（不能据此假定存在未抓取文章）
+HMC-04,Case Studies,旧资源分类/类型选项未沿用；详见 resource-filters.csv（不能据此假定存在未抓取文章）
+HMC-04,Body of Knowledge (BOK),旧资源分类/类型选项未沿用；详见 resource-filters.csv（不能据此假定存在未抓取文章）
+HMC-04,Join Us,栏目/标题改名或纠正拼写；对应内容页面存在
+HMC-05,Previous：5 Reasons Why Internal Auditing is Important,文章顺序导航未保留；对应文章本身已保留，PERIOD 是原站首尾占位符
+HMC-05,"Next：The FDA, CBD, and OTC Drugs",文章顺序导航未保留；对应文章本身已保留，PERIOD 是原站首尾占位符
+HMC-06,Previous：Intended Use Validation,文章顺序导航未保留；对应文章本身已保留，PERIOD 是原站首尾占位符
+HMC-06,Next：510k Submissions for Sterile Devices,文章顺序导航未保留；对应文章本身已保留，PERIOD 是原站首尾占位符
+HMC-07,"Previous：The FDA, CBD, and OTC Drugs",文章顺序导航未保留；对应文章本身已保留，PERIOD 是原站首尾占位符
+HMC-07,Next：Determining the Right Regulatory Pathway for your Drug,文章顺序导航未保留；对应文章本身已保留，PERIOD 是原站首尾占位符
+HMC-08,Previous：510k Submissions for Sterile Devices,文章顺序导航未保留；对应文章本身已保留，PERIOD 是原站首尾占位符
+HMC-08,Next：PERIOD,文章顺序导航未保留；对应文章本身已保留，PERIOD 是原站首尾占位符
+HMC-33,IVDs Lifecycle,标题改为 The product lifecycle；下属所有子栏目已保留
+HMC-34,Medical Device Lifecycle,标题改为 The product lifecycle；下属所有子栏目已保留
+HMC-35,Gene and Cell Therapies Lifecycle,标题改为 The product lifecycle；下属所有子栏目已保留
+HMC-36,Biopharma Lifecycle,标题改为 The product lifecycle；下属所有子栏目已保留
+HMC-37,Pharmaceutical Lifecycle,标题改为 The product lifecycle；下属所有子栏目已保留
+HMC-39,Previous：Join Us,文章顺序导航未保留；对应文章本身已保留，PERIOD 是原站首尾占位符
+HMC-39,Next：Intended Use Validation,文章顺序导航未保留；对应文章本身已保留，PERIOD 是原站首尾占位符
+HMC-40,Previous：PERIOD,文章顺序导航未保留；对应文章本身已保留，PERIOD 是原站首尾占位符
+HMC-40,Next：5 Reasons Why Internal Auditing is Important,文章顺序导航未保留；对应文章本身已保留，PERIOD 是原站首尾占位符

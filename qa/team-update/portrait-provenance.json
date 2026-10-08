@@ -1,0 +1,95 @@
+[
+  {
+    "slug": "daniel-reed",
+    "file": "public\\media\\team\\daniel-reed-generated.png",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "sha256": "cde4cf839a809b233d7c96fc9ce6b2886652bf7edfad167795e08f363a0f913a",
+    "source": "AI generated fictional person; approved by user",
+    "sourceFile": null,
+    "usedOn": [
+      "/about/team",
+      "/about/team/daniel-reed"
+    ]
+  },
+  {
+    "slug": "emma-whitmore",
+    "file": "public\\media\\team\\emma-whitmore-generated.png",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "sha256": "b326f0104018f1de1eda54e7ffcad78c89692cf11e2315673cb5288bcd30361b",
+    "source": "AI generated fictional person; approved by user",
+    "sourceFile": null,
+    "usedOn": [
+      "/about/team",
+      "/about/team/emma-whitmore",
+      "/"
+    ]
+  },
+  {
+    "slug": "homer-wu",
+    "file": "public\\media\\team\\homer-wu-supplied.png",
+    "dimensions": [
+      200,
+      200
+    ],
+    "sha256": "2291fb61af24f0de63cd0a73948e24f7fa5c39688b4f35605dc787ad6fb21220",
+    "source": "User supplied photograph",
+    "sourceFile": "C:/Users/WZ/AppData/Local/Temp/codex-clipboard-fef47365-02d4-43e8-b16a-2db64753aa88.png",
+    "usedOn": [
+      "/about/team",
+      "/about/team/homer-wu",
+      "/"
+    ]
+  },
+  {
+    "slug": "jeff-wu",
+    "file": "public\\media\\team\\jeff-wu-supplied.png",
+    "dimensions": [
+      254,
+      254
+    ],
+    "sha256": "de43dc2b420e38a3bce1d3456c230b0964f197378e99079d9c2c412d0b90e187",
+    "source": "User supplied photograph",
+    "sourceFile": "C:/Users/WZ/AppData/Local/Temp/codex-clipboard-7547242f-6f6b-4b63-ad35-0c16db906d21.png",
+    "usedOn": [
+      "/about/team",
+      "/about/team/jeff-wu",
+      "/"
+    ]
+  },
+  {
+    "slug": "marcus-bennett",
+    "file": "public\\media\\team\\marcus-bennett-generated.png",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "sha256": "29326b94e26417e8e5242011c86b4f3dda6ace6bae6b24becd59ea9032eee058",
+    "source": "AI generated fictional person; approved by user",
+    "sourceFile": null,
+    "usedOn": [
+      "/about/team",
+      "/about/team/marcus-bennett"
+    ]
+  },
+  {
+    "slug": "maya-brooks",
+    "file": "public\\media\\team\\maya-brooks-generated.png",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "sha256": "904f4af0f6c7130fee5dc69cb65ac8588f83a9fdea727241b9503a5ac0b958d1",
+    "source": "AI generated fictional person; approved by user",
+    "sourceFile": null,
+    "usedOn": [
+      "/about/team",
+      "/about/team/maya-brooks"
+    ]
+  }
+]

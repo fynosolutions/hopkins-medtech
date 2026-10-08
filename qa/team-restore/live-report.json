@@ -1,0 +1,181 @@
+{
+  "origin": "https://hopkins-medtech.vercel.app",
+  "layouts": [
+    {
+      "path": "/",
+      "width": 390,
+      "scrollWidth": 390,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "path": "/about/team",
+      "width": 390,
+      "scrollWidth": 390,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "path": "/about/team/homer-wu",
+      "width": 390,
+      "scrollWidth": 390,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "path": "/about/team/jennifer-stanford",
+      "width": 390,
+      "scrollWidth": 390,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "path": "/about/team/wendy-zhou",
+      "width": 390,
+      "scrollWidth": 390,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "path": "/about/team/andrew-wayland",
+      "width": 390,
+      "scrollWidth": 390,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "path": "/about/team/qian-cheng",
+      "width": 390,
+      "scrollWidth": 390,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "path": "/",
+      "width": 768,
+      "scrollWidth": 768,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "path": "/about/team",
+      "width": 768,
+      "scrollWidth": 768,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "path": "/about/team/homer-wu",
+      "width": 768,
+      "scrollWidth": 768,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "path": "/about/team/jennifer-stanford",
+      "width": 768,
+      "scrollWidth": 768,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "path": "/about/team/wendy-zhou",
+      "width": 768,
+      "scrollWidth": 768,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "path": "/about/team/andrew-wayland",
+      "width": 768,
+      "scrollWidth": 768,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "path": "/about/team/qian-cheng",
+      "width": 768,
+      "scrollWidth": 768,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "path": "/",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "path": "/about/team",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "path": "/about/team/homer-wu",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "path": "/about/team/jennifer-stanford",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "path": "/about/team/wendy-zhou",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "path": "/about/team/andrew-wayland",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "path": "/about/team/qian-cheng",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "h1": 1,
+      "broken": []
+    }
+  ],
+  "checks": [
+    "Five original members in the original order, with initials and no portraits or example labels",
+    "All five profile biographies and roles match the preserved original source",
+    "Jeff and all four fictional profile routes have been removed",
+    "Homepage, search and sitemap use the restored five-person team"
+  ],
+  "accessibility": [
+    {
+      "path": "/about/team",
+      "violations": []
+    },
+    {
+      "path": "/about/team/homer-wu",
+      "violations": []
+    },
+    {
+      "path": "/about/team/jennifer-stanford",
+      "violations": []
+    }
+  ],
+  "errors": [],
+  "nonReadRequests": [],
+  "summary": {
+    "layouts": 21,
+    "checks": 4,
+    "axePages": 3,
+    "errors": 0,
+    "nonReadRequests": 0
+  }
+}

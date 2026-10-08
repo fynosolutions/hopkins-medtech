@@ -1,0 +1,13 @@
+﻿kind,originalLabel,sameOptionInNewSite,originalRequest
+topic,CBD,False,http://www.hopkinsmedtech.com/News.aspx?ClassID=102&leixing=cbd
+topic,Combination Products,False,http://www.hopkinsmedtech.com/News.aspx?ClassID=102&leixing=combination%20products
+topic,Cosmetics,False,http://www.hopkinsmedtech.com/News.aspx?ClassID=102&leixing=cosmetics
+topic,COVID-19,False,http://www.hopkinsmedtech.com/News.aspx?ClassID=102&leixing=covid-19
+topic,Digital Health,True,http://www.hopkinsmedtech.com/News.aspx?ClassID=102&leixing=digital%20health
+topic,EU MDR,False,http://www.hopkinsmedtech.com/News.aspx?ClassID=102&leixing=eu%20mdr
+topic,Gene and Cell Therapies,False,http://www.hopkinsmedtech.com/News.aspx?ClassID=102&leixing=gene%20and%20cell%20therapie
+topic,MDSAP,False,http://www.hopkinsmedtech.com/News.aspx?ClassID=102&leixing=mdsap
+topic,Medical Devices,False,http://www.hopkinsmedtech.com/News.aspx?ClassID=102&leixing=medical%20devices
+type,Blogs,False,http://www.hopkinsmedtech.com/News.aspx?ClassID=102&leixing1=blogs
+type,Case Studies,False,http://www.hopkinsmedtech.com/News.aspx?ClassID=102&leixing1=case%20studies
+type,Body of Knowledge (BOK),False,http://www.hopkinsmedtech.com/News.aspx?ClassID=102&leixing1=body%20of%20knowledge%20%28bok%29

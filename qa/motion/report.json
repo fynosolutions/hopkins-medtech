@@ -1,0 +1,85 @@
+{
+  "origin": "http://127.0.0.1:3002",
+  "checks": [
+    {
+      "name": "Hero continues changing after the entrance has finished",
+      "passed": true
+    },
+    {
+      "name": "Pause motion stops decoration and persists across navigation",
+      "passed": true
+    },
+    {
+      "name": "Scroll scenes animate on entry and remain readable afterwards",
+      "passed": true
+    },
+    {
+      "name": "Navigation hides when scrolling down and returns upwards",
+      "passed": true
+    },
+    {
+      "name": "Testimonial auto-rotation, controls, pause and attribution work",
+      "passed": true
+    },
+    {
+      "name": "Resources slide to the next group and back",
+      "passed": true
+    },
+    {
+      "name": "Offscreen hero animation pauses; route navigation cleans up",
+      "passed": true
+    },
+    {
+      "name": "Homepage accessibility including motion and carousel controls",
+      "passed": true
+    },
+    {
+      "name": "System reduced motion disables animation and keeps every section visible",
+      "passed": true
+    },
+    {
+      "name": "The page remains readable with JavaScript disabled",
+      "passed": true
+    }
+  ],
+  "errors": [],
+  "viewports": [
+    {
+      "width": 360,
+      "scrollWidth": 360,
+      "brokenImages": [],
+      "h1": 1
+    },
+    {
+      "width": 390,
+      "scrollWidth": 390,
+      "brokenImages": [],
+      "h1": 1
+    },
+    {
+      "width": 768,
+      "scrollWidth": 768,
+      "brokenImages": [],
+      "h1": 1
+    },
+    {
+      "width": 1024,
+      "scrollWidth": 1024,
+      "brokenImages": [],
+      "h1": 1
+    },
+    {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "brokenImages": [],
+      "h1": 1
+    },
+    {
+      "width": 1920,
+      "scrollWidth": 1920,
+      "brokenImages": [],
+      "h1": 1
+    }
+  ],
+  "accessibility": []
+}

@@ -1,0 +1,1905 @@
+{
+  "base": "https://hopkins-medtech.vercel.app",
+  "checkedAt": "2026-10-08T12:43:11.203Z",
+  "pages": [
+    {
+      "route": "/contact",
+      "status": 200
+    },
+    {
+      "route": "/resources",
+      "status": 200
+    },
+    {
+      "route": "/services",
+      "status": 200
+    },
+    {
+      "route": "/about/team",
+      "status": 200
+    },
+    {
+      "route": "/industries/ivd",
+      "status": 200
+    },
+    {
+      "route": "/industries/medical-devices",
+      "status": 200
+    },
+    {
+      "route": "/industries/gene-cell-therapies",
+      "status": 200
+    },
+    {
+      "route": "/industries/biopharma",
+      "status": 200
+    },
+    {
+      "route": "/",
+      "status": 200
+    },
+    {
+      "route": "/industries/pharmaceuticals",
+      "status": 200
+    },
+    {
+      "route": "/about",
+      "status": 200
+    },
+    {
+      "route": "/services/us-sales-office",
+      "status": 200
+    },
+    {
+      "route": "/resources/historical-intended-use-validation",
+      "status": 200
+    },
+    {
+      "route": "/resources/historical-cbd-otc",
+      "status": 200
+    },
+    {
+      "route": "/resources/historical-sterile-device-510k",
+      "status": 200
+    },
+    {
+      "route": "/resources/historical-drug-regulatory-pathways",
+      "status": 200
+    },
+    {
+      "route": "/services/otc-drug",
+      "status": 200
+    },
+    {
+      "route": "/services/product-development",
+      "status": 200
+    },
+    {
+      "route": "/services/regulatory-strategy",
+      "status": 200
+    },
+    {
+      "route": "/services/clinical-study",
+      "status": 200
+    },
+    {
+      "route": "/services/regulatory-submission",
+      "status": 200
+    },
+    {
+      "route": "/services/post-market-surveillance",
+      "status": 200
+    },
+    {
+      "route": "/services/facility-registration-listing",
+      "status": 200
+    },
+    {
+      "route": "/services/fda-us-agent",
+      "status": 200
+    },
+    {
+      "route": "/services/food-dietary-supplements",
+      "status": 200
+    },
+    {
+      "route": "/services/cgmp",
+      "status": 200
+    },
+    {
+      "route": "/services/medical-device-510k",
+      "status": 200
+    },
+    {
+      "route": "/services/eua-application",
+      "status": 200
+    },
+    {
+      "route": "/services/marketing",
+      "status": 200
+    },
+    {
+      "route": "/services/project-management",
+      "status": 200
+    },
+    {
+      "route": "/services/clinical-operations",
+      "status": 200
+    },
+    {
+      "route": "/services/data-management",
+      "status": 200
+    },
+    {
+      "route": "/services/biostatistics",
+      "status": 200
+    },
+    {
+      "route": "/services/quality-assurance",
+      "status": 200
+    },
+    {
+      "route": "/services/fda-regulatory-consulting",
+      "status": 200
+    },
+    {
+      "route": "/services/market-research",
+      "status": 200
+    },
+    {
+      "route": "/services/post-market-compliance",
+      "status": 200
+    },
+    {
+      "route": "/resources/historical-internal-audits",
+      "status": 200
+    },
+    {
+      "route": "/industries",
+      "status": 200
+    },
+    {
+      "route": "/services/preclinical-research",
+      "status": 200
+    },
+    {
+      "route": "/services/clinical-investigation",
+      "status": 200
+    },
+    {
+      "route": "/services/quality-system",
+      "status": 200
+    }
+  ],
+  "images": [
+    {
+      "route": "/contact",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 119,
+      "renderHeight": 55,
+      "visible": true
+    },
+    {
+      "route": "/contact",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 135,
+      "renderHeight": 62.640625,
+      "visible": true
+    },
+    {
+      "route": "/resources",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 119,
+      "renderHeight": 55,
+      "visible": true
+    },
+    {
+      "route": "/resources",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 135,
+      "renderHeight": 62.640625,
+      "visible": true
+    },
+    {
+      "route": "/services",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 119,
+      "renderHeight": 55,
+      "visible": true
+    },
+    {
+      "route": "/services",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 135,
+      "renderHeight": 62.640625,
+      "visible": true
+    },
+    {
+      "route": "/about/team",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 119,
+      "renderHeight": 55,
+      "visible": true
+    },
+    {
+      "route": "/about/team",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 135,
+      "renderHeight": 62.640625,
+      "visible": true
+    },
+    {
+      "route": "/industries/ivd",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 119,
+      "renderHeight": 55,
+      "visible": true
+    },
+    {
+      "route": "/industries/ivd",
+      "src": "/media/0d78598a-20220224105150.webp",
+      "width": 1600,
+      "height": 550,
+      "renderWidth": 905,
+      "renderHeight": 230,
+      "visible": true
+    },
+    {
+      "route": "/industries/ivd",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 135,
+      "renderHeight": 62.640625,
+      "visible": true
+    },
+    {
+      "route": "/industries/medical-devices",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 119,
+      "renderHeight": 55,
+      "visible": true
+    },
+    {
+      "route": "/industries/medical-devices",
+      "src": "/media/a8787ccc-20220224105424.webp",
+      "width": 1600,
+      "height": 550,
+      "renderWidth": 905,
+      "renderHeight": 230,
+      "visible": true
+    },
+    {
+      "route": "/industries/medical-devices",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 135,
+      "renderHeight": 62.640625,
+      "visible": true
+    },
+    {
+      "route": "/industries/gene-cell-therapies",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 119,
+      "renderHeight": 55,
+      "visible": true
+    },
+    {
+      "route": "/industries/gene-cell-therapies",
+      "src": "/media/3be3089c-20220224105550.webp",
+      "width": 1600,
+      "height": 550,
+      "renderWidth": 905,
+      "renderHeight": 230,
+      "visible": true
+    },
+    {
+      "route": "/industries/gene-cell-therapies",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 135,
+      "renderHeight": 62.640625,
+      "visible": true
+    },
+    {
+      "route": "/industries/biopharma",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 119,
+      "renderHeight": 55,
+      "visible": true
+    },
+    {
+      "route": "/industries/biopharma",
+      "src": "/media/7acad3f5-20220224103944.webp",
+      "width": 1600,
+      "height": 550,
+      "renderWidth": 905,
+      "renderHeight": 230,
+      "visible": true
+    },
+    {
+      "route": "/industries/biopharma",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 135,
+      "renderHeight": 62.640625,
+      "visible": true
+    },
+    {
+      "route": "/",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 119,
+      "renderHeight": 55,
+      "visible": true
+    },
+    {
+      "route": "/",
+      "src": "/media/f6fadab7-20220224112734.webp",
+      "width": 1600,
+      "height": 550,
+      "renderWidth": 367.1875,
+      "renderHeight": 175,
+      "visible": true
+    },
+    {
+      "route": "/",
+      "src": "/media/0d78598a-20220224105150.webp",
+      "width": 1600,
+      "height": 550,
+      "renderWidth": 597.5,
+      "renderHeight": 360,
+      "visible": true
+    },
+    {
+      "route": "/",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 135,
+      "renderHeight": 62.640625,
+      "visible": true
+    },
+    {
+      "route": "/industries/pharmaceuticals",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 119,
+      "renderHeight": 55,
+      "visible": true
+    },
+    {
+      "route": "/industries/pharmaceuticals",
+      "src": "/media/bd48ce81-20220224105615.webp",
+      "width": 1600,
+      "height": 550,
+      "renderWidth": 905,
+      "renderHeight": 230,
+      "visible": true
+    },
+    {
+      "route": "/about",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 119,
+      "renderHeight": 55,
+      "visible": true
+    },
+    {
+      "route": "/about",
+      "src": "/media/a83049a4-20220224174612.webp",
+      "width": 1600,
+      "height": 550,
+      "renderWidth": 1280,
+      "renderHeight": 340,
+      "visible": true
+    },
+    {
+      "route": "/industries/pharmaceuticals",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 135,
+      "renderHeight": 62.640625,
+      "visible": true
+    },
+    {
+      "route": "/about",
+      "src": "/media/c9522dc4-20220325150109.png",
+      "width": 96,
+      "height": 132,
+      "renderWidth": 96,
+      "renderHeight": 132,
+      "visible": true
+    },
+    {
+      "route": "/about",
+      "src": "/media/e5ef6112-20220325150340.png",
+      "width": 96,
+      "height": 132,
+      "renderWidth": 96,
+      "renderHeight": 132,
+      "visible": true
+    },
+    {
+      "route": "/about",
+      "src": "/media/e06961ea-20220325150517.png",
+      "width": 96,
+      "height": 132,
+      "renderWidth": 96,
+      "renderHeight": 132,
+      "visible": true
+    },
+    {
+      "route": "/about",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 135,
+      "renderHeight": 62.640625,
+      "visible": true
+    },
+    {
+      "route": "/services/us-sales-office",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 119,
+      "renderHeight": 55,
+      "visible": true
+    },
+    {
+      "route": "/services/us-sales-office",
+      "src": "/media/17362bbc-20220224113027.webp",
+      "width": 1600,
+      "height": 550,
+      "renderWidth": 905,
+      "renderHeight": 230,
+      "visible": true
+    },
+    {
+      "route": "/services/us-sales-office",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 135,
+      "renderHeight": 62.640625,
+      "visible": true
+    },
+    {
+      "route": "/resources/historical-intended-use-validation",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 119,
+      "renderHeight": 55,
+      "visible": true
+    },
+    {
+      "route": "/resources/historical-intended-use-validation",
+      "src": "/media/a50bb3ad-6378132092524774754374526.webp",
+      "width": 554,
+      "height": 377,
+      "renderWidth": 554,
+      "renderHeight": 377,
+      "visible": true
+    },
+    {
+      "route": "/resources/historical-intended-use-validation",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 135,
+      "renderHeight": 62.640625,
+      "visible": true
+    },
+    {
+      "route": "/resources/historical-cbd-otc",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 119,
+      "renderHeight": 55,
+      "visible": true
+    },
+    {
+      "route": "/resources/historical-cbd-otc",
+      "src": "/media/2ecf86fb-6378132031357480724943499.webp",
+      "width": 554,
+      "height": 723,
+      "renderWidth": 306.5,
+      "renderHeight": 400,
+      "visible": true
+    },
+    {
+      "route": "/resources/historical-cbd-otc",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 135,
+      "renderHeight": 62.640625,
+      "visible": true
+    },
+    {
+      "route": "/resources/historical-sterile-device-510k",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 119,
+      "renderHeight": 55,
+      "visible": true
+    },
+    {
+      "route": "/resources/historical-sterile-device-510k",
+      "src": "/media/36a52f81-6378131989060500463230872.webp",
+      "width": 554,
+      "height": 377,
+      "renderWidth": 554,
+      "renderHeight": 377,
+      "visible": true
+    },
+    {
+      "route": "/resources/historical-sterile-device-510k",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 135,
+      "renderHeight": 62.640625,
+      "visible": true
+    },
+    {
+      "route": "/resources/historical-drug-regulatory-pathways",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 119,
+      "renderHeight": 55,
+      "visible": true
+    },
+    {
+      "route": "/resources/historical-drug-regulatory-pathways",
+      "src": "/media/7666da81-6378132371855646508169408.webp",
+      "width": 554,
+      "height": 377,
+      "renderWidth": 554,
+      "renderHeight": 377,
+      "visible": true
+    },
+    {
+      "route": "/resources/historical-drug-regulatory-pathways",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 135,
+      "renderHeight": 62.640625,
+      "visible": true
+    },
+    {
+      "route": "/services/otc-drug",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 119,
+      "renderHeight": 55,
+      "visible": true
+    },
+    {
+      "route": "/services/otc-drug",
+      "src": "/media/82929112-20220224112941.webp",
+      "width": 1600,
+      "height": 550,
+      "renderWidth": 905,
+      "renderHeight": 230,
+      "visible": true
+    },
+    {
+      "route": "/services/otc-drug",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 135,
+      "renderHeight": 62.640625,
+      "visible": true
+    },
+    {
+      "route": "/services/product-development",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 119,
+      "renderHeight": 55,
+      "visible": true
+    },
+    {
+      "route": "/services/product-development",
+      "src": "/media/7213ee87-20220302152324.webp",
+      "width": 1600,
+      "height": 550,
+      "renderWidth": 905,
+      "renderHeight": 230,
+      "visible": true
+    },
+    {
+      "route": "/services/product-development",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 135,
+      "renderHeight": 62.640625,
+      "visible": true
+    },
+    {
+      "route": "/services/regulatory-strategy",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 119,
+      "renderHeight": 55,
+      "visible": true
+    },
+    {
+      "route": "/services/regulatory-strategy",
+      "src": "/media/89138083-20220302152342.webp",
+      "width": 1600,
+      "height": 550,
+      "renderWidth": 905,
+      "renderHeight": 230,
+      "visible": true
+    },
+    {
+      "route": "/services/regulatory-strategy",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 135,
+      "renderHeight": 62.640625,
+      "visible": true
+    },
+    {
+      "route": "/services/clinical-study",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 119,
+      "renderHeight": 55,
+      "visible": true
+    },
+    {
+      "route": "/services/clinical-study",
+      "src": "/media/54e10fd2-20220224112925.webp",
+      "width": 1600,
+      "height": 550,
+      "renderWidth": 905,
+      "renderHeight": 230,
+      "visible": true
+    },
+    {
+      "route": "/services/clinical-study",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 135,
+      "renderHeight": 62.640625,
+      "visible": true
+    },
+    {
+      "route": "/services/regulatory-submission",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 119,
+      "renderHeight": 55,
+      "visible": true
+    },
+    {
+      "route": "/services/regulatory-submission",
+      "src": "/media/b73432fc-20220302152633.webp",
+      "width": 1600,
+      "height": 550,
+      "renderWidth": 905,
+      "renderHeight": 230,
+      "visible": true
+    },
+    {
+      "route": "/services/regulatory-submission",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 135,
+      "renderHeight": 62.640625,
+      "visible": true
+    },
+    {
+      "route": "/services/post-market-surveillance",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 119,
+      "renderHeight": 55,
+      "visible": true
+    },
+    {
+      "route": "/services/post-market-surveillance",
+      "src": "/media/002d20b6-20220302152656.webp",
+      "width": 1600,
+      "height": 550,
+      "renderWidth": 905,
+      "renderHeight": 230,
+      "visible": true
+    },
+    {
+      "route": "/services/post-market-surveillance",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 135,
+      "renderHeight": 62.640625,
+      "visible": true
+    },
+    {
+      "route": "/services/facility-registration-listing",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 119,
+      "renderHeight": 55,
+      "visible": true
+    },
+    {
+      "route": "/services/facility-registration-listing",
+      "src": "/media/4b44fb6d-20220224112959.webp",
+      "width": 1600,
+      "height": 550,
+      "renderWidth": 905,
+      "renderHeight": 230,
+      "visible": true
+    },
+    {
+      "route": "/services/facility-registration-listing",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 135,
+      "renderHeight": 62.640625,
+      "visible": true
+    },
+    {
+      "route": "/services/fda-us-agent",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 119,
+      "renderHeight": 55,
+      "visible": true
+    },
+    {
+      "route": "/services/fda-us-agent",
+      "src": "/media/cf7d728d-20220224104609.webp",
+      "width": 1600,
+      "height": 550,
+      "renderWidth": 905,
+      "renderHeight": 230,
+      "visible": true
+    },
+    {
+      "route": "/services/fda-us-agent",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 135,
+      "renderHeight": 62.640625,
+      "visible": true
+    },
+    {
+      "route": "/services/food-dietary-supplements",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 119,
+      "renderHeight": 55,
+      "visible": true
+    },
+    {
+      "route": "/services/food-dietary-supplements",
+      "src": "/media/7647f80f-20220224104650.webp",
+      "width": 1600,
+      "height": 550,
+      "renderWidth": 905,
+      "renderHeight": 230,
+      "visible": true
+    },
+    {
+      "route": "/services/food-dietary-supplements",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 135,
+      "renderHeight": 62.640625,
+      "visible": true
+    },
+    {
+      "route": "/services/cgmp",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 119,
+      "renderHeight": 55,
+      "visible": true
+    },
+    {
+      "route": "/services/cgmp",
+      "src": "/media/b35b6e39-20220224104239.webp",
+      "width": 1600,
+      "height": 550,
+      "renderWidth": 905,
+      "renderHeight": 230,
+      "visible": true
+    },
+    {
+      "route": "/services/cgmp",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 135,
+      "renderHeight": 62.640625,
+      "visible": true
+    },
+    {
+      "route": "/services/medical-device-510k",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 119,
+      "renderHeight": 55,
+      "visible": true
+    },
+    {
+      "route": "/services/medical-device-510k",
+      "src": "/media/6bb2b09d-20220224112908.webp",
+      "width": 1600,
+      "height": 550,
+      "renderWidth": 905,
+      "renderHeight": 230,
+      "visible": true
+    },
+    {
+      "route": "/services/medical-device-510k",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 135,
+      "renderHeight": 62.640625,
+      "visible": true
+    },
+    {
+      "route": "/services/eua-application",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 119,
+      "renderHeight": 55,
+      "visible": true
+    },
+    {
+      "route": "/services/eua-application",
+      "src": "/media/ba95a04a-20220224104539.webp",
+      "width": 1600,
+      "height": 550,
+      "renderWidth": 905,
+      "renderHeight": 230,
+      "visible": true
+    },
+    {
+      "route": "/services/eua-application",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 135,
+      "renderHeight": 62.640625,
+      "visible": true
+    },
+    {
+      "route": "/services/marketing",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 119,
+      "renderHeight": 55,
+      "visible": true
+    },
+    {
+      "route": "/services/marketing",
+      "src": "/media/42ce03f4-20220224113014.webp",
+      "width": 1600,
+      "height": 550,
+      "renderWidth": 905,
+      "renderHeight": 230,
+      "visible": true
+    },
+    {
+      "route": "/services/marketing",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 135,
+      "renderHeight": 62.640625,
+      "visible": true
+    },
+    {
+      "route": "/services/project-management",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 119,
+      "renderHeight": 55,
+      "visible": true
+    },
+    {
+      "route": "/services/project-management",
+      "src": "/media/b82a431f-20220224112638.webp",
+      "width": 1600,
+      "height": 550,
+      "renderWidth": 905,
+      "renderHeight": 230,
+      "visible": true
+    },
+    {
+      "route": "/services/project-management",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 135,
+      "renderHeight": 62.640625,
+      "visible": true
+    },
+    {
+      "route": "/services/clinical-operations",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 119,
+      "renderHeight": 55,
+      "visible": true
+    },
+    {
+      "route": "/services/clinical-operations",
+      "src": "/media/667f614a-20220224104220.webp",
+      "width": 1600,
+      "height": 550,
+      "renderWidth": 905,
+      "renderHeight": 230,
+      "visible": true
+    },
+    {
+      "route": "/services/clinical-operations",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 135,
+      "renderHeight": 62.640625,
+      "visible": true
+    },
+    {
+      "route": "/services/data-management",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 119,
+      "renderHeight": 55,
+      "visible": true
+    },
+    {
+      "route": "/services/data-management",
+      "src": "/media/19b64de0-20220224113106.webp",
+      "width": 1600,
+      "height": 550,
+      "renderWidth": 905,
+      "renderHeight": 230,
+      "visible": true
+    },
+    {
+      "route": "/services/data-management",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 135,
+      "renderHeight": 62.640625,
+      "visible": true
+    },
+    {
+      "route": "/services/biostatistics",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 119,
+      "renderHeight": 55,
+      "visible": true
+    },
+    {
+      "route": "/services/biostatistics",
+      "src": "/media/8642e28f-20220224103918.webp",
+      "width": 1600,
+      "height": 550,
+      "renderWidth": 905,
+      "renderHeight": 230,
+      "visible": true
+    },
+    {
+      "route": "/services/biostatistics",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 135,
+      "renderHeight": 62.640625,
+      "visible": true
+    },
+    {
+      "route": "/services/quality-assurance",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 119,
+      "renderHeight": 55,
+      "visible": true
+    },
+    {
+      "route": "/services/quality-assurance",
+      "src": "/media/b758202e-20220224112655.webp",
+      "width": 1600,
+      "height": 550,
+      "renderWidth": 905,
+      "renderHeight": 230,
+      "visible": true
+    },
+    {
+      "route": "/services/quality-assurance",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 135,
+      "renderHeight": 62.640625,
+      "visible": true
+    },
+    {
+      "route": "/services/fda-regulatory-consulting",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 119,
+      "renderHeight": 55,
+      "visible": true
+    },
+    {
+      "route": "/services/fda-regulatory-consulting",
+      "src": "/media/ce3dea35-20220224104625.webp",
+      "width": 1600,
+      "height": 550,
+      "renderWidth": 905,
+      "renderHeight": 230,
+      "visible": true
+    },
+    {
+      "route": "/services/fda-regulatory-consulting",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 135,
+      "renderHeight": 62.640625,
+      "visible": true
+    },
+    {
+      "route": "/services/market-research",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 119,
+      "renderHeight": 55,
+      "visible": true
+    },
+    {
+      "route": "/services/market-research",
+      "src": "/media/6390b9f6-20220224112816.webp",
+      "width": 1600,
+      "height": 550,
+      "renderWidth": 905,
+      "renderHeight": 230,
+      "visible": true
+    },
+    {
+      "route": "/services/market-research",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 135,
+      "renderHeight": 62.640625,
+      "visible": true
+    },
+    {
+      "route": "/services/post-market-compliance",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 119,
+      "renderHeight": 55,
+      "visible": true
+    },
+    {
+      "route": "/services/post-market-compliance",
+      "src": "/media/df24506e-20220224112832.webp",
+      "width": 1600,
+      "height": 550,
+      "renderWidth": 905,
+      "renderHeight": 230,
+      "visible": true
+    },
+    {
+      "route": "/services/post-market-compliance",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 135,
+      "renderHeight": 62.640625,
+      "visible": true
+    },
+    {
+      "route": "/resources/historical-internal-audits",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 119,
+      "renderHeight": 55,
+      "visible": true
+    },
+    {
+      "route": "/resources/historical-internal-audits",
+      "src": "/media/71471dd8-6378131992601118773146939.webp",
+      "width": 552,
+      "height": 434,
+      "renderWidth": 508.75,
+      "renderHeight": 400,
+      "visible": true
+    },
+    {
+      "route": "/resources/historical-internal-audits",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 135,
+      "renderHeight": 62.640625,
+      "visible": true
+    },
+    {
+      "route": "/industries",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 119,
+      "renderHeight": 55,
+      "visible": true
+    },
+    {
+      "route": "/industries",
+      "src": "/media/0d78598a-20220224105150.webp",
+      "width": 1600,
+      "height": 550,
+      "renderWidth": 622.5,
+      "renderHeight": 210,
+      "visible": true
+    },
+    {
+      "route": "/industries",
+      "src": "/media/a8787ccc-20220224105424.webp",
+      "width": 1600,
+      "height": 550,
+      "renderWidth": 622.5,
+      "renderHeight": 210,
+      "visible": true
+    },
+    {
+      "route": "/industries",
+      "src": "/media/3be3089c-20220224105550.webp",
+      "width": 1600,
+      "height": 550,
+      "renderWidth": 622.5,
+      "renderHeight": 210,
+      "visible": true
+    },
+    {
+      "route": "/industries",
+      "src": "/media/7acad3f5-20220224103944.webp",
+      "width": 1600,
+      "height": 550,
+      "renderWidth": 622.5,
+      "renderHeight": 210,
+      "visible": true
+    },
+    {
+      "route": "/industries",
+      "src": "/media/bd48ce81-20220224105615.webp",
+      "width": 1600,
+      "height": 550,
+      "renderWidth": 622.5,
+      "renderHeight": 210,
+      "visible": true
+    },
+    {
+      "route": "/industries",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 135,
+      "renderHeight": 62.640625,
+      "visible": true
+    },
+    {
+      "route": "/services/preclinical-research",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 119,
+      "renderHeight": 55,
+      "visible": true
+    },
+    {
+      "route": "/services/preclinical-research",
+      "src": "/media/cc0d3cbb-20220302152756.webp",
+      "width": 1600,
+      "height": 550,
+      "renderWidth": 905,
+      "renderHeight": 230,
+      "visible": true
+    },
+    {
+      "route": "/services/preclinical-research",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 135,
+      "renderHeight": 62.640625,
+      "visible": true
+    },
+    {
+      "route": "/services/clinical-investigation",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 119,
+      "renderHeight": 55,
+      "visible": true
+    },
+    {
+      "route": "/services/clinical-investigation",
+      "src": "/media/a9ec1879-20220302152717.webp",
+      "width": 1600,
+      "height": 550,
+      "renderWidth": 905,
+      "renderHeight": 230,
+      "visible": true
+    },
+    {
+      "route": "/services/clinical-investigation",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 135,
+      "renderHeight": 62.640625,
+      "visible": true
+    },
+    {
+      "route": "/services/quality-system",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 119,
+      "renderHeight": 55,
+      "visible": true
+    },
+    {
+      "route": "/services/quality-system",
+      "src": "/media/9e03c40d-20220302152734.webp",
+      "width": 1600,
+      "height": 550,
+      "renderWidth": 905,
+      "renderHeight": 230,
+      "visible": true
+    },
+    {
+      "route": "/services/quality-system",
+      "src": "/media/2d264def-20220223150835.png",
+      "width": 556,
+      "height": 258,
+      "renderWidth": 135,
+      "renderHeight": 62.640625,
+      "visible": true
+    }
+  ],
+  "industryAccordions": [
+    {
+      "route": "/industries/ivd",
+      "title": "Product development",
+      "bodyVisible": true,
+      "links": [
+        "/services/product-development"
+      ]
+    },
+    {
+      "route": "/industries/ivd",
+      "title": "Regulatory strategy",
+      "bodyVisible": true,
+      "links": [
+        "/services/regulatory-strategy"
+      ]
+    },
+    {
+      "route": "/industries/ivd",
+      "title": "Clinical investigation",
+      "bodyVisible": true,
+      "links": [
+        "/services/clinical-investigation"
+      ]
+    },
+    {
+      "route": "/industries/ivd",
+      "title": "Submit",
+      "bodyVisible": true,
+      "links": [
+        "/services/regulatory-submission"
+      ]
+    },
+    {
+      "route": "/industries/ivd",
+      "title": "Developing and ensuring the quality system",
+      "bodyVisible": true,
+      "links": [
+        "/services/quality-system"
+      ]
+    },
+    {
+      "route": "/industries/ivd",
+      "title": "Post-market surveillance",
+      "bodyVisible": true,
+      "links": [
+        "/services/post-market-surveillance"
+      ]
+    },
+    {
+      "route": "/industries/medical-devices",
+      "title": "Product Development",
+      "bodyVisible": true,
+      "links": [
+        "/services/product-development"
+      ]
+    },
+    {
+      "route": "/industries/medical-devices",
+      "title": "Regulatory strategy",
+      "bodyVisible": true,
+      "links": [
+        "/services/regulatory-strategy"
+      ]
+    },
+    {
+      "route": "/industries/medical-devices",
+      "title": "Clinical investigation",
+      "bodyVisible": true,
+      "links": [
+        "/services/clinical-investigation"
+      ]
+    },
+    {
+      "route": "/industries/medical-devices",
+      "title": "Submit",
+      "bodyVisible": true,
+      "links": [
+        "/services/regulatory-submission"
+      ]
+    },
+    {
+      "route": "/industries/medical-devices",
+      "title": "Developing and ensuring the quality system",
+      "bodyVisible": true,
+      "links": [
+        "/services/quality-system"
+      ]
+    },
+    {
+      "route": "/industries/medical-devices",
+      "title": "Post-market surveillance",
+      "bodyVisible": true,
+      "links": [
+        "/services/post-market-surveillance"
+      ]
+    },
+    {
+      "route": "/industries/gene-cell-therapies",
+      "title": "Product development",
+      "bodyVisible": true,
+      "links": [
+        "/services/product-development"
+      ]
+    },
+    {
+      "route": "/industries/gene-cell-therapies",
+      "title": "Preclinical Research",
+      "bodyVisible": true,
+      "links": [
+        "/services/preclinical-research"
+      ]
+    },
+    {
+      "route": "/industries/gene-cell-therapies",
+      "title": "Regulatory strategy",
+      "bodyVisible": true,
+      "links": [
+        "/services/regulatory-strategy"
+      ]
+    },
+    {
+      "route": "/industries/gene-cell-therapies",
+      "title": "Pre-IND",
+      "bodyVisible": true,
+      "links": [
+        "/services/regulatory-submission"
+      ]
+    },
+    {
+      "route": "/industries/gene-cell-therapies",
+      "title": "Clinical investigation",
+      "bodyVisible": true,
+      "links": [
+        "/services/clinical-investigation"
+      ]
+    },
+    {
+      "route": "/industries/gene-cell-therapies",
+      "title": "Submit",
+      "bodyVisible": true,
+      "links": [
+        "/services/regulatory-submission"
+      ]
+    },
+    {
+      "route": "/industries/gene-cell-therapies",
+      "title": "Developing and ensuring the quality system",
+      "bodyVisible": true,
+      "links": [
+        "/services/quality-system"
+      ]
+    },
+    {
+      "route": "/industries/gene-cell-therapies",
+      "title": "Post-market surveillance",
+      "bodyVisible": true,
+      "links": [
+        "/services/post-market-surveillance"
+      ]
+    },
+    {
+      "route": "/industries/biopharma",
+      "title": "Product development",
+      "bodyVisible": true,
+      "links": [
+        "/services/product-development"
+      ]
+    },
+    {
+      "route": "/industries/biopharma",
+      "title": "Preclinical Research",
+      "bodyVisible": true,
+      "links": [
+        "http://www.hopkinsmedtech.com/submissions.aspx?ClassID=66#"
+      ]
+    },
+    {
+      "route": "/industries/biopharma",
+      "title": "Regulatory strategy",
+      "bodyVisible": true,
+      "links": [
+        "/services/regulatory-strategy"
+      ]
+    },
+    {
+      "route": "/industries/biopharma",
+      "title": "Pre-IND",
+      "bodyVisible": true,
+      "links": [
+        "/services/regulatory-submission"
+      ]
+    },
+    {
+      "route": "/industries/biopharma",
+      "title": "Clinical investigation",
+      "bodyVisible": true,
+      "links": [
+        "/services/clinical-investigation"
+      ]
+    },
+    {
+      "route": "/industries/biopharma",
+      "title": "Submit",
+      "bodyVisible": true,
+      "links": [
+        "/services/regulatory-submission"
+      ]
+    },
+    {
+      "route": "/industries/biopharma",
+      "title": "Developing and ensuring the quality system",
+      "bodyVisible": true,
+      "links": [
+        "/services/quality-system"
+      ]
+    },
+    {
+      "route": "/industries/biopharma",
+      "title": "Post-market surveillance",
+      "bodyVisible": true,
+      "links": [
+        "/services/post-market-surveillance"
+      ]
+    },
+    {
+      "route": "/industries/pharmaceuticals",
+      "title": "Drug development",
+      "bodyVisible": true,
+      "links": [
+        "/services/product-development"
+      ]
+    },
+    {
+      "route": "/industries/pharmaceuticals",
+      "title": "Preclinical Research",
+      "bodyVisible": true,
+      "links": [
+        "http://www.hopkinsmedtech.com/submissions.aspx?ClassID=67#"
+      ]
+    },
+    {
+      "route": "/industries/pharmaceuticals",
+      "title": "Regulatory strategy",
+      "bodyVisible": true,
+      "links": [
+        "/services/regulatory-strategy"
+      ]
+    },
+    {
+      "route": "/industries/pharmaceuticals",
+      "title": "IND - Application for new drug registration before investigation",
+      "bodyVisible": true,
+      "links": [
+        "/services/regulatory-submission"
+      ]
+    },
+    {
+      "route": "/industries/pharmaceuticals",
+      "title": "Clinical investigation",
+      "bodyVisible": true,
+      "links": [
+        "/services/clinical-investigation"
+      ]
+    },
+    {
+      "route": "/industries/pharmaceuticals",
+      "title": "Quality system development",
+      "bodyVisible": true,
+      "links": [
+        "/services/quality-system"
+      ]
+    },
+    {
+      "route": "/industries/pharmaceuticals",
+      "title": "Maintain the quality management system",
+      "bodyVisible": true,
+      "links": []
+    },
+    {
+      "route": "/industries/pharmaceuticals",
+      "title": "Pharmacovigilance",
+      "bodyVisible": true,
+      "links": []
+    }
+  ],
+  "resourceArchive": {
+    "titles": [
+      "Intended Use Validation",
+      "The FDA, CBD, and OTC Drugs",
+      "510k Submissions for Sterile Devices",
+      "Determining the Right Regulatory Pathway for your Drug",
+      "5 Reasons Why Internal Auditing is Important",
+      "Clinical Manager — historical vacancy (2023)"
+    ],
+    "count": 6,
+    "links": [
+      "/resources/historical-intended-use-validation",
+      "/resources/historical-cbd-otc",
+      "/resources/historical-sterile-device-510k",
+      "/resources/historical-drug-regulatory-pathways",
+      "/resources/historical-internal-audits",
+      "/resources/historical-clinical-manager-2023"
+    ],
+    "topicOptions": [
+      "All topics",
+      "Company",
+      "Science",
+      "FDA and Regulatory",
+      "IVD",
+      "Clinical Evidence",
+      "Quality",
+      "Digital Health"
+    ]
+  },
+  "contactFields": [
+    {
+      "name": "subject",
+      "tag": "SELECT",
+      "type": "select-one"
+    },
+    {
+      "name": "name",
+      "tag": "INPUT",
+      "type": "text"
+    },
+    {
+      "name": "email",
+      "tag": "INPUT",
+      "type": "email"
+    },
+    {
+      "name": "phone",
+      "tag": "INPUT",
+      "type": "tel"
+    },
+    {
+      "name": "message",
+      "tag": "TEXTAREA",
+      "type": "textarea"
+    }
+  ],
+  "errors": [],
+  "sourceImages": [
+    {
+      "id": "IMG-001",
+      "src": "http://www.hopkinsmedtech.com/upload/img/20220223150835.png",
+      "confirmed": true
+    },
+    {
+      "id": "IMG-013",
+      "src": "http://www.hopkinsmedtech.com/upload/20220325150109.png",
+      "confirmed": true
+    },
+    {
+      "id": "IMG-014",
+      "src": "http://www.hopkinsmedtech.com/upload/20220325150340.png",
+      "confirmed": true
+    },
+    {
+      "id": "IMG-015",
+      "src": "http://www.hopkinsmedtech.com/upload/20220325150517.png",
+      "confirmed": true
+    },
+    {
+      "id": "IMG-022",
+      "src": "http://www.hopkinsmedtech.com/upload/img/20220224113027.png",
+      "confirmed": true
+    },
+    {
+      "id": "IMG-030",
+      "src": "http://www.hopkinsmedtech.com/upload/image/20220224/6378132092524774754374526.png",
+      "confirmed": true
+    },
+    {
+      "id": "IMG-031",
+      "src": "http://www.hopkinsmedtech.com/upload/image/20220224/6378132031357480724943499.png",
+      "confirmed": true
+    },
+    {
+      "id": "IMG-032",
+      "src": "http://www.hopkinsmedtech.com/upload/image/20220224/6378131989060500463230872.png",
+      "confirmed": true
+    },
+    {
+      "id": "IMG-033",
+      "src": "http://www.hopkinsmedtech.com/upload/image/20220224/6378132371855646508169408.png",
+      "confirmed": true
+    },
+    {
+      "id": "IMG-034",
+      "src": "http://www.hopkinsmedtech.com/upload/img/20220224174612.png",
+      "confirmed": true
+    },
+    {
+      "id": "IMG-035",
+      "src": "http://www.hopkinsmedtech.com/upload/img/20220224112925.png",
+      "confirmed": true
+    },
+    {
+      "id": "IMG-036",
+      "src": "http://www.hopkinsmedtech.com/upload/img/20220224112941.png",
+      "confirmed": true
+    },
+    {
+      "id": "IMG-037",
+      "src": "http://www.hopkinsmedtech.com/upload/img/20220302152324.png",
+      "confirmed": true
+    },
+    {
+      "id": "IMG-038",
+      "src": "http://www.hopkinsmedtech.com/upload/img/20220302152342.png",
+      "confirmed": true
+    },
+    {
+      "id": "IMG-039",
+      "src": "http://www.hopkinsmedtech.com/upload/img/20220302152633.png",
+      "confirmed": true
+    },
+    {
+      "id": "IMG-040",
+      "src": "http://www.hopkinsmedtech.com/upload/img/20220302152656.png",
+      "confirmed": true
+    },
+    {
+      "id": "IMG-041",
+      "src": "http://www.hopkinsmedtech.com/upload/img/20220224112959.png",
+      "confirmed": true
+    },
+    {
+      "id": "IMG-042",
+      "src": "http://www.hopkinsmedtech.com/upload/img/20220224104609.png",
+      "confirmed": true
+    },
+    {
+      "id": "IMG-043",
+      "src": "http://www.hopkinsmedtech.com/upload/img/20220224104650.png",
+      "confirmed": true
+    },
+    {
+      "id": "IMG-044",
+      "src": "http://www.hopkinsmedtech.com/upload/img/20220224104239.png",
+      "confirmed": true
+    },
+    {
+      "id": "IMG-045",
+      "src": "http://www.hopkinsmedtech.com/upload/img/20220224112908.png",
+      "confirmed": true
+    },
+    {
+      "id": "IMG-046",
+      "src": "http://www.hopkinsmedtech.com/upload/img/20220224104539.png",
+      "confirmed": true
+    },
+    {
+      "id": "IMG-047",
+      "src": "http://www.hopkinsmedtech.com/upload/img/20220224113014.png",
+      "confirmed": true
+    },
+    {
+      "id": "IMG-048",
+      "src": "http://www.hopkinsmedtech.com/upload/img/20220224112638.png",
+      "confirmed": true
+    },
+    {
+      "id": "IMG-049",
+      "src": "http://www.hopkinsmedtech.com/upload/img/20220224104220.png",
+      "confirmed": true
+    },
+    {
+      "id": "IMG-050",
+      "src": "http://www.hopkinsmedtech.com/upload/img/20220224113106.png",
+      "confirmed": true
+    },
+    {
+      "id": "IMG-051",
+      "src": "http://www.hopkinsmedtech.com/upload/img/20220224103918.png",
+      "confirmed": true
+    },
+    {
+      "id": "IMG-052",
+      "src": "http://www.hopkinsmedtech.com/upload/img/20220224112655.png",
+      "confirmed": true
+    },
+    {
+      "id": "IMG-053",
+      "src": "http://www.hopkinsmedtech.com/upload/img/20220224104625.png",
+      "confirmed": true
+    },
+    {
+      "id": "IMG-054",
+      "src": "http://www.hopkinsmedtech.com/upload/img/20220224112734.png",
+      "confirmed": true
+    },
+    {
+      "id": "IMG-055",
+      "src": "http://www.hopkinsmedtech.com/upload/img/20220224112816.png",
+      "confirmed": true
+    },
+    {
+      "id": "IMG-056",
+      "src": "http://www.hopkinsmedtech.com/upload/img/20220224112832.png",
+      "confirmed": true
+    },
+    {
+      "id": "IMG-057",
+      "src": "http://www.hopkinsmedtech.com/upload/img/20220224105150.png",
+      "confirmed": true
+    },
+    {
+      "id": "IMG-058",
+      "src": "http://www.hopkinsmedtech.com/upload/img/20220224105424.png",
+      "confirmed": true
+    },
+    {
+      "id": "IMG-059",
+      "src": "http://www.hopkinsmedtech.com/upload/img/20220224105550.png",
+      "confirmed": true
+    },
+    {
+      "id": "IMG-060",
+      "src": "http://www.hopkinsmedtech.com/upload/img/20220224103944.png",
+      "confirmed": true
+    },
+    {
+      "id": "IMG-061",
+      "src": "http://www.hopkinsmedtech.com/upload/img/20220224105615.png",
+      "confirmed": true
+    },
+    {
+      "id": "IMG-063",
+      "src": "http://www.hopkinsmedtech.com/upload/image/20220224/6378131992601118773146939.png",
+      "confirmed": true
+    },
+    {
+      "id": "IMG-064",
+      "src": "http://www.hopkinsmedtech.com/upload/img/20220302152756.png",
+      "confirmed": true
+    },
+    {
+      "id": "IMG-065",
+      "src": "http://www.hopkinsmedtech.com/upload/img/20220302152717.png",
+      "confirmed": true
+    },
+    {
+      "id": "IMG-066",
+      "src": "http://www.hopkinsmedtech.com/upload/img/20220302152734.png",
+      "confirmed": true
+    }
+  ],
+  "summary": {
+    "pages": 42,
+    "imagesConfirmed": 41,
+    "expectedImages": 41,
+    "industryPanels": 36,
+    "industryPanelsVisible": 36,
+    "historicalResources": 6,
+    "errors": 0
+  }
+}

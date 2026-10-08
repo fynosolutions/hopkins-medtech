@@ -1,0 +1,14 @@
+{
+  "project": "hopkins-medtech",
+  "scope": "wei34",
+  "url": "https://hopkins-medtech.vercel.app",
+  "deploymentId": "dpl_ExWskmEg9oSYZpRCnUG9E374fax4",
+  "deploymentUrl": "https://hopkins-medtech-736rjfp2z-wei34.vercel.app",
+  "dashboard": "https://vercel.com/wei34/hopkins-medtech",
+  "status": "READY",
+  "indexable": false,
+  "productionDomainChanged": false,
+  "previousVerifiedDeploymentId": "dpl_4LpMfUn5fW88YzV6DKuYgkPEMapE",
+  "revision": "Supplied Jeff and Homer photographs plus four explicitly fictional example profiles",
+  "verification": "qa/team-update/report.md"
+}

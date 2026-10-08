@@ -1,0 +1,237 @@
+[
+  {
+    "id": "HMC-01",
+    "sourceUrl": "http://www.hopkinsmedtech.com/",
+    "targetRoute": "/"
+  },
+  {
+    "id": "HMC-02",
+    "sourceUrl": "http://www.hopkinsmedtech.com/About.aspx?ClassID=81",
+    "targetRoute": "/services/us-sales-office"
+  },
+  {
+    "id": "HMC-03",
+    "sourceUrl": "http://www.hopkinsmedtech.com/Contact.aspx?ClassID=82",
+    "targetRoute": "/contact"
+  },
+  {
+    "id": "HMC-04",
+    "sourceUrl": "http://www.hopkinsmedtech.com/News.aspx?ClassID=102",
+    "targetRoute": "/resources"
+  },
+  {
+    "id": "HMC-05",
+    "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=124",
+    "targetRoute": "/resources/historical-intended-use-validation"
+  },
+  {
+    "id": "HMC-06",
+    "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=126",
+    "targetRoute": "/resources/historical-cbd-otc"
+  },
+  {
+    "id": "HMC-07",
+    "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=127",
+    "targetRoute": "/resources/historical-sterile-device-510k"
+  },
+  {
+    "id": "HMC-08",
+    "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=128",
+    "targetRoute": "/resources/historical-drug-regulatory-pathways"
+  },
+  {
+    "id": "HMC-09",
+    "sourceUrl": "http://www.hopkinsmedtech.com/default.aspx",
+    "targetRoute": "/"
+  },
+  {
+    "id": "HMC-10",
+    "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=20",
+    "targetRoute": "/about"
+  },
+  {
+    "id": "HMC-11",
+    "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=56",
+    "targetRoute": "/services/clinical-study"
+  },
+  {
+    "id": "HMC-12",
+    "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=57",
+    "targetRoute": "/services/otc-drug"
+  },
+  {
+    "id": "HMC-13",
+    "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=60",
+    "targetRoute": "/services/product-development"
+  },
+  {
+    "id": "HMC-14",
+    "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=61",
+    "targetRoute": "/services/regulatory-strategy"
+  },
+  {
+    "id": "HMC-15",
+    "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=62",
+    "targetRoute": "/services/regulatory-submission"
+  },
+  {
+    "id": "HMC-16",
+    "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=63",
+    "targetRoute": "/services/post-market-surveillance"
+  },
+  {
+    "id": "HMC-17",
+    "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=72",
+    "targetRoute": "/services/facility-registration-listing"
+  },
+  {
+    "id": "HMC-18",
+    "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=73",
+    "targetRoute": "/services/fda-us-agent"
+  },
+  {
+    "id": "HMC-19",
+    "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=74",
+    "targetRoute": "/services/food-dietary-supplements"
+  },
+  {
+    "id": "HMC-20",
+    "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=75",
+    "targetRoute": "/services/cgmp"
+  },
+  {
+    "id": "HMC-21",
+    "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=78",
+    "targetRoute": "/services/medical-device-510k"
+  },
+  {
+    "id": "HMC-22",
+    "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=79",
+    "targetRoute": "/services/eua-application"
+  },
+  {
+    "id": "HMC-23",
+    "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=80",
+    "targetRoute": "/services/marketing"
+  },
+  {
+    "id": "HMC-24",
+    "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=85",
+    "targetRoute": "/services/project-management"
+  },
+  {
+    "id": "HMC-25",
+    "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=86",
+    "targetRoute": "/services/clinical-operations"
+  },
+  {
+    "id": "HMC-26",
+    "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=87",
+    "targetRoute": "/services/data-management"
+  },
+  {
+    "id": "HMC-27",
+    "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=88",
+    "targetRoute": "/services/biostatistics"
+  },
+  {
+    "id": "HMC-28",
+    "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=89",
+    "targetRoute": "/services/quality-assurance"
+  },
+  {
+    "id": "HMC-29",
+    "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=92",
+    "targetRoute": "/services/fda-regulatory-consulting"
+  },
+  {
+    "id": "HMC-30",
+    "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=93",
+    "targetRoute": "/services/ivdr"
+  },
+  {
+    "id": "HMC-31",
+    "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=94",
+    "targetRoute": "/services/market-research"
+  },
+  {
+    "id": "HMC-32",
+    "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=95",
+    "targetRoute": "/services/post-market-compliance"
+  },
+  {
+    "id": "HMC-33",
+    "sourceUrl": "http://www.hopkinsmedtech.com/submissions.aspx?ClassID=3",
+    "targetRoute": "/industries/ivd"
+  },
+  {
+    "id": "HMC-34",
+    "sourceUrl": "http://www.hopkinsmedtech.com/submissions.aspx?ClassID=64",
+    "targetRoute": "/industries/medical-devices"
+  },
+  {
+    "id": "HMC-35",
+    "sourceUrl": "http://www.hopkinsmedtech.com/submissions.aspx?ClassID=65",
+    "targetRoute": "/industries/gene-cell-therapies"
+  },
+  {
+    "id": "HMC-36",
+    "sourceUrl": "http://www.hopkinsmedtech.com/submissions.aspx?ClassID=66",
+    "targetRoute": "/industries/biopharma"
+  },
+  {
+    "id": "HMC-37",
+    "sourceUrl": "http://www.hopkinsmedtech.com/submissions.aspx?ClassID=67",
+    "targetRoute": "/industries/pharmaceuticals"
+  },
+  {
+    "id": "HMC-38",
+    "sourceUrl": "http://www.hopkinsmedtech.com/submissions.aspx?ClassID=77",
+    "targetRoute": "/about/team"
+  },
+  {
+    "id": "HMC-39",
+    "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=119",
+    "targetRoute": "/resources/historical-internal-audits"
+  },
+  {
+    "id": "HMC-40",
+    "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=139",
+    "targetRoute": "/resources/historical-clinical-manager-2023"
+  },
+  {
+    "id": "HMC-41",
+    "sourceUrl": "http://www.hopkinsmedtech.com/development.aspx?ClassID=100",
+    "targetRoute": "/services/preclinical-research"
+  },
+  {
+    "id": "HMC-42",
+    "sourceUrl": "http://www.hopkinsmedtech.com/development.aspx?ClassID=60",
+    "targetRoute": "/services/product-development"
+  },
+  {
+    "id": "HMC-43",
+    "sourceUrl": "http://www.hopkinsmedtech.com/development.aspx?ClassID=61",
+    "targetRoute": "/services/regulatory-strategy"
+  },
+  {
+    "id": "HMC-44",
+    "sourceUrl": "http://www.hopkinsmedtech.com/development.aspx?ClassID=62",
+    "targetRoute": "/services/regulatory-submission"
+  },
+  {
+    "id": "HMC-45",
+    "sourceUrl": "http://www.hopkinsmedtech.com/development.aspx?ClassID=63",
+    "targetRoute": "/services/post-market-surveillance"
+  },
+  {
+    "id": "HMC-46",
+    "sourceUrl": "http://www.hopkinsmedtech.com/development.aspx?ClassID=98",
+    "targetRoute": "/services/clinical-investigation"
+  },
+  {
+    "id": "HMC-47",
+    "sourceUrl": "http://www.hopkinsmedtech.com/development.aspx?ClassID=99",
+    "targetRoute": "/services/quality-system"
+  }
+]

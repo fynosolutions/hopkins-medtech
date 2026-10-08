@@ -1,0 +1,4 @@
+.team-card .team-card-portrait.has-team-photo,.profile-hero .team-card-portrait.has-team-photo{background:#123f38}
+.team-card-portrait.has-team-photo>img{width:100%;height:100%;object-fit:contain;position:relative;z-index:1}
+.team-avatar{overflow:hidden;flex-shrink:0}
+.team-avatar>img{width:100%;height:100%;object-fit:cover}

@@ -1,0 +1,14 @@
+{
+  "project": "hopkins-medtech",
+  "scope": "wei34",
+  "url": "https://hopkins-medtech.vercel.app",
+  "deploymentId": "dpl_9tomzhFkGzDPVtxprLG6VmuUmnCq",
+  "deploymentUrl": "https://hopkins-medtech-qwfw9spzh-wei34.vercel.app",
+  "dashboard": "https://vercel.com/wei34/hopkins-medtech",
+  "status": "READY",
+  "indexable": false,
+  "productionDomainChanged": false,
+  "previousVerifiedDeploymentId": "dpl_ExWskmEg9oSYZpRCnUG9E374fax4",
+  "revision": "Restore the five original HMC team members; portraits awaiting user upload",
+  "verification": "qa/team-restore/report.md"
+}

@@ -1,0 +1,11 @@
+{
+  "origin": "https://hopkins-medtech.vercel.app",
+  "errors": [],
+  "checks": [
+    "Production hero animation is running",
+    "Production pause and play controls work",
+    "Production testimonials change",
+    "Production resources slide",
+    "Production mobile layout has no horizontal overflow"
+  ]
+}
