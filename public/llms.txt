@@ -19,8 +19,8 @@
 Availability and individual placement arrangements are confirmed through the education partner and project lead.
 
 ## Sources and records
-- [Company updates](https://hopkins-medtech.vercel.app/resources)
-- [Documented partnerships](https://hopkins-medtech.vercel.app/resources)
-- [Public records and historical articles](https://hopkins-medtech.vercel.app/resources)
+- [Company updates](https://hopkins-medtech.vercel.app/resources#company-updates)
+- [Documented partnerships](https://hopkins-medtech.vercel.app/resources#documented-partnerships)
+- [Public records and historical articles](https://hopkins-medtech.vercel.app/resources#public-record)
 
 HMC and HML are distinct entities. Partner accreditations are not HMC credentials. Dated historical records should be read in their original context.
