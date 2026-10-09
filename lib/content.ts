@@ -23,3 +23,10 @@ export function searchRecords(){return [
  ...site.jobs.map(x=>({title:x.title,href:'/careers/'+x.slug,type:'Career',text:x.sections.map(y=>y.paragraphs.join(' ')).join(' '),excerpt:x.excerpt})),
  ...resources.map(x=>({title:x.title,href:'/resources/'+x.slug,type:'Resource',text:plain(x.html),excerpt:x.excerpt}))
 ];}
+
+export const homeServices = [
+ {name:'Clinical performance studies',label:'Clinical study services',description:'HMC supports clinical performance studies for medical devices and in vitro diagnostics (IVD).',href:'/services/clinical-study',icon:'activity'},
+ {name:'FDA and EU submissions',label:'Regulatory submission support',description:'HMC supports clients preparing FDA 510(k), EUA and European IVDR submissions.',href:'/services/regulatory-submission',icon:'shield'},
+ {name:'Quality and compliance systems',label:'Quality system services',description:'HMC supports quality system documentation and compliance work for medical technology companies.',href:'/services/quality-system',icon:'microscope'},
+ {name:'Laboratory support through partners',label:'Laboratory service arrangements',description:'Laboratory support is coordinated through associated businesses and partners, with the provider and scope confirmed for each engagement.',href:'/services/laboratory-services',icon:'flask'},
+];

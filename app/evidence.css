@@ -1,6 +1,40 @@
-.careers-faq > section {padding:24px 0;border-bottom:1px solid #cedbd4;}
-.careers-faq p {max-width:850px;margin-block:16px;}
-.careers-faq a,.article-source-meta a {text-decoration:underline;}
-.article-source-meta {margin-block:16px 28px;overflow-wrap:anywhere;}
+.internship-overview { padding-block: 36px 60px; }
+.internship-overview > p { max-width: 850px; margin-block: 20px 28px; }
+.fact-table { width: 100%; border-collapse: collapse; text-align: left; line-height: 1.6; }
+.fact-table caption { text-align: left; font-weight: 600; margin-bottom: 16px; }
+.fact-table th, .fact-table td { padding: 18px 22px; border-bottom: 1px solid #cedbd4; vertical-align: top; overflow-wrap: anywhere; }
+.fact-table thead { background: #123f38; color: white; }
+.fact-table tbody th { width: 28%; background: #f0f5f1; font-weight: 600; }
+.evidence-sections { padding-block: 24px 64px; }
+.evidence-sections > section { margin-block: 56px; scroll-margin-top: 120px; }
+.evidence-sections > section > p { max-width: 900px; margin-block: 20px 28px; }
+.evidence-list { list-style: none; padding: 0; margin: 0; }
+.evidence-list > li { display: grid; grid-template-columns: 120px minmax(0,1fr); gap: 24px; padding: 22px 0; border-bottom: 1px solid #cedbd4; }
+.evidence-list h3, .evidence-list h4, .evidence-cards h3 { font-size: 22px; line-height: 1.4; margin: 0 0 10px; }
+.evidence-list p { margin-block: 8px 12px; }
+.evidence-sections a { text-decoration: underline; text-underline-offset: 4px; }
+.evidence-sections time { font-size: 14px; font-variant-numeric: tabular-nums; }
+.evidence-cards { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 24px; }
+.evidence-cards article { padding: 28px; background: #f0f5f1; border: 1px solid #cedbd4; }
+.evidence-cards p { margin-block: 20px; }
+.evidence-subheading { margin-top: 40px; }
+@media(max-width:650px) {
+  .fact-table th, .fact-table td { padding: 14px 12px; }
+  .fact-table tbody th { width: 34%; }
+  .evidence-list > li { grid-template-columns: 1fr; gap: 8px; }
+  .evidence-cards { grid-template-columns: 1fr; }
+}
 
-.page-facts{margin:28px 0 40px}.fact-table{width:100%;border-collapse:collapse;text-align:left}.fact-table th,.fact-table td{padding:18px 16px;border-bottom:1px solid #cedbd4;vertical-align:top;overflow-wrap:anywhere}.fact-table thead{background:#123f38;color:white}.fact-table tbody th{width:28%;background:#f0f5f1}.article-source-meta{margin-block:16px 28px;overflow-wrap:anywhere}
+.service-grid.home-service-grid { grid-template-columns: repeat(4,minmax(0,1fr)); }
+.service-grid.home-service-grid .service-card { grid-column: auto; }
+@media(max-width:1100px) { .service-grid.home-service-grid { grid-template-columns: repeat(2,minmax(0,1fr)); } }
+@media(max-width:650px) { .service-grid.home-service-grid { grid-template-columns: 1fr; } }
+
+
+.page-facts { margin: 28px 0 40px; }
+.page-facts h2 { margin-bottom: 20px; }
+.careers-faq > section { padding: 24px 0; border-bottom: 1px solid #cedbd4; }
+.careers-faq p { max-width: 850px; margin-block: 16px; }
+.article-source-meta { margin-block: 16px 28px; overflow-wrap: anywhere; }
+.article-source-meta p { margin-top: 10px; }
+.article-source-meta a, .careers-faq a { text-decoration: underline; }
