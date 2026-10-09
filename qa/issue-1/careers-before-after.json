@@ -1,0 +1,66 @@
+[
+  {
+    "id": "JD-HMT-A01",
+    "path": "/careers/clinical-research-intern",
+    "beforeTitle": "Clinical Research Intern, Clinical Operations & Site Coordination",
+    "afterTitle": "Clinical Research Internship",
+    "beforeDescription": "Study documentation, site coordination, enrollment and visit tracking, and trial master file organization for device and IVD studies",
+    "afterDescription": "Educational partner referral: clinical research internship at HMC, a medical device and IVD CRO with a New York office. Confirm availability with your partner."
+  },
+  {
+    "id": "JD-HMT-A02",
+    "path": "/careers/regulatory-affairs-intern",
+    "beforeTitle": "Regulatory Affairs Intern, FDA and EU Submission Support",
+    "afterTitle": "Regulatory Affairs Internship",
+    "beforeDescription": "Regulatory pathway research, predicate and comparison analysis, submission document assembly, and labeling review support for FDA and European filings",
+    "afterDescription": "Educational partner referral: regulatory affairs internship at HMC, a medical device and IVD CRO with a New York office. Confirm availability with your partner."
+  },
+  {
+    "id": "JD-HMT-A03",
+    "path": "/careers/clinical-data-biostatistics-intern",
+    "beforeTitle": "Clinical Data & Biostatistics Intern, Data Review and Study Quality",
+    "afterTitle": "Clinical Data & Biostatistics Internship",
+    "beforeDescription": "Study data review, query tracking, descriptive and diagnostic performance analysis, and reproducible reporting for performance studies",
+    "afterDescription": "Educational partner referral: clinical data & biostatistics internship at HMC, a medical device and IVD CRO with a New York office. Confirm availability with your partner."
+  },
+  {
+    "id": "JD-HMT-A04",
+    "path": "/careers/quality-assurance-intern",
+    "beforeTitle": "Quality Assurance Intern, Quality Systems & Post-Market Compliance",
+    "afterTitle": "Quality Assurance Internship",
+    "beforeDescription": "Standard operating procedure support, document control, audit preparation, and post-market surveillance research within a medical device quality system",
+    "afterDescription": "Educational partner referral: quality assurance internship at HMC, a medical device and IVD CRO with a New York office. Confirm availability with your partner."
+  },
+  {
+    "id": "JD-HMT-B01",
+    "path": "/careers/ai-computer-vision-intern",
+    "beforeTitle": "AI & Computer Vision Intern, Facial and Skin Image Analysis",
+    "afterTitle": "AI & Computer Vision Internship",
+    "beforeDescription": "Image preprocessing, face region detection and segmentation, visual feature analysis, and technical feasibility testing for an early-stage skin analysis initiat",
+    "afterDescription": "Educational partner referral: ai & computer vision internship at HMC, a medical device and IVD CRO with a New York office. Confirm availability with your partner."
+  },
+  {
+    "id": "JD-HMT-B02",
+    "path": "/careers/data-science-intern",
+    "beforeTitle": "Data Science Intern, Dataset Curation & Model Evaluation",
+    "afterTitle": "Data Science Internship",
+    "beforeDescription": "Dataset survey and curation, annotation schema design, evaluation framework construction, and bias and reliability analysis for health- related AI research",
+    "afterDescription": "Educational partner referral: data science internship at HMC, a medical device and IVD CRO with a New York office. Confirm availability with your partner."
+  },
+  {
+    "id": "JD-HMT-B03",
+    "path": "/careers/digital-health-product-intern",
+    "beforeTitle": "Digital Health Product Intern, User Research & Prototyping",
+    "afterTitle": "Digital Health Product Internship",
+    "beforeDescription": "User needs research, competitive product review, report and interface prototyping, and privacy-aware experience design for an early-stage digital health concept",
+    "afterDescription": "Educational partner referral: digital health product internship at HMC, a medical device and IVD CRO with a New York office. Confirm availability with your partner."
+  },
+  {
+    "id": "JD-HMT-B04",
+    "path": "/careers/healthcare-market-research-intern",
+    "beforeTitle": "Healthcare Market Research Intern, Digital Health Commercialization",
+    "afterTitle": "Healthcare Market Research Internship",
+    "beforeDescription": "Market sizing, competitive and channel landscape research, pricing and business model analysis, and commercialization pathway assessment for a digital health co",
+    "afterDescription": "Educational partner referral: healthcare market research internship at HMC, a medical device and IVD CRO with a New York office. Confirm availability with your partner."
+  }
+]

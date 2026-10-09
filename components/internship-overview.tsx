@@ -10,7 +10,7 @@ export function InternshipOverview() {
         ['Weekly cadence', 'Meetings follow a set weekly cadence; each deliverable receives written feedback.'],
         ['Written agreement', 'Each internship is covered by a written agreement with Hopkins MedTech Group LLC.'],
         ['Completion certificate', 'Interns who complete the program receive a certificate of completion on company letterhead.'],
-        ['Recommendation letter', 'A letter of recommendation is available on completion.'],
+        ['Reference letter', 'A letter of recommendation is available on completion.'],
         ['Data and AI use', 'Use only authorized data and project-lead-approved AI tools. Never upload confidential or patient-related information to public or unapproved AI tools. Verify AI-assisted work before delivery.'],
       ].map(([label, description]) => <tr key={label}><th scope="row">{label}</th><td>{description}</td></tr>)}</tbody>
     </table>

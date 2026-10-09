@@ -1,0 +1,14 @@
+{
+  "pages": 246,
+  "schemaOccurrences": {
+    "Organization": 245,
+    "Person": 10,
+    "Article": 44,
+    "Service": 27
+  },
+  "issues": [],
+  "excludedInternalDocuments": [
+    "_global-error.html (Next.js internal error shell, not a content route)"
+  ],
+  "pagesChecked": 245
+}

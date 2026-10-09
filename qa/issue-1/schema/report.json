@@ -1,7 +1,7 @@
 {
   "validator": "https://validator.schema.org/",
   "inputMode": "code",
-  "uniquePayloads": 45,
+  "uniquePayloads": 78,
   "results": [
     {
       "sha256": "a375dea4d62395a7a7b15f428086aebdd62b9c2cb19ac5e1a97be864367f2dbc",
@@ -259,17 +259,6 @@
       "warnings": 0
     },
     {
-      "sha256": "e8bb31eed2260b1b4cfcca62c21f562eed9a64bf00d7c930f5e46267cb5cd93a",
-      "types": [
-        "Article"
-      ],
-      "pages": [
-        "resources/a-cell-free-dna-blood-based-test-for-colorectal-cancer-screening.html"
-      ],
-      "errors": 0,
-      "warnings": 0
-    },
-    {
       "sha256": "3451e5ec85fc5b09b534fdf5acc10856bf2e6717e312d574f9904559a1dc0544",
       "types": [
         "Article"
@@ -292,50 +281,6 @@
       "warnings": 0
     },
     {
-      "sha256": "be7bf70b3476c0b7f8636c3d636d3fa0c6e0eb2a4ea4aa2e48fa48d6b1d9deca",
-      "types": [
-        "Article"
-      ],
-      "pages": [
-        "resources/blood-based-tests-for-multicancer-early-detection-pathfinder-a-prospective-cohort-study.html"
-      ],
-      "errors": 0,
-      "warnings": 0
-    },
-    {
-      "sha256": "2e93785011706234102b17fac48444377c9347c2ddc87e48975d0c506d77311d",
-      "types": [
-        "Article"
-      ],
-      "pages": [
-        "resources/characteristics-of-clinical-studies-conducted-over-the-total-product-life-cycle-of-high-risk-therapeutic-medical-devices-receiving-fda-premarket-approval-in-2010-and-2011.html"
-      ],
-      "errors": 0,
-      "warnings": 0
-    },
-    {
-      "sha256": "fa0f5492a84324949574a6d8e15d52759a7574a858c75adbde26b1a0d3d0f974",
-      "types": [
-        "Article"
-      ],
-      "pages": [
-        "resources/characteristics-of-clinical-studies-used-for-us-food-and-drug-administration-approval-of-high-risk-medical-device-supplements.html"
-      ],
-      "errors": 0,
-      "warnings": 0
-    },
-    {
-      "sha256": "e532bb606ba2f267beea497d2c32948abe5bd1956ff5d06efb122cd13130f891",
-      "types": [
-        "Article"
-      ],
-      "pages": [
-        "resources/checklist-for-artificial-intelligence-in-medical-imaging-claim-a-guide-for-authors-and-reviewers.html"
-      ],
-      "errors": 0,
-      "warnings": 0
-    },
-    {
       "sha256": "763d8791b4ed9abb7014a9f167c3c92eac033e111ae2054a711b2f04740c7eff",
       "types": [
         "Article"
@@ -347,100 +292,12 @@
       "warnings": 0
     },
     {
-      "sha256": "28c5313a049ab71af2803e4826b55e600d8410b982085a6eb3678f7211e91605",
-      "types": [
-        "Article"
-      ],
-      "pages": [
-        "resources/dermatologist-level-classification-of-skin-cancer-with-deep-neural-networks.html"
-      ],
-      "errors": 0,
-      "warnings": 0
-    },
-    {
-      "sha256": "e01d9244e06edf407f1c9b676186e5ab06b0beaf7a3ae1d5490666c09af283c5",
-      "types": [
-        "Article"
-      ],
-      "pages": [
-        "resources/design-and-implementation-of-a-digital-site-less-clinical-study-of-serial-rapid-antigen-testing-to-identify-asymptomatic-sars-cov-2-infection.html"
-      ],
-      "errors": 0,
-      "warnings": 0
-    },
-    {
-      "sha256": "5292fe88de6ee4f43643a2e01e572e8dbfdb32872a0e5a462c61bd47cbf4a7ee",
-      "types": [
-        "Article"
-      ],
-      "pages": [
-        "resources/detection-and-localization-of-surgically-resectable-cancers-with-a-multi-analyte-blood-test.html"
-      ],
-      "errors": 0,
-      "warnings": 0
-    },
-    {
-      "sha256": "62e3bacd651a9eb0f9617511a747750103ec3f803eefc05791177e2161d1d479",
-      "types": [
-        "Article"
-      ],
-      "pages": [
-        "resources/diagnostic-accuracy-of-covid-19-rapid-antigen-tests-with-unsupervised-self-sampling-in-people-with-symptoms-in-the-omicron-period-cross-sectional-study.html"
-      ],
-      "errors": 0,
-      "warnings": 0
-    },
-    {
-      "sha256": "951aca2e959e1bc316d7a6bd0e9d557846a7b69700673d5ef7ce726d6bf68b95",
-      "types": [
-        "Article"
-      ],
-      "pages": [
-        "resources/diagnostic-accuracy-of-rapid-antigen-tests-in-asymptomatic-and-presymptomatic-close-contacts-of-individuals-with-confirmed-sars-cov-2-infection-cross-sectional-study.html"
-      ],
-      "errors": 0,
-      "warnings": 0
-    },
-    {
-      "sha256": "d4b8630d5067e5c022a13541561a17d03a40e1f0d1904aeec8ee84f0cef3b3a1",
-      "types": [
-        "Article"
-      ],
-      "pages": [
-        "resources/disparities-in-dermatology-ai-performance-on-a-diverse-curated-clinical-image-set.html"
-      ],
-      "errors": 0,
-      "warnings": 0
-    },
-    {
-      "sha256": "300dee24dbf13b97e2608945c2abd467152ffe03be36f79da0b21273ea5f4f1c",
-      "types": [
-        "Article"
-      ],
-      "pages": [
-        "resources/evaluating-transparency-in-ai-ml-model-characteristics-for-fda-reviewed-medical-devices.html"
-      ],
-      "errors": 0,
-      "warnings": 0
-    },
-    {
       "sha256": "3f9763c30fb647c48c3f0f04b6df6f481be4d1892e7284ded71e8a83bcff0c90",
       "types": [
         "Article"
       ],
       "pages": [
         "resources/fda-melanoma-device-reclassification-2026.html"
-      ],
-      "errors": 0,
-      "warnings": 0
-    },
-    {
-      "sha256": "806143b06901f50ec2d872550629628e02c36029a110a2ca25df8577bee02221",
-      "types": [
-        "Article"
-      ],
-      "pages": [
-        "resources/guidelines-for-clinical-trial-protocols-for-interventions-involving-artificial-intelligence-the-spirit-ai-extension.html"
       ],
       "errors": 0,
       "warnings": 0
@@ -534,28 +391,6 @@
       "warnings": 0
     },
     {
-      "sha256": "47d7fd03c705db4e224fccab8f98dfebc44c63089d3822bf989be4e75044acbd",
-      "types": [
-        "Article"
-      ],
-      "pages": [
-        "resources/how-ai-is-used-in-fda-authorized-medical-devices-a-taxonomy-across-1-016-authorizations.html"
-      ],
-      "errors": 0,
-      "warnings": 0
-    },
-    {
-      "sha256": "d0c0df47dc7e039353c4a0dac8e99c7908f8e3e97e171bdfd492202440c43550",
-      "types": [
-        "Article"
-      ],
-      "pages": [
-        "resources/how-medical-ai-devices-are-evaluated-limitations-and-recommendations-from-an-analysis-of-fda-approvals.html"
-      ],
-      "errors": 0,
-      "warnings": 0
-    },
-    {
       "sha256": "5d6e28a8b145f5a6c36aefc65e828395c204df72ddca081a436076038216d29e",
       "types": [
         "Article"
@@ -578,45 +413,12 @@
       "warnings": 0
     },
     {
-      "sha256": "eee96d6e5ca1f91756fdce0b4ec36cb2756c3baf2b301605112df72dd25c82d9",
-      "types": [
-        "Article"
-      ],
-      "pages": [
-        "resources/marketing-and-us-food-and-drug-administration-clearance-of-artificial-intelligence-and-machine-learning-enabled-software-in-and-as-medical-devices-a-systematic-review.html"
-      ],
-      "errors": 0,
-      "warnings": 0
-    },
-    {
       "sha256": "00a5fa39b387a8773ae724a493a7b462eefaa02bb47472eee6bbc7473bfb82d6",
       "types": [
         "Article"
       ],
       "pages": [
         "resources/modelling-skin-and-transdermal-transport.html"
-      ],
-      "errors": 0,
-      "warnings": 0
-    },
-    {
-      "sha256": "f3fb905928e04d95234ce067a32023d3bbdf7ef4a65879176ea243d4e06de901",
-      "types": [
-        "Article"
-      ],
-      "pages": [
-        "resources/nationwide-real-world-implementation-of-ai-for-cancer-detection-in-population-based-mammography-screening.html"
-      ],
-      "errors": 0,
-      "warnings": 0
-    },
-    {
-      "sha256": "6a51d8e327523cea0bd1dab97ff5b6ad5b43954f3e43c3c86a50fd210713bcff",
-      "types": [
-        "Article"
-      ],
-      "pages": [
-        "resources/next-generation-multitarget-stool-dna-test-for-colorectal-cancer-screening.html"
       ],
       "errors": 0,
       "warnings": 0
@@ -633,72 +435,6 @@
       "warnings": 0
     },
     {
-      "sha256": "b928c7763c180411f4fd8117f59f1f550fa90efab424ad875bd318e0ba3986da",
-      "types": [
-        "Article"
-      ],
-      "pages": [
-        "resources/nonconcurrent-control-use-in-fda-approval-of-high-risk-medical-devices.html"
-      ],
-      "errors": 0,
-      "warnings": 0
-    },
-    {
-      "sha256": "c125bd2115c9213941c5053a6f63cd1a0cec15cb7bccfc1cad873d70315e7d47",
-      "types": [
-        "Article"
-      ],
-      "pages": [
-        "resources/performance-of-rapid-antigen-tests-to-detect-symptomatic-and-asymptomatic-sars-cov-2-infection-a-prospective-cohort-study.html"
-      ],
-      "errors": 0,
-      "warnings": 0
-    },
-    {
-      "sha256": "9ffab2828ceae93380609c0553341cebed526d2178615c882cf9274a4796ea88",
-      "types": [
-        "Article"
-      ],
-      "pages": [
-        "resources/pivotal-trial-of-an-autonomous-ai-based-diagnostic-system-for-detection-of-diabetic-retinopathy-in-primary-care-offices.html"
-      ],
-      "errors": 0,
-      "warnings": 0
-    },
-    {
-      "sha256": "7e16d286864aa59a608d92b570daf586ada3762853762dd7982b7b8e8723a055",
-      "types": [
-        "Article"
-      ],
-      "pages": [
-        "resources/quadas-2-a-revised-tool-for-the-quality-assessment-of-diagnostic-accuracy-studies.html"
-      ],
-      "errors": 0,
-      "warnings": 0
-    },
-    {
-      "sha256": "7ee4e7217ff81fc08ed6002033b6d9646690075b0a97618fc93d353e7b4d1f54",
-      "types": [
-        "Article"
-      ],
-      "pages": [
-        "resources/reporting-guideline-for-the-early-stage-clinical-evaluation-of-decision-support-systems-driven-by-artificial-intelligence-decide-ai.html"
-      ],
-      "errors": 0,
-      "warnings": 0
-    },
-    {
-      "sha256": "12933a3ca78e8702b7e460591b9c6043d2e501d79eec5034196e4b558b96915e",
-      "types": [
-        "Article"
-      ],
-      "pages": [
-        "resources/reporting-guidelines-for-clinical-trial-reports-for-interventions-involving-artificial-intelligence-the-consort-ai-extension.html"
-      ],
-      "errors": 0,
-      "warnings": 0
-    },
-    {
       "sha256": "9e69ec4c3207294c77e93ae781b31ac77570ae34adbdaace36f9bac561b73865",
       "types": [
         "Article"
@@ -710,37 +446,608 @@
       "warnings": 0
     },
     {
-      "sha256": "360a9c54aa7f32ececc56123ca5142b3b6b994fbc44b7c2511972f30f75e23d0",
+      "sha256": "f54fa9ce8de17e29d303887379a58772eff8be84f13a0567a4fea401b7b8d7ac",
+      "types": [
+        "Person",
+        "Person",
+        "Person",
+        "Person",
+        "Person"
+      ],
+      "pages": [
+        "about/team.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "9ad2449d19b850d9eb3fb8505bd569eaaf7ed98021a2543bbc7dc353c0971812",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/a-cell-free-dna-blood-based-test-for-colorectal-cancer-screening.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "0b87f849d38aecdbf84063c54715bc67065baba119ccc3dd3674e0196d41e548",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/blood-based-tests-for-multicancer-early-detection-pathfinder-a-prospective-cohort-study.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "208e6cc818569a0d21a2ad34fae77f4ddedbd785adabba510dd911dec580f7d9",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/characteristics-of-clinical-studies-conducted-over-the-total-product-life-cycle-of-high-risk-therapeutic-medical-devices-receiving-fda-premarket-approval-in-2010-and-2011.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "5f3328fcc682b5cc8b44f680750416fab89e2167fdb1d8b446caaaa2edf500b4",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/characteristics-of-clinical-studies-used-for-us-food-and-drug-administration-approval-of-high-risk-medical-device-supplements.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "0d900b5bcb73df5a1583f60cd82f720c15ee538e3ce0a0322f3d018ef85ce1e5",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/checklist-for-artificial-intelligence-in-medical-imaging-claim-a-guide-for-authors-and-reviewers.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "8fb176e8cd718e8a2a0038800f9736f5ed905e2138f735deef0edbd4620fa0ad",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/dermatologist-level-classification-of-skin-cancer-with-deep-neural-networks.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "640de065e50c35ea4d9914ffb3e57370df5886c99e9a7a5c4a0d54a04fd3718d",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/design-and-implementation-of-a-digital-site-less-clinical-study-of-serial-rapid-antigen-testing-to-identify-asymptomatic-sars-cov-2-infection.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "f29101f21948730e9c9d35ab09e7eb8184d517fda3a9a7abce1e22680c20a54b",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/detection-and-localization-of-surgically-resectable-cancers-with-a-multi-analyte-blood-test.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "33606288b8b2f4f035c2b41697fc4372d0c4f325607693f28b803942c22c5fbb",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/diagnostic-accuracy-of-covid-19-rapid-antigen-tests-with-unsupervised-self-sampling-in-people-with-symptoms-in-the-omicron-period-cross-sectional-study.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "16d51d73f0090707467a7044a29d369ebcb41dc4948a06982c51f5c00440d5cc",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/diagnostic-accuracy-of-rapid-antigen-tests-in-asymptomatic-and-presymptomatic-close-contacts-of-individuals-with-confirmed-sars-cov-2-infection-cross-sectional-study.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "21120f1c43ddd7922e232889869d785355854719002859c1141782c401015a19",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/disparities-in-dermatology-ai-performance-on-a-diverse-curated-clinical-image-set.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "5b36331b72d43d8bad9e833fc17ad8b547fcaed068384540ef7943527286cc27",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/evaluating-transparency-in-ai-ml-model-characteristics-for-fda-reviewed-medical-devices.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "8e2cc1ec1c7a44c68c2f2cec1bb425702ae38ef24f02eb8a473c5144ed386ce7",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/guidelines-for-clinical-trial-protocols-for-interventions-involving-artificial-intelligence-the-spirit-ai-extension.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "73313cbfb98745c3a765e007d25670914adb2c0c010a3dca3d56310f32e50cc4",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/how-ai-is-used-in-fda-authorized-medical-devices-a-taxonomy-across-1-016-authorizations.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "9c684505c53d6ef6fef769b8635406ee2fd9866c0f1bd548f2a81f96d5e29aa5",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/how-medical-ai-devices-are-evaluated-limitations-and-recommendations-from-an-analysis-of-fda-approvals.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "7ab5d2ec8823cd96928baabc1665b5371a80f139fb7a0828c26b115885518939",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/marketing-and-us-food-and-drug-administration-clearance-of-artificial-intelligence-and-machine-learning-enabled-software-in-and-as-medical-devices-a-systematic-review.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "aca48f4db9d354f8f0d514b62e2f65cf7f5748aca44703dd22b1b0d86bf986d2",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/nationwide-real-world-implementation-of-ai-for-cancer-detection-in-population-based-mammography-screening.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "928179c8c6b5db3629bfe108ad28d93eafab8ebbbbfb66e9ddda8a07b31fbbf9",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/next-generation-multitarget-stool-dna-test-for-colorectal-cancer-screening.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "e5dcf4ce281eeebd9d902fdc53df597092adc958d37164e1783c84ec734583e8",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/nonconcurrent-control-use-in-fda-approval-of-high-risk-medical-devices.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "f8dceb054f45f3c0ec4fa2bea67217651fbaa40d7f917c93145fa960776b255e",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/performance-of-rapid-antigen-tests-to-detect-symptomatic-and-asymptomatic-sars-cov-2-infection-a-prospective-cohort-study.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "b7be4b73a98efa0639bb3b3da821ec39c304eea0024bb67d5b49ca93f0b73c73",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/pivotal-trial-of-an-autonomous-ai-based-diagnostic-system-for-detection-of-diabetic-retinopathy-in-primary-care-offices.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "2337524c60a0f5b3c0d634d20daa776f23138cec54131029c92fbc03e58716f9",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/quadas-2-a-revised-tool-for-the-quality-assessment-of-diagnostic-accuracy-studies.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "a412b5794400f5ca986d206f15024afa7dea42e22c400e5f8b7d7963f9b02223",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/reporting-guideline-for-the-early-stage-clinical-evaluation-of-decision-support-systems-driven-by-artificial-intelligence-decide-ai.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "19566f9d6e7338c24932dc5d3a6c994951c4a127da2c225e43ec973e855cabaf",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/reporting-guidelines-for-clinical-trial-reports-for-interventions-involving-artificial-intelligence-the-consort-ai-extension.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "b60dd8fd9c4775cf1dd51f0611252fa025752c161f5111c01ebb62e238f917cf",
       "types": [
         "Article"
       ],
       "pages": [
         "resources/stard-2015-an-updated-list-of-essential-items-for-reporting-diagnostic-accuracy-studies.html"
       ],
-      "errors": 0,
-      "warnings": 0
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
     },
     {
-      "sha256": "e94697d1ebc119f9ef0605b30b09ea96d3cf81e65ded346cfff6e6fb5f208e4b",
+      "sha256": "5884c6701191d4a8971b663c28bceebebd11a7fbe2ade037ae2aff92d78e2657",
       "types": [
         "Article"
       ],
       "pages": [
         "resources/the-clinician-ai-interface-intended-use-and-explainability-in-fda-cleared-ai-devices-for-medical-image-interpretation.html"
       ],
-      "errors": 0,
-      "warnings": 0
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
     },
     {
-      "sha256": "d35f688dde910da1f861af6d385c43fe8bfde7c1180632e2d2f38868dd7adb90",
+      "sha256": "791e4ddda23449d34ed8666286aa35779fcd756cf71b9e703e3aa5b0233fd54a",
       "types": [
         "Article"
       ],
       "pages": [
         "resources/tripod-ai-statement-updated-guidance-for-reporting-clinical-prediction-models-that-use-regression-or-machine-learning-methods.html"
       ],
-      "errors": 0,
-      "warnings": 0
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "6610ca0ced1624ad98b2386a5a1c48371d3eeb91a70a4c95afb2b0cdb03902c2",
+      "types": [
+        "Service"
+      ],
+      "pages": [
+        "services/biostatistics.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "98bf8cc6a715899c2667a47b5f63735e2dcaf305e8955c639a2016a1129a37ba",
+      "types": [
+        "Service"
+      ],
+      "pages": [
+        "services/cgmp.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "0caea869e7ad1dbab42367d9c0019c78af4d837258c2e042b342f1a1adde2529",
+      "types": [
+        "Service"
+      ],
+      "pages": [
+        "services/clinical-investigation.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "963a2f25eec269251ad9edd41f86e45c631c31d5b280d1d2df3bf8e69b899163",
+      "types": [
+        "Service"
+      ],
+      "pages": [
+        "services/clinical-operations.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "a6f9519a4021b3321f5644684868a958d3e9c4d4dc1d2ee267fadf0a514fb771",
+      "types": [
+        "Service"
+      ],
+      "pages": [
+        "services/clinical-study.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "fc47c6bbb527cf49d3c5e983d406b4df7a16673743d03e386ca1208a1dd1ab9d",
+      "types": [
+        "Service"
+      ],
+      "pages": [
+        "services/data-management.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "9296a7a294f58ec5a16c727a4a5a370fbf857c8fcd9104a7400cb6fc167216ad",
+      "types": [
+        "Service"
+      ],
+      "pages": [
+        "services/eua-application.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "adb23f2533f537c2c94a71fefa3ab28194cbed0cbe4b8ceafb348032f1e21cb0",
+      "types": [
+        "Service"
+      ],
+      "pages": [
+        "services/facility-registration-listing.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "4414cf899f9c3868d5c23848faef17dc58ff2cccb6ba217dd2ffa75f6185ab29",
+      "types": [
+        "Service"
+      ],
+      "pages": [
+        "services/fda-regulatory-consulting.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "cfff4184eb94c7d67f58c0ef625ae79c905b085c6229f6e5bdd559f52f7508a3",
+      "types": [
+        "Service"
+      ],
+      "pages": [
+        "services/fda-us-agent.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "1849685a3ded0043a68374606598434547343765ab371d9c48edd621e10561ff",
+      "types": [
+        "Service"
+      ],
+      "pages": [
+        "services/food-dietary-supplements.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "eaa0cc6af15b62564af1382fcf362a921c41b1e13d9b633a269f3b2001d2eea1",
+      "types": [
+        "Service"
+      ],
+      "pages": [
+        "services/ivdr.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "f60f6c4518a6d8e6ee447526b408fe3c9706fd0d1c2c3ea8872f1dc810c7018b",
+      "types": [
+        "Service"
+      ],
+      "pages": [
+        "services/laboratory-services.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "0da549e891003163271791660d46626389299dfcc923bdd812460aaaacc41af9",
+      "types": [
+        "Service"
+      ],
+      "pages": [
+        "services/market-research.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "079ffb301abd7e5dae0a3b1f4e9d35b665db1fd6dddbe856727cf9aa0102c170",
+      "types": [
+        "Service"
+      ],
+      "pages": [
+        "services/marketing.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "72a0593b37e3eb7ca81971248c57a9a3127f001c9f67be619fcfd6b992565b71",
+      "types": [
+        "Service"
+      ],
+      "pages": [
+        "services/medical-device-510k.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "7f4e77062bd2d968a0c83a2464f5673f6eaad1c6ecf62c0a75735b704ef9bffa",
+      "types": [
+        "Service"
+      ],
+      "pages": [
+        "services/otc-drug.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "c0dd934df068bfc4b208054ff14f533c66126e49199202aff7a57d263e6a8d32",
+      "types": [
+        "Service"
+      ],
+      "pages": [
+        "services/post-market-compliance.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "e42424f58b041380609ae30e24f3273d4a6711d7082cd7ffa89a69efb6ca7ccb",
+      "types": [
+        "Service"
+      ],
+      "pages": [
+        "services/post-market-surveillance.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "a455192388d47da4cb8f6914201d4504c96f8cfa92d866c51d347213cc038140",
+      "types": [
+        "Service"
+      ],
+      "pages": [
+        "services/preclinical-research.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "c81b7835ecde10df98dd94432e212c3d89b40262bca09c54c53dbf47d9def8fa",
+      "types": [
+        "Service"
+      ],
+      "pages": [
+        "services/product-development.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "9d5d6c34456287b554f09cd2a687d0db342f349c2f7fcf9930829cb3102cc3db",
+      "types": [
+        "Service"
+      ],
+      "pages": [
+        "services/project-management.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "4a69e4fff8b93b42fd29ebf16a509b6ce2fe3be2e2160f1bd9e565ad2fccca5c",
+      "types": [
+        "Service"
+      ],
+      "pages": [
+        "services/quality-assurance.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "b1348d898d4bdf4540a91021b81b87fe180c855322acb765f8c913b2c3212cbe",
+      "types": [
+        "Service"
+      ],
+      "pages": [
+        "services/quality-system.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "99391ec6216725b0aa5ec67631c228b29fae4b37c63bf9ebb5b98aeccb4e1c02",
+      "types": [
+        "Service"
+      ],
+      "pages": [
+        "services/regulatory-strategy.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "91bf03c4318df3643d401695ce16ba1c6dc7286d97c3df8590fed01982b81ed7",
+      "types": [
+        "Service"
+      ],
+      "pages": [
+        "services/regulatory-submission.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "270a691e16f17cdff5006b9da9786fec1619f4d92da707b297f0a576c32e948d",
+      "types": [
+        "Service"
+      ],
+      "pages": [
+        "services/us-sales-office.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "1a1a290e483ef2961fe55bb6e030eba0ce9e71f8e68e1a38acfccb685e5ce440",
+      "types": [
+        "Person"
+      ],
+      "pages": [
+        "about/team/andrew-wayland.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "0b9e6e170667f738abb12a8376c0a9b5b202e80d24466fc8c641638d83c86e87",
+      "types": [
+        "Person"
+      ],
+      "pages": [
+        "about/team/homer-wu.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "ff76fd858c05bf61c2cb2fbe43d1915fc94093bf1a3fffdee5341d66e8fcfb4c",
+      "types": [
+        "Person"
+      ],
+      "pages": [
+        "about/team/jennifer-stanford.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "24f501d65a4cf1d0a6547af5f54a1f5cf1c6a0d2a6a9ea60a420ace4e9297173",
+      "types": [
+        "Person"
+      ],
+      "pages": [
+        "about/team/qian-cheng.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
+    },
+    {
+      "sha256": "a747b05bc160cca1c8ee7d94a03342c6df3cc68024fd3f0cee5a0afed5472a92",
+      "types": [
+        "Person"
+      ],
+      "pages": [
+        "about/team/wendy-zhou.html"
+      ],
+      "validationError": "Pending manual Schema Markup Validator code-input validation; the service requires human verification after rate limiting."
     }
   ]
 }

@@ -46,6 +46,8 @@ test('a research summary does not inherit the paper authors or publication date'
   assert.equal(data.datePublished, undefined);
   assert.equal(data.isBasedOn.datePublished, item.originalPublicationDate);
   assert.equal(data.isBasedOn.creditText, 'Original source authors: ' + item.author);
+  assert.equal(data.isBasedOn.publisher, undefined);
+  assert.equal(data.isBasedOn.isPartOf['@type'], 'Periodical');
   assert.equal(data.publisher['@id'], origin + '/#organization');
   assert.ok(data.citation.some(x => x.url === item.sourceUrl));
 });
