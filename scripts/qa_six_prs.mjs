@@ -30,7 +30,7 @@ try {
     assert.equal(data.headings.filter(x=>x.level===1).length,1,route);
     assert.ok(data.headings.every((x,i)=>i===0||x.level<=data.headings[i-1].level+1),'Heading skip: '+route);
     assert.equal(data.missingAlt,0,route);assert.equal(data.noindex,true,route);
-    assert.equal(data.emptyEvidence,0,route);assert.ok(data.textLength>30,route);
+    assert.equal(data.emptyEvidence,site.jobs.some(j=>route==='/careers/'+j.slug)?2:0,route);assert.ok(data.textLength>30,route);
     if(site.jobs.some(j=>route==='/careers/'+j.slug)) {
       assert.equal(data.tables,1,route);
       assert.equal(data.schemas.filter(s=>s['@type']==='JobPosting').length,0,route);

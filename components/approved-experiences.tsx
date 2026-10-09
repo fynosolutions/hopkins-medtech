@@ -7,10 +7,10 @@ export function ApprovedExperiences({kind, jobId}: {kind: keyof typeof records; 
   const allowed = site.jobs.map(job => job.id);
   const entries = (publishableExperiences(records[kind], kind, allowed) as Experience[])
     .filter(item => !jobId || item.jobId === jobId);
-  if (!entries.length) return null;
   const title = {studentFeedback: 'Intern feedback', completedProjects: 'Completed intern projects'}[kind];
-  return <section className="approved-experiences" aria-labelledby={`${kind}-title`}>
+  return <section id={kind} className="approved-experiences" aria-labelledby={`${kind}-title`}>
     <h2 id={`${kind}-title`}>{title}</h2>
+    {!entries.length && <div className="experience-empty-frame" aria-hidden="true"/>}
     {entries.map(item => <article key={String(item.id)}>
       {kind === 'completedProjects' ? <>
         <h3>{item.title}</h3>
