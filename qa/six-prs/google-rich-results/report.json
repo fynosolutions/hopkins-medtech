@@ -1,0 +1,23 @@
+[
+  {
+    "page": "home",
+    "file": "index.html",
+    "url": "https://search.google.com/test/rich-results",
+    "status": "blocked-sign-in-required",
+    "message": "Something went wrong. Log in and try again."
+  },
+  {
+    "page": "job",
+    "file": "careers/clinical-research-intern.html",
+    "url": "https://search.google.com/test/rich-results",
+    "status": "blocked-sign-in-required",
+    "message": "Something went wrong. Log in and try again."
+  },
+  {
+    "page": "article",
+    "file": "resources/evaluating-transparency-in-ai-ml-model-characteristics-for-fda-reviewed-medical-devices.html",
+    "url": "https://search.google.com/test/rich-results",
+    "status": "blocked-sign-in-required",
+    "message": "Something went wrong. Log in and try again."
+  }
+]
