@@ -1,0 +1,587 @@
+[
+  {
+    "file": "components/header.tsx",
+    "before": "Clinical insight. Regulatory clarity. Global possibility.",
+    "after": "Medical device and IVD clinical research and regulatory support"
+  },
+  {
+    "file": "components/footer.tsx",
+    "before": "Bringing clinical insight and regulatory<br/>expertise to your next chapter.",
+    "after": "Clinical research and regulatory support<br/>for medical devices and in vitro diagnostics."
+  },
+  {
+    "file": "components/footer.tsx",
+    "before": "Let’s connect",
+    "after": "Contact"
+  },
+  {
+    "file": "components/footer.tsx",
+    "before": "Chat with us",
+    "after": "Contact information"
+  },
+  {
+    "file": "components/ui.tsx",
+    "before": "LET’S MOVE FORWARD",
+    "after": "CONTACT HMC"
+  },
+  {
+    "file": "components/ui.tsx",
+    "before": "Your next step.<br/><em>Our shared focus.</em>",
+    "after": "Discuss your study<br/><em>or regulatory submission.</em>"
+  },
+  {
+    "file": "components/ui.tsx",
+    "before": "Bring us your questions, your challenges,<br className=\"desktop\"/> and your next big idea.",
+    "after": "Tell us your product type, target market,<br className=\"desktop\"/> and the support you need."
+  },
+  {
+    "file": "components/ui.tsx",
+    "before": "Let’s talk",
+    "after": "Contact HMC"
+  },
+  {
+    "file": "components/ui.tsx",
+    "before": "Read perspective",
+    "after": "Read article and sources"
+  },
+  {
+    "file": "app/layout.tsx",
+    "before": "Hopkins MedTech Compliance | Clinical Insight. Regulatory Clarity.",
+    "after": "Hopkins MedTech Compliance | Clinical Research and Regulatory Support"
+  },
+  {
+    "file": "app/page.tsx",
+    "before": "Clinical insight. Regulatory clarity. From development to market.",
+    "after": "Clinical studies, regulatory submissions and quality system support for medical devices and in vitro diagnostics."
+  },
+  {
+    "file": "app/page.tsx",
+    "before": "YOUR PARTNER IN MEDTECH",
+    "after": "HOPKINS MEDTECH COMPLIANCE"
+  },
+  {
+    "file": "app/page.tsx",
+    "before": "<span>Great science.</span>",
+    "after": "<span>Medical devices.</span>"
+  },
+  {
+    "file": "app/page.tsx",
+    "before": "<span>Clear direction.</span>",
+    "after": "<span>Clinical studies.</span>"
+  },
+  {
+    "file": "app/page.tsx",
+    "before": "<em>Real progress.</em>",
+    "after": "<em>Regulatory support.</em>"
+  },
+  {
+    "file": "app/page.tsx",
+    "before": "Clinical research and regulatory expertise<br className=\"desktop\"/> to move your medical innovation forward.",
+    "after": "Clinical performance studies and submission support<br className=\"desktop\"/> for medical devices and in vitro diagnostics (IVD)."
+  },
+  {
+    "file": "app/page.tsx",
+    "before": "Let’s move forward",
+    "after": "Discuss a project"
+  },
+  {
+    "file": "app/page.tsx",
+    "before": "SCIENCE. STRATEGY. POSSIBILITY.",
+    "after": "CLINICAL RESEARCH / REGULATORY SUPPORT"
+  },
+  {
+    "file": "app/page.tsx",
+    "before": "FROM COMPLEXITY<br/>TO CLARITY.",
+    "after": "MEDICAL DEVICES<br/>AND IVD."
+  },
+  {
+    "file": "app/page.tsx",
+    "before": "Focused on what’s next.",
+    "after": "Clinical and regulatory services"
+  },
+  {
+    "file": "app/page.tsx",
+    "before": "Your innovation.<br/><em>A clearer way forward.</em>",
+    "after": "Clinical studies and<br/><em>regulatory submissions.</em>"
+  },
+  {
+    "file": "app/page.tsx",
+    "before": "Turning a medical innovation into a market-ready product takes more than a great idea. It takes the right evidence, a considered strategy, and people who understand the path ahead.",
+    "after": "HMC supports clinical study planning, regulatory submission preparation and quality system documentation."
+  },
+  {
+    "file": "app/page.tsx",
+    "before": "Hopkins MedTech Compliance brings clinical research, quality and regulatory expertise together for medical device and IVD companies—with a focus on helping Chinese companies enter the US and European markets.",
+    "after": "Hopkins MedTech Compliance works with medical device and IVD companies, including Chinese companies preparing for the US and European markets."
+  },
+  {
+    "file": "app/page.tsx",
+    "before": "aria-label=\"From question to progress\"",
+    "after": "aria-label=\"Examples of service scope\""
+  },
+  {
+    "file": "app/page.tsx",
+    "before": "[[\"A clinical question.\",\"A study with purpose.\"],[\"A regulatory challenge.\",\"A clearer path forward.\"],[\"A new market.\",\"A considered next step.\"]]",
+    "after": "[[\"Clinical studies\",\"Study documents and data review\"],[\"Regulatory submissions\",\"Submission documents and evidence\"],[\"Market entry\",\"US and EU requirements\"]]"
+  },
+  {
+    "file": "app/page.tsx",
+    "before": "Specialist thinking.<br/>Connected support.",
+    "after": "Medical devices and<br/>in vitro diagnostics."
+  },
+  {
+    "file": "app/page.tsx",
+    "before": "Different innovations.<br/><em>Dedicated expertise.</em>",
+    "after": "Industries<br/><em>we support.</em>"
+  },
+  {
+    "file": "app/page.tsx",
+    "before": "Support that considers your product, your evidence and the market you want to reach.",
+    "after": "Find service information for your product category."
+  },
+  {
+    "file": "app/page.tsx",
+    "before": "THE WHOLE PICTURE",
+    "after": "SERVICE STAGES"
+  },
+  {
+    "file": "app/page.tsx",
+    "before": "With you through<br/><em>the product lifecycle.</em>",
+    "after": "Services across<br/><em>the product lifecycle.</em>"
+  },
+  {
+    "file": "app/page.tsx",
+    "before": "Connect the decisions you make today with the evidence you need tomorrow.",
+    "after": "Explore development, studies, submissions and post-market support."
+  },
+  {
+    "file": "app/page.tsx",
+    "before": "Expertise is personal.<br/><em>So is our approach.</em>",
+    "after": "Discuss the scope<br/><em>of your project.</em>"
+  },
+  {
+    "file": "app/page.tsx",
+    "before": "[['Client first','Your needs shape the engagement. Your success stays at the center of our work.'],['The whole picture','We consider the immediate challenge and the questions that come next.'],['True partnership','We work alongside your team, with a shared focus on your project.']]",
+    "after": "[['Product','Identify the product category and intended use.'],['Market','Specify the country or region where you plan to submit.'],['Scope','Discuss study documents, submission materials or quality system support.']]"
+  },
+  {
+    "file": "app/page.tsx",
+    "before": "Meet your next<br/><em>collaborators.</em>",
+    "after": "Meet the<br/><em>HMC team.</em>"
+  },
+  {
+    "file": "app/page.tsx",
+    "before": "A closer look at<br/><em>what moves MedTech.</em>",
+    "after": "Research summaries<br/><em>and public records.</em>"
+  },
+  {
+    "file": "app/page.tsx",
+    "before": "START SOMETHING MEANINGFUL",
+    "after": "EDUCATIONAL PARTNER REFERRALS"
+  },
+  {
+    "file": "app/page.tsx",
+    "before": "Curiosity has a place here.",
+    "after": "Explore the internship descriptions."
+  },
+  {
+    "file": "app/[...slug]/page.tsx",
+    "before": "title='A question worth exploring?'",
+    "after": "title='Discuss this service'"
+  },
+  {
+    "file": "app/[...slug]/page.tsx",
+    "before": "Tell us where you are and where you want to go. We’ll help you consider the next step.",
+    "after": "Describe your product, target market and the documents or study support you need."
+  },
+  {
+    "file": "app/[...slug]/page.tsx",
+    "before": "Connected expertise",
+    "after": "Related services"
+  },
+  {
+    "file": "app/[...slug]/page.tsx",
+    "before": "Built for your product.<br/><em>Focused on your progress.</em>",
+    "after": "Clinical research and<br/><em>regulatory services.</em>"
+  },
+  {
+    "file": "app/[...slug]/page.tsx",
+    "before": "From early development to post-market support, bring the right scientific, clinical and regulatory expertise to every decision.",
+    "after": "Browse support for study planning, regulatory submissions, quality systems and post-market work."
+  },
+  {
+    "file": "app/[...slug]/page.tsx",
+    "before": "Expertise that understands<br/><em>your innovation.</em>",
+    "after": "Medical device and<br/><em>life science industries.</em>"
+  },
+  {
+    "file": "app/[...slug]/page.tsx",
+    "before": "Clinical insight.<br/><em>Regulatory clarity.</em>",
+    "after": "About Hopkins<br/><em>MedTech Compliance.</em>"
+  },
+  {
+    "file": "app/[...slug]/page.tsx",
+    "before": "Moving good ideas<br/><em>toward real-world impact.</em>",
+    "after": "Clinical research<br/><em>and regulatory support.</em>"
+  },
+  {
+    "file": "app/[...slug]/page.tsx",
+    "before": "Your priorities.<br/><em>At the center of our work.</em>",
+    "after": "Our original<br/><em>company introduction.</em>"
+  },
+  {
+    "file": "app/[...slug]/page.tsx",
+    "before": "Experienced minds.<br/><em>A shared purpose.</em>",
+    "after": "The HMC<br/><em>team.</em>"
+  },
+  {
+    "file": "app/[...slug]/page.tsx",
+    "before": "Scientific, clinical and commercial perspectives, brought together around your next challenge.",
+    "after": "Read the professional profiles preserved from the original HMC website."
+  },
+  {
+    "file": "app/[...slug]/page.tsx",
+    "before": "Real questions.<br/><em>Room to learn.</em>",
+    "after": "Clinical research and<br/><em>regulatory internships.</em>"
+  },
+  {
+    "file": "app/[...slug]/page.tsx",
+    "before": "Four connected areas.<br/><em>New possibilities.</em>",
+    "after": "Four areas<br/><em>of internship work.</em>"
+  },
+  {
+    "file": "app/[...slug]/page.tsx",
+    "before": "Learn with people<br/><em>who guide the work.</em>",
+    "after": "Project supervision<br/><em>and written feedback.</em>"
+  },
+  {
+    "file": "app/[...slug]/page.tsx",
+    "before": "Clear expectations.<br/><em>Recognized contributions.</em>",
+    "after": "Agreements<br/><em>and completion documents.</em>"
+  },
+  {
+    "file": "app/[...slug]/page.tsx",
+    "before": "Two tracks.<br/><em>Eight ways to contribute.</em>",
+    "after": "Eight internship descriptions<br/><em>across two tracks.</em>"
+  },
+  {
+    "file": "lib/content.ts",
+    "before": "label:'A clear path forward.'",
+    "after": "label:'FDA submission services'"
+  },
+  {
+    "file": "lib/content.ts",
+    "before": "label:'Evidence with purpose.'",
+    "after": "label:'Clinical study services'"
+  },
+  {
+    "file": "lib/content.ts",
+    "before": "label:'Confidence at every stage.'",
+    "after": "label:'IVDR documentation'"
+  },
+  {
+    "file": "lib/content.ts",
+    "before": "label:'Your next market, closer.'",
+    "after": "label:'Market entry services'"
+  },
+  {
+    "file": "lib/content.ts",
+    "before": "label:'Science that supports decisions.'",
+    "after": "label:'Partner laboratory services'"
+  },
+  {
+    "file": "content/site.json",
+    "page": "/services/product-development",
+    "before": "HMC can check and provide solutions in the most professional way. We have the database and world-class expertise to back you up with confidence. In HMC's strategic service, you can get support such as:",
+    "after": "HMC supports product development planning through the following activities:"
+  },
+  {
+    "file": "content/site.json",
+    "page": "/services/regulatory-strategy",
+    "before": "Regulations on probiotics are  getting increasingly complex overtime. The HMC team will advise you comprehensively to ensure that your product always passes the following tests, and other recent regulations:",
+    "after": "For biological products, discuss the applicable development and submission requirements with HMC:"
+  },
+  {
+    "file": "content/site.json",
+    "page": "/services/regulatory-submission",
+    "before": "We will prepare a comprehensive IND so you can begin your clinical investigation.",
+    "after": "We support preparation of an investigational new drug (IND) application. Study initiation depends on the applicable regulatory requirements."
+  },
+  {
+    "file": "content/site.json",
+    "page": "/services/project-management",
+    "before": "Continuous project status tracking, with comprehensive and transparent client reporting",
+    "after": "Project status tracking and client reports"
+  },
+  {
+    "file": "content/site.json",
+    "page": "/services/quality-assurance",
+    "before": "The HMC team will show you the most comprehensive and unbiased assessment of your ongoing processes, and offer valuable advice on how to maximize your potential, doubling your surplus and value test treatment.",
+    "after": "HMC supports process assessments, audit planning and documentation of findings."
+  },
+  {
+    "file": "content/site.json",
+    "page": "/careers/data-science-intern",
+    "before": "Assignments depend on active studies, authorized data access, and the internship timeline. Examples may include: – A dataset landscape review with licensing, representativeness, and suitability recommendations",
+    "after": "Assignments depend on active studies, authorized data access, and the internship timeline. Examples may include: – A dataset review with licensing, representativeness, and suitability recommendations"
+  },
+  {
+    "file": "content/site.json",
+    "page": "/careers/healthcare-market-research-intern",
+    "before": "– Map the competitive landscape across consumer apps, clinical tools, device makers, and skincare brands.",
+    "after": "– Map the competing products across consumer apps, clinical tools, device makers, and skincare brands."
+  },
+  {
+    "file": "content/site.json",
+    "page": "/careers/healthcare-market-research-intern",
+    "before": "– A competitive and channel landscape map with positioning, pricing, and claim comparisons",
+    "after": "– A competitor and sales-channel comparison with positioning, pricing, and claim comparisons"
+  },
+  {
+    "file": "content/site.json",
+    "page": "/careers/healthcare-market-research-intern",
+    "before": "– A competitive and channel landscape map with pricing and positioning comparisons",
+    "after": "– A competitor and sales-channel comparison with pricing and positioning comparisons"
+  },
+  {
+    "file": "content/site.json",
+    "page": "/services/clinical-study",
+    "before": "<p>We perform usability testing、 human factors engineering and clinical trials on medical devices and point-of-care products to ensure they go to market with complete confidence in their performance. Providing clients with a flexible approach to improve cycle times, constrain costs and reduce risks. Specializing in the planning, management, execution, and analysis of Clinical Study.</p>",
+    "after": "<p>HMC supports planning, management, execution and analysis of clinical studies, including usability testing and human factors work for medical devices and point-of-care products.</p>"
+  },
+  {
+    "file": "content/site.json",
+    "page": "/services/product-development",
+    "before": "<p>HMC will aid you throughout your product development strategy from day one. The goal is to provide data systems, advice, and solutions to accelerate the device's go-to-market process, while ensuring product quality and compliance. If you do not know how to start, HMC will be the one to help you find information and present you with answers.</p>",
+    "after": "<p>HMC supports product development planning, including data requirements and regulatory preparation.</p>"
+  },
+  {
+    "file": "content/site.json",
+    "page": "/services/product-development",
+    "before": "<p>Product development consulting</p>",
+    "after": ""
+  },
+  {
+    "file": "content/site.json",
+    "page": "/services/regulatory-strategy",
+    "before": "<p>Each product has a certain regulatory strategy. With its expertise, HMC will provide you with an overview and detailed roadmap to help you visualize the path from research to commercialization. We will provide you with all the information to keep your progress on track and create your own financial plan.</p>",
+    "after": "<p>HMC supports review of development requirements and potential submission pathways for the product.</p>"
+  },
+  {
+    "file": "content/site.json",
+    "page": "/services/regulatory-strategy",
+    "before": "<p>Many of our team members are former FDA officials or former executives of leading pharmaceutical/medical device companies spanning the world. They all converge to help you have the most suitable regulatory strategy, making the path to commercialization of your product more simple.</p>",
+    "after": ""
+  },
+  {
+    "file": "content/site.json",
+    "page": "/services/regulatory-strategy",
+    "before": "<p>Your path to commercialization of your medical product will be on the right track when contacting us.</p>",
+    "after": ""
+  },
+  {
+    "file": "content/site.json",
+    "page": "/services/project-management",
+    "before": "<p>In order for your clinical trial to be successful, it’s necessary you will need a professional project administrator. We have the best project managers in the field, with frequent up to date training to ensure your trials are fast and efficient. When working with HMC, you can rest assured that there are experts on hand to answer your questions and provide meticulous and dedicated support at all times. The jobs of a senior project manager that we have include:<br/></p>",
+    "after": "<p>Clinical project management covers study plans, project coordination and status reporting. Scope and responsibilities are agreed for each study.</p>"
+  },
+  {
+    "file": "content/site.json",
+    "page": "/services/clinical-operations",
+    "before": "<p> With its expertise, HMC will help make your tests a success. We'll work out effective participant sign-up strategies, quick processes, and efficient venue selection to make your trial go as fast as possible with minimal to no complications.</p>",
+    "after": "<p>Study start-up support includes feasibility review, site selection and participant recruitment planning.</p>"
+  },
+  {
+    "file": "content/site.json",
+    "page": "/services/clinical-operations",
+    "before": "<p> Our top criteria is to: save time and costs but still ensure efficiency in the workflow. With decades of working experience, HMC ensures the testing process always runs on and ahead of schedule, while minimizing any potential risks. Here is our system of focus points to give you an overview of your startup:</p>",
+    "after": "<p>The study team reviews the following start-up activities:</p>"
+  },
+  {
+    "file": "content/site.json",
+    "page": "/services/clinical-operations",
+    "before": "<p>Your test will be a great success under our CRA monitoring team. HMC's CRA experts are always available at the test site for monitoring, wherever it takes place. All activities follow ICH GCP process, research protocol, monitoring plan and client's expectations. We will continuously update information, reviews and support 24/7.</p>",
+    "after": "<p>Clinical monitoring is planned against the study protocol, monitoring plan and applicable good clinical practice (GCP) requirements. Availability and visit schedules are agreed for each study.</p>"
+  },
+  {
+    "file": "content/site.json",
+    "page": "/services/clinical-operations",
+    "before": "<p>If you need more than the points listed above, HMC has a custom service that ensures a good fit. Contact us now.</p>",
+    "after": "<p>Contact HMC to discuss study-specific monitoring needs.</p>"
+  },
+  {
+    "file": "content/site.json",
+    "page": "/services/clinical-operations",
+    "before": "<p>You need professional site management to make the trial process efficient and get results quickly.</p>",
+    "after": "<p>Site management supports study documentation, recruitment tracking and protocol coordination.</p>"
+  },
+  {
+    "file": "content/site.json",
+    "page": "/services/clinical-operations",
+    "before": "<p> HMC's CRA is highly trained and available 24/7. We are adept at building long-term partnerships with investigators and supporting effective trial recruitment, as well as ensuring consistent data quality and consistency.</p>",
+    "after": "<p>Clinical research associate (CRA) responsibilities and availability are agreed for the study.</p>"
+  },
+  {
+    "file": "content/site.json",
+    "page": "/services/clinical-operations",
+    "before": "<p> Keeping patient safety and reducing risk should always be the first priority.</p>",
+    "after": "<p>Safety monitoring follows the agreed study plan.</p>"
+  },
+  {
+    "file": "content/site.json",
+    "page": "/services/clinical-operations",
+    "before": "<p> In our staff development strategy, there are always safety and therapy areas and pieces of training. HMC medical monitors are available 24/7.</p>",
+    "after": "<p>Medical monitoring responsibilities and availability are defined for each study.</p>"
+  },
+  {
+    "file": "content/site.json",
+    "page": "/services/clinical-operations",
+    "before": "<p> In our staff development strategy, we provide safety areas as well as therapy options for our training. HMC medical monitors are available 24/7.</p>",
+    "after": ""
+  },
+  {
+    "file": "content/site.json",
+    "page": "/services/clinical-operations",
+    "before": "<p>With industry-leading experts and extensive relationships, we always support you wholeheartedly.</p>",
+    "after": ""
+  },
+  {
+    "file": "content/site.json",
+    "page": "/services/clinical-operations",
+    "before": "<p>If you find it difficult to understand the risks, relationships, or other policies in connection with laboratories and warehouses, then simplify things by working with HMC. Laboratory and other provider qualifications must be confirmed for the specific study. The associates of HMC have always been reputable in clinical trials and enthusiastic support at all times.</p>",
+    "after": "<p>Laboratory and other provider qualifications must be confirmed for the specific study.</p>"
+  },
+  {
+    "file": "content/site.json",
+    "page": "/services/biostatistics",
+    "before": "<p>You will always receive real and timely data. Using advanced tools and techniques, HMC provides strategic services:</p>",
+    "after": "<p>Biostatistics support includes the following planning and analysis activities:</p>"
+  },
+  {
+    "file": "content/site.json",
+    "page": "/services/quality-assurance",
+    "before": "<p>With this service package, you can rest assured that your implementation and monitoring processes are always up to the highest international standards.</p>",
+    "after": "<p>Quality assurance support includes process review and audit preparation.</p>"
+  },
+  {
+    "file": "content/site.json",
+    "page": "/services/fda-regulatory-consulting",
+    "before": "<p>As an industry leader, HMC will help you navigate FDA regulations and achieve compliance. We offer a wide range of capabilities such as product submission, GXP training, clinical and non-technical development, program design, product evaluation, and system monitoring. With our extensive expertise, HMC will help your product get to market quickly.</p>",
+    "after": "<p>HMC supports FDA submission preparation, development planning, product evaluation and quality system work. The applicable route depends on the product.</p>"
+  },
+  {
+    "file": "content/site.json",
+    "page": "/services/ivdr",
+    "before": "<p>Compared to IVD, IVDR (In vitro diagnostic regulation) is gaining more favor due to its transparent calculations and ability to maintain sustainability. With its team of scientists, HMC can advise you:</p>",
+    "after": "<p>HMC supports preparation of technical documentation and quality system work for in vitro diagnostic devices under the European In Vitro Diagnostic Medical Devices Regulation (IVDR).</p>"
+  },
+  {
+    "file": "content/site.json",
+    "page": "/services/market-research",
+    "before": "<p>A worldwide network of partners and decades of data are the keys to HMC helping you explore your market.</p>",
+    "after": "<p>Market research supports review of product markets and commercialization requirements.</p>"
+  },
+  {
+    "file": "content/site.json",
+    "page": "/services/market-research",
+    "before": "<p>HMC has decades of data experience and a worldwide network of partners. These connections and knowledge are the keys in helping you explore your market.</p>",
+    "after": ""
+  },
+  {
+    "file": "content/site.json",
+    "page": "/services/market-research",
+    "before": "<p>HMC has vast resources to help you access regulatory, quality, and compliance expertise of the pharmaceutical, biological, and medical device industries, wherever you are. Leave a question or speak to our experts right away to find out what you need in product development and commercialization. HMC listens and offers the most appropriate, exclusive solution.</p>",
+    "after": "<p>Contact HMC to discuss the market, product category and information needed for your project.</p>"
+  },
+  {
+    "file": "content/site.json",
+    "page": "/services/post-market-compliance",
+    "before": "<p>From assisting with product development and initial submission preparation, HMC creates a corresponding support program to help you bypass warning letters and take corrective actions. You can use the service alone, or with our extensive experience, we always handle every case. Timely, sustainable and economical are our operating principles.<br/></p>",
+    "after": "<p>HMC supports review of inspection observations, warning letters and corrective-action planning.</p>"
+  },
+  {
+    "file": "content/site.json",
+    "page": "/services/quality-system",
+    "before": "<p>Not only newly established companies but also large companies with many years of experience in the industry also face many difficulties to overcome the Quality Management System (QMS). Our company owns a proprietary method created by a team of experienced professionals that can help you easily implement the most efficient and appropriate QMS.</p>",
+    "after": "<p>HMC supports quality management system (QMS) documentation and implementation planning.</p>"
+  },
+  {
+    "file": "content/site.json",
+    "page": "/services/quality-system",
+    "before": "<p>This is a sustainable implementation method and can always be customized to each company's size, structure, and operation. This method helps you optimize human resources and costs. From there, your business efficiency will be multiplied many times.</p>",
+    "after": "<p>The scope is agreed for the product, company structure and applicable requirements.</p>"
+  },
+  {
+    "file": "content/site.json",
+    "page": "/services/quality-system",
+    "before": "<p>Did you not find your desired content? Please contact our team immediately for advice.</p>",
+    "after": "<p>Contact HMC to discuss the requirements for your product.</p>"
+  },
+  {
+    "file": "content/site.json",
+    "page": "/services/quality-system",
+    "before": "<p>Our experts are always guaranteed expertise for designing and validating an effective quality control process. All solutions are given realistically with the situation of your business. Our common implementation framework for complete validation will include a unique business and product-based master plan, assessment plan, action plan, final validation report, and related supporting documents.</p>",
+    "after": "<p>Quality system work may include a master plan, assessment plan, action plan, validation report and supporting documents.</p>"
+  },
+  {
+    "file": "content/site.json",
+    "page": "/services/quality-system",
+    "before": "<p>Before entering the test, we will always introduce you to our optimal testing process first. In addition, we provide professional auditors and experts so that your inspection schedule is not disrupted. In addition, we also provide complete independent audits if required. Based on ISO, EU, CMDR, QRS, GLP, GMP/ GCP standards. Every quality inspection always ends with a qualified and professional report for you to identify your quality system.</p>",
+    "after": "<p>Audit scope and reporting requirements are agreed before work begins.</p>"
+  },
+  {
+    "file": "content/site.json",
+    "page": "/services/quality-system",
+    "before": "<p>Our experts will work with your R&amp;D department to develop realistic and effective design requirements, validation, and device master record (DMR) documentation. We will help you ensure the safety and effectiveness of the product in the process.</p>",
+    "after": "<p>Design control support includes design requirements, validation and device master record (DMR) documentation.</p>"
+  },
+  {
+    "file": "content/site.json",
+    "page": "/services/quality-system",
+    "before": "<p> Our experts perform supplier due diligence and issue approval or disapproval reports. The implementation process always ensures the protection of customers and stakeholders. We follow the most optimized and cost-effective process possible.</p>",
+    "after": "<p>Supplier quality work includes due diligence and documented assessment findings.</p>"
+  },
+  {
+    "file": "content/site.json",
+    "page": "/services/quality-system",
+    "before": "<p>Digital Health</p>",
+    "after": ""
+  },
+  {
+    "file": "content/site.json",
+    "page": "/services/quality-system",
+    "before": "<p>EMMA International will accompany customers to the end of the digital health software development lifecycle. In addition to providing quality reviews, our team of experts will be available to assist you with reverse engineering your software to help you exceed the most stringent quality standards. The result is your digital health software released and internationally recognized, in compliance with IEC 62304. Not only that, but we also advise solutions for you and your products. You have a highly competitive edge in the market.</p>",
+    "after": ""
+  },
+  {
+    "file": "content/site.json",
+    "page": "/services/quality-system",
+    "before": "<p>Contact our experts now to start a QMS CLIC.</p>",
+    "after": ""
+  },
+  {
+    "file": "app/page.tsx",
+    "before": "Original asset filenames and general image descriptions",
+    "after": "Descriptive aliases and visually checked object descriptions; original files preserved"
+  },
+  {
+    "file": "app/[...slug]/page.tsx",
+    "before": "Original asset filenames and general image descriptions",
+    "after": "Descriptive aliases and visually checked object descriptions; original files preserved"
+  },
+  {
+    "file": "components/ui.tsx",
+    "before": "Original asset filenames and general image descriptions",
+    "after": "Descriptive aliases and visually checked object descriptions; original files preserved"
+  },
+  {
+    "file": "components/legacy.tsx",
+    "before": "Original asset filenames and general image descriptions",
+    "after": "Descriptive aliases and visually checked object descriptions; original files preserved"
+  },
+  {
+    "file": "content/legacy-ui.json",
+    "before": "Original asset filenames and general image descriptions",
+    "after": "Descriptive aliases and visually checked object descriptions; original files preserved"
+  }
+]

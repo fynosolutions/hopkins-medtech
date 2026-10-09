@@ -7,11 +7,11 @@ export const site = source;
 export const resources = [...insights.filter(x=>x.type==='Company Insights'), ...research, ...insights.filter(x=>x.type==='Science'), ...source.historical];
 export {default as company} from '@/content/company.json';
 export const coreServices = [
- {name:'FDA Regulatory Consulting',label:'A clear path forward.',description:'Regulatory strategy and submission support, from 510(k) and De Novo to PMA and EUA.',href:'/services/fda-regulatory-consulting',icon:'shield'},
- {name:'Clinical Trials',label:'Evidence with purpose.',description:'Study design, clinical operations, data management and biostatistics, connected.',href:'/services/clinical-study',icon:'activity'},
- {name:'IVD & Device Compliance',label:'Confidence at every stage.',description:'IVDR technical documentation, quality systems and post-market support.',href:'/services/ivdr',icon:'microscope'},
- {name:'Market Entry',label:'Your next market, closer.',description:'Practical support for Chinese companies entering the United States and Europe.',href:'/services/market-research',icon:'globe'},
- {name:'Laboratory Services',label:'Science that supports decisions.',description:'Explore diagnostic validation and laboratory support through associated businesses and partners.',href:'/services/laboratory-services',icon:'flask'},
+ {name:'FDA Regulatory Consulting',label:'FDA submission services',description:'Regulatory strategy and submission support, from 510(k) and De Novo to PMA and EUA.',href:'/services/fda-regulatory-consulting',icon:'shield'},
+ {name:'Clinical Trials',label:'Clinical study services',description:'Study design, clinical operations, data management and biostatistics, connected.',href:'/services/clinical-study',icon:'activity'},
+ {name:'IVD & Device Compliance',label:'IVDR documentation',description:'IVDR technical documentation, quality systems and post-market support.',href:'/services/ivdr',icon:'microscope'},
+ {name:'Market Entry',label:'Market entry services',description:'Practical support for Chinese companies entering the United States and Europe.',href:'/services/market-research',icon:'globe'},
+ {name:'Laboratory Services',label:'Partner laboratory services',description:'Explore diagnostic validation and laboratory support through associated businesses and partners.',href:'/services/laboratory-services',icon:'flask'},
 ];
 export const homeServices = [
  {name:'Clinical performance studies',label:'Clinical study services',description:'HMC supports clinical performance studies for medical devices and in vitro diagnostics (IVD).',href:'/services/clinical-study',icon:'activity'},
