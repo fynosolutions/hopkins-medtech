@@ -1,9 +1,10 @@
+import serviceSummaries from '@/content/service-summaries.json';
 import originalRoutes from '@/content/original-routes.json';
 import source from '@/content/site.json';
 import research from '@/content/research.json';
 import insights from '@/content/insights.json';
 import {allPeople} from './team';
-export const site = source;
+export const site = {...source, services: source.services.map(item => ({...item, excerpt: serviceSummaries[item.slug as keyof typeof serviceSummaries].intro}))};
 export const resources = [...insights.filter(x=>x.type==='Company Insights'), ...research, ...insights.filter(x=>x.type==='Science'), ...source.historical];
 export {default as company} from '@/content/company.json';
 export const coreServices = [
