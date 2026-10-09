@@ -29,3 +29,9 @@
 .home-service-grid .service-card { grid-column: auto; }
 @media(max-width:1100px) { .home-service-grid { grid-template-columns: repeat(2,minmax(0,1fr)); } }
 @media(max-width:650px) { .home-service-grid { grid-template-columns: 1fr; } }
+
+.approved-experiences { margin-block: 40px; }
+.approved-experiences article { margin-block: 24px; padding: 24px; background: #f0f5f1; }
+.approved-experiences dl > div { margin-block: 16px; }
+.approved-experiences dt { font-weight: 600; }
+.approved-experiences dd { margin: 6px 0 0; }
