@@ -1,0 +1,5 @@
+{
+  "sharedStructuredDataUpdated": "2026-10-09",
+  "reason": "Organization JSON-LD added to the shared layout in issue #1; this date records the actual implementation change, not the build time.",
+  "pages": {}
+}

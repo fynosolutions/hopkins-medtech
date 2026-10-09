@@ -1,0 +1,4 @@
+.careers-faq > section {padding:24px 0;border-bottom:1px solid #cedbd4;}
+.careers-faq p {max-width:850px;margin-block:16px;}
+.careers-faq a,.article-source-meta a {text-decoration:underline;}
+.article-source-meta {margin-block:16px 28px;overflow-wrap:anywhere;}
