@@ -10,6 +10,7 @@ import './globals.css';
 import './motion.css';
 import './legacy.css';
 import './team.css';
+import './evidence.css';
 const origin=siteOrigin();
 export const metadata:Metadata={metadataBase:new URL(origin),title:{default:'Hopkins MedTech Compliance | Clinical Insight. Regulatory Clarity.',template:'%s | Hopkins MedTech'},description:'CRO and regulatory consulting for medical devices and in vitro diagnostics. Clinical evidence, FDA submissions, IVDR compliance and market entry support.',robots:process.env.SITE_INDEXABLE==='true'?{index:true,follow:true}:{index:false,follow:false},icons:{icon:'/icon.svg'}};
 export default function RootLayout({children}:{children:React.ReactNode}){return <html lang="en" data-scroll-behavior="smooth"><body><JsonLd id="organization-jsonld" data={organizationSchema(company, origin)}/><MotionProvider><Header/><main id="main" tabIndex={-1}>{children}</main><Footer/></MotionProvider></body></html>}
