@@ -6,7 +6,7 @@
       "title": "US Sales Office",
       "route": "/services/us-sales-office",
       "html": "<p>The US sales operations refers to the unit, role, activities and processes within the current China based sales organization that support, enable, and drive front line sales teams to sell better, faster, and more efficiently in the US. Sales Ops has expanded its role to include nearly all functions that provide strategic insight needed by a sales team to achieve sustainable growth in the US.</p>",
-      "image": "/media/17362bbc-20220224113027.webp",
+      "image": "/media/original-office-corridor.webp",
       "sourceUrl": "http://www.hopkinsmedtech.com/About.aspx?ClassID=81",
       "sourceIds": [
         "HMC-02"
@@ -14,7 +14,8 @@
       "sections": [],
       "excerpt": "Support for Chinese companies establishing and operating a US sales presence.",
       "reviewNote": "",
-      "group": "Market Entry"
+      "group": "Market Entry",
+      "imageAlt": "Office corridor with glass-fronted rooms, from the original HMC website"
     },
     {
       "id": "HMC-11",
@@ -22,7 +23,7 @@
       "title": "Clinical study",
       "route": "/services/clinical-study",
       "html": "<p>HMC supports planning, management, execution and analysis of clinical studies, including usability testing and human factors work for medical devices and point-of-care products.</p>",
-      "image": "/media/54e10fd2-20220224112925.webp",
+      "image": "/media/original-gloved-hands-sample-tubes.webp",
       "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=56",
       "sourceIds": [
         "HMC-11"
@@ -30,7 +31,8 @@
       "sections": [],
       "excerpt": "Study planning, execution and analysis for medical devices and point-of-care diagnostics.",
       "reviewNote": "",
-      "group": "Clinical Trials"
+      "group": "Clinical Trials",
+      "imageAlt": "Gloved hands holding capped sample tubes, from the original HMC website"
     },
     {
       "id": "HMC-12",
@@ -38,7 +40,7 @@
       "title": "OTC Drug",
       "route": "/services/otc-drug",
       "html": "<p>Establishment registration, OTC drug product listing, NDC number, SPL authoring , self-identification GMP compliance, as well as other regulatory compliance related to drugs. This includes assistance for IND, NDA, ANDA, NADA, ANADA.</p>",
-      "image": "/media/82929112-20220224112941.webp",
+      "image": "/media/original-capsule-blister-pack.webp",
       "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=57",
       "sourceIds": [
         "HMC-12"
@@ -46,7 +48,8 @@
       "sections": [],
       "excerpt": "Establishment registration, OTC drug product listing, NDC number, SPL authoring , self-identification GMP compliance, as well as other regulatory compliance related to drugs. This includes assistance for IND, N",
       "reviewNote": "",
-      "group": "IVD & Device Compliance"
+      "group": "IVD & Device Compliance",
+      "imageAlt": "Hand holding a blister pack of blue and white capsules, from the original HMC website"
     },
     {
       "id": "HMC-13",
@@ -54,7 +57,7 @@
       "title": "Product Development",
       "route": "/services/product-development",
       "html": "<p>HMC supports product development planning, including data requirements and regulatory preparation.</p><p>With decades of experience,HMC is proud to be a leader in consulting and providing solutions to accelerate product development for customers in many healthcare fields such as: medical device, pharmaceutical and pharmaceutical industries, and  Biopharmaceuticals. We have the resources and supports with R&amp;D centers and other major laboratories around the world to best serve you.</p><p>Areas where HMC can assist you:</p><p>Medicine:</p><p>Know what medications you need, what tests orders should be ordered, and other questions you may have. Our regulatory strategy service will answer questions about the applicability of the subsequent to your product:</p><p>● Submission before visiting market</p><p>● Submitted first Clinical investigation</p><p>● Types of studies on safety and effectiveness</p><p>● Global requirements to enter the market</p><p>● Other relevant questions that are not included above.</p><p>Biological</p><p>For young and start-up businesses, overcoming regulatory requirements to commercialize structured products (such as biological products) can be challenging and overwhelming. We can help get your product to the global market faster by following these appropriate guidelines below:</p><p>● IND</p><p>● IDE</p><p>● Send first</p><p>● Send BLA</p><p>● Global requirements to enter the market</p><p>● Other prerequisites for getting your product into the hands of consumers</p><p>Medical devices</p><p>Did any barriers arise when entering the specified market of your medical device?</p><p>HMC supports product development planning through the following activities:</p><p>● Required submission types like 510(k), PMA, De Novo, HDE,</p><p>● Performance test request</p><p>● International performance standards</p><p>● Global requirements to enter the market</p><p>By choosing and collaborating with HMC, your products will be brought to the desired market faster. Contact us immediately for efficient results. </p>",
-      "image": "/media/7213ee87-20220302152324.webp",
+      "image": "/media/original-chemistry-glassware-artwork.webp",
       "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=60",
       "sourceIds": [
         "HMC-13",
@@ -63,7 +66,8 @@
       "sections": [],
       "excerpt": "Connect early development decisions with clinical evidence and regulatory planning.",
       "reviewNote": "",
-      "group": "IVD & Device Compliance"
+      "group": "IVD & Device Compliance",
+      "imageAlt": "Chemical structure artwork over laboratory glassware, from the original HMC website"
     },
     {
       "id": "HMC-14",
@@ -71,7 +75,7 @@
       "title": "Regulatory Strategy",
       "route": "/services/regulatory-strategy",
       "html": "<p>HMC supports review of development requirements and potential submission pathways for the product.</p><p>For pharmaceuticals</p><p>We'll clarify what tests and standards you need to meet, meanwhile setting you up with a standard process to help bring your drugs to market. We also provide solutiosn for the following:</p><p>● Pre-IND and IND</p><p>● Submission before going to market</p><p>● Submitted first</p><p>● Clinical investigation.</p><p>● Global requirements to enter the market</p><p>For biological products</p><p>For biological products, discuss the applicable development and submission requirements with HMC:</p><p>● Pre-IND and IND</p><p>● Access is extended</p><p>● Submission to the market</p><p>● Send BLA</p><p>● Global requirements to enter the market</p><p>● Other prerequisites for getting your product to consumers</p><p>For medical equipment</p><p>Device type, availability of predicate devices, and technology all affect licensing and  liquidation of medical devices. HMC will help you understand how and what to submit to the licensing authority. We also advise on the following:</p><p>● Requester type (IDE, 510(k), PMA, De Novo, HUD &amp; HDE)</p><p>● Should you apply for the FDA's Breakthrough Device Designation?</p><p>● Performance test request</p><p>● International performance standards</p><p>● Global requirements to enter the market</p>",
-      "image": "/media/89138083-20220302152342.webp",
+      "image": "/media/original-clipboard-discussion.webp",
       "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=61",
       "sourceIds": [
         "HMC-14",
@@ -81,7 +85,8 @@
       "excerpt": "Each product has a certain regulatory strategy. With its expertise, HMC will provide you with an overview and detailed roadmap to help you visualize the path from research to commercialization. We will provide ",
       "reviewNote": "",
       "group": "FDA Regulatory Consulting",
-      "originalRecord": "/archive/records/hmc-14"
+      "originalRecord": "/archive/records/hmc-14",
+      "imageAlt": "Hands reviewing a clipboard across a table, from the original HMC website"
     },
     {
       "id": "HMC-15",
@@ -89,7 +94,7 @@
       "title": "Regulatory Submission",
       "route": "/services/regulatory-submission",
       "html": "<p>Submission before commercialization is the last but not least step in determining your success. HMC supports preparation of regulatory submission materials. Whether you're manufacturing medical devices, pharmaceuticals or biopharmaceuticals, we have a wide comprehension of the submission and preparation process. In addition to using stand-alone services, you can also combine them with an entire regulatory strategy. HMC helps prepare and coordinate submissions; regulatory decisions are made by the reviewing authority.</p><p>For medical equipment/Digital Health:</p><p>1. Exemption before equipment investigation</p><p>We help you understand and tailor FDA requirements. We provide services like pre-packaging your IDE, if applicable, thus ensuring you get valuable feedback from the FDA.</p><p>2. Investigative Device Exemption (IDE)</p><p>Ensure you are ready for your clinical investigation by preparing your investigation submission package.</p><p>3. Q-Send</p><p>4. 510(k) / Pre-Market Approval (PMA) / DeNovo / Humanitarian Device Exemption (HDE)</p><p>For pharmaceuticals:</p><p>1. Pre-IND</p><p>Milestone for bringing your drug to market. HMC will work with you to understand and tailor FDA requirements and prepare a pre-IND package to ensure you get valuable FDA feedback.</p><p>2. Investigational New Drug Application (IND)</p><p>We support preparation of an investigational new drug (IND) application. Study initiation depends on the applicable regulatory requirements.</p><p>3. ANDA / NDA</p><p>We will help you draft a new drug application or abbreviated prescription to ensure the commercialization of the drug.</p><p>For biopharmaceuticals</p><p>1. New drug exemption / pre-investigation equipment</p><p>We help you understand and tailor FDA requirements. Pre package your IDE, if applicable, thus enabling you to get valuable feedback from the FDA.</p><p>2. IND or IDE</p><p>We'll help you prepare the right investigative submission package, so you're ready to take on your clinical investigation</p><p>3. Biological Licensing Application (BLA)</p><p>We will compile the BLA in a neat and professional manner. In addition, we will link up with relevant parties and follow up to address submission questions.</p>",
-      "image": "/media/b73432fc-20220302152633.webp",
+      "image": "/media/original-blue-sample-laboratory.webp",
       "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=62",
       "sourceIds": [
         "HMC-15",
@@ -99,7 +104,8 @@
       "excerpt": "Support for clients preparing regulatory submissions and coordinating responses to submission questions.",
       "reviewNote": "",
       "group": "FDA Regulatory Consulting",
-      "originalRecord": "/archive/records/hmc-15"
+      "originalRecord": "/archive/records/hmc-15",
+      "imageAlt": "Laboratory workers examining a blue liquid sample, from the original HMC website"
     },
     {
       "id": "HMC-16",
@@ -107,7 +113,7 @@
       "title": "Post Market Surveillance",
       "route": "/services/post-market-surveillance",
       "html": "<p>Acceptance is not the end of your success, the next step is to maintain compliance with ISO 13485 and 21 CFR Part 820. You will need to participate in after-sales monitoring activities to further monitor the safety and effectiveness of the medical devices you sell.</p><p>HMC will help you:</p><p>● Medical device risk management</p><p>● System tuning and optimization</p><p>● Develop a PMS plan</p><p>We will rely on your market to offer the most suitable solution.</p>",
-      "image": "/media/002d20b6-20220302152656.webp",
+      "image": "/media/original-stethoscope-digital-icons.webp",
       "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=63",
       "sourceIds": [
         "HMC-16",
@@ -117,7 +123,8 @@
       "excerpt": "Acceptance is not the end of your success, the next step is to maintain compliance with ISO 13485 and 21 CFR Part 820. You will need to participate in after-sales monitoring activities to further monitor the sa",
       "reviewNote": "This description preserves material from the original website. Historical regulatory references and specific capability claims require confirmation for a current project.",
       "group": "IVD & Device Compliance",
-      "originalRecord": "/archive/records/hmc-16"
+      "originalRecord": "/archive/records/hmc-16",
+      "imageAlt": "White coat and stethoscope with digital medical icons, from the original HMC website"
     },
     {
       "id": "HMC-17",
@@ -125,7 +132,7 @@
       "title": "Facility Registration and Listing",
       "route": "/services/facility-registration-listing",
       "html": "<p>Our services include assistance with Establishment registration and device listing, Any establishment involved in the production, importation, reprocessing/relabeling, or developing specifications of a medical device or IVD for commercial sale in the United States must register annually with the US Food and Drug Administration (FDA). This is called \"Establishment Registration\" and it is a separate process from obtaining 510(k) clearance or PMA approval.</p>",
-      "image": "/media/4b44fb6d-20220224112959.webp",
+      "image": "/media/original-operating-room.webp",
       "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=72",
       "sourceIds": [
         "HMC-17"
@@ -133,7 +140,8 @@
       "sections": [],
       "excerpt": "Our services include assistance with Establishment registration and device listing, Any establishment involved in the production, importation, reprocessing/relabeling, or developing specifications of a medical ",
       "reviewNote": "",
-      "group": "FDA Regulatory Consulting"
+      "group": "FDA Regulatory Consulting",
+      "imageAlt": "Operating room with overhead lights and equipment, from the original HMC website"
     },
     {
       "id": "HMC-18",
@@ -141,7 +149,7 @@
       "title": "FDA US Agent",
       "route": "/services/fda-us-agent",
       "html": "<p>The appointment of an agent is a mandatory requirement for any foreign company wishing to market their products within the United States. We can act as your FDA agent, as well as offering a suite of regulatory compliance services to help you through the FDA registration process and other FDA compliance services.</p>",
-      "image": "/media/cf7d728d-20220224104609.webp",
+      "image": "/media/original-fda-seal-cleanroom-artwork.webp",
       "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=73",
       "sourceIds": [
         "HMC-18"
@@ -149,7 +157,8 @@
       "sections": [],
       "excerpt": "The appointment of an agent is a mandatory requirement for any foreign company wishing to market their products within the United States. We can act as your FDA agent, as well as offering a suite of regulatory ",
       "reviewNote": "",
-      "group": "FDA Regulatory Consulting"
+      "group": "FDA Regulatory Consulting",
+      "imageAlt": "Original illustration combining cleanroom clothing and an FDA seal, from the original HMC website"
     },
     {
       "id": "HMC-19",
@@ -157,7 +166,7 @@
       "title": "Food and Dietary Supplements",
       "route": "/services/food-dietary-supplements",
       "html": "<p>Our FDA consultancy can deliver support to enable you to market your food and dietary supplements. We can provide complete assistance for understanding FDA requirements for your products, facility registration, Process Filing for Acidified and Low-Acid Canned Foods (SID), food and dietary supplement labelling review, and FSVP related services.</p>",
-      "image": "/media/7647f80f-20220224104650.webp",
+      "image": "/media/original-fruit-vegetable-artwork.webp",
       "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=74",
       "sourceIds": [
         "HMC-19"
@@ -165,7 +174,8 @@
       "sections": [],
       "excerpt": "Our FDA consultancy can deliver support to enable you to market your food and dietary supplements. We can provide complete assistance for understanding FDA requirements for your products, facility registration,",
       "reviewNote": "",
-      "group": "IVD & Device Compliance"
+      "group": "IVD & Device Compliance",
+      "imageAlt": "Fruit and vegetable collage with a digital overlay, from the original HMC website"
     },
     {
       "id": "HMC-20",
@@ -173,7 +183,7 @@
       "title": "CGMP",
       "route": "/services/cgmp",
       "html": "<p>cGMP refers to the Current Good Manufacturing Practice regulations enforced by the FDA. cGMPs provide for systems that assure proper design, monitoring, and control of manufacturing processes and facilities. Our cGMP audit service reviews quality systems and product traceability. Our experienced auditors can identify cGMP non-compliance risks so you can correct them before regulatory inspections. </p>",
-      "image": "/media/b35b6e39-20220224104239.webp",
+      "image": "/media/original-hand-capsule-artwork.webp",
       "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=75",
       "sourceIds": [
         "HMC-20"
@@ -181,7 +191,8 @@
       "sections": [],
       "excerpt": "cGMP refers to the Current Good Manufacturing Practice regulations enforced by the FDA. cGMPs provide for systems that assure proper design, monitoring, and control of manufacturing processes and facilities. Ou",
       "reviewNote": "This description preserves material from the original website. Historical regulatory references and specific capability claims require confirmation for a current project.",
-      "group": "IVD & Device Compliance"
+      "group": "IVD & Device Compliance",
+      "imageAlt": "Fingers holding a capsule with a digital overlay, from the original HMC website"
     },
     {
       "id": "HMC-21",
@@ -189,7 +200,7 @@
       "title": "Medical Device 510(k)",
       "route": "/services/medical-device-510k",
       "html": "<p>We offer regulatory compliance services to Class I and Class II medical devices. Our services include ssistance with Establishment registration and device listing, GDUID, 510(k)(Premarket Notification), PMA(Premarket Approval), De Novo(Evaluation of Automatic Class III Designation), and HDE(Humanitarian Device Exemption).</p>",
-      "image": "/media/6bb2b09d-20220224112908.webp",
+      "image": "/media/original-microscope-glassware-artwork.webp",
       "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=78",
       "sourceIds": [
         "HMC-21"
@@ -197,7 +208,8 @@
       "sections": [],
       "excerpt": "Submission support for medical devices entering the United States market.",
       "reviewNote": "",
-      "group": "FDA Regulatory Consulting"
+      "group": "FDA Regulatory Consulting",
+      "imageAlt": "Microscope lenses and laboratory glassware artwork, from the original HMC website"
     },
     {
       "id": "HMC-22",
@@ -205,7 +217,7 @@
       "title": "EUA Application",
       "route": "/services/eua-application",
       "html": "<p>We have a deep understanding of the urgency of developing emergency use products during pandemics and natural disasters. Our Emergency Use Authorization (EUA) consultants have extensive experience that expands beyond Emergency Use Authorization of Medical Products and Related Authorities, product development, and quality compliance.</p>",
-      "image": "/media/ba95a04a-20220224104539.webp",
+      "image": "/media/original-white-coat-stethoscope.webp",
       "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=79",
       "sourceIds": [
         "HMC-22"
@@ -213,7 +225,8 @@
       "sections": [],
       "excerpt": "Regulatory consulting for emergency use authorization pathways.",
       "reviewNote": "",
-      "group": "FDA Regulatory Consulting"
+      "group": "FDA Regulatory Consulting",
+      "imageAlt": "White coat, tie and stethoscope, from the original HMC website"
     },
     {
       "id": "HMC-23",
@@ -221,7 +234,7 @@
       "title": "Marketing",
       "route": "/services/marketing",
       "html": "<p>Our marketing services for medical devices are focused on branding, promoting, and generating awareness and leads for medical device distributors and healthcare institutions. We ensure timely, relevant, and actionable insights that you can leverage to move your business to the US market. Furthermore, our expert analysts work directly with you to provide the meaning behind the data, allowing you to build your strategic plans with confidence.</p>",
-      "image": "/media/42ce03f4-20220224113014.webp",
+      "image": "/media/original-healthcare-globe-artwork.webp",
       "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=80",
       "sourceIds": [
         "HMC-23"
@@ -229,7 +242,8 @@
       "sections": [],
       "excerpt": "Our marketing services for medical devices are focused on branding, promoting, and generating awareness and leads for medical device distributors and healthcare institutions. We ensure timely, relevant, and act",
       "reviewNote": "",
-      "group": "Market Entry"
+      "group": "Market Entry",
+      "imageAlt": "Globe artwork over medical clothing and stethoscopes, from the original HMC website"
     },
     {
       "id": "HMC-24",
@@ -237,7 +251,7 @@
       "title": "Project Management",
       "route": "/services/project-management",
       "html": "<p>Clinical project management covers study plans, project coordination and status reporting. Scope and responsibilities are agreed for each study.</p><p>● Develop a specific research plan to thoroughly manage and monitor each project, as well as monitor risk management</p><p>● Narrow down all research needs at the local level - including central labs, warehouses and other third parties (on request)</p><p>● Organize, plan and hold investigator meetings</p><p>● Project status tracking and client reports</p><p>● Negotiate budgets and execute contracts with research sites to provide the most cost-effective option.</p><p>● conduct initial and regular research group meetings, to ensure effective planning, organization, and conduct of research</p><p>● Manage all research related issues in all phases of the trial</p>",
-      "image": "/media/b82a431f-20220224112638.webp",
+      "image": "/media/original-lung-illustration.webp",
       "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=85",
       "sourceIds": [
         "HMC-24"
@@ -247,7 +261,8 @@
       "reviewNote": "",
       "group": "Clinical Trials",
       "restoredFrom": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=29",
-      "originalRecord": "/archive/records/hmc-24"
+      "originalRecord": "/archive/records/hmc-24",
+      "imageAlt": "Blue anatomical illustration of lungs, from the original HMC website"
     },
     {
       "id": "HMC-25",
@@ -255,7 +270,7 @@
       "title": "Clinical Operations",
       "route": "/services/clinical-operations",
       "html": "<p>1. STUDY START-UP</p><p>Study start-up support includes feasibility review, site selection and participant recruitment planning.</p><p>The study team reviews the following start-up activities:</p><p>● Evidence-based feasibility</p><p>● Carefully evaluated and selected position</p><p>● Identify and evaluate potential bottlenecks to create effective risk reduction strategies</p><p>● Clinical trial validation and legal documentation</p><p>● Collect and review site management documents</p><p>● Procurement of regulatory and/or ethics committee approvals</p><p>● Organize and hold investigator meetings</p><p>● Website initialization and rapid audience recruitment</p><p> 2. CLINICAL MONITORING</p><p>Clinical monitoring is planned against the study protocol, monitoring plan and applicable good clinical practice (GCP) requirements. Availability and visit schedules are agreed for each study.</p><p>What we offer our partners:</p><p>● Visits start the site</p><p>● Frequent site monitoring visits</p><p>● Site management and easy access - including regular site contact via phone, email, etc.</p><p>● Monitor the query resolution process</p><p>● Website support during database locking</p><p>● Research observational visits</p><p>Contact HMC to discuss study-specific monitoring needs.</p><p> 3. SITE MANAGEMENT</p><p>Site management supports study documentation, recruitment tracking and protocol coordination.</p><p>Clinical research associate (CRA) responsibilities and availability are agreed for the study.</p><p>Resources and tools that HMC offers you during your studies are:</p><p>● Training and educating site staff</p><p>● Research of drug and non-drug supply logistics</p><p>● Keeping track of regulatory document revisions</p><p>● Monitoring protocol deviations</p><p>● Subject state tracking in trials</p><p> 4. SAFETY MONITORING</p><p>Safety monitoring follows the agreed study plan.</p><p>Medical monitoring responsibilities and availability are defined for each study.</p><p> Strategic services that HMC provides:</p><p>● Medical supervision planning</p><p>● Performance of medical surveillance inclusion/exclusion criteria</p><p>● Therapy area training for CRA and PM</p><p>● Assistance in SAE (Serious Adverse Event) reports to investigators</p><p>● Interaction with the Data Safety Monitoring Board (DSMB)</p><p>● Distribution of secure information reasonably among investigators</p><p>● Announce safety notice to regulatory authorities and/or ethics committee</p><p> 5. CLINICAL TRIAL LOGISTICS</p><p>To make your trial go smoothly, our clinical trial logistics will:</p><p>● Apply for import and export permits from regulatory agencies</p><p>● Prepare customs documents</p><p>● Import research products, comparators, and research materials, including laboratory kits and any specific equipment</p><p>● Store, distribute, relabel, return, and destroy investigative materials/equipment.</p><p>● Export biological samples from clinical sites to the central laboratory</p><p>● Management of courier services</p><p> 6. VENDORS' MANAGEMENT</p><p>Laboratory and other provider qualifications must be confirmed for the specific study.</p>",
-      "image": "/media/667f614a-20220224104220.webp",
+      "image": "/media/original-sample-tubes-clinical.webp",
       "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=86",
       "sourceIds": [
         "HMC-25"
@@ -265,7 +280,8 @@
       "reviewNote": "",
       "group": "Clinical Trials",
       "restoredFrom": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=29",
-      "originalRecord": "/archive/records/hmc-25"
+      "originalRecord": "/archive/records/hmc-25",
+      "imageAlt": "Gloved hands holding capped sample tubes, from the original HMC website"
     },
     {
       "id": "HMC-26",
@@ -273,7 +289,7 @@
       "title": "Data Management",
       "route": "/services/data-management",
       "html": "<p>Data management in clinical trials is a necessary step to ensure accurate and reliable data are obtained.</p><p>HMC's team of experts are always qualified to provide the following services:</p><p>● Participate in designs of Research Protocols to ensure that data is appropriately Collected and managed</p><p>● Develop Data Management Plans</p><p>● Develop CFR and EDC according to CDISC, SDTM, CDASH standards</p><p>● Performance of data validation activities, including: Project-specific Editing, Test Specifications, Data Validation Plan, automated test programming, input masking, and data review.</p><p>● Develop a Data Transfer Plan</p><p>● Data entry and CRF tracking for paper CRF</p><p>● User training for EDC system and CRF completion rules</p><p>● Load data from external sources (central lab, ECG, etc.)</p><p>● Integrate the drug delivery and randomization (IWRS) module directly into the EDC . system</p><p>● Quality control of imported data</p><p>● Data cleaning operations for temporary and final database locking</p><p>● Prepare data management reports for quality control and metrics measurement</p><p>● Medical coding using MeDRA, WHODD and SAE collation</p>",
-      "image": "/media/19b64de0-20220224113106.webp",
+      "image": "/media/original-chemical-structure-artwork.webp",
       "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=87",
       "sourceIds": [
         "HMC-26"
@@ -283,7 +299,8 @@
       "reviewNote": "",
       "group": "Clinical Trials",
       "restoredFrom": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=29",
-      "originalRecord": "/archive/records/hmc-26"
+      "originalRecord": "/archive/records/hmc-26",
+      "imageAlt": "Chemical structure diagram on a blue digital background, from the original HMC website"
     },
     {
       "id": "HMC-27",
@@ -291,7 +308,7 @@
       "title": "Biostatistics",
       "route": "/services/biostatistics",
       "html": "<p>Biostatistics in clinical research<br/></p><p>Biostatistics support includes the following planning and analysis activities:</p><p>● Design clinical study protocols, including statistical input</p><p>● Sample size calculation</p><p>● Create Statistical Analysis Plan (SAP)</p><p>● Develop analytical datasets, as well as tables, figures, and list templates (TFLs)</p><p>● Generate random diagrams</p><p>● Create drug labeling lists</p><p>● Statistical SAS programming</p><p>● Central data monitoring throughout the study</p><p>● Statistical data analysis</p><p>● Prepare mid-year and end-of-year statistical reports</p><p>● Analysis after the lesson</p><p>● CDISC mapping and transformation</p>",
-      "image": "/media/8642e28f-20220224103918.webp",
+      "image": "/media/original-purple-liquid-flask.webp",
       "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=88",
       "sourceIds": [
         "HMC-27"
@@ -301,7 +318,8 @@
       "reviewNote": "",
       "group": "Clinical Trials",
       "restoredFrom": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=29",
-      "originalRecord": "/archive/records/hmc-27"
+      "originalRecord": "/archive/records/hmc-27",
+      "imageAlt": "Gloved hand holding a flask of purple liquid below a dropper, from the original HMC website"
     },
     {
       "id": "HMC-28",
@@ -309,7 +327,7 @@
       "title": "Quality Assurance",
       "route": "/services/quality-assurance",
       "html": "<p>Quality assurance support includes process review and audit preparation.</p><p>HMC supports process assessments, audit planning and documentation of findings.</p><p>Our managers can establish a plan to organize contract audits and provide a range of clinical trial consulting services.</p>",
-      "image": "/media/b758202e-20220224112655.webp",
+      "image": "/media/original-hands-white-keyboard.webp",
       "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=89",
       "sourceIds": [
         "HMC-28"
@@ -318,7 +336,8 @@
       "excerpt": "With this service package, you can rest assured that your implementation and monitoring processes are always up to the highest international standards. The HMC team will show you the most comprehensive and unbi",
       "reviewNote": "",
       "group": "Clinical Trials",
-      "originalRecord": "/archive/records/hmc-28"
+      "originalRecord": "/archive/records/hmc-28",
+      "imageAlt": "Hands typing on a white keyboard, from the original HMC website"
     },
     {
       "id": "HMC-29",
@@ -326,7 +345,7 @@
       "title": "FDA Regulatory Consulting",
       "route": "/services/fda-regulatory-consulting",
       "html": "<p>HMC supports FDA submission preparation, development planning, product evaluation and quality system work. The applicable route depends on the product.</p>",
-      "image": "/media/ce3dea35-20220224104625.webp",
+      "image": "/media/original-dna-helix-mesh-artwork.webp",
       "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=92",
       "sourceIds": [
         "HMC-29"
@@ -336,7 +355,8 @@
       "reviewNote": "",
       "group": "FDA Regulatory Consulting",
       "restoredFrom": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=30",
-      "originalRecord": "/archive/records/hmc-29"
+      "originalRecord": "/archive/records/hmc-29",
+      "imageAlt": "DNA helix and geometric mesh artwork, from the original HMC website"
     },
     {
       "id": "HMC-30",
@@ -344,7 +364,7 @@
       "title": "European IVDR",
       "route": "/services/ivdr",
       "html": "<p>HMC supports preparation of technical documentation and quality system work for in vitro diagnostic devices under the European In Vitro Diagnostic Medical Devices Regulation (IVDR).</p><p>● Strategically convert from IVDD to IVDR</p><p>● Identify the list that needs to be prioritized for consideration</p><p>● Update technical documents in accordance with regulations</p><p>● Setting up a quality management system and navigation</p>",
-      "image": "/media/f6fadab7-20220224112734.webp",
+      "image": "/media/original-laboratory-worker-blue-vial.webp",
       "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=93",
       "sourceIds": [
         "HMC-30"
@@ -354,7 +374,8 @@
       "reviewNote": "",
       "group": "IVD & Device Compliance",
       "restoredFrom": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=30",
-      "originalRecord": "/archive/records/hmc-30"
+      "originalRecord": "/archive/records/hmc-30",
+      "imageAlt": "Laboratory worker holding a blue liquid sample, from the original HMC website"
     },
     {
       "id": "HMC-31",
@@ -362,7 +383,7 @@
       "title": "Market Research",
       "route": "/services/market-research",
       "html": "<p>Market research supports review of product markets and commercialization requirements.</p><p>Contact HMC to discuss the market, product category and information needed for your project.</p><p>We always strive to create the ideal conditions for startups to reach out to the world. Let's join the network of HMC.</p>",
-      "image": "/media/6390b9f6-20220224112816.webp",
+      "image": "/media/original-hands-writing-notes.webp",
       "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=94",
       "sourceIds": [
         "HMC-31"
@@ -370,7 +391,8 @@
       "sections": [],
       "excerpt": "Research and practical market insight to support your next commercial decision.",
       "reviewNote": "",
-      "group": "Market Entry"
+      "group": "Market Entry",
+      "imageAlt": "Hands writing notes during a discussion, from the original HMC website"
     },
     {
       "id": "HMC-32",
@@ -378,7 +400,7 @@
       "title": "Post Market Compliance",
       "route": "/services/post-market-compliance",
       "html": "<p>HMC supports review of inspection observations, warning letters and corrective-action planning.</p><p>We support projects of all sizes in the life sciences. Our compliance consulting services include:</p><p>● 483 comments</p><p>● Feedback warning letter</p><p>● Remedial strategy</p><p>● Labeling and rating the site</p><p>● Test analysis and distance</p><p>● Fake FDA inspection</p><p>● Remedial measures</p><p>If you need to support proactive after-market activities, HMC also has a support team available. Services include:</p><p>● Pharmacovigilance</p><p>● Test Ready Training</p><p>● Expert theme support</p><p>● Post-market clinical follow-up (PMCF)</p><p>● Global vigilance support  </p>",
-      "image": "/media/df24506e-20220224112832.webp",
+      "image": "/media/original-heart-trace-artwork.webp",
       "sourceUrl": "http://www.hopkinsmedtech.com/management.aspx?ClassID=95",
       "sourceIds": [
         "HMC-32"
@@ -388,7 +410,8 @@
       "reviewNote": "",
       "group": "IVD & Device Compliance",
       "restoredFrom": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=32",
-      "originalRecord": "/archive/records/hmc-32"
+      "originalRecord": "/archive/records/hmc-32",
+      "imageAlt": "Heart outline and chart traces over a white coat, from the original HMC website"
     },
     {
       "id": "HMC-41",
@@ -396,7 +419,7 @@
       "title": "Preclinical Research",
       "route": "/services/preclinical-research",
       "html": "<p>HMC supports preclinical study planning. The study requirements and service scope depend on the product.</p><p>Laboratory selection and scope are confirmed for each project. HMC can help customers review relevant FDA information for product evaluation.</p><h2>Medicine</h2><p>To obtain your sample drug, depending on the drug type and eligibility criteria, our researchers will conduct two types of studies:</p><p>● In vitro</p><p>● In Vivo</p><p>In addition to providing authentic reports and assessing potential needs to be addressed, Our team of experts also provides solutions and facilities to redesign your products, making your pharmaceuticals more in line with market standards.</p><h2>Biological</h2><p>Preclinical research for Biological products requires more stringent standards in the current context. Our company will advise and deploy the most professional research process to cooperate with units in the industry to produce authentic and qualified reports. Don't stop there. We will continue to support you in the next steps. The path to commercialization of your biological products will become simpler when working with us.</p><h2>Medical devices</h2><p>We've got a team of experts, facilities, and a preclinical test cycle ready for your device. Research Element:</p><p>● Efficiency and performance</p><p>● Test on animals</p><p>Our network of laboratories is available for every type of device and every standard in the medical framework.</p><p>To get your product on the road to commercialization more quickly, contact our team of experts right away.</p>",
-      "image": "/media/cc0d3cbb-20220302152756.webp",
+      "image": "/media/original-preclinical-lung-illustration.webp",
       "sourceUrl": "http://www.hopkinsmedtech.com/development.aspx?ClassID=100",
       "sourceIds": [
         "HMC-41"
@@ -404,7 +427,8 @@
       "sections": [],
       "excerpt": "Support for preclinical study planning, laboratory selection and review of product-specific requirements.",
       "reviewNote": "This description preserves material from the original website. Historical regulatory references and specific capability claims require confirmation for a current project.",
-      "group": "Clinical Trials"
+      "group": "Clinical Trials",
+      "imageAlt": "Blue anatomical illustration of lungs, from the original HMC website"
     },
     {
       "id": "HMC-46",
@@ -412,7 +436,7 @@
       "title": "Clinical investigation.",
       "route": "/services/clinical-investigation",
       "html": "<p>Provide customers with a flexible approach to improve cycle times, limit costs, and reduce risk. We Specialize in the planning, management, execution, and analysis of Phase 2-3 clinical trials.</p><p>We help you leverage preclinical data in designing programs that bring your drug candidates to proof of concept. We have expertise in all clinical pharmacology studies for regulatory submissions, in a wide range of therapeutic areas, for small molecule, biological, and 505(b) applications ( 2) or Hybrid, on behalf of pharmaceutical companies of all sizes.</p>",
-      "image": "/media/a9ec1879-20220302152717.webp",
+      "image": "/media/original-investigation-sample-tubes.webp",
       "sourceUrl": "http://www.hopkinsmedtech.com/development.aspx?ClassID=98",
       "sourceIds": [
         "HMC-46"
@@ -420,7 +444,8 @@
       "sections": [],
       "excerpt": "Provide customers with a flexible approach to improve cycle times, limit costs, and reduce risk. We Specialize in the planning, management, execution, and analysis of Phase 2-3 clinical trials. We help you leve",
       "reviewNote": "",
-      "group": "Clinical Trials"
+      "group": "Clinical Trials",
+      "imageAlt": "Gloved hands holding capped sample tubes, from the original HMC website"
     },
     {
       "id": "HMC-47",
@@ -428,7 +453,7 @@
       "title": "Quality Systems",
       "route": "/services/quality-system",
       "html": "<p>HMC supports quality management system (QMS) documentation and implementation planning.</p><p>The scope is agreed for the product, company structure and applicable requirements.</p><h2>Medical equipment</h2><p>Compliance Options:</p><p>● 21 CFR 820</p><p>● 21 CFR 801</p><p>● 21 CFR 803</p><p>● 21 CFR Part 11</p><p>● ISO 13485</p><p>● ISO 14971</p><p>● IEC 62304</p><p>● EU MDR / IVDR</p><h2>Medicine</h2><p>Compliance Options:</p><p>● 21 CFR 210</p><p>● 21 CFR 211</p><p>● ISO 9001</p><h2>Biological</h2><p>Compliance Options:</p><p>● 21 CFR 600</p><p>● ISO 9001</p><h2>Combination products</h2><p>Compliance Options:</p><p>● 21 CFR 210</p><p>● 21 CFR 211</p><p>● 21 CFR 820</p><p>● 21 CFR 803</p><p>● 21 CFR Part 11</p><p>● ISO 13485</p><p>● ISO 14971</p><p>● IEC 62304</p><p>● EU MDR / IVDR</p><p>Contact HMC to discuss the requirements for your product.</p>Our Optimized Workflow<p>Expertise</p><p>Quality system work may include a master plan, assessment plan, action plan, validation report and supporting documents.</p><p>Check quality</p><p>Audit scope and reporting requirements are agreed before work begins.</p><p>Design control</p><p>Design control support includes design requirements, validation and device master record (DMR) documentation.</p><p>Supplier quality</p><p>Supplier quality work includes due diligence and documented assessment findings.</p>",
-      "image": "/media/9e03c40d-20220302152734.webp",
+      "image": "/media/original-quality-keyboard.webp",
       "sourceUrl": "http://www.hopkinsmedtech.com/development.aspx?ClassID=99",
       "sourceIds": [
         "HMC-47"
@@ -436,7 +461,8 @@
       "sections": [],
       "excerpt": "Not only newly established companies but also large companies with many years of experience in the industry also face many difficulties to overcome the Quality Management System (QMS). Our company owns a propri",
       "reviewNote": "The original website includes material referring to EMMA International. Those statements are preserved with their attribution and do not establish HMC ownership of the capabilities described. Please contact us to confirm the scope of your project.",
-      "group": "IVD & Device Compliance"
+      "group": "IVD & Device Compliance",
+      "imageAlt": "Hands typing on a white keyboard, from the original HMC website"
     },
     {
       "id": "S-LAB",
@@ -446,11 +472,12 @@
       "group": "Laboratory Services",
       "excerpt": "Discuss diagnostic assay validation and laboratory support through associated businesses and partners.",
       "html": "<p>Laboratory support is coordinated through associated businesses and partners. Hopkins MedTech Compliance (HMC) and Hopkins MedTech Lab (HML) are distinct entities; partner capabilities and accreditations should not be interpreted as HMC-owned facilities or certifications.</p><p>Contact us to confirm the provider, validation scope and quality requirements for your diagnostic project.</p>",
-      "image": "/media/0d78598a-20220224105150.webp",
+      "image": "/media/original-laboratory-yellow-sample.webp",
       "sections": [],
       "reviewNote": "The specific laboratory provider and service scope are confirmed for each engagement.",
       "sourceUrl": "https://www.diacarta.com/hmc-hml-partnership",
-      "sourceIds": []
+      "sourceIds": [],
+      "imageAlt": "Test tube containing a yellow liquid sample, from the original HMC website"
     }
   ],
   "industries": [
@@ -460,7 +487,7 @@
       "title": "In Vitro Diagnostics",
       "route": "/industries/ivd",
       "html": "<p>HMC experts will work with your team on a global scale to fast-track the commercialization of IVDs products. With our in-depth knowledge of current requirements, you will understand precisely the complex legal challenges that IVDs manufacturers sometimes face. However, our goal is not for you to purely understand the IVDs, but to make your growth strategy easier and more efficient .</p><p>Whether you're supporting IVDs regulatory reviews and submissions, developing IVDR-compliant technical files, designing and managing clinical trials, or building an ISO 13485-compliant quality system: 2016 and 21 CFR part 820… we both help you.</p><p>We need whatever needs you may require, and we guarantee high quality and cost-effective results for you.</p>",
-      "image": "/media/0d78598a-20220224105150.webp",
+      "image": "/media/original-laboratory-yellow-sample.webp",
       "sourceUrl": "http://www.hopkinsmedtech.com/submissions.aspx?ClassID=3",
       "sourceIds": [
         "HMC-33"
@@ -493,7 +520,8 @@
       ],
       "excerpt": "HMC experts will work with your team on a global scale to fast-track the commercialization of IVDs products. With our in-depth knowledge of current requirements, you will understand precisely the complex legal ",
       "reviewNote": "This description preserves material from the original website. Historical regulatory references and specific capability claims require confirmation for a current project.",
-      "lifecycleTitle": "IVDs Lifecycle"
+      "lifecycleTitle": "IVDs Lifecycle",
+      "imageAlt": "Test tube containing a yellow liquid sample, from the original HMC website"
     },
     {
       "id": "HMC-34",
@@ -501,7 +529,7 @@
       "title": "Medical Devices",
       "route": "/industries/medical-devices",
       "html": "<p>With our high-quality experts, HMC has helped many partners in the medical device industry develop products, helping them to meet international standards and advance in the global market over decades.</p><p>Whether you are a small startup with limited resources or a seasoned company in need of innovation, HMC offers a customized solution. Helping you achieve your business goals.</p>",
-      "image": "/media/a8787ccc-20220224105424.webp",
+      "image": "/media/original-flasks-tubing.webp",
       "sourceUrl": "http://www.hopkinsmedtech.com/submissions.aspx?ClassID=64",
       "sourceIds": [
         "HMC-34"
@@ -534,7 +562,8 @@
       ],
       "excerpt": "With our high-quality experts, HMC has helped many partners in the medical device industry develop products, helping them to meet international standards and advance in the global market over decades.Whether yo",
       "reviewNote": "",
-      "lifecycleTitle": "Medical Device Lifecycle"
+      "lifecycleTitle": "Medical Device Lifecycle",
+      "imageAlt": "Laboratory glass flasks connected by tubing, from the original HMC website"
     },
     {
       "id": "HMC-35",
@@ -542,7 +571,7 @@
       "title": "Gene & Cell Therapies",
       "route": "/industries/gene-cell-therapies",
       "html": "<p>Your research will always be confidential and secure. Your biological therapy results will get to market faster. Our team of scientists have the latest industry knowledge and decades of data to help you in every way. Whether you are developing the most advanced vaccine or cell therapy, EMMA International can help you establish a successful regimen for it.</p>",
-      "image": "/media/3be3089c-20220224105550.webp",
+      "image": "/media/original-dna-helix-illustration.webp",
       "sourceUrl": "http://www.hopkinsmedtech.com/submissions.aspx?ClassID=65",
       "sourceIds": [
         "HMC-35"
@@ -583,7 +612,8 @@
       ],
       "excerpt": "Your research will always be confidential and secure. Your biological therapy results will get to market faster. Our team of scientists have the latest industry knowledge and decades of data to help you in ever",
       "reviewNote": "The original website includes material referring to EMMA International. Those statements are preserved with their attribution and do not establish HMC ownership of the capabilities described. Please contact us to confirm the scope of your project.",
-      "lifecycleTitle": "Gene and Cell Therapies Lifecycle"
+      "lifecycleTitle": "Gene and Cell Therapies Lifecycle",
+      "imageAlt": "Blue DNA double helix illustration, from the original HMC website"
     },
     {
       "id": "HMC-36",
@@ -591,7 +621,7 @@
       "title": "Biopharma",
       "route": "/industries/biopharma",
       "html": "<p>Biotechnology is developing at a rapid pace, FDA standards are becoming more strictly complex. Simplify your company's biotech development by working with us. Whether you are working on a single item or developing the most complex therapy, EMMA International can provide comprehensive support. We'll be there from the R&amp;D stage to the rest of the R&amp;D lifecycle to bring your Bio products to market. EMMA International  has the expertise and resources to ensure your project is a complete success.</p>",
-      "image": "/media/7acad3f5-20220224103944.webp",
+      "image": "/media/original-blue-green-arc-banner.webp",
       "sourceUrl": "http://www.hopkinsmedtech.com/submissions.aspx?ClassID=66",
       "sourceIds": [
         "HMC-36"
@@ -632,7 +662,8 @@
       ],
       "excerpt": "Biotechnology is developing at a rapid pace, FDA standards are becoming more strictly complex. Simplify your company's biotech development by working with us. Whether you are working on a single item or develop",
       "reviewNote": "The original website includes material referring to EMMA International. Those statements are preserved with their attribution and do not establish HMC ownership of the capabilities described. Please contact us to confirm the scope of your project.",
-      "lifecycleTitle": "Biopharma Lifecycle"
+      "lifecycleTitle": "Biopharma Lifecycle",
+      "imageAlt": "Blue, teal and green arcs on a white background, from the original HMC website"
     },
     {
       "id": "HMC-37",
@@ -640,7 +671,7 @@
       "title": "Pharmaceuticals",
       "route": "/industries/pharmaceuticals",
       "html": "<p>Do you have a new pharmaceutical product that you want to bring to market but don't know if the product is available? Are you worried about meeting the current rigorous standards of the pharmaceutical industry? Is your time and budget running out, but have lots of unreached goals? EMMA International will be the place to provide the most effective and economical solution for you.</p><p>With a team of industry-leading experts and an extensive network of scientific partners, we have the vast resources to help you.</p>",
-      "image": "/media/bd48ce81-20220224105615.webp",
+      "image": "/media/original-tablets-capsules.webp",
       "sourceUrl": "http://www.hopkinsmedtech.com/submissions.aspx?ClassID=67",
       "sourceIds": [
         "HMC-37"
@@ -681,7 +712,8 @@
       ],
       "excerpt": "Do you have a new pharmaceutical product that you want to bring to market but don't know if the product is available? Are you worried about meeting the current rigorous standards of the pharmaceutical industry?",
       "reviewNote": "The original website includes material referring to EMMA International. Those statements are preserved with their attribution and do not establish HMC ownership of the capabilities described. Please contact us to confirm the scope of your project.",
-      "lifecycleTitle": "Pharmaceutical Lifecycle"
+      "lifecycleTitle": "Pharmaceutical Lifecycle",
+      "imageAlt": "Assorted coloured tablets and capsules, from the original HMC website"
     }
   ],
   "team": [

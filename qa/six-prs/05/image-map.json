@@ -1,0 +1,226 @@
+[
+  {
+    "slug": "us-sales-office",
+    "before": "/media/17362bbc-20220224113027.webp",
+    "after": "/media/original-office-corridor.webp",
+    "alt": "Office corridor with glass-fronted rooms, from the original HMC website",
+    "unchangedSha256": "16674cc6ece43689a7ab83eb61ed77e4309a195def94f2aa959f7705352581f8"
+  },
+  {
+    "slug": "clinical-study",
+    "before": "/media/54e10fd2-20220224112925.webp",
+    "after": "/media/original-gloved-hands-sample-tubes.webp",
+    "alt": "Gloved hands holding capped sample tubes, from the original HMC website",
+    "unchangedSha256": "6d74eca144349e8ec3d463aa8320e681758d5cedd5d3211e3edc98813d290278"
+  },
+  {
+    "slug": "otc-drug",
+    "before": "/media/82929112-20220224112941.webp",
+    "after": "/media/original-capsule-blister-pack.webp",
+    "alt": "Hand holding a blister pack of blue and white capsules, from the original HMC website",
+    "unchangedSha256": "7796768730e40003133fd21ed943e33214ae76b8a984b95c83fd9c79c4853a01"
+  },
+  {
+    "slug": "product-development",
+    "before": "/media/7213ee87-20220302152324.webp",
+    "after": "/media/original-chemistry-glassware-artwork.webp",
+    "alt": "Chemical structure artwork over laboratory glassware, from the original HMC website",
+    "unchangedSha256": "a54ffd461d1b93c3191d0dc3ca10bf4d950ffb5f9187a9deb75a68e293c5d6cb"
+  },
+  {
+    "slug": "regulatory-strategy",
+    "before": "/media/89138083-20220302152342.webp",
+    "after": "/media/original-clipboard-discussion.webp",
+    "alt": "Hands reviewing a clipboard across a table, from the original HMC website",
+    "unchangedSha256": "910649d37ff0281a8292f904cfb99dc690093f1f47d8ba3567df9cab59f978a2"
+  },
+  {
+    "slug": "regulatory-submission",
+    "before": "/media/b73432fc-20220302152633.webp",
+    "after": "/media/original-blue-sample-laboratory.webp",
+    "alt": "Laboratory workers examining a blue liquid sample, from the original HMC website",
+    "unchangedSha256": "7727d7461f1899080d2435d4dab59b71c91010c0cb4b311f13a78b71ca1fcba8"
+  },
+  {
+    "slug": "post-market-surveillance",
+    "before": "/media/002d20b6-20220302152656.webp",
+    "after": "/media/original-stethoscope-digital-icons.webp",
+    "alt": "White coat and stethoscope with digital medical icons, from the original HMC website",
+    "unchangedSha256": "97d997f94b6e47ca472771113a970c64ebe679b16e7699355f19334f6d897b4d"
+  },
+  {
+    "slug": "facility-registration-listing",
+    "before": "/media/4b44fb6d-20220224112959.webp",
+    "after": "/media/original-operating-room.webp",
+    "alt": "Operating room with overhead lights and equipment, from the original HMC website",
+    "unchangedSha256": "02258124490e4a20293eea8cbc4ed2e4043ad8bf567545b3fe7538b79ceee3af"
+  },
+  {
+    "slug": "fda-us-agent",
+    "before": "/media/cf7d728d-20220224104609.webp",
+    "after": "/media/original-fda-seal-cleanroom-artwork.webp",
+    "alt": "Original illustration combining cleanroom clothing and an FDA seal, from the original HMC website",
+    "unchangedSha256": "050bf49f0d237ee7d81282681c072d9b97e456095b04073750fbfe5a5d4f8f19"
+  },
+  {
+    "slug": "food-dietary-supplements",
+    "before": "/media/7647f80f-20220224104650.webp",
+    "after": "/media/original-fruit-vegetable-artwork.webp",
+    "alt": "Fruit and vegetable collage with a digital overlay, from the original HMC website",
+    "unchangedSha256": "7b69a1706247ca00ba985b6e3425192d322c95ad7eee360163838a3b5bcfb376"
+  },
+  {
+    "slug": "cgmp",
+    "before": "/media/b35b6e39-20220224104239.webp",
+    "after": "/media/original-hand-capsule-artwork.webp",
+    "alt": "Fingers holding a capsule with a digital overlay, from the original HMC website",
+    "unchangedSha256": "851fddfeb5fdf4c6afc9340bbe9ff7cb0410ad63d296d57643ece8a94250bc89"
+  },
+  {
+    "slug": "medical-device-510k",
+    "before": "/media/6bb2b09d-20220224112908.webp",
+    "after": "/media/original-microscope-glassware-artwork.webp",
+    "alt": "Microscope lenses and laboratory glassware artwork, from the original HMC website",
+    "unchangedSha256": "135d4e41e428f338c5c474d3b1ecac7a5ed488f01bccd478b035ccdf283e4eb9"
+  },
+  {
+    "slug": "eua-application",
+    "before": "/media/ba95a04a-20220224104539.webp",
+    "after": "/media/original-white-coat-stethoscope.webp",
+    "alt": "White coat, tie and stethoscope, from the original HMC website",
+    "unchangedSha256": "fd9b938923b26f68da16eb3efd4c6ef46ebeb01b958959e164854200bd798d66"
+  },
+  {
+    "slug": "marketing",
+    "before": "/media/42ce03f4-20220224113014.webp",
+    "after": "/media/original-healthcare-globe-artwork.webp",
+    "alt": "Globe artwork over medical clothing and stethoscopes, from the original HMC website",
+    "unchangedSha256": "8479da5dcaad60838de3d0675a89aca85a1733f9c3d82232a5fdc20599089029"
+  },
+  {
+    "slug": "project-management",
+    "before": "/media/b82a431f-20220224112638.webp",
+    "after": "/media/original-lung-illustration.webp",
+    "alt": "Blue anatomical illustration of lungs, from the original HMC website",
+    "unchangedSha256": "08c9607ffb8c6d2e714ac77afcc62a62fe0bb3c0dcb0d0ab1316debf64192ade"
+  },
+  {
+    "slug": "clinical-operations",
+    "before": "/media/667f614a-20220224104220.webp",
+    "after": "/media/original-sample-tubes-clinical.webp",
+    "alt": "Gloved hands holding capped sample tubes, from the original HMC website",
+    "unchangedSha256": "6d74eca144349e8ec3d463aa8320e681758d5cedd5d3211e3edc98813d290278"
+  },
+  {
+    "slug": "data-management",
+    "before": "/media/19b64de0-20220224113106.webp",
+    "after": "/media/original-chemical-structure-artwork.webp",
+    "alt": "Chemical structure diagram on a blue digital background, from the original HMC website",
+    "unchangedSha256": "20b39f4d6174cd87a4c0f566817a6fb798e9c2ef38f35b85a5d85fc68d125462"
+  },
+  {
+    "slug": "biostatistics",
+    "before": "/media/8642e28f-20220224103918.webp",
+    "after": "/media/original-purple-liquid-flask.webp",
+    "alt": "Gloved hand holding a flask of purple liquid below a dropper, from the original HMC website",
+    "unchangedSha256": "dcdd240869d8e6718acaca05d7b4ae632280895076c5ae534ebf35f6fda9242c"
+  },
+  {
+    "slug": "quality-assurance",
+    "before": "/media/b758202e-20220224112655.webp",
+    "after": "/media/original-hands-white-keyboard.webp",
+    "alt": "Hands typing on a white keyboard, from the original HMC website",
+    "unchangedSha256": "fe543f49e5994a9840a4f176d1191e6151b5c1bd63d085752fa776a1dc0e0bc4"
+  },
+  {
+    "slug": "fda-regulatory-consulting",
+    "before": "/media/ce3dea35-20220224104625.webp",
+    "after": "/media/original-dna-helix-mesh-artwork.webp",
+    "alt": "DNA helix and geometric mesh artwork, from the original HMC website",
+    "unchangedSha256": "79353fb6e28cca6097f64e9ae51064363c511281f15882db6bfd869f312b0a7e"
+  },
+  {
+    "slug": "ivdr",
+    "before": "/media/f6fadab7-20220224112734.webp",
+    "after": "/media/original-laboratory-worker-blue-vial.webp",
+    "alt": "Laboratory worker holding a blue liquid sample, from the original HMC website",
+    "unchangedSha256": "107c417811b011d9ba149f30add3c4486b65e98e3eda69d91441eebe011455cb"
+  },
+  {
+    "slug": "market-research",
+    "before": "/media/6390b9f6-20220224112816.webp",
+    "after": "/media/original-hands-writing-notes.webp",
+    "alt": "Hands writing notes during a discussion, from the original HMC website",
+    "unchangedSha256": "851b0ccf9a00d1365f91fdf7f4d793c8b319baefa5c4f1ecfcc7902a0dba7932"
+  },
+  {
+    "slug": "post-market-compliance",
+    "before": "/media/df24506e-20220224112832.webp",
+    "after": "/media/original-heart-trace-artwork.webp",
+    "alt": "Heart outline and chart traces over a white coat, from the original HMC website",
+    "unchangedSha256": "245edf5c6d4453c6f96dc74da87b8199c218383ee2c950a6bd1c6b117aaee1f4"
+  },
+  {
+    "slug": "preclinical-research",
+    "before": "/media/cc0d3cbb-20220302152756.webp",
+    "after": "/media/original-preclinical-lung-illustration.webp",
+    "alt": "Blue anatomical illustration of lungs, from the original HMC website",
+    "unchangedSha256": "08c9607ffb8c6d2e714ac77afcc62a62fe0bb3c0dcb0d0ab1316debf64192ade"
+  },
+  {
+    "slug": "clinical-investigation",
+    "before": "/media/a9ec1879-20220302152717.webp",
+    "after": "/media/original-investigation-sample-tubes.webp",
+    "alt": "Gloved hands holding capped sample tubes, from the original HMC website",
+    "unchangedSha256": "6d74eca144349e8ec3d463aa8320e681758d5cedd5d3211e3edc98813d290278"
+  },
+  {
+    "slug": "quality-system",
+    "before": "/media/9e03c40d-20220302152734.webp",
+    "after": "/media/original-quality-keyboard.webp",
+    "alt": "Hands typing on a white keyboard, from the original HMC website",
+    "unchangedSha256": "fe543f49e5994a9840a4f176d1191e6151b5c1bd63d085752fa776a1dc0e0bc4"
+  },
+  {
+    "slug": "laboratory-services",
+    "before": "/media/0d78598a-20220224105150.webp",
+    "after": "/media/original-laboratory-yellow-sample.webp",
+    "alt": "Test tube containing a yellow liquid sample, from the original HMC website",
+    "unchangedSha256": "5e9ced8a8ceefaa27d20f2438102503f57c8843e137614af9325b29eeb943305"
+  },
+  {
+    "slug": "ivd",
+    "before": "/media/0d78598a-20220224105150.webp",
+    "after": "/media/original-laboratory-yellow-sample.webp",
+    "alt": "Test tube containing a yellow liquid sample, from the original HMC website",
+    "unchangedSha256": "5e9ced8a8ceefaa27d20f2438102503f57c8843e137614af9325b29eeb943305"
+  },
+  {
+    "slug": "medical-devices",
+    "before": "/media/a8787ccc-20220224105424.webp",
+    "after": "/media/original-flasks-tubing.webp",
+    "alt": "Laboratory glass flasks connected by tubing, from the original HMC website",
+    "unchangedSha256": "62b6e6afcffebb6f713045ab9dace0acf96af34e6171c0c2d4c537a59ba816b9"
+  },
+  {
+    "slug": "gene-cell-therapies",
+    "before": "/media/3be3089c-20220224105550.webp",
+    "after": "/media/original-dna-helix-illustration.webp",
+    "alt": "Blue DNA double helix illustration, from the original HMC website",
+    "unchangedSha256": "ef922b4b35bb0d71f005b769aa59bbf56e86f1888a84ae8ec5d5f32dfb1635d5"
+  },
+  {
+    "slug": "biopharma",
+    "before": "/media/7acad3f5-20220224103944.webp",
+    "after": "/media/original-blue-green-arc-banner.webp",
+    "alt": "Blue, teal and green arcs on a white background, from the original HMC website",
+    "unchangedSha256": "9b69ea91fedae7106e969abbb6710219cd5e9b0530e7ff07dcefe328a57516d7"
+  },
+  {
+    "slug": "pharmaceuticals",
+    "before": "/media/bd48ce81-20220224105615.webp",
+    "after": "/media/original-tablets-capsules.webp",
+    "alt": "Assorted coloured tablets and capsules, from the original HMC website",
+    "unchangedSha256": "9a74508e4362a5cf5c2f7f416efdc76af73ef1d287aec3782709d2cf0c8a4abb"
+  }
+]
