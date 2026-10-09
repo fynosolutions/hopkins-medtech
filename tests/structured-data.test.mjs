@@ -68,6 +68,7 @@ test('service markup describes HMC services without assigning partner credential
     const data = serviceSchema(service, origin);
     assert.equal(data.provider['@id'], origin + '/#organization');
     assert.equal(data.hasCredential, undefined);
+    assert.doesNotMatch(service.html, /Our accreditation with|more than 120 laboratories|FDA-approved Master Device Profile|advanced technology, and full certifications/);
   }
   assert.match(services.find(x => x.slug === 'laboratory-services').html, /distinct entities/);
 });
