@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
-import {organizationSchema, serializeJsonLd, jobPostingSchema, articleSchema, serviceSchema} from '../lib/structured-data.mjs';
+import {organizationSchema, serializeJsonLd, jobPostingSchema, articleSchema, serviceSchema, personSchema} from '../lib/structured-data.mjs';
 
 const company = JSON.parse(fs.readFileSync(new URL('../content/company.json', import.meta.url), 'utf8'));
 const origin = 'https://website.example';
@@ -69,4 +69,19 @@ test('service markup describes HMC services without assigning partner credential
     assert.doesNotMatch(service.html, /Our accreditation with|more than 120 laboratories|FDA-approved Master Device Profile|advanced technology, and full certifications/);
   }
   assert.match(services.find(x => x.slug === 'laboratory-services').html, /distinct entities/);
+});
+
+test('team schema preserves confirmed roles and omits missing personal links and photos', () => {
+  const team = JSON.parse(fs.readFileSync(new URL('../content/site.json', import.meta.url), 'utf8')).team.filter(x => x.id !== 'TEAM-JEFF');
+  assert.equal(team.length, 5);
+  for (const person of team) {
+    const data = personSchema(person, origin);
+    assert.equal(data.jobTitle, person.role);
+    assert.equal(data.worksFor['@id'], origin + '/#organization');
+    assert.equal(data.image, undefined);
+    assert.equal(data.founder, undefined);
+    assert.ok(!data.url.includes('jeff-wu'));
+    if (person.linkedin) assert.deepEqual(data.sameAs, [person.linkedin]);
+    else assert.equal(data.sameAs, undefined);
+  }
 });
