@@ -1,0 +1,7 @@
+[
+  {"id":"referral","question":"How do I apply for an internship?","answer":"Start with your education partner. The referral process uses a CV and a short note, followed by a conversation with the project lead. Confirm current availability and placement arrangements through that process.","source":"/careers#application-information"},
+  {"id":"supervision","question":"How is internship work supervised?","answer":"Each intern works with a named project lead. Meetings follow a set weekly cadence, and each deliverable receives written feedback.","source":"/careers#internship-overview-title"},
+  {"id":"agreement","question":"Which company signs the internship agreement?","answer":"Each internship is covered by a written agreement with Hopkins MedTech Group LLC.","source":"/careers#internship-overview-title"},
+  {"id":"completion","question":"What documents are available on completion?","answer":"Interns who complete the program receive a certificate of completion on company letterhead. A letter of recommendation is available on completion.","source":"/careers#internship-overview-title"},
+  {"id":"ai-use","question":"What are the rules for using AI tools?","answer":"Use only authorized data and project-lead-approved artificial intelligence (AI) tools. Do not upload confidential or patient-related information to public or unapproved tools. Verify AI-assisted work before delivery.","source":"/careers#internship-overview-title"}
+]

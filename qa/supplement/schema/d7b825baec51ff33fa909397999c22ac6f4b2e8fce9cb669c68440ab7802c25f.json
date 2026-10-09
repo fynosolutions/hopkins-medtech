@@ -1,0 +1,241 @@
+{
+  "isRendered": false,
+  "tripleGroups": [
+    {
+      "ownerSet": {},
+      "nodes": [
+        {
+          "types": [
+            {
+              "pred": "itemtype",
+              "value": "Article",
+              "errors": [],
+              "begin": 88,
+              "end": 97
+            }
+          ],
+          "typeGroup": "Article",
+          "idProperty": {
+            "pred": "urn:spore:url",
+            "value": "http://localhost:3000/resources/historical-drug-regulatory-pathways#article",
+            "errors": [],
+            "begin": 104,
+            "end": 181
+          },
+          "errors": [],
+          "properties": [
+            {
+              "pred": "url",
+              "value": "http://localhost:3000/resources/historical-drug-regulatory-pathways",
+              "errors": [],
+              "begin": 188,
+              "end": 257
+            },
+            {
+              "pred": "mainEntityOfPage",
+              "value": "http://localhost:3000/resources/historical-drug-regulatory-pathways",
+              "errors": [],
+              "begin": 277,
+              "end": 346
+            },
+            {
+              "pred": "headline",
+              "value": "Determining the Right Regulatory Pathway for your Drug",
+              "errors": [],
+              "begin": 358,
+              "end": 414
+            },
+            {
+              "pred": "description",
+              "value": "An EMMA International article on selecting a regulatory pathway for a drug.",
+              "errors": [],
+              "begin": 429,
+              "end": 506
+            },
+            {
+              "pred": "inLanguage",
+              "value": "en",
+              "errors": [],
+              "begin": 520,
+              "end": 524
+            },
+            {
+              "pred": "datePublished",
+              "value": "2021-11-17",
+              "errors": [],
+              "begin": 697,
+              "end": 709
+            }
+          ],
+          "nodeProperties": [
+            {
+              "pred": "publisher",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "Organization",
+                    "errors": [],
+                    "begin": 546,
+                    "end": 560
+                  }
+                ],
+                "typeGroup": "Organization",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "name",
+                    "value": "EMMA International",
+                    "errors": [],
+                    "begin": 568,
+                    "end": 588
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://emmainternational.com/",
+                    "errors": [],
+                    "begin": 595,
+                    "end": 627
+                  }
+                ],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 537,
+              "end": 628
+            },
+            {
+              "pred": "author",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "Person",
+                    "errors": [],
+                    "begin": 647,
+                    "end": 655
+                  }
+                ],
+                "typeGroup": "Person",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "name",
+                    "value": "Alexis Ferrier",
+                    "errors": [],
+                    "begin": 663,
+                    "end": 679
+                  }
+                ],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 638,
+              "end": 680
+            },
+            {
+              "pred": "citation",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "Article",
+                    "errors": [],
+                    "begin": 731,
+                    "end": 740
+                  }
+                ],
+                "typeGroup": "Article",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "headline",
+                    "value": "Determining the Right Regulatory Pathway for your Drug",
+                    "errors": [],
+                    "begin": 752,
+                    "end": 808
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://emmainternational.com/determining-the-right-regulatory-pathway-for-your-drug/",
+                    "errors": [],
+                    "begin": 815,
+                    "end": 902
+                  },
+                  {
+                    "pred": "datePublished",
+                    "value": "2021-11-17",
+                    "errors": [],
+                    "begin": 919,
+                    "end": 931
+                  },
+                  {
+                    "pred": "creditText",
+                    "value": "Original source authors: Alexis Ferrier",
+                    "errors": [],
+                    "begin": 945,
+                    "end": 986
+                  }
+                ],
+                "nodeProperties": [
+                  {
+                    "pred": "publisher",
+                    "target": {
+                      "types": [
+                        {
+                          "pred": "itemtype",
+                          "value": "Organization",
+                          "errors": [],
+                          "begin": 1008,
+                          "end": 1022
+                        }
+                      ],
+                      "typeGroup": "Organization",
+                      "errors": [],
+                      "properties": [
+                        {
+                          "pred": "name",
+                          "value": "EMMA International",
+                          "errors": [],
+                          "begin": 1030,
+                          "end": 1050
+                        }
+                      ],
+                      "nodeProperties": [],
+                      "numErrors": 0,
+                      "numWarnings": 0
+                    },
+                    "errors": [],
+                    "begin": 999,
+                    "end": 1051
+                  }
+                ],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 722,
+              "end": 1052
+            }
+          ],
+          "numErrors": 0,
+          "numWarnings": 0
+        }
+      ],
+      "numNodesWithError": 0,
+      "numNodesWithWarning": 0,
+      "numErrors": 0,
+      "numWarnings": 0,
+      "type": "Article"
+    }
+  ],
+  "numObjects": 1,
+  "html": "<html><head><script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"@id\":\"http://localhost:3000/resources/historical-drug-regulatory-pathways#article\",\"url\":\"http://localhost:3000/resources/historical-drug-regulatory-pathways\",\"mainEntityOfPage\":\"http://localhost:3000/resources/historical-drug-regulatory-pathways\",\"headline\":\"Determining the Right Regulatory Pathway for your Drug\",\"description\":\"An EMMA International article on selecting a regulatory pathway for a drug.\",\"inLanguage\":\"en\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"EMMA International\",\"url\":\"https://emmainternational.com/\"},\"author\":{\"@type\":\"Person\",\"name\":\"Alexis Ferrier\"},\"datePublished\":\"2021-11-17\",\"citation\":[{\"@type\":\"Article\",\"headline\":\"Determining the Right Regulatory Pathway for your Drug\",\"url\":\"https://emmainternational.com/determining-the-right-regulatory-pathway-for-your-drug/\",\"datePublished\":\"2021-11-17\",\"creditText\":\"Original source authors: Alexis Ferrier\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"EMMA International\"}}]}</script></head><body></body></html>",
+  "errors": [],
+  "totalNumErrors": 0,
+  "totalNumWarnings": 0
+}

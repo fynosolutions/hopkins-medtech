@@ -12,7 +12,7 @@ import urllib.parse
 import urllib.request
 
 sys.stdout.reconfigure(encoding='utf-8')
-output = Path('qa/issue-1/schema')
+output = Path(sys.argv[sys.argv.index('--output') + 1] if '--output' in sys.argv else 'qa/issue-1/schema')
 output.mkdir(parents=True, exist_ok=True)
 payloads = {}
 for page in Path('.next/server/app').rglob('*.html'):
@@ -40,7 +40,13 @@ for digest, entry in payloads.items():
         pending.append((digest, entry, record))
 
 if pending:
-    html = '<html><head>' + ''.join('<script type="application/ld+json">' + entry['raw'] + '</script>' for _, entry, _ in pending) + '</head><body></body></html>'
+    # Reused Organization scripts are still required to resolve @id references
+    # from Person.worksFor / Service.provider / Article.publisher in this input.
+    pending_hashes = {digest for digest, _, _ in pending}
+    dependencies = [(digest, entry) for digest, entry in payloads.items()
+                    if 'Organization' in entry['types'] and digest not in pending_hashes]
+    inputs = dependencies + [(digest, entry) for digest, entry, _ in pending]
+    html = '<html><head>' + ''.join('<script type="application/ld+json">' + entry['raw'] + '</script>' for _, entry in inputs) + '</head><body></body></html>'
     (output / 'pending-code-input.html').write_text(html, encoding='utf-8')
     batch_name = 'batch-' + hashlib.sha256(html.encode()).hexdigest() + '.json'
     request = urllib.request.Request('https://validator.schema.org/validate', data=urllib.parse.urlencode({'html': html}).encode(), headers={'User-Agent': 'HMC-JSON-LD-validation'})
@@ -50,7 +56,7 @@ if pending:
         with urllib.request.urlopen(request, timeout=40) as response:
             text = response.read().decode()
         result = json.loads(text[text.index('{'):])
-        (output / batch_name).write_text(json.dumps({'payloads': [digest for digest, _, _ in pending], 'response': result}, ensure_ascii=False, indent=2), encoding='utf-8')
+        (output / batch_name).write_text(json.dumps({'payloads': [digest for digest, _, _ in pending], 'dependencies': [digest for digest, _ in dependencies], 'response': result}, ensure_ascii=False, indent=2), encoding='utf-8')
         for digest, _, record in pending:
             record.update(errors=result['totalNumErrors'], warnings=result['totalNumWarnings'], validatedIn=batch_name)
             if result['totalNumErrors'] == 0:

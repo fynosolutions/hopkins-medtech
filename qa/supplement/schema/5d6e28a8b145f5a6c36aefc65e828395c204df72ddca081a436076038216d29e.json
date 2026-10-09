@@ -1,0 +1,355 @@
+{
+  "isRendered": false,
+  "tripleGroups": [
+    {
+      "ownerSet": {},
+      "nodes": [
+        {
+          "types": [
+            {
+              "pred": "itemtype",
+              "value": "Article",
+              "errors": [],
+              "begin": 88,
+              "end": 97
+            }
+          ],
+          "typeGroup": "Article",
+          "idProperty": {
+            "pred": "urn:spore:url",
+            "value": "http://localhost:3000/resources/ivdr-transition-and-eudamed-dates#article",
+            "errors": [],
+            "begin": 104,
+            "end": 179
+          },
+          "errors": [],
+          "properties": [
+            {
+              "pred": "url",
+              "value": "http://localhost:3000/resources/ivdr-transition-and-eudamed-dates",
+              "errors": [],
+              "begin": 186,
+              "end": 253
+            },
+            {
+              "pred": "mainEntityOfPage",
+              "value": "http://localhost:3000/resources/ivdr-transition-and-eudamed-dates",
+              "errors": [],
+              "begin": 273,
+              "end": 340
+            },
+            {
+              "pred": "headline",
+              "value": "IVDR transition and EUDAMED: two timelines to track",
+              "errors": [],
+              "begin": 352,
+              "end": 405
+            },
+            {
+              "pred": "description",
+              "value": "Conditional transition periods and database obligations answer different compliance questions.",
+              "errors": [],
+              "begin": 420,
+              "end": 516
+            },
+            {
+              "pred": "inLanguage",
+              "value": "en",
+              "errors": [],
+              "begin": 530,
+              "end": 534
+            }
+          ],
+          "nodeProperties": [
+            {
+              "pred": "publisher",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "Thing",
+                    "errors": [],
+                    "begin": 547,
+                    "end": 592
+                  }
+                ],
+                "typeGroup": "Thing",
+                "idProperty": {
+                  "pred": "urn:spore:url",
+                  "value": "http://localhost:3000/#organization",
+                  "errors": [],
+                  "begin": 554,
+                  "end": 591
+                },
+                "errors": [],
+                "properties": [],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 547,
+              "end": 592
+            },
+            {
+              "pred": "isBasedOn",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "Article",
+                    "errors": [],
+                    "begin": 614,
+                    "end": 623
+                  }
+                ],
+                "typeGroup": "Article",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "headline",
+                    "value": "IVDR transition and EUDAMED: two timelines to track",
+                    "errors": [],
+                    "begin": 635,
+                    "end": 688
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://www.linkedin.com/feed/update/urn:li:activity:7513659717945135104/",
+                    "errors": [],
+                    "begin": 695,
+                    "end": 770
+                  },
+                  {
+                    "pred": "datePublished",
+                    "value": "2026-10-07",
+                    "errors": [],
+                    "begin": 787,
+                    "end": 799
+                  },
+                  {
+                    "pred": "creditText",
+                    "value": "Original source authors: Hopkins MedTech Compliance",
+                    "errors": [],
+                    "begin": 813,
+                    "end": 866
+                  }
+                ],
+                "nodeProperties": [
+                  {
+                    "pred": "publisher",
+                    "target": {
+                      "types": [
+                        {
+                          "pred": "itemtype",
+                          "value": "Organization",
+                          "errors": [],
+                          "begin": 888,
+                          "end": 902
+                        }
+                      ],
+                      "typeGroup": "Organization",
+                      "errors": [],
+                      "properties": [
+                        {
+                          "pred": "name",
+                          "value": "Hopkins MedTech Compliance",
+                          "errors": [],
+                          "begin": 910,
+                          "end": 938
+                        }
+                      ],
+                      "nodeProperties": [],
+                      "numErrors": 0,
+                      "numWarnings": 0
+                    },
+                    "errors": [],
+                    "begin": 879,
+                    "end": 939
+                  }
+                ],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 605,
+              "end": 940
+            },
+            {
+              "pred": "citation",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "Article",
+                    "errors": [],
+                    "begin": 962,
+                    "end": 971
+                  }
+                ],
+                "typeGroup": "Article",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "headline",
+                    "value": "IVDR transition and EUDAMED: two timelines to track",
+                    "errors": [],
+                    "begin": 983,
+                    "end": 1036
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://www.linkedin.com/feed/update/urn:li:activity:7513659717945135104/",
+                    "errors": [],
+                    "begin": 1043,
+                    "end": 1118
+                  },
+                  {
+                    "pred": "datePublished",
+                    "value": "2026-10-07",
+                    "errors": [],
+                    "begin": 1135,
+                    "end": 1147
+                  },
+                  {
+                    "pred": "creditText",
+                    "value": "Original source authors: Hopkins MedTech Compliance",
+                    "errors": [],
+                    "begin": 1161,
+                    "end": 1214
+                  }
+                ],
+                "nodeProperties": [
+                  {
+                    "pred": "publisher",
+                    "target": {
+                      "types": [
+                        {
+                          "pred": "itemtype",
+                          "value": "Organization",
+                          "errors": [],
+                          "begin": 1236,
+                          "end": 1250
+                        }
+                      ],
+                      "typeGroup": "Organization",
+                      "errors": [],
+                      "properties": [
+                        {
+                          "pred": "name",
+                          "value": "Hopkins MedTech Compliance",
+                          "errors": [],
+                          "begin": 1258,
+                          "end": 1286
+                        }
+                      ],
+                      "nodeProperties": [],
+                      "numErrors": 0,
+                      "numWarnings": 0
+                    },
+                    "errors": [],
+                    "begin": 1227,
+                    "end": 1287
+                  }
+                ],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 953,
+              "end": 1288
+            },
+            {
+              "pred": "citation",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "CreativeWork",
+                    "errors": [],
+                    "begin": 1298,
+                    "end": 1312
+                  }
+                ],
+                "typeGroup": "CreativeWork",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "name",
+                    "value": "Regulation (EU) 2024/1860",
+                    "errors": [],
+                    "begin": 1320,
+                    "end": 1347
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://eur-lex.europa.eu/eli/reg/2024/1860/oj/eng",
+                    "errors": [],
+                    "begin": 1354,
+                    "end": 1406
+                  }
+                ],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 1289,
+              "end": 1407
+            },
+            {
+              "pred": "citation",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "CreativeWork",
+                    "errors": [],
+                    "begin": 1417,
+                    "end": 1431
+                  }
+                ],
+                "typeGroup": "CreativeWork",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "name",
+                    "value": "European Commission — mandatory EUDAMED modules",
+                    "errors": [],
+                    "begin": 1439,
+                    "end": 1490
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://health.ec.europa.eu/latest-updates/eudamed-four-first-modules-will-be-mandatory-use-28-may-2026-2025-11-27_en",
+                    "errors": [],
+                    "begin": 1497,
+                    "end": 1616
+                  }
+                ],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 1408,
+              "end": 1617
+            }
+          ],
+          "numErrors": 0,
+          "numWarnings": 0
+        }
+      ],
+      "numNodesWithError": 0,
+      "numNodesWithWarning": 0,
+      "numErrors": 0,
+      "numWarnings": 0,
+      "type": "Article"
+    }
+  ],
+  "numObjects": 1,
+  "html": "<html><head><script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"@id\":\"http://localhost:3000/resources/ivdr-transition-and-eudamed-dates#article\",\"url\":\"http://localhost:3000/resources/ivdr-transition-and-eudamed-dates\",\"mainEntityOfPage\":\"http://localhost:3000/resources/ivdr-transition-and-eudamed-dates\",\"headline\":\"IVDR transition and EUDAMED: two timelines to track\",\"description\":\"Conditional transition periods and database obligations answer different compliance questions.\",\"inLanguage\":\"en\",\"publisher\":{\"@id\":\"http://localhost:3000/#organization\"},\"isBasedOn\":{\"@type\":\"Article\",\"headline\":\"IVDR transition and EUDAMED: two timelines to track\",\"url\":\"https://www.linkedin.com/feed/update/urn:li:activity:7513659717945135104/\",\"datePublished\":\"2026-10-07\",\"creditText\":\"Original source authors: Hopkins MedTech Compliance\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Hopkins MedTech Compliance\"}},\"citation\":[{\"@type\":\"Article\",\"headline\":\"IVDR transition and EUDAMED: two timelines to track\",\"url\":\"https://www.linkedin.com/feed/update/urn:li:activity:7513659717945135104/\",\"datePublished\":\"2026-10-07\",\"creditText\":\"Original source authors: Hopkins MedTech Compliance\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Hopkins MedTech Compliance\"}},{\"@type\":\"CreativeWork\",\"name\":\"Regulation (EU) 2024/1860\",\"url\":\"https://eur-lex.europa.eu/eli/reg/2024/1860/oj/eng\"},{\"@type\":\"CreativeWork\",\"name\":\"European Commission — mandatory EUDAMED modules\",\"url\":\"https://health.ec.europa.eu/latest-updates/eudamed-four-first-modules-will-be-mandatory-use-28-may-2026-2025-11-27_en\"}]}</script></head><body></body></html>",
+  "errors": [],
+  "totalNumErrors": 0,
+  "totalNumWarnings": 0
+}

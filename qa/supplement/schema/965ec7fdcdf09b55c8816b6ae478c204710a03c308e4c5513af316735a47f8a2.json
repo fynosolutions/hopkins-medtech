@@ -1,0 +1,241 @@
+{
+  "isRendered": false,
+  "tripleGroups": [
+    {
+      "ownerSet": {},
+      "nodes": [
+        {
+          "types": [
+            {
+              "pred": "itemtype",
+              "value": "Article",
+              "errors": [],
+              "begin": 88,
+              "end": 97
+            }
+          ],
+          "typeGroup": "Article",
+          "idProperty": {
+            "pred": "urn:spore:url",
+            "value": "http://localhost:3000/resources/historical-sterile-device-510k#article",
+            "errors": [],
+            "begin": 104,
+            "end": 176
+          },
+          "errors": [],
+          "properties": [
+            {
+              "pred": "url",
+              "value": "http://localhost:3000/resources/historical-sterile-device-510k",
+              "errors": [],
+              "begin": 183,
+              "end": 247
+            },
+            {
+              "pred": "mainEntityOfPage",
+              "value": "http://localhost:3000/resources/historical-sterile-device-510k",
+              "errors": [],
+              "begin": 267,
+              "end": 331
+            },
+            {
+              "pred": "headline",
+              "value": "510k Submissions for Sterile Devices",
+              "errors": [],
+              "begin": 343,
+              "end": 381
+            },
+            {
+              "pred": "description",
+              "value": "An EMMA International article on sterility considerations in medical-device 510(k) submissions.",
+              "errors": [],
+              "begin": 396,
+              "end": 493
+            },
+            {
+              "pred": "inLanguage",
+              "value": "en",
+              "errors": [],
+              "begin": 507,
+              "end": 511
+            },
+            {
+              "pred": "datePublished",
+              "value": "2022-01-13",
+              "errors": [],
+              "begin": 680,
+              "end": 692
+            }
+          ],
+          "nodeProperties": [
+            {
+              "pred": "publisher",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "Organization",
+                    "errors": [],
+                    "begin": 533,
+                    "end": 547
+                  }
+                ],
+                "typeGroup": "Organization",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "name",
+                    "value": "EMMA International",
+                    "errors": [],
+                    "begin": 555,
+                    "end": 575
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://emmainternational.com/",
+                    "errors": [],
+                    "begin": 582,
+                    "end": 614
+                  }
+                ],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 524,
+              "end": 615
+            },
+            {
+              "pred": "author",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "Person",
+                    "errors": [],
+                    "begin": 634,
+                    "end": 642
+                  }
+                ],
+                "typeGroup": "Person",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "name",
+                    "value": "Gabe Kadoo",
+                    "errors": [],
+                    "begin": 650,
+                    "end": 662
+                  }
+                ],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 625,
+              "end": 663
+            },
+            {
+              "pred": "citation",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "Article",
+                    "errors": [],
+                    "begin": 714,
+                    "end": 723
+                  }
+                ],
+                "typeGroup": "Article",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "headline",
+                    "value": "510k Submissions for Sterile Devices",
+                    "errors": [],
+                    "begin": 735,
+                    "end": 773
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://emmainternational.com/510k-submissions-for-sterile-devices/",
+                    "errors": [],
+                    "begin": 780,
+                    "end": 849
+                  },
+                  {
+                    "pred": "datePublished",
+                    "value": "2022-01-13",
+                    "errors": [],
+                    "begin": 866,
+                    "end": 878
+                  },
+                  {
+                    "pred": "creditText",
+                    "value": "Original source authors: Gabe Kadoo",
+                    "errors": [],
+                    "begin": 892,
+                    "end": 929
+                  }
+                ],
+                "nodeProperties": [
+                  {
+                    "pred": "publisher",
+                    "target": {
+                      "types": [
+                        {
+                          "pred": "itemtype",
+                          "value": "Organization",
+                          "errors": [],
+                          "begin": 951,
+                          "end": 965
+                        }
+                      ],
+                      "typeGroup": "Organization",
+                      "errors": [],
+                      "properties": [
+                        {
+                          "pred": "name",
+                          "value": "EMMA International",
+                          "errors": [],
+                          "begin": 973,
+                          "end": 993
+                        }
+                      ],
+                      "nodeProperties": [],
+                      "numErrors": 0,
+                      "numWarnings": 0
+                    },
+                    "errors": [],
+                    "begin": 942,
+                    "end": 994
+                  }
+                ],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 705,
+              "end": 995
+            }
+          ],
+          "numErrors": 0,
+          "numWarnings": 0
+        }
+      ],
+      "numNodesWithError": 0,
+      "numNodesWithWarning": 0,
+      "numErrors": 0,
+      "numWarnings": 0,
+      "type": "Article"
+    }
+  ],
+  "numObjects": 1,
+  "html": "<html><head><script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"@id\":\"http://localhost:3000/resources/historical-sterile-device-510k#article\",\"url\":\"http://localhost:3000/resources/historical-sterile-device-510k\",\"mainEntityOfPage\":\"http://localhost:3000/resources/historical-sterile-device-510k\",\"headline\":\"510k Submissions for Sterile Devices\",\"description\":\"An EMMA International article on sterility considerations in medical-device 510(k) submissions.\",\"inLanguage\":\"en\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"EMMA International\",\"url\":\"https://emmainternational.com/\"},\"author\":{\"@type\":\"Person\",\"name\":\"Gabe Kadoo\"},\"datePublished\":\"2022-01-13\",\"citation\":[{\"@type\":\"Article\",\"headline\":\"510k Submissions for Sterile Devices\",\"url\":\"https://emmainternational.com/510k-submissions-for-sterile-devices/\",\"datePublished\":\"2022-01-13\",\"creditText\":\"Original source authors: Gabe Kadoo\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"EMMA International\"}}]}</script></head><body></body></html>",
+  "errors": [],
+  "totalNumErrors": 0,
+  "totalNumWarnings": 0
+}

@@ -1,0 +1,355 @@
+{
+  "isRendered": false,
+  "tripleGroups": [
+    {
+      "ownerSet": {},
+      "nodes": [
+        {
+          "types": [
+            {
+              "pred": "itemtype",
+              "value": "Article",
+              "errors": [],
+              "begin": 88,
+              "end": 97
+            }
+          ],
+          "typeGroup": "Article",
+          "idProperty": {
+            "pred": "urn:spore:url",
+            "value": "http://localhost:3000/resources/class-b-ivdr-planning-milestones#article",
+            "errors": [],
+            "begin": 104,
+            "end": 178
+          },
+          "errors": [],
+          "properties": [
+            {
+              "pred": "url",
+              "value": "http://localhost:3000/resources/class-b-ivdr-planning-milestones",
+              "errors": [],
+              "begin": 185,
+              "end": 251
+            },
+            {
+              "pred": "mainEntityOfPage",
+              "value": "http://localhost:3000/resources/class-b-ivdr-planning-milestones",
+              "errors": [],
+              "begin": 271,
+              "end": 337
+            },
+            {
+              "pred": "headline",
+              "value": "Class B IVDR planning starts before the final deadline",
+              "errors": [],
+              "begin": 349,
+              "end": 405
+            },
+            {
+              "pred": "description",
+              "value": "The transition end date is only one milestone in an eligible legacy device’s conformity-assessment plan.",
+              "errors": [],
+              "begin": 420,
+              "end": 528
+            },
+            {
+              "pred": "inLanguage",
+              "value": "en",
+              "errors": [],
+              "begin": 542,
+              "end": 546
+            }
+          ],
+          "nodeProperties": [
+            {
+              "pred": "publisher",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "Thing",
+                    "errors": [],
+                    "begin": 559,
+                    "end": 604
+                  }
+                ],
+                "typeGroup": "Thing",
+                "idProperty": {
+                  "pred": "urn:spore:url",
+                  "value": "http://localhost:3000/#organization",
+                  "errors": [],
+                  "begin": 566,
+                  "end": 603
+                },
+                "errors": [],
+                "properties": [],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 559,
+              "end": 604
+            },
+            {
+              "pred": "isBasedOn",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "Article",
+                    "errors": [],
+                    "begin": 626,
+                    "end": 635
+                  }
+                ],
+                "typeGroup": "Article",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "headline",
+                    "value": "Class B IVDR planning starts before the final deadline",
+                    "errors": [],
+                    "begin": 647,
+                    "end": 703
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://www.linkedin.com/feed/update/urn:li:activity:7513048648583143424/",
+                    "errors": [],
+                    "begin": 710,
+                    "end": 785
+                  },
+                  {
+                    "pred": "datePublished",
+                    "value": "2026-10-06",
+                    "errors": [],
+                    "begin": 802,
+                    "end": 814
+                  },
+                  {
+                    "pred": "creditText",
+                    "value": "Original source authors: Hopkins MedTech Compliance",
+                    "errors": [],
+                    "begin": 828,
+                    "end": 881
+                  }
+                ],
+                "nodeProperties": [
+                  {
+                    "pred": "publisher",
+                    "target": {
+                      "types": [
+                        {
+                          "pred": "itemtype",
+                          "value": "Organization",
+                          "errors": [],
+                          "begin": 903,
+                          "end": 917
+                        }
+                      ],
+                      "typeGroup": "Organization",
+                      "errors": [],
+                      "properties": [
+                        {
+                          "pred": "name",
+                          "value": "Hopkins MedTech Compliance",
+                          "errors": [],
+                          "begin": 925,
+                          "end": 953
+                        }
+                      ],
+                      "nodeProperties": [],
+                      "numErrors": 0,
+                      "numWarnings": 0
+                    },
+                    "errors": [],
+                    "begin": 894,
+                    "end": 954
+                  }
+                ],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 617,
+              "end": 955
+            },
+            {
+              "pred": "citation",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "Article",
+                    "errors": [],
+                    "begin": 977,
+                    "end": 986
+                  }
+                ],
+                "typeGroup": "Article",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "headline",
+                    "value": "Class B IVDR planning starts before the final deadline",
+                    "errors": [],
+                    "begin": 998,
+                    "end": 1054
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://www.linkedin.com/feed/update/urn:li:activity:7513048648583143424/",
+                    "errors": [],
+                    "begin": 1061,
+                    "end": 1136
+                  },
+                  {
+                    "pred": "datePublished",
+                    "value": "2026-10-06",
+                    "errors": [],
+                    "begin": 1153,
+                    "end": 1165
+                  },
+                  {
+                    "pred": "creditText",
+                    "value": "Original source authors: Hopkins MedTech Compliance",
+                    "errors": [],
+                    "begin": 1179,
+                    "end": 1232
+                  }
+                ],
+                "nodeProperties": [
+                  {
+                    "pred": "publisher",
+                    "target": {
+                      "types": [
+                        {
+                          "pred": "itemtype",
+                          "value": "Organization",
+                          "errors": [],
+                          "begin": 1254,
+                          "end": 1268
+                        }
+                      ],
+                      "typeGroup": "Organization",
+                      "errors": [],
+                      "properties": [
+                        {
+                          "pred": "name",
+                          "value": "Hopkins MedTech Compliance",
+                          "errors": [],
+                          "begin": 1276,
+                          "end": 1304
+                        }
+                      ],
+                      "nodeProperties": [],
+                      "numErrors": 0,
+                      "numWarnings": 0
+                    },
+                    "errors": [],
+                    "begin": 1245,
+                    "end": 1305
+                  }
+                ],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 968,
+              "end": 1306
+            },
+            {
+              "pred": "citation",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "CreativeWork",
+                    "errors": [],
+                    "begin": 1316,
+                    "end": 1330
+                  }
+                ],
+                "typeGroup": "CreativeWork",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "name",
+                    "value": "European Commission — IVDR transition factsheet",
+                    "errors": [],
+                    "begin": 1338,
+                    "end": 1389
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://health.ec.europa.eu/document/download/0f868301-8580-48e8-afa1-79aae839188e_en",
+                    "errors": [],
+                    "begin": 1396,
+                    "end": 1483
+                  }
+                ],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 1307,
+              "end": 1484
+            },
+            {
+              "pred": "citation",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "CreativeWork",
+                    "errors": [],
+                    "begin": 1494,
+                    "end": 1508
+                  }
+                ],
+                "typeGroup": "CreativeWork",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "name",
+                    "value": "Regulation (EU) 2024/1860",
+                    "errors": [],
+                    "begin": 1516,
+                    "end": 1543
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://eur-lex.europa.eu/eli/reg/2024/1860/oj/eng",
+                    "errors": [],
+                    "begin": 1550,
+                    "end": 1602
+                  }
+                ],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 1485,
+              "end": 1603
+            }
+          ],
+          "numErrors": 0,
+          "numWarnings": 0
+        }
+      ],
+      "numNodesWithError": 0,
+      "numNodesWithWarning": 0,
+      "numErrors": 0,
+      "numWarnings": 0,
+      "type": "Article"
+    }
+  ],
+  "numObjects": 1,
+  "html": "<html><head><script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"@id\":\"http://localhost:3000/resources/class-b-ivdr-planning-milestones#article\",\"url\":\"http://localhost:3000/resources/class-b-ivdr-planning-milestones\",\"mainEntityOfPage\":\"http://localhost:3000/resources/class-b-ivdr-planning-milestones\",\"headline\":\"Class B IVDR planning starts before the final deadline\",\"description\":\"The transition end date is only one milestone in an eligible legacy device’s conformity-assessment plan.\",\"inLanguage\":\"en\",\"publisher\":{\"@id\":\"http://localhost:3000/#organization\"},\"isBasedOn\":{\"@type\":\"Article\",\"headline\":\"Class B IVDR planning starts before the final deadline\",\"url\":\"https://www.linkedin.com/feed/update/urn:li:activity:7513048648583143424/\",\"datePublished\":\"2026-10-06\",\"creditText\":\"Original source authors: Hopkins MedTech Compliance\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Hopkins MedTech Compliance\"}},\"citation\":[{\"@type\":\"Article\",\"headline\":\"Class B IVDR planning starts before the final deadline\",\"url\":\"https://www.linkedin.com/feed/update/urn:li:activity:7513048648583143424/\",\"datePublished\":\"2026-10-06\",\"creditText\":\"Original source authors: Hopkins MedTech Compliance\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Hopkins MedTech Compliance\"}},{\"@type\":\"CreativeWork\",\"name\":\"European Commission — IVDR transition factsheet\",\"url\":\"https://health.ec.europa.eu/document/download/0f868301-8580-48e8-afa1-79aae839188e_en\"},{\"@type\":\"CreativeWork\",\"name\":\"Regulation (EU) 2024/1860\",\"url\":\"https://eur-lex.europa.eu/eli/reg/2024/1860/oj/eng\"}]}</script></head><body></body></html>",
+  "errors": [],
+  "totalNumErrors": 0,
+  "totalNumWarnings": 0
+}

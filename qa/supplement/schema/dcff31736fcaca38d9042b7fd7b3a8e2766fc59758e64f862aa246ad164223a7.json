@@ -1,0 +1,355 @@
+{
+  "isRendered": false,
+  "tripleGroups": [
+    {
+      "ownerSet": {},
+      "nodes": [
+        {
+          "types": [
+            {
+              "pred": "itemtype",
+              "value": "Article",
+              "errors": [],
+              "begin": 88,
+              "end": 97
+            }
+          ],
+          "typeGroup": "Article",
+          "idProperty": {
+            "pred": "urn:spore:url",
+            "value": "http://localhost:3000/resources/lipid-nanocarriers-skin-delivery#article",
+            "errors": [],
+            "begin": 104,
+            "end": 178
+          },
+          "errors": [],
+          "properties": [
+            {
+              "pred": "url",
+              "value": "http://localhost:3000/resources/lipid-nanocarriers-skin-delivery",
+              "errors": [],
+              "begin": 185,
+              "end": 251
+            },
+            {
+              "pred": "mainEntityOfPage",
+              "value": "http://localhost:3000/resources/lipid-nanocarriers-skin-delivery",
+              "errors": [],
+              "begin": 271,
+              "end": 337
+            },
+            {
+              "pred": "headline",
+              "value": "Particle size is one part of the skin-delivery story",
+              "errors": [],
+              "begin": 349,
+              "end": 403
+            },
+            {
+              "pred": "description",
+              "value": "A review of lipid nanosystems highlights interacting formulation and skin-barrier factors.",
+              "errors": [],
+              "begin": 418,
+              "end": 510
+            },
+            {
+              "pred": "inLanguage",
+              "value": "en",
+              "errors": [],
+              "begin": 524,
+              "end": 528
+            }
+          ],
+          "nodeProperties": [
+            {
+              "pred": "publisher",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "Thing",
+                    "errors": [],
+                    "begin": 541,
+                    "end": 586
+                  }
+                ],
+                "typeGroup": "Thing",
+                "idProperty": {
+                  "pred": "urn:spore:url",
+                  "value": "http://localhost:3000/#organization",
+                  "errors": [],
+                  "begin": 548,
+                  "end": 585
+                },
+                "errors": [],
+                "properties": [],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 541,
+              "end": 586
+            },
+            {
+              "pred": "isBasedOn",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "Article",
+                    "errors": [],
+                    "begin": 608,
+                    "end": 617
+                  }
+                ],
+                "typeGroup": "Article",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "headline",
+                    "value": "Particle size is one part of the skin-delivery story",
+                    "errors": [],
+                    "begin": 629,
+                    "end": 683
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://www.linkedin.com/feed/update/urn:li:activity:7513229325987434496/",
+                    "errors": [],
+                    "begin": 690,
+                    "end": 765
+                  },
+                  {
+                    "pred": "datePublished",
+                    "value": "2026-10-06",
+                    "errors": [],
+                    "begin": 782,
+                    "end": 794
+                  },
+                  {
+                    "pred": "creditText",
+                    "value": "Original source authors: Hopkins MedTech Compliance",
+                    "errors": [],
+                    "begin": 808,
+                    "end": 861
+                  }
+                ],
+                "nodeProperties": [
+                  {
+                    "pred": "publisher",
+                    "target": {
+                      "types": [
+                        {
+                          "pred": "itemtype",
+                          "value": "Organization",
+                          "errors": [],
+                          "begin": 883,
+                          "end": 897
+                        }
+                      ],
+                      "typeGroup": "Organization",
+                      "errors": [],
+                      "properties": [
+                        {
+                          "pred": "name",
+                          "value": "Hopkins MedTech Compliance",
+                          "errors": [],
+                          "begin": 905,
+                          "end": 933
+                        }
+                      ],
+                      "nodeProperties": [],
+                      "numErrors": 0,
+                      "numWarnings": 0
+                    },
+                    "errors": [],
+                    "begin": 874,
+                    "end": 934
+                  }
+                ],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 599,
+              "end": 935
+            },
+            {
+              "pred": "citation",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "Article",
+                    "errors": [],
+                    "begin": 957,
+                    "end": 966
+                  }
+                ],
+                "typeGroup": "Article",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "headline",
+                    "value": "Particle size is one part of the skin-delivery story",
+                    "errors": [],
+                    "begin": 978,
+                    "end": 1032
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://www.linkedin.com/feed/update/urn:li:activity:7513229325987434496/",
+                    "errors": [],
+                    "begin": 1039,
+                    "end": 1114
+                  },
+                  {
+                    "pred": "datePublished",
+                    "value": "2026-10-06",
+                    "errors": [],
+                    "begin": 1131,
+                    "end": 1143
+                  },
+                  {
+                    "pred": "creditText",
+                    "value": "Original source authors: Hopkins MedTech Compliance",
+                    "errors": [],
+                    "begin": 1157,
+                    "end": 1210
+                  }
+                ],
+                "nodeProperties": [
+                  {
+                    "pred": "publisher",
+                    "target": {
+                      "types": [
+                        {
+                          "pred": "itemtype",
+                          "value": "Organization",
+                          "errors": [],
+                          "begin": 1232,
+                          "end": 1246
+                        }
+                      ],
+                      "typeGroup": "Organization",
+                      "errors": [],
+                      "properties": [
+                        {
+                          "pred": "name",
+                          "value": "Hopkins MedTech Compliance",
+                          "errors": [],
+                          "begin": 1254,
+                          "end": 1282
+                        }
+                      ],
+                      "nodeProperties": [],
+                      "numErrors": 0,
+                      "numWarnings": 0
+                    },
+                    "errors": [],
+                    "begin": 1223,
+                    "end": 1283
+                  }
+                ],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 948,
+              "end": 1284
+            },
+            {
+              "pred": "citation",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "CreativeWork",
+                    "errors": [],
+                    "begin": 1294,
+                    "end": 1308
+                  }
+                ],
+                "typeGroup": "CreativeWork",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "name",
+                    "value": "Original review — Pharmaceutics, 2023",
+                    "errors": [],
+                    "begin": 1316,
+                    "end": 1357
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://doi.org/10.3390/pharmaceutics15020656",
+                    "errors": [],
+                    "begin": 1364,
+                    "end": 1411
+                  }
+                ],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 1285,
+              "end": 1412
+            },
+            {
+              "pred": "citation",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "CreativeWork",
+                    "errors": [],
+                    "begin": 1422,
+                    "end": 1436
+                  }
+                ],
+                "typeGroup": "CreativeWork",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "name",
+                    "value": "PubMed abstract and bibliographic record",
+                    "errors": [],
+                    "begin": 1444,
+                    "end": 1486
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://pubmed.ncbi.nlm.nih.gov/36839978/",
+                    "errors": [],
+                    "begin": 1493,
+                    "end": 1536
+                  }
+                ],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 1413,
+              "end": 1537
+            }
+          ],
+          "numErrors": 0,
+          "numWarnings": 0
+        }
+      ],
+      "numNodesWithError": 0,
+      "numNodesWithWarning": 0,
+      "numErrors": 0,
+      "numWarnings": 0,
+      "type": "Article"
+    }
+  ],
+  "numObjects": 1,
+  "html": "<html><head><script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"@id\":\"http://localhost:3000/resources/lipid-nanocarriers-skin-delivery#article\",\"url\":\"http://localhost:3000/resources/lipid-nanocarriers-skin-delivery\",\"mainEntityOfPage\":\"http://localhost:3000/resources/lipid-nanocarriers-skin-delivery\",\"headline\":\"Particle size is one part of the skin-delivery story\",\"description\":\"A review of lipid nanosystems highlights interacting formulation and skin-barrier factors.\",\"inLanguage\":\"en\",\"publisher\":{\"@id\":\"http://localhost:3000/#organization\"},\"isBasedOn\":{\"@type\":\"Article\",\"headline\":\"Particle size is one part of the skin-delivery story\",\"url\":\"https://www.linkedin.com/feed/update/urn:li:activity:7513229325987434496/\",\"datePublished\":\"2026-10-06\",\"creditText\":\"Original source authors: Hopkins MedTech Compliance\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Hopkins MedTech Compliance\"}},\"citation\":[{\"@type\":\"Article\",\"headline\":\"Particle size is one part of the skin-delivery story\",\"url\":\"https://www.linkedin.com/feed/update/urn:li:activity:7513229325987434496/\",\"datePublished\":\"2026-10-06\",\"creditText\":\"Original source authors: Hopkins MedTech Compliance\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Hopkins MedTech Compliance\"}},{\"@type\":\"CreativeWork\",\"name\":\"Original review — Pharmaceutics, 2023\",\"url\":\"https://doi.org/10.3390/pharmaceutics15020656\"},{\"@type\":\"CreativeWork\",\"name\":\"PubMed abstract and bibliographic record\",\"url\":\"https://pubmed.ncbi.nlm.nih.gov/36839978/\"}]}</script></head><body></body></html>",
+  "errors": [],
+  "totalNumErrors": 0,
+  "totalNumWarnings": 0
+}

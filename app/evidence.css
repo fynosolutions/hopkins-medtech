@@ -35,3 +35,11 @@
 .approved-experiences dl > div { margin-block: 16px; }
 .approved-experiences dt { font-weight: 600; }
 .approved-experiences dd { margin: 6px 0 0; }
+
+.page-facts { margin: 28px 0 40px; }
+.page-facts h2 { margin-bottom: 20px; }
+.careers-faq > section { padding: 24px 0; border-bottom: 1px solid #cedbd4; }
+.careers-faq p { max-width: 850px; margin-block: 16px; }
+.article-source-meta { margin-block: 16px 28px; overflow-wrap: anywhere; }
+.article-source-meta p { margin-top: 10px; }
+.article-source-meta a, .careers-faq a { text-decoration: underline; }
