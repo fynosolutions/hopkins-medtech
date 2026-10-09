@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
-import {organizationSchema, serializeJsonLd, jobPostingSchema, articleSchema} from '../lib/structured-data.mjs';
+import {organizationSchema, serializeJsonLd, jobPostingSchema, articleSchema, serviceSchema} from '../lib/structured-data.mjs';
 
 const company = JSON.parse(fs.readFileSync(new URL('../content/company.json', import.meta.url), 'utf8'));
 const origin = 'https://website.example';
@@ -58,4 +58,15 @@ test('historical reprints preserve original author, publisher, date and source',
   assert.equal(data.publisher.name, 'EMMA International');
   assert.equal(data.datePublished, item.originalPublicationDate);
   assert.equal(data.citation[0].url, sourceUrl);
+});
+
+test('service markup describes HMC services without assigning partner credentials', () => {
+  const services = JSON.parse(fs.readFileSync(new URL('../content/site.json', import.meta.url), 'utf8')).services;
+  for (const service of services) {
+    const data = serviceSchema(service, origin);
+    assert.equal(data.provider['@id'], origin + '/#organization');
+    assert.equal(data.hasCredential, undefined);
+    assert.doesNotMatch(service.html, /Our accreditation with|more than 120 laboratories|FDA-approved Master Device Profile|advanced technology, and full certifications/);
+  }
+  assert.match(services.find(x => x.slug === 'laboratory-services').html, /distinct entities/);
 });

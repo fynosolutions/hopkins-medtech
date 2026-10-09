@@ -31,9 +31,12 @@ def validate(item):
     request = urllib.request.Request('https://validator.schema.org/validate', data=urllib.parse.urlencode({'html': html}).encode(), headers={'User-Agent': 'HMC-JSON-LD-validation'})
     record = {'sha256': digest, 'types': entry['types'], 'pages': entry['pages']}
     try:
-        with urllib.request.urlopen(request, timeout=40) as response:
-            text = response.read().decode()
-        result = json.loads(text[text.index('{'):])
+        saved = output / (digest + '.json')
+        result = json.loads(saved.read_text(encoding='utf-8')) if saved.exists() else None
+        if result is None or result.get('totalNumErrors'):
+            with urllib.request.urlopen(request, timeout=40) as response:
+                text = response.read().decode()
+            result = json.loads(text[text.index('{'):])
         record.update(errors=result['totalNumErrors'], warnings=result['totalNumWarnings'])
         (output / (digest + '.json')).write_text(json.dumps(result, ensure_ascii=False, indent=2), encoding='utf-8')
     except Exception as error:

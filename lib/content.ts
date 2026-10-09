@@ -13,6 +13,12 @@ export const coreServices = [
  {name:'Market Entry',label:'Your next market, closer.',description:'Practical support for Chinese companies entering the United States and Europe.',href:'/services/market-research',icon:'globe'},
  {name:'Laboratory Services',label:'Science that supports decisions.',description:'Explore diagnostic validation and laboratory support through associated businesses and partners.',href:'/services/laboratory-services',icon:'flask'},
 ];
+export const homeServices = [
+ {name:'Clinical performance studies',label:'Clinical study services',description:'HMC supports clinical performance studies for medical devices and in vitro diagnostics (IVD).',href:'/services/clinical-study',icon:'activity'},
+ {name:'FDA and EU submissions',label:'Regulatory submission support',description:'HMC supports clients preparing FDA 510(k), EUA and European IVDR submissions.',href:'/services/regulatory-submission',icon:'shield'},
+ {name:'Quality and compliance systems',label:'Quality system services',description:'HMC supports quality system documentation and compliance work for medical technology companies.',href:'/services/quality-system',icon:'microscope'},
+ {name:'Laboratory support through partners',label:'Laboratory service arrangements',description:'Laboratory support is coordinated through associated businesses and partners, with the provider and scope confirmed for each engagement.',href:'/services/laboratory-services',icon:'flask'},
+];
 export const plain = (s:string) => s.replace(/<[^>]*>/g,' ').replace(/\s+/g,' ').trim();
 export function allRoutes(){return [...originalRoutes,'/', '/about','/about/team','/services','/industries','/resources','/careers','/contact','/search','/privacy',...site.services.map(x=>x.route),...site.industries.map(x=>x.route),...allPeople.map(x=>'/about/team/'+x.slug),...site.jobs.map(x=>'/careers/'+x.slug),...resources.map(x=>'/resources/'+x.slug)];}
 export function searchRecords(){return [

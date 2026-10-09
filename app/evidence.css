@@ -24,3 +24,7 @@
   .evidence-list > li { grid-template-columns: 1fr; gap: 8px; }
   .evidence-cards { grid-template-columns: 1fr; }
 }
+
+.home-service-grid { grid-template-columns: repeat(4,minmax(0,1fr)); }
+@media(max-width:1100px) { .home-service-grid { grid-template-columns: repeat(2,minmax(0,1fr)); } }
+@media(max-width:650px) { .home-service-grid { grid-template-columns: 1fr; } }
