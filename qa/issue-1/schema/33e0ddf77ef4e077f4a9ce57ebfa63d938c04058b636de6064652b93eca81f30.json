@@ -1,0 +1,233 @@
+{
+  "isRendered": false,
+  "tripleGroups": [
+    {
+      "ownerSet": {},
+      "nodes": [
+        {
+          "types": [
+            {
+              "pred": "itemtype",
+              "value": "Article",
+              "errors": [],
+              "begin": 88,
+              "end": 97
+            }
+          ],
+          "typeGroup": "Article",
+          "idProperty": {
+            "pred": "urn:spore:url",
+            "value": "http://localhost:3000/resources/historical-clinical-manager-2023#article",
+            "errors": [],
+            "begin": 104,
+            "end": 178
+          },
+          "errors": [],
+          "properties": [
+            {
+              "pred": "url",
+              "value": "http://localhost:3000/resources/historical-clinical-manager-2023",
+              "errors": [],
+              "begin": 185,
+              "end": 251
+            },
+            {
+              "pred": "mainEntityOfPage",
+              "value": "http://localhost:3000/resources/historical-clinical-manager-2023",
+              "errors": [],
+              "begin": 271,
+              "end": 337
+            },
+            {
+              "pred": "headline",
+              "value": "Clinical Manager — historical vacancy (2023)",
+              "errors": [],
+              "begin": 349,
+              "end": 397
+            },
+            {
+              "pred": "description",
+              "value": "The original Clinical Manager advertisement, dated 27 September 2023. Current vacancy status is not established.",
+              "errors": [],
+              "begin": 412,
+              "end": 526
+            },
+            {
+              "pred": "inLanguage",
+              "value": "en",
+              "errors": [],
+              "begin": 540,
+              "end": 544
+            },
+            {
+              "pred": "datePublished",
+              "value": "2023-09-27",
+              "errors": [],
+              "begin": 684,
+              "end": 696
+            }
+          ],
+          "nodeProperties": [
+            {
+              "pred": "publisher",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "Thing",
+                    "errors": [],
+                    "begin": 557,
+                    "end": 602
+                  }
+                ],
+                "typeGroup": "Thing",
+                "idProperty": {
+                  "pred": "urn:spore:url",
+                  "value": "http://localhost:3000/#organization",
+                  "errors": [],
+                  "begin": 564,
+                  "end": 601
+                },
+                "errors": [],
+                "properties": [],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 557,
+              "end": 602
+            },
+            {
+              "pred": "author",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "Organization",
+                    "errors": [],
+                    "begin": 621,
+                    "end": 635
+                  }
+                ],
+                "typeGroup": "Organization",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "name",
+                    "value": "Hopkins MedTech Group",
+                    "errors": [],
+                    "begin": 643,
+                    "end": 666
+                  }
+                ],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 612,
+              "end": 667
+            },
+            {
+              "pred": "citation",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "Article",
+                    "errors": [],
+                    "begin": 718,
+                    "end": 727
+                  }
+                ],
+                "typeGroup": "Article",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "headline",
+                    "value": "Clinical Manager — historical vacancy (2023)",
+                    "errors": [],
+                    "begin": 739,
+                    "end": 787
+                  },
+                  {
+                    "pred": "url",
+                    "value": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=139",
+                    "errors": [],
+                    "begin": 794,
+                    "end": 848
+                  },
+                  {
+                    "pred": "datePublished",
+                    "value": "2023-09-27",
+                    "errors": [],
+                    "begin": 865,
+                    "end": 877
+                  },
+                  {
+                    "pred": "creditText",
+                    "value": "Original source authors: Hopkins MedTech Group",
+                    "errors": [],
+                    "begin": 891,
+                    "end": 939
+                  }
+                ],
+                "nodeProperties": [
+                  {
+                    "pred": "publisher",
+                    "target": {
+                      "types": [
+                        {
+                          "pred": "itemtype",
+                          "value": "Organization",
+                          "errors": [],
+                          "begin": 961,
+                          "end": 975
+                        }
+                      ],
+                      "typeGroup": "Organization",
+                      "errors": [],
+                      "properties": [
+                        {
+                          "pred": "name",
+                          "value": "Hopkins MedTech",
+                          "errors": [],
+                          "begin": 983,
+                          "end": 1000
+                        }
+                      ],
+                      "nodeProperties": [],
+                      "numErrors": 0,
+                      "numWarnings": 0
+                    },
+                    "errors": [],
+                    "begin": 952,
+                    "end": 1001
+                  }
+                ],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 709,
+              "end": 1002
+            }
+          ],
+          "numErrors": 0,
+          "numWarnings": 0
+        }
+      ],
+      "numNodesWithError": 0,
+      "numNodesWithWarning": 0,
+      "numErrors": 0,
+      "numWarnings": 0,
+      "type": "Article"
+    }
+  ],
+  "numObjects": 1,
+  "html": "<html><head><script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"@id\":\"http://localhost:3000/resources/historical-clinical-manager-2023#article\",\"url\":\"http://localhost:3000/resources/historical-clinical-manager-2023\",\"mainEntityOfPage\":\"http://localhost:3000/resources/historical-clinical-manager-2023\",\"headline\":\"Clinical Manager — historical vacancy (2023)\",\"description\":\"The original Clinical Manager advertisement, dated 27 September 2023. Current vacancy status is not established.\",\"inLanguage\":\"en\",\"publisher\":{\"@id\":\"http://localhost:3000/#organization\"},\"author\":{\"@type\":\"Organization\",\"name\":\"Hopkins MedTech Group\"},\"datePublished\":\"2023-09-27\",\"citation\":[{\"@type\":\"Article\",\"headline\":\"Clinical Manager — historical vacancy (2023)\",\"url\":\"http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=139\",\"datePublished\":\"2023-09-27\",\"creditText\":\"Original source authors: Hopkins MedTech Group\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Hopkins MedTech\"}}]}</script></head><body></body></html>",
+  "errors": [],
+  "totalNumErrors": 0,
+  "totalNumWarnings": 0
+}

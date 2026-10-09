@@ -1,0 +1,317 @@
+{
+  "isRendered": false,
+  "tripleGroups": [
+    {
+      "ownerSet": {},
+      "nodes": [
+        {
+          "types": [
+            {
+              "pred": "itemtype",
+              "value": "Article",
+              "errors": [],
+              "begin": 88,
+              "end": 97
+            }
+          ],
+          "typeGroup": "Article",
+          "idProperty": {
+            "pred": "urn:spore:url",
+            "value": "http://localhost:3000/resources/design-and-implementation-of-a-digital-site-less-clinical-study-of-serial-rapid-antigen-testing-to-identify-asymptomatic-sars-cov-2-infection#article",
+            "errors": [],
+            "begin": 104,
+            "end": 287
+          },
+          "errors": [],
+          "properties": [
+            {
+              "pred": "url",
+              "value": "http://localhost:3000/resources/design-and-implementation-of-a-digital-site-less-clinical-study-of-serial-rapid-antigen-testing-to-identify-asymptomatic-sars-cov-2-infection",
+              "errors": [],
+              "begin": 294,
+              "end": 469
+            },
+            {
+              "pred": "mainEntityOfPage",
+              "value": "http://localhost:3000/resources/design-and-implementation-of-a-digital-site-less-clinical-study-of-serial-rapid-antigen-testing-to-identify-asymptomatic-sars-cov-2-infection",
+              "errors": [],
+              "begin": 489,
+              "end": 664
+            },
+            {
+              "pred": "headline",
+              "value": "Design and implementation of a digital site-less clinical study of serial rapid antigen testing to identify asymptomatic SARS-CoV-2 infection",
+              "errors": [],
+              "begin": 676,
+              "end": 819
+            },
+            {
+              "pred": "description",
+              "value": "What a decentralized diagnostic study can teach us about enrollment, follow-up and paired sample collection.",
+              "errors": [],
+              "begin": 834,
+              "end": 944
+            },
+            {
+              "pred": "inLanguage",
+              "value": "en",
+              "errors": [],
+              "begin": 958,
+              "end": 962
+            }
+          ],
+          "nodeProperties": [
+            {
+              "pred": "publisher",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "Thing",
+                    "errors": [],
+                    "begin": 975,
+                    "end": 1020
+                  }
+                ],
+                "typeGroup": "Thing",
+                "idProperty": {
+                  "pred": "urn:spore:url",
+                  "value": "http://localhost:3000/#organization",
+                  "errors": [],
+                  "begin": 982,
+                  "end": 1019
+                },
+                "errors": [],
+                "properties": [],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 975,
+              "end": 1020
+            },
+            {
+              "pred": "isBasedOn",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "ScholarlyArticle",
+                    "errors": [],
+                    "begin": 1042,
+                    "end": 1060
+                  }
+                ],
+                "typeGroup": "ScholarlyArticle",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "headline",
+                    "value": "Design and implementation of a digital site-less clinical study of serial rapid antigen testing to identify asymptomatic SARS-CoV-2 infection",
+                    "errors": [],
+                    "begin": 1072,
+                    "end": 1215
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://doi.org/10.1017/cts.2023.540",
+                    "errors": [],
+                    "begin": 1222,
+                    "end": 1260
+                  },
+                  {
+                    "pred": "datePublished",
+                    "value": "2023-05-10",
+                    "errors": [],
+                    "begin": 1277,
+                    "end": 1289
+                  },
+                  {
+                    "pred": "creditText",
+                    "value": "Original source authors: Soni A, Herbert C, Pretz C, Stamegna P, Filippaios A, Shi Q, Suvarna T, Harman E, Schrader S, Nowak C, Schramm E, Kheterpal V, Behar S, Tarrant S, Ferranto J, Hafer N, Robinson M, Achenbach C, Murphy RL, Manabe YC, Gibson L, Barton B, O'Connor L, Fahey N, Orvek E, Lazar P, Ayturk D, Wong S, Zai A, Cashman L, Rao LV, Luzuriaga K, Lemon S, Blodgett A, Trippe E, Barcus M, Goldberg B, Roth K, Stenzel T, Heetderks W, Broach J, McManus D.",
+                    "errors": [],
+                    "begin": 1303,
+                    "end": 1766
+                  }
+                ],
+                "nodeProperties": [
+                  {
+                    "pred": "publisher",
+                    "target": {
+                      "types": [
+                        {
+                          "pred": "itemtype",
+                          "value": "Organization",
+                          "errors": [],
+                          "begin": 1788,
+                          "end": 1802
+                        }
+                      ],
+                      "typeGroup": "Organization",
+                      "errors": [],
+                      "properties": [
+                        {
+                          "pred": "name",
+                          "value": "Journal of clinical and translational science",
+                          "errors": [],
+                          "begin": 1810,
+                          "end": 1857
+                        }
+                      ],
+                      "nodeProperties": [],
+                      "numErrors": 0,
+                      "numWarnings": 0
+                    },
+                    "errors": [],
+                    "begin": 1779,
+                    "end": 1858
+                  }
+                ],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 1033,
+              "end": 1859
+            },
+            {
+              "pred": "citation",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "ScholarlyArticle",
+                    "errors": [],
+                    "begin": 1881,
+                    "end": 1899
+                  }
+                ],
+                "typeGroup": "ScholarlyArticle",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "headline",
+                    "value": "Design and implementation of a digital site-less clinical study of serial rapid antigen testing to identify asymptomatic SARS-CoV-2 infection",
+                    "errors": [],
+                    "begin": 1911,
+                    "end": 2054
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://doi.org/10.1017/cts.2023.540",
+                    "errors": [],
+                    "begin": 2061,
+                    "end": 2099
+                  },
+                  {
+                    "pred": "datePublished",
+                    "value": "2023-05-10",
+                    "errors": [],
+                    "begin": 2116,
+                    "end": 2128
+                  },
+                  {
+                    "pred": "creditText",
+                    "value": "Original source authors: Soni A, Herbert C, Pretz C, Stamegna P, Filippaios A, Shi Q, Suvarna T, Harman E, Schrader S, Nowak C, Schramm E, Kheterpal V, Behar S, Tarrant S, Ferranto J, Hafer N, Robinson M, Achenbach C, Murphy RL, Manabe YC, Gibson L, Barton B, O'Connor L, Fahey N, Orvek E, Lazar P, Ayturk D, Wong S, Zai A, Cashman L, Rao LV, Luzuriaga K, Lemon S, Blodgett A, Trippe E, Barcus M, Goldberg B, Roth K, Stenzel T, Heetderks W, Broach J, McManus D.",
+                    "errors": [],
+                    "begin": 2142,
+                    "end": 2605
+                  }
+                ],
+                "nodeProperties": [
+                  {
+                    "pred": "publisher",
+                    "target": {
+                      "types": [
+                        {
+                          "pred": "itemtype",
+                          "value": "Organization",
+                          "errors": [],
+                          "begin": 2627,
+                          "end": 2641
+                        }
+                      ],
+                      "typeGroup": "Organization",
+                      "errors": [],
+                      "properties": [
+                        {
+                          "pred": "name",
+                          "value": "Journal of clinical and translational science",
+                          "errors": [],
+                          "begin": 2649,
+                          "end": 2696
+                        }
+                      ],
+                      "nodeProperties": [],
+                      "numErrors": 0,
+                      "numWarnings": 0
+                    },
+                    "errors": [],
+                    "begin": 2618,
+                    "end": 2697
+                  }
+                ],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 1872,
+              "end": 2698
+            },
+            {
+              "pred": "citation",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "CreativeWork",
+                    "errors": [],
+                    "begin": 2708,
+                    "end": 2722
+                  }
+                ],
+                "typeGroup": "CreativeWork",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "name",
+                    "value": "Bibliographic record and abstract on PubMed",
+                    "errors": [],
+                    "begin": 2730,
+                    "end": 2775
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://pubmed.ncbi.nlm.nih.gov/37313378/",
+                    "errors": [],
+                    "begin": 2782,
+                    "end": 2825
+                  }
+                ],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 2699,
+              "end": 2826
+            }
+          ],
+          "numErrors": 0,
+          "numWarnings": 0
+        }
+      ],
+      "numNodesWithError": 0,
+      "numNodesWithWarning": 0,
+      "numErrors": 0,
+      "numWarnings": 0,
+      "type": "Article"
+    }
+  ],
+  "numObjects": 1,
+  "html": "<html><head><script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"@id\":\"http://localhost:3000/resources/design-and-implementation-of-a-digital-site-less-clinical-study-of-serial-rapid-antigen-testing-to-identify-asymptomatic-sars-cov-2-infection#article\",\"url\":\"http://localhost:3000/resources/design-and-implementation-of-a-digital-site-less-clinical-study-of-serial-rapid-antigen-testing-to-identify-asymptomatic-sars-cov-2-infection\",\"mainEntityOfPage\":\"http://localhost:3000/resources/design-and-implementation-of-a-digital-site-less-clinical-study-of-serial-rapid-antigen-testing-to-identify-asymptomatic-sars-cov-2-infection\",\"headline\":\"Design and implementation of a digital site-less clinical study of serial rapid antigen testing to identify asymptomatic SARS-CoV-2 infection\",\"description\":\"What a decentralized diagnostic study can teach us about enrollment, follow-up and paired sample collection.\",\"inLanguage\":\"en\",\"publisher\":{\"@id\":\"http://localhost:3000/#organization\"},\"isBasedOn\":{\"@type\":\"ScholarlyArticle\",\"headline\":\"Design and implementation of a digital site-less clinical study of serial rapid antigen testing to identify asymptomatic SARS-CoV-2 infection\",\"url\":\"https://doi.org/10.1017/cts.2023.540\",\"datePublished\":\"2023-05-10\",\"creditText\":\"Original source authors: Soni A, Herbert C, Pretz C, Stamegna P, Filippaios A, Shi Q, Suvarna T, Harman E, Schrader S, Nowak C, Schramm E, Kheterpal V, Behar S, Tarrant S, Ferranto J, Hafer N, Robinson M, Achenbach C, Murphy RL, Manabe YC, Gibson L, Barton B, O'Connor L, Fahey N, Orvek E, Lazar P, Ayturk D, Wong S, Zai A, Cashman L, Rao LV, Luzuriaga K, Lemon S, Blodgett A, Trippe E, Barcus M, Goldberg B, Roth K, Stenzel T, Heetderks W, Broach J, McManus D.\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Journal of clinical and translational science\"}},\"citation\":[{\"@type\":\"ScholarlyArticle\",\"headline\":\"Design and implementation of a digital site-less clinical study of serial rapid antigen testing to identify asymptomatic SARS-CoV-2 infection\",\"url\":\"https://doi.org/10.1017/cts.2023.540\",\"datePublished\":\"2023-05-10\",\"creditText\":\"Original source authors: Soni A, Herbert C, Pretz C, Stamegna P, Filippaios A, Shi Q, Suvarna T, Harman E, Schrader S, Nowak C, Schramm E, Kheterpal V, Behar S, Tarrant S, Ferranto J, Hafer N, Robinson M, Achenbach C, Murphy RL, Manabe YC, Gibson L, Barton B, O'Connor L, Fahey N, Orvek E, Lazar P, Ayturk D, Wong S, Zai A, Cashman L, Rao LV, Luzuriaga K, Lemon S, Blodgett A, Trippe E, Barcus M, Goldberg B, Roth K, Stenzel T, Heetderks W, Broach J, McManus D.\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Journal of clinical and translational science\"}},{\"@type\":\"CreativeWork\",\"name\":\"Bibliographic record and abstract on PubMed\",\"url\":\"https://pubmed.ncbi.nlm.nih.gov/37313378/\"}]}</script></head><body></body></html>",
+  "errors": [],
+  "totalNumErrors": 0,
+  "totalNumWarnings": 0
+}

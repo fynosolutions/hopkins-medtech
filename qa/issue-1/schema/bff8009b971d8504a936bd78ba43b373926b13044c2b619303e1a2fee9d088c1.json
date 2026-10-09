@@ -1,0 +1,393 @@
+{
+  "isRendered": false,
+  "tripleGroups": [
+    {
+      "ownerSet": {},
+      "nodes": [
+        {
+          "types": [
+            {
+              "pred": "itemtype",
+              "value": "Article",
+              "errors": [],
+              "begin": 88,
+              "end": 97
+            }
+          ],
+          "typeGroup": "Article",
+          "idProperty": {
+            "pred": "urn:spore:url",
+            "value": "http://localhost:3000/resources/hmc-questions-fda-town-halls-2022#article",
+            "errors": [],
+            "begin": 104,
+            "end": 179
+          },
+          "errors": [],
+          "properties": [
+            {
+              "pred": "url",
+              "value": "http://localhost:3000/resources/hmc-questions-fda-town-halls-2022",
+              "errors": [],
+              "begin": 186,
+              "end": 253
+            },
+            {
+              "pred": "mainEntityOfPage",
+              "value": "http://localhost:3000/resources/hmc-questions-fda-town-halls-2022",
+              "errors": [],
+              "begin": 273,
+              "end": 340
+            },
+            {
+              "pred": "headline",
+              "value": "HMC questions in the FDA’s 2022 IVD town halls",
+              "errors": [],
+              "begin": 352,
+              "end": 402
+            },
+            {
+              "pred": "description",
+              "value": "Public transcripts document questions about respiratory diagnostic studies, sample handling and home collection.",
+              "errors": [],
+              "begin": 417,
+              "end": 531
+            },
+            {
+              "pred": "inLanguage",
+              "value": "en",
+              "errors": [],
+              "begin": 545,
+              "end": 549
+            }
+          ],
+          "nodeProperties": [
+            {
+              "pred": "publisher",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "Thing",
+                    "errors": [],
+                    "begin": 562,
+                    "end": 607
+                  }
+                ],
+                "typeGroup": "Thing",
+                "idProperty": {
+                  "pred": "urn:spore:url",
+                  "value": "http://localhost:3000/#organization",
+                  "errors": [],
+                  "begin": 569,
+                  "end": 606
+                },
+                "errors": [],
+                "properties": [],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 562,
+              "end": 607
+            },
+            {
+              "pred": "isBasedOn",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "Article",
+                    "errors": [],
+                    "begin": 629,
+                    "end": 638
+                  }
+                ],
+                "typeGroup": "Article",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "headline",
+                    "value": "HMC questions in the FDA’s 2022 IVD town halls",
+                    "errors": [],
+                    "begin": 650,
+                    "end": 700
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://www.linkedin.com/feed/update/urn:li:activity:7513130950092865536/",
+                    "errors": [],
+                    "begin": 707,
+                    "end": 782
+                  },
+                  {
+                    "pred": "datePublished",
+                    "value": "2026-10-06",
+                    "errors": [],
+                    "begin": 799,
+                    "end": 811
+                  },
+                  {
+                    "pred": "creditText",
+                    "value": "Original source authors: Hopkins MedTech Compliance",
+                    "errors": [],
+                    "begin": 825,
+                    "end": 878
+                  }
+                ],
+                "nodeProperties": [
+                  {
+                    "pred": "publisher",
+                    "target": {
+                      "types": [
+                        {
+                          "pred": "itemtype",
+                          "value": "Organization",
+                          "errors": [],
+                          "begin": 900,
+                          "end": 914
+                        }
+                      ],
+                      "typeGroup": "Organization",
+                      "errors": [],
+                      "properties": [
+                        {
+                          "pred": "name",
+                          "value": "Hopkins MedTech Compliance",
+                          "errors": [],
+                          "begin": 922,
+                          "end": 950
+                        }
+                      ],
+                      "nodeProperties": [],
+                      "numErrors": 0,
+                      "numWarnings": 0
+                    },
+                    "errors": [],
+                    "begin": 891,
+                    "end": 951
+                  }
+                ],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 620,
+              "end": 952
+            },
+            {
+              "pred": "citation",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "Article",
+                    "errors": [],
+                    "begin": 974,
+                    "end": 983
+                  }
+                ],
+                "typeGroup": "Article",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "headline",
+                    "value": "HMC questions in the FDA’s 2022 IVD town halls",
+                    "errors": [],
+                    "begin": 995,
+                    "end": 1045
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://www.linkedin.com/feed/update/urn:li:activity:7513130950092865536/",
+                    "errors": [],
+                    "begin": 1052,
+                    "end": 1127
+                  },
+                  {
+                    "pred": "datePublished",
+                    "value": "2026-10-06",
+                    "errors": [],
+                    "begin": 1144,
+                    "end": 1156
+                  },
+                  {
+                    "pred": "creditText",
+                    "value": "Original source authors: Hopkins MedTech Compliance",
+                    "errors": [],
+                    "begin": 1170,
+                    "end": 1223
+                  }
+                ],
+                "nodeProperties": [
+                  {
+                    "pred": "publisher",
+                    "target": {
+                      "types": [
+                        {
+                          "pred": "itemtype",
+                          "value": "Organization",
+                          "errors": [],
+                          "begin": 1245,
+                          "end": 1259
+                        }
+                      ],
+                      "typeGroup": "Organization",
+                      "errors": [],
+                      "properties": [
+                        {
+                          "pred": "name",
+                          "value": "Hopkins MedTech Compliance",
+                          "errors": [],
+                          "begin": 1267,
+                          "end": 1295
+                        }
+                      ],
+                      "nodeProperties": [],
+                      "numErrors": 0,
+                      "numWarnings": 0
+                    },
+                    "errors": [],
+                    "begin": 1236,
+                    "end": 1296
+                  }
+                ],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 965,
+              "end": 1297
+            },
+            {
+              "pred": "citation",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "CreativeWork",
+                    "errors": [],
+                    "begin": 1307,
+                    "end": 1321
+                  }
+                ],
+                "typeGroup": "CreativeWork",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "name",
+                    "value": "FDA IVD town hall — 18 May 2022",
+                    "errors": [],
+                    "begin": 1329,
+                    "end": 1364
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://www.fda.gov/media/158755/download",
+                    "errors": [],
+                    "begin": 1371,
+                    "end": 1414
+                  }
+                ],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 1298,
+              "end": 1415
+            },
+            {
+              "pred": "citation",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "CreativeWork",
+                    "errors": [],
+                    "begin": 1425,
+                    "end": 1439
+                  }
+                ],
+                "typeGroup": "CreativeWork",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "name",
+                    "value": "FDA IVD town hall — 24 August 2022",
+                    "errors": [],
+                    "begin": 1447,
+                    "end": 1485
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://www.fda.gov/media/161382/download",
+                    "errors": [],
+                    "begin": 1492,
+                    "end": 1535
+                  }
+                ],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 1416,
+              "end": 1536
+            },
+            {
+              "pred": "citation",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "CreativeWork",
+                    "errors": [],
+                    "begin": 1546,
+                    "end": 1560
+                  }
+                ],
+                "typeGroup": "CreativeWork",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "name",
+                    "value": "FDA monkeypox town hall — 21 September 2022",
+                    "errors": [],
+                    "begin": 1568,
+                    "end": 1615
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://www.fda.gov/media/161863/download",
+                    "errors": [],
+                    "begin": 1622,
+                    "end": 1665
+                  }
+                ],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 1537,
+              "end": 1666
+            }
+          ],
+          "numErrors": 0,
+          "numWarnings": 0
+        }
+      ],
+      "numNodesWithError": 0,
+      "numNodesWithWarning": 0,
+      "numErrors": 0,
+      "numWarnings": 0,
+      "type": "Article"
+    }
+  ],
+  "numObjects": 1,
+  "html": "<html><head><script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"@id\":\"http://localhost:3000/resources/hmc-questions-fda-town-halls-2022#article\",\"url\":\"http://localhost:3000/resources/hmc-questions-fda-town-halls-2022\",\"mainEntityOfPage\":\"http://localhost:3000/resources/hmc-questions-fda-town-halls-2022\",\"headline\":\"HMC questions in the FDA’s 2022 IVD town halls\",\"description\":\"Public transcripts document questions about respiratory diagnostic studies, sample handling and home collection.\",\"inLanguage\":\"en\",\"publisher\":{\"@id\":\"http://localhost:3000/#organization\"},\"isBasedOn\":{\"@type\":\"Article\",\"headline\":\"HMC questions in the FDA’s 2022 IVD town halls\",\"url\":\"https://www.linkedin.com/feed/update/urn:li:activity:7513130950092865536/\",\"datePublished\":\"2026-10-06\",\"creditText\":\"Original source authors: Hopkins MedTech Compliance\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Hopkins MedTech Compliance\"}},\"citation\":[{\"@type\":\"Article\",\"headline\":\"HMC questions in the FDA’s 2022 IVD town halls\",\"url\":\"https://www.linkedin.com/feed/update/urn:li:activity:7513130950092865536/\",\"datePublished\":\"2026-10-06\",\"creditText\":\"Original source authors: Hopkins MedTech Compliance\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Hopkins MedTech Compliance\"}},{\"@type\":\"CreativeWork\",\"name\":\"FDA IVD town hall — 18 May 2022\",\"url\":\"https://www.fda.gov/media/158755/download\"},{\"@type\":\"CreativeWork\",\"name\":\"FDA IVD town hall — 24 August 2022\",\"url\":\"https://www.fda.gov/media/161382/download\"},{\"@type\":\"CreativeWork\",\"name\":\"FDA monkeypox town hall — 21 September 2022\",\"url\":\"https://www.fda.gov/media/161863/download\"}]}</script></head><body></body></html>",
+  "errors": [],
+  "totalNumErrors": 0,
+  "totalNumWarnings": 0
+}

@@ -1,0 +1,317 @@
+{
+  "isRendered": false,
+  "tripleGroups": [
+    {
+      "ownerSet": {},
+      "nodes": [
+        {
+          "types": [
+            {
+              "pred": "itemtype",
+              "value": "Article",
+              "errors": [],
+              "begin": 88,
+              "end": 97
+            }
+          ],
+          "typeGroup": "Article",
+          "idProperty": {
+            "pred": "urn:spore:url",
+            "value": "http://localhost:3000/resources/quadas-2-a-revised-tool-for-the-quality-assessment-of-diagnostic-accuracy-studies#article",
+            "errors": [],
+            "begin": 104,
+            "end": 227
+          },
+          "errors": [],
+          "properties": [
+            {
+              "pred": "url",
+              "value": "http://localhost:3000/resources/quadas-2-a-revised-tool-for-the-quality-assessment-of-diagnostic-accuracy-studies",
+              "errors": [],
+              "begin": 234,
+              "end": 349
+            },
+            {
+              "pred": "mainEntityOfPage",
+              "value": "http://localhost:3000/resources/quadas-2-a-revised-tool-for-the-quality-assessment-of-diagnostic-accuracy-studies",
+              "errors": [],
+              "begin": 369,
+              "end": 484
+            },
+            {
+              "pred": "headline",
+              "value": "QUADAS-2: a revised tool for the quality assessment of diagnostic accuracy studies",
+              "errors": [],
+              "begin": 496,
+              "end": 580
+            },
+            {
+              "pred": "description",
+              "value": "QUADAS-2 separates risk of bias from applicability in diagnostic evidence assessment.",
+              "errors": [],
+              "begin": 595,
+              "end": 682
+            },
+            {
+              "pred": "inLanguage",
+              "value": "en",
+              "errors": [],
+              "begin": 696,
+              "end": 700
+            }
+          ],
+          "nodeProperties": [
+            {
+              "pred": "publisher",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "Thing",
+                    "errors": [],
+                    "begin": 713,
+                    "end": 758
+                  }
+                ],
+                "typeGroup": "Thing",
+                "idProperty": {
+                  "pred": "urn:spore:url",
+                  "value": "http://localhost:3000/#organization",
+                  "errors": [],
+                  "begin": 720,
+                  "end": 757
+                },
+                "errors": [],
+                "properties": [],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 713,
+              "end": 758
+            },
+            {
+              "pred": "isBasedOn",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "ScholarlyArticle",
+                    "errors": [],
+                    "begin": 780,
+                    "end": 798
+                  }
+                ],
+                "typeGroup": "ScholarlyArticle",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "headline",
+                    "value": "QUADAS-2: a revised tool for the quality assessment of diagnostic accuracy studies",
+                    "errors": [],
+                    "begin": 810,
+                    "end": 894
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://doi.org/10.7326/0003-4819-155-8-201110180-00009",
+                    "errors": [],
+                    "begin": 901,
+                    "end": 958
+                  },
+                  {
+                    "pred": "datePublished",
+                    "value": "2011-10-01",
+                    "errors": [],
+                    "begin": 975,
+                    "end": 987
+                  },
+                  {
+                    "pred": "creditText",
+                    "value": "Original source authors: Whiting PF, Rutjes AW, Westwood ME, Mallett S, Deeks JJ, Reitsma JB, Leeflang MM, Sterne JA, Bossuyt PM, QUADAS-2 Group.",
+                    "errors": [],
+                    "begin": 1001,
+                    "end": 1148
+                  }
+                ],
+                "nodeProperties": [
+                  {
+                    "pred": "publisher",
+                    "target": {
+                      "types": [
+                        {
+                          "pred": "itemtype",
+                          "value": "Organization",
+                          "errors": [],
+                          "begin": 1170,
+                          "end": 1184
+                        }
+                      ],
+                      "typeGroup": "Organization",
+                      "errors": [],
+                      "properties": [
+                        {
+                          "pred": "name",
+                          "value": "Annals of internal medicine",
+                          "errors": [],
+                          "begin": 1192,
+                          "end": 1221
+                        }
+                      ],
+                      "nodeProperties": [],
+                      "numErrors": 0,
+                      "numWarnings": 0
+                    },
+                    "errors": [],
+                    "begin": 1161,
+                    "end": 1222
+                  }
+                ],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 771,
+              "end": 1223
+            },
+            {
+              "pred": "citation",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "ScholarlyArticle",
+                    "errors": [],
+                    "begin": 1245,
+                    "end": 1263
+                  }
+                ],
+                "typeGroup": "ScholarlyArticle",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "headline",
+                    "value": "QUADAS-2: a revised tool for the quality assessment of diagnostic accuracy studies",
+                    "errors": [],
+                    "begin": 1275,
+                    "end": 1359
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://doi.org/10.7326/0003-4819-155-8-201110180-00009",
+                    "errors": [],
+                    "begin": 1366,
+                    "end": 1423
+                  },
+                  {
+                    "pred": "datePublished",
+                    "value": "2011-10-01",
+                    "errors": [],
+                    "begin": 1440,
+                    "end": 1452
+                  },
+                  {
+                    "pred": "creditText",
+                    "value": "Original source authors: Whiting PF, Rutjes AW, Westwood ME, Mallett S, Deeks JJ, Reitsma JB, Leeflang MM, Sterne JA, Bossuyt PM, QUADAS-2 Group.",
+                    "errors": [],
+                    "begin": 1466,
+                    "end": 1613
+                  }
+                ],
+                "nodeProperties": [
+                  {
+                    "pred": "publisher",
+                    "target": {
+                      "types": [
+                        {
+                          "pred": "itemtype",
+                          "value": "Organization",
+                          "errors": [],
+                          "begin": 1635,
+                          "end": 1649
+                        }
+                      ],
+                      "typeGroup": "Organization",
+                      "errors": [],
+                      "properties": [
+                        {
+                          "pred": "name",
+                          "value": "Annals of internal medicine",
+                          "errors": [],
+                          "begin": 1657,
+                          "end": 1686
+                        }
+                      ],
+                      "nodeProperties": [],
+                      "numErrors": 0,
+                      "numWarnings": 0
+                    },
+                    "errors": [],
+                    "begin": 1626,
+                    "end": 1687
+                  }
+                ],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 1236,
+              "end": 1688
+            },
+            {
+              "pred": "citation",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "CreativeWork",
+                    "errors": [],
+                    "begin": 1698,
+                    "end": 1712
+                  }
+                ],
+                "typeGroup": "CreativeWork",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "name",
+                    "value": "Bibliographic record and abstract on PubMed",
+                    "errors": [],
+                    "begin": 1720,
+                    "end": 1765
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://pubmed.ncbi.nlm.nih.gov/22007046/",
+                    "errors": [],
+                    "begin": 1772,
+                    "end": 1815
+                  }
+                ],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 1689,
+              "end": 1816
+            }
+          ],
+          "numErrors": 0,
+          "numWarnings": 0
+        }
+      ],
+      "numNodesWithError": 0,
+      "numNodesWithWarning": 0,
+      "numErrors": 0,
+      "numWarnings": 0,
+      "type": "Article"
+    }
+  ],
+  "numObjects": 1,
+  "html": "<html><head><script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"@id\":\"http://localhost:3000/resources/quadas-2-a-revised-tool-for-the-quality-assessment-of-diagnostic-accuracy-studies#article\",\"url\":\"http://localhost:3000/resources/quadas-2-a-revised-tool-for-the-quality-assessment-of-diagnostic-accuracy-studies\",\"mainEntityOfPage\":\"http://localhost:3000/resources/quadas-2-a-revised-tool-for-the-quality-assessment-of-diagnostic-accuracy-studies\",\"headline\":\"QUADAS-2: a revised tool for the quality assessment of diagnostic accuracy studies\",\"description\":\"QUADAS-2 separates risk of bias from applicability in diagnostic evidence assessment.\",\"inLanguage\":\"en\",\"publisher\":{\"@id\":\"http://localhost:3000/#organization\"},\"isBasedOn\":{\"@type\":\"ScholarlyArticle\",\"headline\":\"QUADAS-2: a revised tool for the quality assessment of diagnostic accuracy studies\",\"url\":\"https://doi.org/10.7326/0003-4819-155-8-201110180-00009\",\"datePublished\":\"2011-10-01\",\"creditText\":\"Original source authors: Whiting PF, Rutjes AW, Westwood ME, Mallett S, Deeks JJ, Reitsma JB, Leeflang MM, Sterne JA, Bossuyt PM, QUADAS-2 Group.\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Annals of internal medicine\"}},\"citation\":[{\"@type\":\"ScholarlyArticle\",\"headline\":\"QUADAS-2: a revised tool for the quality assessment of diagnostic accuracy studies\",\"url\":\"https://doi.org/10.7326/0003-4819-155-8-201110180-00009\",\"datePublished\":\"2011-10-01\",\"creditText\":\"Original source authors: Whiting PF, Rutjes AW, Westwood ME, Mallett S, Deeks JJ, Reitsma JB, Leeflang MM, Sterne JA, Bossuyt PM, QUADAS-2 Group.\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Annals of internal medicine\"}},{\"@type\":\"CreativeWork\",\"name\":\"Bibliographic record and abstract on PubMed\",\"url\":\"https://pubmed.ncbi.nlm.nih.gov/22007046/\"}]}</script></head><body></body></html>",
+  "errors": [],
+  "totalNumErrors": 0,
+  "totalNumWarnings": 0
+}

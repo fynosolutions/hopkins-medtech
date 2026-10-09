@@ -1,0 +1,393 @@
+{
+  "isRendered": false,
+  "tripleGroups": [
+    {
+      "ownerSet": {},
+      "nodes": [
+        {
+          "types": [
+            {
+              "pred": "itemtype",
+              "value": "Article",
+              "errors": [],
+              "begin": 88,
+              "end": 97
+            }
+          ],
+          "typeGroup": "Article",
+          "idProperty": {
+            "pred": "urn:spore:url",
+            "value": "http://localhost:3000/resources/nobel-science-ai-and-evidence#article",
+            "errors": [],
+            "begin": 104,
+            "end": 175
+          },
+          "errors": [],
+          "properties": [
+            {
+              "pred": "url",
+              "value": "http://localhost:3000/resources/nobel-science-ai-and-evidence",
+              "errors": [],
+              "begin": 182,
+              "end": 245
+            },
+            {
+              "pred": "mainEntityOfPage",
+              "value": "http://localhost:3000/resources/nobel-science-ai-and-evidence",
+              "errors": [],
+              "begin": 265,
+              "end": 328
+            },
+            {
+              "pred": "headline",
+              "value": "From molecular insight to AI-assisted research",
+              "errors": [],
+              "begin": 340,
+              "end": 388
+            },
+            {
+              "pred": "description",
+              "value": "Scientific breakthroughs expand what researchers can model. Clinical usefulness still needs its own evidence.",
+              "errors": [],
+              "begin": 403,
+              "end": 514
+            },
+            {
+              "pred": "inLanguage",
+              "value": "en",
+              "errors": [],
+              "begin": 528,
+              "end": 532
+            }
+          ],
+          "nodeProperties": [
+            {
+              "pred": "publisher",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "Thing",
+                    "errors": [],
+                    "begin": 545,
+                    "end": 590
+                  }
+                ],
+                "typeGroup": "Thing",
+                "idProperty": {
+                  "pred": "urn:spore:url",
+                  "value": "http://localhost:3000/#organization",
+                  "errors": [],
+                  "begin": 552,
+                  "end": 589
+                },
+                "errors": [],
+                "properties": [],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 545,
+              "end": 590
+            },
+            {
+              "pred": "isBasedOn",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "Article",
+                    "errors": [],
+                    "begin": 612,
+                    "end": 621
+                  }
+                ],
+                "typeGroup": "Article",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "headline",
+                    "value": "From molecular insight to AI-assisted research",
+                    "errors": [],
+                    "begin": 633,
+                    "end": 681
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://www.linkedin.com/feed/update/urn:li:activity:7513767054097723392/",
+                    "errors": [],
+                    "begin": 688,
+                    "end": 763
+                  },
+                  {
+                    "pred": "datePublished",
+                    "value": "2026-10-08",
+                    "errors": [],
+                    "begin": 780,
+                    "end": 792
+                  },
+                  {
+                    "pred": "creditText",
+                    "value": "Original source authors: Hopkins MedTech Compliance",
+                    "errors": [],
+                    "begin": 806,
+                    "end": 859
+                  }
+                ],
+                "nodeProperties": [
+                  {
+                    "pred": "publisher",
+                    "target": {
+                      "types": [
+                        {
+                          "pred": "itemtype",
+                          "value": "Organization",
+                          "errors": [],
+                          "begin": 881,
+                          "end": 895
+                        }
+                      ],
+                      "typeGroup": "Organization",
+                      "errors": [],
+                      "properties": [
+                        {
+                          "pred": "name",
+                          "value": "Hopkins MedTech Compliance",
+                          "errors": [],
+                          "begin": 903,
+                          "end": 931
+                        }
+                      ],
+                      "nodeProperties": [],
+                      "numErrors": 0,
+                      "numWarnings": 0
+                    },
+                    "errors": [],
+                    "begin": 872,
+                    "end": 932
+                  }
+                ],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 603,
+              "end": 933
+            },
+            {
+              "pred": "citation",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "Article",
+                    "errors": [],
+                    "begin": 955,
+                    "end": 964
+                  }
+                ],
+                "typeGroup": "Article",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "headline",
+                    "value": "From molecular insight to AI-assisted research",
+                    "errors": [],
+                    "begin": 976,
+                    "end": 1024
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://www.linkedin.com/feed/update/urn:li:activity:7513767054097723392/",
+                    "errors": [],
+                    "begin": 1031,
+                    "end": 1106
+                  },
+                  {
+                    "pred": "datePublished",
+                    "value": "2026-10-08",
+                    "errors": [],
+                    "begin": 1123,
+                    "end": 1135
+                  },
+                  {
+                    "pred": "creditText",
+                    "value": "Original source authors: Hopkins MedTech Compliance",
+                    "errors": [],
+                    "begin": 1149,
+                    "end": 1202
+                  }
+                ],
+                "nodeProperties": [
+                  {
+                    "pred": "publisher",
+                    "target": {
+                      "types": [
+                        {
+                          "pred": "itemtype",
+                          "value": "Organization",
+                          "errors": [],
+                          "begin": 1224,
+                          "end": 1238
+                        }
+                      ],
+                      "typeGroup": "Organization",
+                      "errors": [],
+                      "properties": [
+                        {
+                          "pred": "name",
+                          "value": "Hopkins MedTech Compliance",
+                          "errors": [],
+                          "begin": 1246,
+                          "end": 1274
+                        }
+                      ],
+                      "nodeProperties": [],
+                      "numErrors": 0,
+                      "numWarnings": 0
+                    },
+                    "errors": [],
+                    "begin": 1215,
+                    "end": 1275
+                  }
+                ],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 946,
+              "end": 1276
+            },
+            {
+              "pred": "citation",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "CreativeWork",
+                    "errors": [],
+                    "begin": 1286,
+                    "end": 1300
+                  }
+                ],
+                "typeGroup": "CreativeWork",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "name",
+                    "value": "Royal Swedish Academy — Chemistry 2026",
+                    "errors": [],
+                    "begin": 1308,
+                    "end": 1350
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://www.kva.se/en/news/the-nobel-prize-in-chemistry-2026/",
+                    "errors": [],
+                    "begin": 1357,
+                    "end": 1420
+                  }
+                ],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 1277,
+              "end": 1421
+            },
+            {
+              "pred": "citation",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "CreativeWork",
+                    "errors": [],
+                    "begin": 1431,
+                    "end": 1445
+                  }
+                ],
+                "typeGroup": "CreativeWork",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "name",
+                    "value": "Royal Swedish Academy — Chemistry 2024",
+                    "errors": [],
+                    "begin": 1453,
+                    "end": 1495
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://www.kva.se/nyheter/nobelpriset-i-kemi-2024/",
+                    "errors": [],
+                    "begin": 1502,
+                    "end": 1555
+                  }
+                ],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 1422,
+              "end": 1556
+            },
+            {
+              "pred": "citation",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "CreativeWork",
+                    "errors": [],
+                    "begin": 1566,
+                    "end": 1580
+                  }
+                ],
+                "typeGroup": "CreativeWork",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "name",
+                    "value": "Royal Swedish Academy — 2024 Nobel Lectures",
+                    "errors": [],
+                    "begin": 1588,
+                    "end": 1635
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://www.kva.se/evenemang/the-nobel-lectures-2024/",
+                    "errors": [],
+                    "begin": 1642,
+                    "end": 1697
+                  }
+                ],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 1557,
+              "end": 1698
+            }
+          ],
+          "numErrors": 0,
+          "numWarnings": 0
+        }
+      ],
+      "numNodesWithError": 0,
+      "numNodesWithWarning": 0,
+      "numErrors": 0,
+      "numWarnings": 0,
+      "type": "Article"
+    }
+  ],
+  "numObjects": 1,
+  "html": "<html><head><script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"@id\":\"http://localhost:3000/resources/nobel-science-ai-and-evidence#article\",\"url\":\"http://localhost:3000/resources/nobel-science-ai-and-evidence\",\"mainEntityOfPage\":\"http://localhost:3000/resources/nobel-science-ai-and-evidence\",\"headline\":\"From molecular insight to AI-assisted research\",\"description\":\"Scientific breakthroughs expand what researchers can model. Clinical usefulness still needs its own evidence.\",\"inLanguage\":\"en\",\"publisher\":{\"@id\":\"http://localhost:3000/#organization\"},\"isBasedOn\":{\"@type\":\"Article\",\"headline\":\"From molecular insight to AI-assisted research\",\"url\":\"https://www.linkedin.com/feed/update/urn:li:activity:7513767054097723392/\",\"datePublished\":\"2026-10-08\",\"creditText\":\"Original source authors: Hopkins MedTech Compliance\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Hopkins MedTech Compliance\"}},\"citation\":[{\"@type\":\"Article\",\"headline\":\"From molecular insight to AI-assisted research\",\"url\":\"https://www.linkedin.com/feed/update/urn:li:activity:7513767054097723392/\",\"datePublished\":\"2026-10-08\",\"creditText\":\"Original source authors: Hopkins MedTech Compliance\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Hopkins MedTech Compliance\"}},{\"@type\":\"CreativeWork\",\"name\":\"Royal Swedish Academy — Chemistry 2026\",\"url\":\"https://www.kva.se/en/news/the-nobel-prize-in-chemistry-2026/\"},{\"@type\":\"CreativeWork\",\"name\":\"Royal Swedish Academy — Chemistry 2024\",\"url\":\"https://www.kva.se/nyheter/nobelpriset-i-kemi-2024/\"},{\"@type\":\"CreativeWork\",\"name\":\"Royal Swedish Academy — 2024 Nobel Lectures\",\"url\":\"https://www.kva.se/evenemang/the-nobel-lectures-2024/\"}]}</script></head><body></body></html>",
+  "errors": [],
+  "totalNumErrors": 0,
+  "totalNumWarnings": 0
+}

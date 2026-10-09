@@ -1,7 +1,7 @@
 {
   "validator": "https://validator.schema.org/",
   "inputMode": "code",
-  "uniquePayloads": 1,
+  "uniquePayloads": 45,
   "results": [
     {
       "sha256": "a375dea4d62395a7a7b15f428086aebdd62b9c2cb19ac5e1a97be864367f2dbc",
@@ -254,6 +254,490 @@
         "about/team/jennifer-stanford.html",
         "about/team/qian-cheng.html",
         "about/team/wendy-zhou.html"
+      ],
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "sha256": "e8bb31eed2260b1b4cfcca62c21f562eed9a64bf00d7c930f5e46267cb5cd93a",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/a-cell-free-dna-blood-based-test-for-colorectal-cancer-screening.html"
+      ],
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "sha256": "3451e5ec85fc5b09b534fdf5acc10856bf2e6717e312d574f9904559a1dc0544",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/ai-skin-science-different-evidence.html"
+      ],
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "sha256": "70dbdebf8a2a3ba5ec8591919cf8912fc2b14649128938492fba1e0a7346c897",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/antigen-test-performance-and-population.html"
+      ],
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "sha256": "be7bf70b3476c0b7f8636c3d636d3fa0c6e0eb2a4ea4aa2e48fa48d6b1d9deca",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/blood-based-tests-for-multicancer-early-detection-pathfinder-a-prospective-cohort-study.html"
+      ],
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "sha256": "2e93785011706234102b17fac48444377c9347c2ddc87e48975d0c506d77311d",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/characteristics-of-clinical-studies-conducted-over-the-total-product-life-cycle-of-high-risk-therapeutic-medical-devices-receiving-fda-premarket-approval-in-2010-and-2011.html"
+      ],
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "sha256": "fa0f5492a84324949574a6d8e15d52759a7574a858c75adbde26b1a0d3d0f974",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/characteristics-of-clinical-studies-used-for-us-food-and-drug-administration-approval-of-high-risk-medical-device-supplements.html"
+      ],
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "sha256": "e532bb606ba2f267beea497d2c32948abe5bd1956ff5d06efb122cd13130f891",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/checklist-for-artificial-intelligence-in-medical-imaging-claim-a-guide-for-authors-and-reviewers.html"
+      ],
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "sha256": "763d8791b4ed9abb7014a9f167c3c92eac033e111ae2054a711b2f04740c7eff",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/class-b-ivdr-planning-milestones.html"
+      ],
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "sha256": "28c5313a049ab71af2803e4826b55e600d8410b982085a6eb3678f7211e91605",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/dermatologist-level-classification-of-skin-cancer-with-deep-neural-networks.html"
+      ],
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "sha256": "e01d9244e06edf407f1c9b676186e5ab06b0beaf7a3ae1d5490666c09af283c5",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/design-and-implementation-of-a-digital-site-less-clinical-study-of-serial-rapid-antigen-testing-to-identify-asymptomatic-sars-cov-2-infection.html"
+      ],
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "sha256": "5292fe88de6ee4f43643a2e01e572e8dbfdb32872a0e5a462c61bd47cbf4a7ee",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/detection-and-localization-of-surgically-resectable-cancers-with-a-multi-analyte-blood-test.html"
+      ],
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "sha256": "62e3bacd651a9eb0f9617511a747750103ec3f803eefc05791177e2161d1d479",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/diagnostic-accuracy-of-covid-19-rapid-antigen-tests-with-unsupervised-self-sampling-in-people-with-symptoms-in-the-omicron-period-cross-sectional-study.html"
+      ],
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "sha256": "951aca2e959e1bc316d7a6bd0e9d557846a7b69700673d5ef7ce726d6bf68b95",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/diagnostic-accuracy-of-rapid-antigen-tests-in-asymptomatic-and-presymptomatic-close-contacts-of-individuals-with-confirmed-sars-cov-2-infection-cross-sectional-study.html"
+      ],
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "sha256": "d4b8630d5067e5c022a13541561a17d03a40e1f0d1904aeec8ee84f0cef3b3a1",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/disparities-in-dermatology-ai-performance-on-a-diverse-curated-clinical-image-set.html"
+      ],
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "sha256": "300dee24dbf13b97e2608945c2abd467152ffe03be36f79da0b21273ea5f4f1c",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/evaluating-transparency-in-ai-ml-model-characteristics-for-fda-reviewed-medical-devices.html"
+      ],
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "sha256": "3f9763c30fb647c48c3f0f04b6df6f481be4d1892e7284ded71e8a83bcff0c90",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/fda-melanoma-device-reclassification-2026.html"
+      ],
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "sha256": "806143b06901f50ec2d872550629628e02c36029a110a2ca25df8577bee02221",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/guidelines-for-clinical-trial-protocols-for-interventions-involving-artificial-intelligence-the-spirit-ai-extension.html"
+      ],
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "sha256": "faf329c2e67f7e404744023398b8310ba690a418dcfe705b8bac961a263031ce",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/historical-cbd-otc.html"
+      ],
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "sha256": "33e0ddf77ef4e077f4a9ce57ebfa63d938c04058b636de6064652b93eca81f30",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/historical-clinical-manager-2023.html"
+      ],
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "sha256": "d7b825baec51ff33fa909397999c22ac6f4b2e8fce9cb669c68440ab7802c25f",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/historical-drug-regulatory-pathways.html"
+      ],
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "sha256": "44e299f6dfb703ed38ecfb70afca0742d6a6e1bac48c45f39621a15dadeb44cc",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/historical-intended-use-validation.html"
+      ],
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "sha256": "8ee59a1cec8b044870f5a18945ea0ab8ae6baaef25269e5e49b0a8046110be8c",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/historical-internal-audits.html"
+      ],
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "sha256": "965ec7fdcdf09b55c8816b6ae478c204710a03c308e4c5513af316735a47f8a2",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/historical-sterile-device-510k.html"
+      ],
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "sha256": "42ed72048a83ea54d5d5aeadaf05860eab97df423f06291f224182696d9d0868",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/hmc-hml-documented-partnership.html"
+      ],
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "sha256": "bff8009b971d8504a936bd78ba43b373926b13044c2b619303e1a2fee9d088c1",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/hmc-questions-fda-town-halls-2022.html"
+      ],
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "sha256": "47d7fd03c705db4e224fccab8f98dfebc44c63089d3822bf989be4e75044acbd",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/how-ai-is-used-in-fda-authorized-medical-devices-a-taxonomy-across-1-016-authorizations.html"
+      ],
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "sha256": "d0c0df47dc7e039353c4a0dac8e99c7908f8e3e97e171bdfd492202440c43550",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/how-medical-ai-devices-are-evaluated-limitations-and-recommendations-from-an-analysis-of-fda-approvals.html"
+      ],
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "sha256": "5d6e28a8b145f5a6c36aefc65e828395c204df72ddca081a436076038216d29e",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/ivdr-transition-and-eudamed-dates.html"
+      ],
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "sha256": "dcff31736fcaca38d9042b7fd7b3a8e2766fc59758e64f862aa246ad164223a7",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/lipid-nanocarriers-skin-delivery.html"
+      ],
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "sha256": "eee96d6e5ca1f91756fdce0b4ec36cb2756c3baf2b301605112df72dd25c82d9",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/marketing-and-us-food-and-drug-administration-clearance-of-artificial-intelligence-and-machine-learning-enabled-software-in-and-as-medical-devices-a-systematic-review.html"
+      ],
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "sha256": "00a5fa39b387a8773ae724a493a7b462eefaa02bb47472eee6bbc7473bfb82d6",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/modelling-skin-and-transdermal-transport.html"
+      ],
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "sha256": "f3fb905928e04d95234ce067a32023d3bbdf7ef4a65879176ea243d4e06de901",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/nationwide-real-world-implementation-of-ai-for-cancer-detection-in-population-based-mammography-screening.html"
+      ],
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "sha256": "6a51d8e327523cea0bd1dab97ff5b6ad5b43954f3e43c3c86a50fd210713bcff",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/next-generation-multitarget-stool-dna-test-for-colorectal-cancer-screening.html"
+      ],
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "sha256": "af9cdd91edc88e38795ee37315fe3afb38d528a9ac4cc4c19a768d0d8b4c7ed1",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/nobel-science-ai-and-evidence.html"
+      ],
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "sha256": "b928c7763c180411f4fd8117f59f1f550fa90efab424ad875bd318e0ba3986da",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/nonconcurrent-control-use-in-fda-approval-of-high-risk-medical-devices.html"
+      ],
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "sha256": "c125bd2115c9213941c5053a6f63cd1a0cec15cb7bccfc1cad873d70315e7d47",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/performance-of-rapid-antigen-tests-to-detect-symptomatic-and-asymptomatic-sars-cov-2-infection-a-prospective-cohort-study.html"
+      ],
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "sha256": "9ffab2828ceae93380609c0553341cebed526d2178615c882cf9274a4796ea88",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/pivotal-trial-of-an-autonomous-ai-based-diagnostic-system-for-detection-of-diabetic-retinopathy-in-primary-care-offices.html"
+      ],
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "sha256": "7e16d286864aa59a608d92b570daf586ada3762853762dd7982b7b8e8723a055",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/quadas-2-a-revised-tool-for-the-quality-assessment-of-diagnostic-accuracy-studies.html"
+      ],
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "sha256": "7ee4e7217ff81fc08ed6002033b6d9646690075b0a97618fc93d353e7b4d1f54",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/reporting-guideline-for-the-early-stage-clinical-evaluation-of-decision-support-systems-driven-by-artificial-intelligence-decide-ai.html"
+      ],
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "sha256": "12933a3ca78e8702b7e460591b9c6043d2e501d79eec5034196e4b558b96915e",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/reporting-guidelines-for-clinical-trial-reports-for-interventions-involving-artificial-intelligence-the-consort-ai-extension.html"
+      ],
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "sha256": "9e69ec4c3207294c77e93ae781b31ac77570ae34adbdaace36f9bac561b73865",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/skin-tone-labels-and-metrics.html"
+      ],
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "sha256": "360a9c54aa7f32ececc56123ca5142b3b6b994fbc44b7c2511972f30f75e23d0",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/stard-2015-an-updated-list-of-essential-items-for-reporting-diagnostic-accuracy-studies.html"
+      ],
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "sha256": "e94697d1ebc119f9ef0605b30b09ea96d3cf81e65ded346cfff6e6fb5f208e4b",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/the-clinician-ai-interface-intended-use-and-explainability-in-fda-cleared-ai-devices-for-medical-image-interpretation.html"
+      ],
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "sha256": "d35f688dde910da1f861af6d385c43fe8bfde7c1180632e2d2f38868dd7adb90",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/tripod-ai-statement-updated-guidance-for-reporting-clinical-prediction-models-that-use-regression-or-machine-learning-methods.html"
       ],
       "errors": 0,
       "warnings": 0

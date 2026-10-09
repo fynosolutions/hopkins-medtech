@@ -1,0 +1,355 @@
+{
+  "isRendered": false,
+  "tripleGroups": [
+    {
+      "ownerSet": {},
+      "nodes": [
+        {
+          "types": [
+            {
+              "pred": "itemtype",
+              "value": "Article",
+              "errors": [],
+              "begin": 88,
+              "end": 97
+            }
+          ],
+          "typeGroup": "Article",
+          "idProperty": {
+            "pred": "urn:spore:url",
+            "value": "http://localhost:3000/resources/antigen-test-performance-and-population#article",
+            "errors": [],
+            "begin": 104,
+            "end": 185
+          },
+          "errors": [],
+          "properties": [
+            {
+              "pred": "url",
+              "value": "http://localhost:3000/resources/antigen-test-performance-and-population",
+              "errors": [],
+              "begin": 192,
+              "end": 265
+            },
+            {
+              "pred": "mainEntityOfPage",
+              "value": "http://localhost:3000/resources/antigen-test-performance-and-population",
+              "errors": [],
+              "begin": 285,
+              "end": 358
+            },
+            {
+              "pred": "headline",
+              "value": "Antigen-test sensitivity depends on the population",
+              "errors": [],
+              "begin": 370,
+              "end": 422
+            },
+            {
+              "pred": "description",
+              "value": "A large hospital study illustrates why intended users, symptoms and study setting belong beside every performance estimate.",
+              "errors": [],
+              "begin": 437,
+              "end": 562
+            },
+            {
+              "pred": "inLanguage",
+              "value": "en",
+              "errors": [],
+              "begin": 576,
+              "end": 580
+            }
+          ],
+          "nodeProperties": [
+            {
+              "pred": "publisher",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "Thing",
+                    "errors": [],
+                    "begin": 593,
+                    "end": 638
+                  }
+                ],
+                "typeGroup": "Thing",
+                "idProperty": {
+                  "pred": "urn:spore:url",
+                  "value": "http://localhost:3000/#organization",
+                  "errors": [],
+                  "begin": 600,
+                  "end": 637
+                },
+                "errors": [],
+                "properties": [],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 593,
+              "end": 638
+            },
+            {
+              "pred": "isBasedOn",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "Article",
+                    "errors": [],
+                    "begin": 660,
+                    "end": 669
+                  }
+                ],
+                "typeGroup": "Article",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "headline",
+                    "value": "Antigen-test sensitivity depends on the population",
+                    "errors": [],
+                    "begin": 681,
+                    "end": 733
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://www.linkedin.com/feed/update/urn:li:activity:7513279097154985985/",
+                    "errors": [],
+                    "begin": 740,
+                    "end": 815
+                  },
+                  {
+                    "pred": "datePublished",
+                    "value": "2026-10-06",
+                    "errors": [],
+                    "begin": 832,
+                    "end": 844
+                  },
+                  {
+                    "pred": "creditText",
+                    "value": "Original source authors: Hopkins MedTech Compliance",
+                    "errors": [],
+                    "begin": 858,
+                    "end": 911
+                  }
+                ],
+                "nodeProperties": [
+                  {
+                    "pred": "publisher",
+                    "target": {
+                      "types": [
+                        {
+                          "pred": "itemtype",
+                          "value": "Organization",
+                          "errors": [],
+                          "begin": 933,
+                          "end": 947
+                        }
+                      ],
+                      "typeGroup": "Organization",
+                      "errors": [],
+                      "properties": [
+                        {
+                          "pred": "name",
+                          "value": "Hopkins MedTech Compliance",
+                          "errors": [],
+                          "begin": 955,
+                          "end": 983
+                        }
+                      ],
+                      "nodeProperties": [],
+                      "numErrors": 0,
+                      "numWarnings": 0
+                    },
+                    "errors": [],
+                    "begin": 924,
+                    "end": 984
+                  }
+                ],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 651,
+              "end": 985
+            },
+            {
+              "pred": "citation",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "Article",
+                    "errors": [],
+                    "begin": 1007,
+                    "end": 1016
+                  }
+                ],
+                "typeGroup": "Article",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "headline",
+                    "value": "Antigen-test sensitivity depends on the population",
+                    "errors": [],
+                    "begin": 1028,
+                    "end": 1080
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://www.linkedin.com/feed/update/urn:li:activity:7513279097154985985/",
+                    "errors": [],
+                    "begin": 1087,
+                    "end": 1162
+                  },
+                  {
+                    "pred": "datePublished",
+                    "value": "2026-10-06",
+                    "errors": [],
+                    "begin": 1179,
+                    "end": 1191
+                  },
+                  {
+                    "pred": "creditText",
+                    "value": "Original source authors: Hopkins MedTech Compliance",
+                    "errors": [],
+                    "begin": 1205,
+                    "end": 1258
+                  }
+                ],
+                "nodeProperties": [
+                  {
+                    "pred": "publisher",
+                    "target": {
+                      "types": [
+                        {
+                          "pred": "itemtype",
+                          "value": "Organization",
+                          "errors": [],
+                          "begin": 1280,
+                          "end": 1294
+                        }
+                      ],
+                      "typeGroup": "Organization",
+                      "errors": [],
+                      "properties": [
+                        {
+                          "pred": "name",
+                          "value": "Hopkins MedTech Compliance",
+                          "errors": [],
+                          "begin": 1302,
+                          "end": 1330
+                        }
+                      ],
+                      "nodeProperties": [],
+                      "numErrors": 0,
+                      "numWarnings": 0
+                    },
+                    "errors": [],
+                    "begin": 1271,
+                    "end": 1331
+                  }
+                ],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 998,
+              "end": 1332
+            },
+            {
+              "pred": "citation",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "CreativeWork",
+                    "errors": [],
+                    "begin": 1342,
+                    "end": 1356
+                  }
+                ],
+                "typeGroup": "CreativeWork",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "name",
+                    "value": "Original study — eBioMedicine, 2024",
+                    "errors": [],
+                    "begin": 1364,
+                    "end": 1403
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://doi.org/10.1016/j.ebiom.2024.105394",
+                    "errors": [],
+                    "begin": 1410,
+                    "end": 1455
+                  }
+                ],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 1333,
+              "end": 1456
+            },
+            {
+              "pred": "citation",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "CreativeWork",
+                    "errors": [],
+                    "begin": 1466,
+                    "end": 1480
+                  }
+                ],
+                "typeGroup": "CreativeWork",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "name",
+                    "value": "PubMed abstract and bibliographic record",
+                    "errors": [],
+                    "begin": 1488,
+                    "end": 1530
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://pubmed.ncbi.nlm.nih.gov/39388783/",
+                    "errors": [],
+                    "begin": 1537,
+                    "end": 1580
+                  }
+                ],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 1457,
+              "end": 1581
+            }
+          ],
+          "numErrors": 0,
+          "numWarnings": 0
+        }
+      ],
+      "numNodesWithError": 0,
+      "numNodesWithWarning": 0,
+      "numErrors": 0,
+      "numWarnings": 0,
+      "type": "Article"
+    }
+  ],
+  "numObjects": 1,
+  "html": "<html><head><script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"@id\":\"http://localhost:3000/resources/antigen-test-performance-and-population#article\",\"url\":\"http://localhost:3000/resources/antigen-test-performance-and-population\",\"mainEntityOfPage\":\"http://localhost:3000/resources/antigen-test-performance-and-population\",\"headline\":\"Antigen-test sensitivity depends on the population\",\"description\":\"A large hospital study illustrates why intended users, symptoms and study setting belong beside every performance estimate.\",\"inLanguage\":\"en\",\"publisher\":{\"@id\":\"http://localhost:3000/#organization\"},\"isBasedOn\":{\"@type\":\"Article\",\"headline\":\"Antigen-test sensitivity depends on the population\",\"url\":\"https://www.linkedin.com/feed/update/urn:li:activity:7513279097154985985/\",\"datePublished\":\"2026-10-06\",\"creditText\":\"Original source authors: Hopkins MedTech Compliance\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Hopkins MedTech Compliance\"}},\"citation\":[{\"@type\":\"Article\",\"headline\":\"Antigen-test sensitivity depends on the population\",\"url\":\"https://www.linkedin.com/feed/update/urn:li:activity:7513279097154985985/\",\"datePublished\":\"2026-10-06\",\"creditText\":\"Original source authors: Hopkins MedTech Compliance\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Hopkins MedTech Compliance\"}},{\"@type\":\"CreativeWork\",\"name\":\"Original study — eBioMedicine, 2024\",\"url\":\"https://doi.org/10.1016/j.ebiom.2024.105394\"},{\"@type\":\"CreativeWork\",\"name\":\"PubMed abstract and bibliographic record\",\"url\":\"https://pubmed.ncbi.nlm.nih.gov/39388783/\"}]}</script></head><body></body></html>",
+  "errors": [],
+  "totalNumErrors": 0,
+  "totalNumWarnings": 0
+}

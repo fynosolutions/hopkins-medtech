@@ -1,0 +1,317 @@
+{
+  "isRendered": false,
+  "tripleGroups": [
+    {
+      "ownerSet": {},
+      "nodes": [
+        {
+          "types": [
+            {
+              "pred": "itemtype",
+              "value": "Article",
+              "errors": [],
+              "begin": 88,
+              "end": 97
+            }
+          ],
+          "typeGroup": "Article",
+          "idProperty": {
+            "pred": "urn:spore:url",
+            "value": "http://localhost:3000/resources/fda-melanoma-device-reclassification-2026#article",
+            "errors": [],
+            "begin": 104,
+            "end": 187
+          },
+          "errors": [],
+          "properties": [
+            {
+              "pred": "url",
+              "value": "http://localhost:3000/resources/fda-melanoma-device-reclassification-2026",
+              "errors": [],
+              "begin": 194,
+              "end": 269
+            },
+            {
+              "pred": "mainEntityOfPage",
+              "value": "http://localhost:3000/resources/fda-melanoma-device-reclassification-2026",
+              "errors": [],
+              "begin": 289,
+              "end": 364
+            },
+            {
+              "pred": "headline",
+              "value": "FDA reclassification of two melanoma assessment device types",
+              "errors": [],
+              "begin": 376,
+              "end": 438
+            },
+            {
+              "pred": "description",
+              "value": "A 2026 final order changes the pathway for specified adjunctive devices while retaining special controls.",
+              "errors": [],
+              "begin": 453,
+              "end": 560
+            },
+            {
+              "pred": "inLanguage",
+              "value": "en",
+              "errors": [],
+              "begin": 574,
+              "end": 578
+            }
+          ],
+          "nodeProperties": [
+            {
+              "pred": "publisher",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "Thing",
+                    "errors": [],
+                    "begin": 591,
+                    "end": 636
+                  }
+                ],
+                "typeGroup": "Thing",
+                "idProperty": {
+                  "pred": "urn:spore:url",
+                  "value": "http://localhost:3000/#organization",
+                  "errors": [],
+                  "begin": 598,
+                  "end": 635
+                },
+                "errors": [],
+                "properties": [],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 591,
+              "end": 636
+            },
+            {
+              "pred": "isBasedOn",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "Article",
+                    "errors": [],
+                    "begin": 658,
+                    "end": 667
+                  }
+                ],
+                "typeGroup": "Article",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "headline",
+                    "value": "FDA reclassification of two melanoma assessment device types",
+                    "errors": [],
+                    "begin": 679,
+                    "end": 741
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://www.linkedin.com/feed/update/urn:li:activity:7512866871008886785/",
+                    "errors": [],
+                    "begin": 748,
+                    "end": 823
+                  },
+                  {
+                    "pred": "datePublished",
+                    "value": "2026-10-05",
+                    "errors": [],
+                    "begin": 840,
+                    "end": 852
+                  },
+                  {
+                    "pred": "creditText",
+                    "value": "Original source authors: Hopkins MedTech Compliance",
+                    "errors": [],
+                    "begin": 866,
+                    "end": 919
+                  }
+                ],
+                "nodeProperties": [
+                  {
+                    "pred": "publisher",
+                    "target": {
+                      "types": [
+                        {
+                          "pred": "itemtype",
+                          "value": "Organization",
+                          "errors": [],
+                          "begin": 941,
+                          "end": 955
+                        }
+                      ],
+                      "typeGroup": "Organization",
+                      "errors": [],
+                      "properties": [
+                        {
+                          "pred": "name",
+                          "value": "Hopkins MedTech Compliance",
+                          "errors": [],
+                          "begin": 963,
+                          "end": 991
+                        }
+                      ],
+                      "nodeProperties": [],
+                      "numErrors": 0,
+                      "numWarnings": 0
+                    },
+                    "errors": [],
+                    "begin": 932,
+                    "end": 992
+                  }
+                ],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 649,
+              "end": 993
+            },
+            {
+              "pred": "citation",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "Article",
+                    "errors": [],
+                    "begin": 1015,
+                    "end": 1024
+                  }
+                ],
+                "typeGroup": "Article",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "headline",
+                    "value": "FDA reclassification of two melanoma assessment device types",
+                    "errors": [],
+                    "begin": 1036,
+                    "end": 1098
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://www.linkedin.com/feed/update/urn:li:activity:7512866871008886785/",
+                    "errors": [],
+                    "begin": 1105,
+                    "end": 1180
+                  },
+                  {
+                    "pred": "datePublished",
+                    "value": "2026-10-05",
+                    "errors": [],
+                    "begin": 1197,
+                    "end": 1209
+                  },
+                  {
+                    "pred": "creditText",
+                    "value": "Original source authors: Hopkins MedTech Compliance",
+                    "errors": [],
+                    "begin": 1223,
+                    "end": 1276
+                  }
+                ],
+                "nodeProperties": [
+                  {
+                    "pred": "publisher",
+                    "target": {
+                      "types": [
+                        {
+                          "pred": "itemtype",
+                          "value": "Organization",
+                          "errors": [],
+                          "begin": 1298,
+                          "end": 1312
+                        }
+                      ],
+                      "typeGroup": "Organization",
+                      "errors": [],
+                      "properties": [
+                        {
+                          "pred": "name",
+                          "value": "Hopkins MedTech Compliance",
+                          "errors": [],
+                          "begin": 1320,
+                          "end": 1348
+                        }
+                      ],
+                      "nodeProperties": [],
+                      "numErrors": 0,
+                      "numWarnings": 0
+                    },
+                    "errors": [],
+                    "begin": 1289,
+                    "end": 1349
+                  }
+                ],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 1006,
+              "end": 1350
+            },
+            {
+              "pred": "citation",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "CreativeWork",
+                    "errors": [],
+                    "begin": 1360,
+                    "end": 1374
+                  }
+                ],
+                "typeGroup": "CreativeWork",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "name",
+                    "value": "Federal Register — final FDA order, 91 FR 14445",
+                    "errors": [],
+                    "begin": 1382,
+                    "end": 1433
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://www.federalregister.gov/documents/2026/03/25/2026-05772/general-and-plastic-surgery-devices-reclassification-of-optical-diagnostic-devices-for-melanoma",
+                    "errors": [],
+                    "begin": 1440,
+                    "end": 1601
+                  }
+                ],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 1351,
+              "end": 1602
+            }
+          ],
+          "numErrors": 0,
+          "numWarnings": 0
+        }
+      ],
+      "numNodesWithError": 0,
+      "numNodesWithWarning": 0,
+      "numErrors": 0,
+      "numWarnings": 0,
+      "type": "Article"
+    }
+  ],
+  "numObjects": 1,
+  "html": "<html><head><script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"@id\":\"http://localhost:3000/resources/fda-melanoma-device-reclassification-2026#article\",\"url\":\"http://localhost:3000/resources/fda-melanoma-device-reclassification-2026\",\"mainEntityOfPage\":\"http://localhost:3000/resources/fda-melanoma-device-reclassification-2026\",\"headline\":\"FDA reclassification of two melanoma assessment device types\",\"description\":\"A 2026 final order changes the pathway for specified adjunctive devices while retaining special controls.\",\"inLanguage\":\"en\",\"publisher\":{\"@id\":\"http://localhost:3000/#organization\"},\"isBasedOn\":{\"@type\":\"Article\",\"headline\":\"FDA reclassification of two melanoma assessment device types\",\"url\":\"https://www.linkedin.com/feed/update/urn:li:activity:7512866871008886785/\",\"datePublished\":\"2026-10-05\",\"creditText\":\"Original source authors: Hopkins MedTech Compliance\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Hopkins MedTech Compliance\"}},\"citation\":[{\"@type\":\"Article\",\"headline\":\"FDA reclassification of two melanoma assessment device types\",\"url\":\"https://www.linkedin.com/feed/update/urn:li:activity:7512866871008886785/\",\"datePublished\":\"2026-10-05\",\"creditText\":\"Original source authors: Hopkins MedTech Compliance\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Hopkins MedTech Compliance\"}},{\"@type\":\"CreativeWork\",\"name\":\"Federal Register — final FDA order, 91 FR 14445\",\"url\":\"https://www.federalregister.gov/documents/2026/03/25/2026-05772/general-and-plastic-surgery-devices-reclassification-of-optical-diagnostic-devices-for-melanoma\"}]}</script></head><body></body></html>",
+  "errors": [],
+  "totalNumErrors": 0,
+  "totalNumWarnings": 0
+}

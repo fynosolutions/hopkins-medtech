@@ -1,0 +1,317 @@
+{
+  "isRendered": false,
+  "tripleGroups": [
+    {
+      "ownerSet": {},
+      "nodes": [
+        {
+          "types": [
+            {
+              "pred": "itemtype",
+              "value": "Article",
+              "errors": [],
+              "begin": 88,
+              "end": 97
+            }
+          ],
+          "typeGroup": "Article",
+          "idProperty": {
+            "pred": "urn:spore:url",
+            "value": "http://localhost:3000/resources/performance-of-rapid-antigen-tests-to-detect-symptomatic-and-asymptomatic-sars-cov-2-infection-a-prospective-cohort-study#article",
+            "errors": [],
+            "begin": 104,
+            "end": 267
+          },
+          "errors": [],
+          "properties": [
+            {
+              "pred": "url",
+              "value": "http://localhost:3000/resources/performance-of-rapid-antigen-tests-to-detect-symptomatic-and-asymptomatic-sars-cov-2-infection-a-prospective-cohort-study",
+              "errors": [],
+              "begin": 274,
+              "end": 429
+            },
+            {
+              "pred": "mainEntityOfPage",
+              "value": "http://localhost:3000/resources/performance-of-rapid-antigen-tests-to-detect-symptomatic-and-asymptomatic-sars-cov-2-infection-a-prospective-cohort-study",
+              "errors": [],
+              "begin": 449,
+              "end": 604
+            },
+            {
+              "pred": "headline",
+              "value": "Performance of Rapid Antigen Tests to Detect Symptomatic and Asymptomatic SARS-CoV-2 Infection : A Prospective Cohort Study",
+              "errors": [],
+              "begin": 616,
+              "end": 741
+            },
+            {
+              "pred": "description",
+              "value": "Why the timing and repetition of an antigen test matter as much as its single-test sensitivity.",
+              "errors": [],
+              "begin": 756,
+              "end": 853
+            },
+            {
+              "pred": "inLanguage",
+              "value": "en",
+              "errors": [],
+              "begin": 867,
+              "end": 871
+            }
+          ],
+          "nodeProperties": [
+            {
+              "pred": "publisher",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "Thing",
+                    "errors": [],
+                    "begin": 884,
+                    "end": 929
+                  }
+                ],
+                "typeGroup": "Thing",
+                "idProperty": {
+                  "pred": "urn:spore:url",
+                  "value": "http://localhost:3000/#organization",
+                  "errors": [],
+                  "begin": 891,
+                  "end": 928
+                },
+                "errors": [],
+                "properties": [],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 884,
+              "end": 929
+            },
+            {
+              "pred": "isBasedOn",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "ScholarlyArticle",
+                    "errors": [],
+                    "begin": 951,
+                    "end": 969
+                  }
+                ],
+                "typeGroup": "ScholarlyArticle",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "headline",
+                    "value": "Performance of Rapid Antigen Tests to Detect Symptomatic and Asymptomatic SARS-CoV-2 Infection : A Prospective Cohort Study",
+                    "errors": [],
+                    "begin": 981,
+                    "end": 1106
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://doi.org/10.7326/M23-0385",
+                    "errors": [],
+                    "begin": 1113,
+                    "end": 1147
+                  },
+                  {
+                    "pred": "datePublished",
+                    "value": "2023-07-04",
+                    "errors": [],
+                    "begin": 1164,
+                    "end": 1176
+                  },
+                  {
+                    "pred": "creditText",
+                    "value": "Original source authors: Soni A, Herbert C, Lin H, Yan Y, Pretz C, Stamegna P, Wang B, Orwig T, Wright C, Tarrant S, Behar S, Suvarna T, Schrader S, Harman E, Nowak C, Kheterpal V, Rao LV, Cashman L, Orvek E, Ayturk D, Gibson L, Zai A, Wong S, Lazar P, Wang Z, Filippaios A, Barton B, Achenbach CJ, Murphy RL, Robinson ML, Manabe YC, Pandey S, Colubri A, O'Connor L, Lemon SC, Fahey N, Luzuriaga KL, Hafer N, Roth K, Lowe T, Stenzel T, Heetderks W, Broach J, McManus DD.",
+                    "errors": [],
+                    "begin": 1190,
+                    "end": 1662
+                  }
+                ],
+                "nodeProperties": [
+                  {
+                    "pred": "publisher",
+                    "target": {
+                      "types": [
+                        {
+                          "pred": "itemtype",
+                          "value": "Organization",
+                          "errors": [],
+                          "begin": 1684,
+                          "end": 1698
+                        }
+                      ],
+                      "typeGroup": "Organization",
+                      "errors": [],
+                      "properties": [
+                        {
+                          "pred": "name",
+                          "value": "Annals of internal medicine",
+                          "errors": [],
+                          "begin": 1706,
+                          "end": 1735
+                        }
+                      ],
+                      "nodeProperties": [],
+                      "numErrors": 0,
+                      "numWarnings": 0
+                    },
+                    "errors": [],
+                    "begin": 1675,
+                    "end": 1736
+                  }
+                ],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 942,
+              "end": 1737
+            },
+            {
+              "pred": "citation",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "ScholarlyArticle",
+                    "errors": [],
+                    "begin": 1759,
+                    "end": 1777
+                  }
+                ],
+                "typeGroup": "ScholarlyArticle",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "headline",
+                    "value": "Performance of Rapid Antigen Tests to Detect Symptomatic and Asymptomatic SARS-CoV-2 Infection : A Prospective Cohort Study",
+                    "errors": [],
+                    "begin": 1789,
+                    "end": 1914
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://doi.org/10.7326/M23-0385",
+                    "errors": [],
+                    "begin": 1921,
+                    "end": 1955
+                  },
+                  {
+                    "pred": "datePublished",
+                    "value": "2023-07-04",
+                    "errors": [],
+                    "begin": 1972,
+                    "end": 1984
+                  },
+                  {
+                    "pred": "creditText",
+                    "value": "Original source authors: Soni A, Herbert C, Lin H, Yan Y, Pretz C, Stamegna P, Wang B, Orwig T, Wright C, Tarrant S, Behar S, Suvarna T, Schrader S, Harman E, Nowak C, Kheterpal V, Rao LV, Cashman L, Orvek E, Ayturk D, Gibson L, Zai A, Wong S, Lazar P, Wang Z, Filippaios A, Barton B, Achenbach CJ, Murphy RL, Robinson ML, Manabe YC, Pandey S, Colubri A, O'Connor L, Lemon SC, Fahey N, Luzuriaga KL, Hafer N, Roth K, Lowe T, Stenzel T, Heetderks W, Broach J, McManus DD.",
+                    "errors": [],
+                    "begin": 1998,
+                    "end": 2470
+                  }
+                ],
+                "nodeProperties": [
+                  {
+                    "pred": "publisher",
+                    "target": {
+                      "types": [
+                        {
+                          "pred": "itemtype",
+                          "value": "Organization",
+                          "errors": [],
+                          "begin": 2492,
+                          "end": 2506
+                        }
+                      ],
+                      "typeGroup": "Organization",
+                      "errors": [],
+                      "properties": [
+                        {
+                          "pred": "name",
+                          "value": "Annals of internal medicine",
+                          "errors": [],
+                          "begin": 2514,
+                          "end": 2543
+                        }
+                      ],
+                      "nodeProperties": [],
+                      "numErrors": 0,
+                      "numWarnings": 0
+                    },
+                    "errors": [],
+                    "begin": 2483,
+                    "end": 2544
+                  }
+                ],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 1750,
+              "end": 2545
+            },
+            {
+              "pred": "citation",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "CreativeWork",
+                    "errors": [],
+                    "begin": 2555,
+                    "end": 2569
+                  }
+                ],
+                "typeGroup": "CreativeWork",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "name",
+                    "value": "Bibliographic record and abstract on PubMed",
+                    "errors": [],
+                    "begin": 2577,
+                    "end": 2622
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://pubmed.ncbi.nlm.nih.gov/37399548/",
+                    "errors": [],
+                    "begin": 2629,
+                    "end": 2672
+                  }
+                ],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 2546,
+              "end": 2673
+            }
+          ],
+          "numErrors": 0,
+          "numWarnings": 0
+        }
+      ],
+      "numNodesWithError": 0,
+      "numNodesWithWarning": 0,
+      "numErrors": 0,
+      "numWarnings": 0,
+      "type": "Article"
+    }
+  ],
+  "numObjects": 1,
+  "html": "<html><head><script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"@id\":\"http://localhost:3000/resources/performance-of-rapid-antigen-tests-to-detect-symptomatic-and-asymptomatic-sars-cov-2-infection-a-prospective-cohort-study#article\",\"url\":\"http://localhost:3000/resources/performance-of-rapid-antigen-tests-to-detect-symptomatic-and-asymptomatic-sars-cov-2-infection-a-prospective-cohort-study\",\"mainEntityOfPage\":\"http://localhost:3000/resources/performance-of-rapid-antigen-tests-to-detect-symptomatic-and-asymptomatic-sars-cov-2-infection-a-prospective-cohort-study\",\"headline\":\"Performance of Rapid Antigen Tests to Detect Symptomatic and Asymptomatic SARS-CoV-2 Infection : A Prospective Cohort Study\",\"description\":\"Why the timing and repetition of an antigen test matter as much as its single-test sensitivity.\",\"inLanguage\":\"en\",\"publisher\":{\"@id\":\"http://localhost:3000/#organization\"},\"isBasedOn\":{\"@type\":\"ScholarlyArticle\",\"headline\":\"Performance of Rapid Antigen Tests to Detect Symptomatic and Asymptomatic SARS-CoV-2 Infection : A Prospective Cohort Study\",\"url\":\"https://doi.org/10.7326/M23-0385\",\"datePublished\":\"2023-07-04\",\"creditText\":\"Original source authors: Soni A, Herbert C, Lin H, Yan Y, Pretz C, Stamegna P, Wang B, Orwig T, Wright C, Tarrant S, Behar S, Suvarna T, Schrader S, Harman E, Nowak C, Kheterpal V, Rao LV, Cashman L, Orvek E, Ayturk D, Gibson L, Zai A, Wong S, Lazar P, Wang Z, Filippaios A, Barton B, Achenbach CJ, Murphy RL, Robinson ML, Manabe YC, Pandey S, Colubri A, O'Connor L, Lemon SC, Fahey N, Luzuriaga KL, Hafer N, Roth K, Lowe T, Stenzel T, Heetderks W, Broach J, McManus DD.\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Annals of internal medicine\"}},\"citation\":[{\"@type\":\"ScholarlyArticle\",\"headline\":\"Performance of Rapid Antigen Tests to Detect Symptomatic and Asymptomatic SARS-CoV-2 Infection : A Prospective Cohort Study\",\"url\":\"https://doi.org/10.7326/M23-0385\",\"datePublished\":\"2023-07-04\",\"creditText\":\"Original source authors: Soni A, Herbert C, Lin H, Yan Y, Pretz C, Stamegna P, Wang B, Orwig T, Wright C, Tarrant S, Behar S, Suvarna T, Schrader S, Harman E, Nowak C, Kheterpal V, Rao LV, Cashman L, Orvek E, Ayturk D, Gibson L, Zai A, Wong S, Lazar P, Wang Z, Filippaios A, Barton B, Achenbach CJ, Murphy RL, Robinson ML, Manabe YC, Pandey S, Colubri A, O'Connor L, Lemon SC, Fahey N, Luzuriaga KL, Hafer N, Roth K, Lowe T, Stenzel T, Heetderks W, Broach J, McManus DD.\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Annals of internal medicine\"}},{\"@type\":\"CreativeWork\",\"name\":\"Bibliographic record and abstract on PubMed\",\"url\":\"https://pubmed.ncbi.nlm.nih.gov/37399548/\"}]}</script></head><body></body></html>",
+  "errors": [],
+  "totalNumErrors": 0,
+  "totalNumWarnings": 0
+}

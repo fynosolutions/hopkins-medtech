@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
-import {organizationSchema, serializeJsonLd, jobPostingSchema} from '../lib/structured-data.mjs';
+import {organizationSchema, serializeJsonLd, jobPostingSchema, articleSchema} from '../lib/structured-data.mjs';
 
 const company = JSON.parse(fs.readFileSync(new URL('../content/company.json', import.meta.url), 'utf8'));
 const origin = 'https://website.example';
@@ -37,4 +37,25 @@ test('unconfirmed and expired roles never advertise an active JobPosting', () =>
   for (const incomplete of [{...publication, source: null}, {...publication, datePosted: 'invalid'}, {...publication, locations: []}, {...publication, validThrough: '2026-01-15'}]) {
     assert.equal(jobPostingSchema(jobs[0], incomplete, company, origin, today), null);
   }
+});
+
+test('a research summary does not inherit the paper authors or publication date', () => {
+  const item = JSON.parse(fs.readFileSync(new URL('../content/research.json', import.meta.url), 'utf8'))[0];
+  const data = articleSchema(item, origin);
+  assert.equal(data.author, undefined);
+  assert.equal(data.datePublished, undefined);
+  assert.equal(data.isBasedOn.datePublished, item.originalPublicationDate);
+  assert.equal(data.isBasedOn.creditText, 'Original source authors: ' + item.author);
+  assert.equal(data.publisher['@id'], origin + '/#organization');
+  assert.ok(data.citation.some(x => x.url === item.sourceUrl));
+});
+
+test('historical reprints preserve original author, publisher, date and source', () => {
+  const item = JSON.parse(fs.readFileSync(new URL('../content/site.json', import.meta.url), 'utf8')).historical[0];
+  const sourceUrl = 'https://emmainternational.com/intended-use-validation/';
+  const data = articleSchema(item, origin, sourceUrl);
+  assert.equal(data.author.name, item.author);
+  assert.equal(data.publisher.name, 'EMMA International');
+  assert.equal(data.datePublished, item.originalPublicationDate);
+  assert.equal(data.citation[0].url, sourceUrl);
 });

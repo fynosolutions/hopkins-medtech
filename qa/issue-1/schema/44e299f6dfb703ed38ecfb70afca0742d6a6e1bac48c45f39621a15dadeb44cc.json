@@ -1,0 +1,241 @@
+{
+  "isRendered": false,
+  "tripleGroups": [
+    {
+      "ownerSet": {},
+      "nodes": [
+        {
+          "types": [
+            {
+              "pred": "itemtype",
+              "value": "Article",
+              "errors": [],
+              "begin": 88,
+              "end": 97
+            }
+          ],
+          "typeGroup": "Article",
+          "idProperty": {
+            "pred": "urn:spore:url",
+            "value": "http://localhost:3000/resources/historical-intended-use-validation#article",
+            "errors": [],
+            "begin": 104,
+            "end": 180
+          },
+          "errors": [],
+          "properties": [
+            {
+              "pred": "url",
+              "value": "http://localhost:3000/resources/historical-intended-use-validation",
+              "errors": [],
+              "begin": 187,
+              "end": 255
+            },
+            {
+              "pred": "mainEntityOfPage",
+              "value": "http://localhost:3000/resources/historical-intended-use-validation",
+              "errors": [],
+              "begin": 275,
+              "end": 343
+            },
+            {
+              "pred": "headline",
+              "value": "Intended Use Validation",
+              "errors": [],
+              "begin": 355,
+              "end": 380
+            },
+            {
+              "pred": "description",
+              "value": "An EMMA International article on intended-use validation of tools used in medical-device development.",
+              "errors": [],
+              "begin": 395,
+              "end": 498
+            },
+            {
+              "pred": "inLanguage",
+              "value": "en",
+              "errors": [],
+              "begin": 512,
+              "end": 516
+            },
+            {
+              "pred": "datePublished",
+              "value": "2022-02-18",
+              "errors": [],
+              "begin": 689,
+              "end": 701
+            }
+          ],
+          "nodeProperties": [
+            {
+              "pred": "publisher",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "Organization",
+                    "errors": [],
+                    "begin": 538,
+                    "end": 552
+                  }
+                ],
+                "typeGroup": "Organization",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "name",
+                    "value": "EMMA International",
+                    "errors": [],
+                    "begin": 560,
+                    "end": 580
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://emmainternational.com/",
+                    "errors": [],
+                    "begin": 587,
+                    "end": 619
+                  }
+                ],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 529,
+              "end": 620
+            },
+            {
+              "pred": "author",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "Person",
+                    "errors": [],
+                    "begin": 639,
+                    "end": 647
+                  }
+                ],
+                "typeGroup": "Person",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "name",
+                    "value": "Alexis Ferrier",
+                    "errors": [],
+                    "begin": 655,
+                    "end": 671
+                  }
+                ],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 630,
+              "end": 672
+            },
+            {
+              "pred": "citation",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "Article",
+                    "errors": [],
+                    "begin": 723,
+                    "end": 732
+                  }
+                ],
+                "typeGroup": "Article",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "headline",
+                    "value": "Intended Use Validation",
+                    "errors": [],
+                    "begin": 744,
+                    "end": 769
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://emmainternational.com/intended-use-validation/",
+                    "errors": [],
+                    "begin": 776,
+                    "end": 832
+                  },
+                  {
+                    "pred": "datePublished",
+                    "value": "2022-02-18",
+                    "errors": [],
+                    "begin": 849,
+                    "end": 861
+                  },
+                  {
+                    "pred": "creditText",
+                    "value": "Original source authors: Alexis Ferrier",
+                    "errors": [],
+                    "begin": 875,
+                    "end": 916
+                  }
+                ],
+                "nodeProperties": [
+                  {
+                    "pred": "publisher",
+                    "target": {
+                      "types": [
+                        {
+                          "pred": "itemtype",
+                          "value": "Organization",
+                          "errors": [],
+                          "begin": 938,
+                          "end": 952
+                        }
+                      ],
+                      "typeGroup": "Organization",
+                      "errors": [],
+                      "properties": [
+                        {
+                          "pred": "name",
+                          "value": "EMMA International",
+                          "errors": [],
+                          "begin": 960,
+                          "end": 980
+                        }
+                      ],
+                      "nodeProperties": [],
+                      "numErrors": 0,
+                      "numWarnings": 0
+                    },
+                    "errors": [],
+                    "begin": 929,
+                    "end": 981
+                  }
+                ],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 714,
+              "end": 982
+            }
+          ],
+          "numErrors": 0,
+          "numWarnings": 0
+        }
+      ],
+      "numNodesWithError": 0,
+      "numNodesWithWarning": 0,
+      "numErrors": 0,
+      "numWarnings": 0,
+      "type": "Article"
+    }
+  ],
+  "numObjects": 1,
+  "html": "<html><head><script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"@id\":\"http://localhost:3000/resources/historical-intended-use-validation#article\",\"url\":\"http://localhost:3000/resources/historical-intended-use-validation\",\"mainEntityOfPage\":\"http://localhost:3000/resources/historical-intended-use-validation\",\"headline\":\"Intended Use Validation\",\"description\":\"An EMMA International article on intended-use validation of tools used in medical-device development.\",\"inLanguage\":\"en\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"EMMA International\",\"url\":\"https://emmainternational.com/\"},\"author\":{\"@type\":\"Person\",\"name\":\"Alexis Ferrier\"},\"datePublished\":\"2022-02-18\",\"citation\":[{\"@type\":\"Article\",\"headline\":\"Intended Use Validation\",\"url\":\"https://emmainternational.com/intended-use-validation/\",\"datePublished\":\"2022-02-18\",\"creditText\":\"Original source authors: Alexis Ferrier\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"EMMA International\"}}]}</script></head><body></body></html>",
+  "errors": [],
+  "totalNumErrors": 0,
+  "totalNumWarnings": 0
+}

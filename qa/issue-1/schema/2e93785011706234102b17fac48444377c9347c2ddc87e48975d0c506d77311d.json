@@ -1,0 +1,317 @@
+{
+  "isRendered": false,
+  "tripleGroups": [
+    {
+      "ownerSet": {},
+      "nodes": [
+        {
+          "types": [
+            {
+              "pred": "itemtype",
+              "value": "Article",
+              "errors": [],
+              "begin": 88,
+              "end": 97
+            }
+          ],
+          "typeGroup": "Article",
+          "idProperty": {
+            "pred": "urn:spore:url",
+            "value": "http://localhost:3000/resources/characteristics-of-clinical-studies-conducted-over-the-total-product-life-cycle-of-high-risk-therapeutic-medical-devices-receiving-fda-premarket-approval-in-2010-and-2011#article",
+            "errors": [],
+            "begin": 104,
+            "end": 316
+          },
+          "errors": [],
+          "properties": [
+            {
+              "pred": "url",
+              "value": "http://localhost:3000/resources/characteristics-of-clinical-studies-conducted-over-the-total-product-life-cycle-of-high-risk-therapeutic-medical-devices-receiving-fda-premarket-approval-in-2010-and-2011",
+              "errors": [],
+              "begin": 323,
+              "end": 527
+            },
+            {
+              "pred": "mainEntityOfPage",
+              "value": "http://localhost:3000/resources/characteristics-of-clinical-studies-conducted-over-the-total-product-life-cycle-of-high-risk-therapeutic-medical-devices-receiving-fda-premarket-approval-in-2010-and-2011",
+              "errors": [],
+              "begin": 547,
+              "end": 751
+            },
+            {
+              "pred": "headline",
+              "value": "Characteristics of Clinical Studies Conducted Over the Total Product Life Cycle of High-Risk Therapeutic Medical Devices Receiving FDA Premarket Approval in 2010 and 2011",
+              "errors": [],
+              "begin": 763,
+              "end": 935
+            },
+            {
+              "pred": "description",
+              "value": "Device evidence develops across the product lifecycle, including after the initial approval decision.",
+              "errors": [],
+              "begin": 950,
+              "end": 1053
+            },
+            {
+              "pred": "inLanguage",
+              "value": "en",
+              "errors": [],
+              "begin": 1067,
+              "end": 1071
+            }
+          ],
+          "nodeProperties": [
+            {
+              "pred": "publisher",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "Thing",
+                    "errors": [],
+                    "begin": 1084,
+                    "end": 1129
+                  }
+                ],
+                "typeGroup": "Thing",
+                "idProperty": {
+                  "pred": "urn:spore:url",
+                  "value": "http://localhost:3000/#organization",
+                  "errors": [],
+                  "begin": 1091,
+                  "end": 1128
+                },
+                "errors": [],
+                "properties": [],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 1084,
+              "end": 1129
+            },
+            {
+              "pred": "isBasedOn",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "ScholarlyArticle",
+                    "errors": [],
+                    "begin": 1151,
+                    "end": 1169
+                  }
+                ],
+                "typeGroup": "ScholarlyArticle",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "headline",
+                    "value": "Characteristics of Clinical Studies Conducted Over the Total Product Life Cycle of High-Risk Therapeutic Medical Devices Receiving FDA Premarket Approval in 2010 and 2011",
+                    "errors": [],
+                    "begin": 1181,
+                    "end": 1353
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://doi.org/10.1001/jama.2015.8761",
+                    "errors": [],
+                    "begin": 1360,
+                    "end": 1400
+                  },
+                  {
+                    "pred": "datePublished",
+                    "value": "2015-08-01",
+                    "errors": [],
+                    "begin": 1417,
+                    "end": 1429
+                  },
+                  {
+                    "pred": "creditText",
+                    "value": "Original source authors: Rathi VK, Krumholz HM, Masoudi FA, Ross JS.",
+                    "errors": [],
+                    "begin": 1443,
+                    "end": 1513
+                  }
+                ],
+                "nodeProperties": [
+                  {
+                    "pred": "publisher",
+                    "target": {
+                      "types": [
+                        {
+                          "pred": "itemtype",
+                          "value": "Organization",
+                          "errors": [],
+                          "begin": 1535,
+                          "end": 1549
+                        }
+                      ],
+                      "typeGroup": "Organization",
+                      "errors": [],
+                      "properties": [
+                        {
+                          "pred": "name",
+                          "value": "JAMA",
+                          "errors": [],
+                          "begin": 1557,
+                          "end": 1563
+                        }
+                      ],
+                      "nodeProperties": [],
+                      "numErrors": 0,
+                      "numWarnings": 0
+                    },
+                    "errors": [],
+                    "begin": 1526,
+                    "end": 1564
+                  }
+                ],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 1142,
+              "end": 1565
+            },
+            {
+              "pred": "citation",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "ScholarlyArticle",
+                    "errors": [],
+                    "begin": 1587,
+                    "end": 1605
+                  }
+                ],
+                "typeGroup": "ScholarlyArticle",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "headline",
+                    "value": "Characteristics of Clinical Studies Conducted Over the Total Product Life Cycle of High-Risk Therapeutic Medical Devices Receiving FDA Premarket Approval in 2010 and 2011",
+                    "errors": [],
+                    "begin": 1617,
+                    "end": 1789
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://doi.org/10.1001/jama.2015.8761",
+                    "errors": [],
+                    "begin": 1796,
+                    "end": 1836
+                  },
+                  {
+                    "pred": "datePublished",
+                    "value": "2015-08-01",
+                    "errors": [],
+                    "begin": 1853,
+                    "end": 1865
+                  },
+                  {
+                    "pred": "creditText",
+                    "value": "Original source authors: Rathi VK, Krumholz HM, Masoudi FA, Ross JS.",
+                    "errors": [],
+                    "begin": 1879,
+                    "end": 1949
+                  }
+                ],
+                "nodeProperties": [
+                  {
+                    "pred": "publisher",
+                    "target": {
+                      "types": [
+                        {
+                          "pred": "itemtype",
+                          "value": "Organization",
+                          "errors": [],
+                          "begin": 1971,
+                          "end": 1985
+                        }
+                      ],
+                      "typeGroup": "Organization",
+                      "errors": [],
+                      "properties": [
+                        {
+                          "pred": "name",
+                          "value": "JAMA",
+                          "errors": [],
+                          "begin": 1993,
+                          "end": 1999
+                        }
+                      ],
+                      "nodeProperties": [],
+                      "numErrors": 0,
+                      "numWarnings": 0
+                    },
+                    "errors": [],
+                    "begin": 1962,
+                    "end": 2000
+                  }
+                ],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 1578,
+              "end": 2001
+            },
+            {
+              "pred": "citation",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "CreativeWork",
+                    "errors": [],
+                    "begin": 2011,
+                    "end": 2025
+                  }
+                ],
+                "typeGroup": "CreativeWork",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "name",
+                    "value": "Bibliographic record and abstract on PubMed",
+                    "errors": [],
+                    "begin": 2033,
+                    "end": 2078
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://pubmed.ncbi.nlm.nih.gov/26262798/",
+                    "errors": [],
+                    "begin": 2085,
+                    "end": 2128
+                  }
+                ],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 2002,
+              "end": 2129
+            }
+          ],
+          "numErrors": 0,
+          "numWarnings": 0
+        }
+      ],
+      "numNodesWithError": 0,
+      "numNodesWithWarning": 0,
+      "numErrors": 0,
+      "numWarnings": 0,
+      "type": "Article"
+    }
+  ],
+  "numObjects": 1,
+  "html": "<html><head><script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"@id\":\"http://localhost:3000/resources/characteristics-of-clinical-studies-conducted-over-the-total-product-life-cycle-of-high-risk-therapeutic-medical-devices-receiving-fda-premarket-approval-in-2010-and-2011#article\",\"url\":\"http://localhost:3000/resources/characteristics-of-clinical-studies-conducted-over-the-total-product-life-cycle-of-high-risk-therapeutic-medical-devices-receiving-fda-premarket-approval-in-2010-and-2011\",\"mainEntityOfPage\":\"http://localhost:3000/resources/characteristics-of-clinical-studies-conducted-over-the-total-product-life-cycle-of-high-risk-therapeutic-medical-devices-receiving-fda-premarket-approval-in-2010-and-2011\",\"headline\":\"Characteristics of Clinical Studies Conducted Over the Total Product Life Cycle of High-Risk Therapeutic Medical Devices Receiving FDA Premarket Approval in 2010 and 2011\",\"description\":\"Device evidence develops across the product lifecycle, including after the initial approval decision.\",\"inLanguage\":\"en\",\"publisher\":{\"@id\":\"http://localhost:3000/#organization\"},\"isBasedOn\":{\"@type\":\"ScholarlyArticle\",\"headline\":\"Characteristics of Clinical Studies Conducted Over the Total Product Life Cycle of High-Risk Therapeutic Medical Devices Receiving FDA Premarket Approval in 2010 and 2011\",\"url\":\"https://doi.org/10.1001/jama.2015.8761\",\"datePublished\":\"2015-08-01\",\"creditText\":\"Original source authors: Rathi VK, Krumholz HM, Masoudi FA, Ross JS.\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"JAMA\"}},\"citation\":[{\"@type\":\"ScholarlyArticle\",\"headline\":\"Characteristics of Clinical Studies Conducted Over the Total Product Life Cycle of High-Risk Therapeutic Medical Devices Receiving FDA Premarket Approval in 2010 and 2011\",\"url\":\"https://doi.org/10.1001/jama.2015.8761\",\"datePublished\":\"2015-08-01\",\"creditText\":\"Original source authors: Rathi VK, Krumholz HM, Masoudi FA, Ross JS.\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"JAMA\"}},{\"@type\":\"CreativeWork\",\"name\":\"Bibliographic record and abstract on PubMed\",\"url\":\"https://pubmed.ncbi.nlm.nih.gov/26262798/\"}]}</script></head><body></body></html>",
+  "errors": [],
+  "totalNumErrors": 0,
+  "totalNumWarnings": 0
+}

@@ -1,0 +1,355 @@
+{
+  "isRendered": false,
+  "tripleGroups": [
+    {
+      "ownerSet": {},
+      "nodes": [
+        {
+          "types": [
+            {
+              "pred": "itemtype",
+              "value": "Article",
+              "errors": [],
+              "begin": 88,
+              "end": 97
+            }
+          ],
+          "typeGroup": "Article",
+          "idProperty": {
+            "pred": "urn:spore:url",
+            "value": "http://localhost:3000/resources/dermatologist-level-classification-of-skin-cancer-with-deep-neural-networks#article",
+            "errors": [],
+            "begin": 104,
+            "end": 221
+          },
+          "errors": [],
+          "properties": [
+            {
+              "pred": "url",
+              "value": "http://localhost:3000/resources/dermatologist-level-classification-of-skin-cancer-with-deep-neural-networks",
+              "errors": [],
+              "begin": 228,
+              "end": 337
+            },
+            {
+              "pred": "mainEntityOfPage",
+              "value": "http://localhost:3000/resources/dermatologist-level-classification-of-skin-cancer-with-deep-neural-networks",
+              "errors": [],
+              "begin": 357,
+              "end": 466
+            },
+            {
+              "pred": "headline",
+              "value": "Dermatologist-level classification of skin cancer with deep neural networks",
+              "errors": [],
+              "begin": 478,
+              "end": 555
+            },
+            {
+              "pred": "description",
+              "value": "A landmark skin-image classification study illustrates both the promise and the boundaries of benchmark results.",
+              "errors": [],
+              "begin": 570,
+              "end": 684
+            },
+            {
+              "pred": "inLanguage",
+              "value": "en",
+              "errors": [],
+              "begin": 698,
+              "end": 702
+            }
+          ],
+          "nodeProperties": [
+            {
+              "pred": "publisher",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "Thing",
+                    "errors": [],
+                    "begin": 715,
+                    "end": 760
+                  }
+                ],
+                "typeGroup": "Thing",
+                "idProperty": {
+                  "pred": "urn:spore:url",
+                  "value": "http://localhost:3000/#organization",
+                  "errors": [],
+                  "begin": 722,
+                  "end": 759
+                },
+                "errors": [],
+                "properties": [],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 715,
+              "end": 760
+            },
+            {
+              "pred": "isBasedOn",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "ScholarlyArticle",
+                    "errors": [],
+                    "begin": 782,
+                    "end": 800
+                  }
+                ],
+                "typeGroup": "ScholarlyArticle",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "headline",
+                    "value": "Dermatologist-level classification of skin cancer with deep neural networks",
+                    "errors": [],
+                    "begin": 812,
+                    "end": 889
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://doi.org/10.1038/nature21056",
+                    "errors": [],
+                    "begin": 896,
+                    "end": 933
+                  },
+                  {
+                    "pred": "datePublished",
+                    "value": "2017-01-25",
+                    "errors": [],
+                    "begin": 950,
+                    "end": 962
+                  },
+                  {
+                    "pred": "creditText",
+                    "value": "Original source authors: Esteva A, Kuprel B, Novoa RA, Ko J, Swetter SM, Blau HM, Thrun S.",
+                    "errors": [],
+                    "begin": 976,
+                    "end": 1068
+                  }
+                ],
+                "nodeProperties": [
+                  {
+                    "pred": "publisher",
+                    "target": {
+                      "types": [
+                        {
+                          "pred": "itemtype",
+                          "value": "Organization",
+                          "errors": [],
+                          "begin": 1090,
+                          "end": 1104
+                        }
+                      ],
+                      "typeGroup": "Organization",
+                      "errors": [],
+                      "properties": [
+                        {
+                          "pred": "name",
+                          "value": "Nature",
+                          "errors": [],
+                          "begin": 1112,
+                          "end": 1120
+                        }
+                      ],
+                      "nodeProperties": [],
+                      "numErrors": 0,
+                      "numWarnings": 0
+                    },
+                    "errors": [],
+                    "begin": 1081,
+                    "end": 1121
+                  }
+                ],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 773,
+              "end": 1122
+            },
+            {
+              "pred": "citation",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "ScholarlyArticle",
+                    "errors": [],
+                    "begin": 1144,
+                    "end": 1162
+                  }
+                ],
+                "typeGroup": "ScholarlyArticle",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "headline",
+                    "value": "Dermatologist-level classification of skin cancer with deep neural networks",
+                    "errors": [],
+                    "begin": 1174,
+                    "end": 1251
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://doi.org/10.1038/nature21056",
+                    "errors": [],
+                    "begin": 1258,
+                    "end": 1295
+                  },
+                  {
+                    "pred": "datePublished",
+                    "value": "2017-01-25",
+                    "errors": [],
+                    "begin": 1312,
+                    "end": 1324
+                  },
+                  {
+                    "pred": "creditText",
+                    "value": "Original source authors: Esteva A, Kuprel B, Novoa RA, Ko J, Swetter SM, Blau HM, Thrun S.",
+                    "errors": [],
+                    "begin": 1338,
+                    "end": 1430
+                  }
+                ],
+                "nodeProperties": [
+                  {
+                    "pred": "publisher",
+                    "target": {
+                      "types": [
+                        {
+                          "pred": "itemtype",
+                          "value": "Organization",
+                          "errors": [],
+                          "begin": 1452,
+                          "end": 1466
+                        }
+                      ],
+                      "typeGroup": "Organization",
+                      "errors": [],
+                      "properties": [
+                        {
+                          "pred": "name",
+                          "value": "Nature",
+                          "errors": [],
+                          "begin": 1474,
+                          "end": 1482
+                        }
+                      ],
+                      "nodeProperties": [],
+                      "numErrors": 0,
+                      "numWarnings": 0
+                    },
+                    "errors": [],
+                    "begin": 1443,
+                    "end": 1483
+                  }
+                ],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 1135,
+              "end": 1484
+            },
+            {
+              "pred": "citation",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "CreativeWork",
+                    "errors": [],
+                    "begin": 1494,
+                    "end": 1508
+                  }
+                ],
+                "typeGroup": "CreativeWork",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "name",
+                    "value": "Bibliographic record and abstract on PubMed",
+                    "errors": [],
+                    "begin": 1516,
+                    "end": 1561
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://pubmed.ncbi.nlm.nih.gov/28117445/",
+                    "errors": [],
+                    "begin": 1568,
+                    "end": 1611
+                  }
+                ],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 1485,
+              "end": 1612
+            },
+            {
+              "pred": "citation",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "CreativeWork",
+                    "errors": [],
+                    "begin": 1622,
+                    "end": 1636
+                  }
+                ],
+                "typeGroup": "CreativeWork",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "name",
+                    "value": "Published correction (Nature)",
+                    "errors": [],
+                    "begin": 1644,
+                    "end": 1675
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://doi.org/10.1038/nature22985",
+                    "errors": [],
+                    "begin": 1682,
+                    "end": 1719
+                  }
+                ],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 1613,
+              "end": 1720
+            }
+          ],
+          "numErrors": 0,
+          "numWarnings": 0
+        }
+      ],
+      "numNodesWithError": 0,
+      "numNodesWithWarning": 0,
+      "numErrors": 0,
+      "numWarnings": 0,
+      "type": "Article"
+    }
+  ],
+  "numObjects": 1,
+  "html": "<html><head><script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"@id\":\"http://localhost:3000/resources/dermatologist-level-classification-of-skin-cancer-with-deep-neural-networks#article\",\"url\":\"http://localhost:3000/resources/dermatologist-level-classification-of-skin-cancer-with-deep-neural-networks\",\"mainEntityOfPage\":\"http://localhost:3000/resources/dermatologist-level-classification-of-skin-cancer-with-deep-neural-networks\",\"headline\":\"Dermatologist-level classification of skin cancer with deep neural networks\",\"description\":\"A landmark skin-image classification study illustrates both the promise and the boundaries of benchmark results.\",\"inLanguage\":\"en\",\"publisher\":{\"@id\":\"http://localhost:3000/#organization\"},\"isBasedOn\":{\"@type\":\"ScholarlyArticle\",\"headline\":\"Dermatologist-level classification of skin cancer with deep neural networks\",\"url\":\"https://doi.org/10.1038/nature21056\",\"datePublished\":\"2017-01-25\",\"creditText\":\"Original source authors: Esteva A, Kuprel B, Novoa RA, Ko J, Swetter SM, Blau HM, Thrun S.\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Nature\"}},\"citation\":[{\"@type\":\"ScholarlyArticle\",\"headline\":\"Dermatologist-level classification of skin cancer with deep neural networks\",\"url\":\"https://doi.org/10.1038/nature21056\",\"datePublished\":\"2017-01-25\",\"creditText\":\"Original source authors: Esteva A, Kuprel B, Novoa RA, Ko J, Swetter SM, Blau HM, Thrun S.\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Nature\"}},{\"@type\":\"CreativeWork\",\"name\":\"Bibliographic record and abstract on PubMed\",\"url\":\"https://pubmed.ncbi.nlm.nih.gov/28117445/\"},{\"@type\":\"CreativeWork\",\"name\":\"Published correction (Nature)\",\"url\":\"https://doi.org/10.1038/nature22985\"}]}</script></head><body></body></html>",
+  "errors": [],
+  "totalNumErrors": 0,
+  "totalNumWarnings": 0
+}

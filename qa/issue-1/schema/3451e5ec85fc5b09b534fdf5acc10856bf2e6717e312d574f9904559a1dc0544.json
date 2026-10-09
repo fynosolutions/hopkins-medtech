@@ -1,0 +1,431 @@
+{
+  "isRendered": false,
+  "tripleGroups": [
+    {
+      "ownerSet": {},
+      "nodes": [
+        {
+          "types": [
+            {
+              "pred": "itemtype",
+              "value": "Article",
+              "errors": [],
+              "begin": 88,
+              "end": 97
+            }
+          ],
+          "typeGroup": "Article",
+          "idProperty": {
+            "pred": "urn:spore:url",
+            "value": "http://localhost:3000/resources/ai-skin-science-different-evidence#article",
+            "errors": [],
+            "begin": 104,
+            "end": 180
+          },
+          "errors": [],
+          "properties": [
+            {
+              "pred": "url",
+              "value": "http://localhost:3000/resources/ai-skin-science-different-evidence",
+              "errors": [],
+              "begin": 187,
+              "end": 255
+            },
+            {
+              "pred": "mainEntityOfPage",
+              "value": "http://localhost:3000/resources/ai-skin-science-different-evidence",
+              "errors": [],
+              "begin": 275,
+              "end": 343
+            },
+            {
+              "pred": "headline",
+              "value": "AI in skin science: different questions, different evidence",
+              "errors": [],
+              "begin": 355,
+              "end": 416
+            },
+            {
+              "pred": "description",
+              "value": "Image labels, drug transport and clinical image assessment each demand a different evaluation.",
+              "errors": [],
+              "begin": 431,
+              "end": 527
+            },
+            {
+              "pred": "inLanguage",
+              "value": "en",
+              "errors": [],
+              "begin": 541,
+              "end": 545
+            }
+          ],
+          "nodeProperties": [
+            {
+              "pred": "publisher",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "Thing",
+                    "errors": [],
+                    "begin": 558,
+                    "end": 603
+                  }
+                ],
+                "typeGroup": "Thing",
+                "idProperty": {
+                  "pred": "urn:spore:url",
+                  "value": "http://localhost:3000/#organization",
+                  "errors": [],
+                  "begin": 565,
+                  "end": 602
+                },
+                "errors": [],
+                "properties": [],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 558,
+              "end": 603
+            },
+            {
+              "pred": "isBasedOn",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "Article",
+                    "errors": [],
+                    "begin": 625,
+                    "end": 634
+                  }
+                ],
+                "typeGroup": "Article",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "headline",
+                    "value": "AI in skin science: different questions, different evidence",
+                    "errors": [],
+                    "begin": 646,
+                    "end": 707
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://www.linkedin.com/feed/update/urn:li:activity:7512640754020716544/",
+                    "errors": [],
+                    "begin": 714,
+                    "end": 789
+                  },
+                  {
+                    "pred": "datePublished",
+                    "value": "2026-10-04",
+                    "errors": [],
+                    "begin": 806,
+                    "end": 818
+                  },
+                  {
+                    "pred": "creditText",
+                    "value": "Original source authors: Hopkins MedTech Compliance",
+                    "errors": [],
+                    "begin": 832,
+                    "end": 885
+                  }
+                ],
+                "nodeProperties": [
+                  {
+                    "pred": "publisher",
+                    "target": {
+                      "types": [
+                        {
+                          "pred": "itemtype",
+                          "value": "Organization",
+                          "errors": [],
+                          "begin": 907,
+                          "end": 921
+                        }
+                      ],
+                      "typeGroup": "Organization",
+                      "errors": [],
+                      "properties": [
+                        {
+                          "pred": "name",
+                          "value": "Hopkins MedTech Compliance",
+                          "errors": [],
+                          "begin": 929,
+                          "end": 957
+                        }
+                      ],
+                      "nodeProperties": [],
+                      "numErrors": 0,
+                      "numWarnings": 0
+                    },
+                    "errors": [],
+                    "begin": 898,
+                    "end": 958
+                  }
+                ],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 616,
+              "end": 959
+            },
+            {
+              "pred": "citation",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "Article",
+                    "errors": [],
+                    "begin": 981,
+                    "end": 990
+                  }
+                ],
+                "typeGroup": "Article",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "headline",
+                    "value": "AI in skin science: different questions, different evidence",
+                    "errors": [],
+                    "begin": 1002,
+                    "end": 1063
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://www.linkedin.com/feed/update/urn:li:activity:7512640754020716544/",
+                    "errors": [],
+                    "begin": 1070,
+                    "end": 1145
+                  },
+                  {
+                    "pred": "datePublished",
+                    "value": "2026-10-04",
+                    "errors": [],
+                    "begin": 1162,
+                    "end": 1174
+                  },
+                  {
+                    "pred": "creditText",
+                    "value": "Original source authors: Hopkins MedTech Compliance",
+                    "errors": [],
+                    "begin": 1188,
+                    "end": 1241
+                  }
+                ],
+                "nodeProperties": [
+                  {
+                    "pred": "publisher",
+                    "target": {
+                      "types": [
+                        {
+                          "pred": "itemtype",
+                          "value": "Organization",
+                          "errors": [],
+                          "begin": 1263,
+                          "end": 1277
+                        }
+                      ],
+                      "typeGroup": "Organization",
+                      "errors": [],
+                      "properties": [
+                        {
+                          "pred": "name",
+                          "value": "Hopkins MedTech Compliance",
+                          "errors": [],
+                          "begin": 1285,
+                          "end": 1313
+                        }
+                      ],
+                      "nodeProperties": [],
+                      "numErrors": 0,
+                      "numWarnings": 0
+                    },
+                    "errors": [],
+                    "begin": 1254,
+                    "end": 1314
+                  }
+                ],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 972,
+              "end": 1315
+            },
+            {
+              "pred": "citation",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "CreativeWork",
+                    "errors": [],
+                    "begin": 1325,
+                    "end": 1339
+                  }
+                ],
+                "typeGroup": "CreativeWork",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "name",
+                    "value": "Skin-tone benchmark — arXiv:2603.02475",
+                    "errors": [],
+                    "begin": 1347,
+                    "end": 1389
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://arxiv.org/abs/2603.02475",
+                    "errors": [],
+                    "begin": 1396,
+                    "end": 1430
+                  }
+                ],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 1316,
+              "end": 1431
+            },
+            {
+              "pred": "citation",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "CreativeWork",
+                    "errors": [],
+                    "begin": 1441,
+                    "end": 1455
+                  }
+                ],
+                "typeGroup": "CreativeWork",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "name",
+                    "value": "Microneedle permeation study, 2023",
+                    "errors": [],
+                    "begin": 1463,
+                    "end": 1499
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://doi.org/10.1002/btm2.10512",
+                    "errors": [],
+                    "begin": 1506,
+                    "end": 1542
+                  }
+                ],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 1432,
+              "end": 1543
+            },
+            {
+              "pred": "citation",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "CreativeWork",
+                    "errors": [],
+                    "begin": 1553,
+                    "end": 1567
+                  }
+                ],
+                "typeGroup": "CreativeWork",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "name",
+                    "value": "Multimodal AI benchmark — arXiv:2609.24190",
+                    "errors": [],
+                    "begin": 1575,
+                    "end": 1621
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://arxiv.org/abs/2609.24190",
+                    "errors": [],
+                    "begin": 1628,
+                    "end": 1662
+                  }
+                ],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 1544,
+              "end": 1663
+            },
+            {
+              "pred": "citation",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "CreativeWork",
+                    "errors": [],
+                    "begin": 1673,
+                    "end": 1687
+                  }
+                ],
+                "typeGroup": "CreativeWork",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "name",
+                    "value": "FDA final order on two melanoma device types",
+                    "errors": [],
+                    "begin": 1695,
+                    "end": 1741
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://www.federalregister.gov/documents/2026/03/25/2026-05772/general-and-plastic-surgery-devices-reclassification-of-optical-diagnostic-devices-for-melanoma",
+                    "errors": [],
+                    "begin": 1748,
+                    "end": 1909
+                  }
+                ],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 1664,
+              "end": 1910
+            }
+          ],
+          "numErrors": 0,
+          "numWarnings": 0
+        }
+      ],
+      "numNodesWithError": 0,
+      "numNodesWithWarning": 0,
+      "numErrors": 0,
+      "numWarnings": 0,
+      "type": "Article"
+    }
+  ],
+  "numObjects": 1,
+  "html": "<html><head><script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"@id\":\"http://localhost:3000/resources/ai-skin-science-different-evidence#article\",\"url\":\"http://localhost:3000/resources/ai-skin-science-different-evidence\",\"mainEntityOfPage\":\"http://localhost:3000/resources/ai-skin-science-different-evidence\",\"headline\":\"AI in skin science: different questions, different evidence\",\"description\":\"Image labels, drug transport and clinical image assessment each demand a different evaluation.\",\"inLanguage\":\"en\",\"publisher\":{\"@id\":\"http://localhost:3000/#organization\"},\"isBasedOn\":{\"@type\":\"Article\",\"headline\":\"AI in skin science: different questions, different evidence\",\"url\":\"https://www.linkedin.com/feed/update/urn:li:activity:7512640754020716544/\",\"datePublished\":\"2026-10-04\",\"creditText\":\"Original source authors: Hopkins MedTech Compliance\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Hopkins MedTech Compliance\"}},\"citation\":[{\"@type\":\"Article\",\"headline\":\"AI in skin science: different questions, different evidence\",\"url\":\"https://www.linkedin.com/feed/update/urn:li:activity:7512640754020716544/\",\"datePublished\":\"2026-10-04\",\"creditText\":\"Original source authors: Hopkins MedTech Compliance\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Hopkins MedTech Compliance\"}},{\"@type\":\"CreativeWork\",\"name\":\"Skin-tone benchmark — arXiv:2603.02475\",\"url\":\"https://arxiv.org/abs/2603.02475\"},{\"@type\":\"CreativeWork\",\"name\":\"Microneedle permeation study, 2023\",\"url\":\"https://doi.org/10.1002/btm2.10512\"},{\"@type\":\"CreativeWork\",\"name\":\"Multimodal AI benchmark — arXiv:2609.24190\",\"url\":\"https://arxiv.org/abs/2609.24190\"},{\"@type\":\"CreativeWork\",\"name\":\"FDA final order on two melanoma device types\",\"url\":\"https://www.federalregister.gov/documents/2026/03/25/2026-05772/general-and-plastic-surgery-devices-reclassification-of-optical-diagnostic-devices-for-melanoma\"}]}</script></head><body></body></html>",
+  "errors": [],
+  "totalNumErrors": 0,
+  "totalNumWarnings": 0
+}

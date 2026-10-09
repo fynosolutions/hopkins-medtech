@@ -1,0 +1,317 @@
+{
+  "isRendered": false,
+  "tripleGroups": [
+    {
+      "ownerSet": {},
+      "nodes": [
+        {
+          "types": [
+            {
+              "pred": "itemtype",
+              "value": "Article",
+              "errors": [],
+              "begin": 88,
+              "end": 97
+            }
+          ],
+          "typeGroup": "Article",
+          "idProperty": {
+            "pred": "urn:spore:url",
+            "value": "http://localhost:3000/resources/modelling-skin-and-transdermal-transport#article",
+            "errors": [],
+            "begin": 104,
+            "end": 186
+          },
+          "errors": [],
+          "properties": [
+            {
+              "pred": "url",
+              "value": "http://localhost:3000/resources/modelling-skin-and-transdermal-transport",
+              "errors": [],
+              "begin": 193,
+              "end": 267
+            },
+            {
+              "pred": "mainEntityOfPage",
+              "value": "http://localhost:3000/resources/modelling-skin-and-transdermal-transport",
+              "errors": [],
+              "begin": 287,
+              "end": 361
+            },
+            {
+              "pred": "headline",
+              "value": "What a skin-transport model can help us explore",
+              "errors": [],
+              "begin": 373,
+              "end": 422
+            },
+            {
+              "pred": "description",
+              "value": "A computational preprint links skin morphology with simulated transport across a set of 50 chemicals.",
+              "errors": [],
+              "begin": 437,
+              "end": 540
+            },
+            {
+              "pred": "inLanguage",
+              "value": "en",
+              "errors": [],
+              "begin": 554,
+              "end": 558
+            }
+          ],
+          "nodeProperties": [
+            {
+              "pred": "publisher",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "Thing",
+                    "errors": [],
+                    "begin": 571,
+                    "end": 616
+                  }
+                ],
+                "typeGroup": "Thing",
+                "idProperty": {
+                  "pred": "urn:spore:url",
+                  "value": "http://localhost:3000/#organization",
+                  "errors": [],
+                  "begin": 578,
+                  "end": 615
+                },
+                "errors": [],
+                "properties": [],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 571,
+              "end": 616
+            },
+            {
+              "pred": "isBasedOn",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "Article",
+                    "errors": [],
+                    "begin": 638,
+                    "end": 647
+                  }
+                ],
+                "typeGroup": "Article",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "headline",
+                    "value": "What a skin-transport model can help us explore",
+                    "errors": [],
+                    "begin": 659,
+                    "end": 708
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://www.linkedin.com/feed/update/urn:li:activity:7513591552712040449/",
+                    "errors": [],
+                    "begin": 715,
+                    "end": 790
+                  },
+                  {
+                    "pred": "datePublished",
+                    "value": "2026-10-07",
+                    "errors": [],
+                    "begin": 807,
+                    "end": 819
+                  },
+                  {
+                    "pred": "creditText",
+                    "value": "Original source authors: Hopkins MedTech Compliance",
+                    "errors": [],
+                    "begin": 833,
+                    "end": 886
+                  }
+                ],
+                "nodeProperties": [
+                  {
+                    "pred": "publisher",
+                    "target": {
+                      "types": [
+                        {
+                          "pred": "itemtype",
+                          "value": "Organization",
+                          "errors": [],
+                          "begin": 908,
+                          "end": 922
+                        }
+                      ],
+                      "typeGroup": "Organization",
+                      "errors": [],
+                      "properties": [
+                        {
+                          "pred": "name",
+                          "value": "Hopkins MedTech Compliance",
+                          "errors": [],
+                          "begin": 930,
+                          "end": 958
+                        }
+                      ],
+                      "nodeProperties": [],
+                      "numErrors": 0,
+                      "numWarnings": 0
+                    },
+                    "errors": [],
+                    "begin": 899,
+                    "end": 959
+                  }
+                ],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 629,
+              "end": 960
+            },
+            {
+              "pred": "citation",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "Article",
+                    "errors": [],
+                    "begin": 982,
+                    "end": 991
+                  }
+                ],
+                "typeGroup": "Article",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "headline",
+                    "value": "What a skin-transport model can help us explore",
+                    "errors": [],
+                    "begin": 1003,
+                    "end": 1052
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://www.linkedin.com/feed/update/urn:li:activity:7513591552712040449/",
+                    "errors": [],
+                    "begin": 1059,
+                    "end": 1134
+                  },
+                  {
+                    "pred": "datePublished",
+                    "value": "2026-10-07",
+                    "errors": [],
+                    "begin": 1151,
+                    "end": 1163
+                  },
+                  {
+                    "pred": "creditText",
+                    "value": "Original source authors: Hopkins MedTech Compliance",
+                    "errors": [],
+                    "begin": 1177,
+                    "end": 1230
+                  }
+                ],
+                "nodeProperties": [
+                  {
+                    "pred": "publisher",
+                    "target": {
+                      "types": [
+                        {
+                          "pred": "itemtype",
+                          "value": "Organization",
+                          "errors": [],
+                          "begin": 1252,
+                          "end": 1266
+                        }
+                      ],
+                      "typeGroup": "Organization",
+                      "errors": [],
+                      "properties": [
+                        {
+                          "pred": "name",
+                          "value": "Hopkins MedTech Compliance",
+                          "errors": [],
+                          "begin": 1274,
+                          "end": 1302
+                        }
+                      ],
+                      "nodeProperties": [],
+                      "numErrors": 0,
+                      "numWarnings": 0
+                    },
+                    "errors": [],
+                    "begin": 1243,
+                    "end": 1303
+                  }
+                ],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 973,
+              "end": 1304
+            },
+            {
+              "pred": "citation",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "CreativeWork",
+                    "errors": [],
+                    "begin": 1314,
+                    "end": 1328
+                  }
+                ],
+                "typeGroup": "CreativeWork",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "name",
+                    "value": "Tesfamarian et al. — arXiv:2508.07123",
+                    "errors": [],
+                    "begin": 1336,
+                    "end": 1377
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://arxiv.org/abs/2508.07123",
+                    "errors": [],
+                    "begin": 1384,
+                    "end": 1418
+                  }
+                ],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 1305,
+              "end": 1419
+            }
+          ],
+          "numErrors": 0,
+          "numWarnings": 0
+        }
+      ],
+      "numNodesWithError": 0,
+      "numNodesWithWarning": 0,
+      "numErrors": 0,
+      "numWarnings": 0,
+      "type": "Article"
+    }
+  ],
+  "numObjects": 1,
+  "html": "<html><head><script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"@id\":\"http://localhost:3000/resources/modelling-skin-and-transdermal-transport#article\",\"url\":\"http://localhost:3000/resources/modelling-skin-and-transdermal-transport\",\"mainEntityOfPage\":\"http://localhost:3000/resources/modelling-skin-and-transdermal-transport\",\"headline\":\"What a skin-transport model can help us explore\",\"description\":\"A computational preprint links skin morphology with simulated transport across a set of 50 chemicals.\",\"inLanguage\":\"en\",\"publisher\":{\"@id\":\"http://localhost:3000/#organization\"},\"isBasedOn\":{\"@type\":\"Article\",\"headline\":\"What a skin-transport model can help us explore\",\"url\":\"https://www.linkedin.com/feed/update/urn:li:activity:7513591552712040449/\",\"datePublished\":\"2026-10-07\",\"creditText\":\"Original source authors: Hopkins MedTech Compliance\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Hopkins MedTech Compliance\"}},\"citation\":[{\"@type\":\"Article\",\"headline\":\"What a skin-transport model can help us explore\",\"url\":\"https://www.linkedin.com/feed/update/urn:li:activity:7513591552712040449/\",\"datePublished\":\"2026-10-07\",\"creditText\":\"Original source authors: Hopkins MedTech Compliance\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Hopkins MedTech Compliance\"}},{\"@type\":\"CreativeWork\",\"name\":\"Tesfamarian et al. — arXiv:2508.07123\",\"url\":\"https://arxiv.org/abs/2508.07123\"}]}</script></head><body></body></html>",
+  "errors": [],
+  "totalNumErrors": 0,
+  "totalNumWarnings": 0
+}

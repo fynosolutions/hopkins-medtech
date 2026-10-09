@@ -1,0 +1,317 @@
+{
+  "isRendered": false,
+  "tripleGroups": [
+    {
+      "ownerSet": {},
+      "nodes": [
+        {
+          "types": [
+            {
+              "pred": "itemtype",
+              "value": "Article",
+              "errors": [],
+              "begin": 88,
+              "end": 97
+            }
+          ],
+          "typeGroup": "Article",
+          "idProperty": {
+            "pred": "urn:spore:url",
+            "value": "http://localhost:3000/resources/hmc-hml-documented-partnership#article",
+            "errors": [],
+            "begin": 104,
+            "end": 176
+          },
+          "errors": [],
+          "properties": [
+            {
+              "pred": "url",
+              "value": "http://localhost:3000/resources/hmc-hml-documented-partnership",
+              "errors": [],
+              "begin": 183,
+              "end": 247
+            },
+            {
+              "pred": "mainEntityOfPage",
+              "value": "http://localhost:3000/resources/hmc-hml-documented-partnership",
+              "errors": [],
+              "begin": 267,
+              "end": 331
+            },
+            {
+              "pred": "headline",
+              "value": "HMC, HML and a documented laboratory partnership",
+              "errors": [],
+              "begin": 343,
+              "end": 393
+            },
+            {
+              "pred": "description",
+              "value": "A 2023 partner announcement provides a dated record of distinct clinical, regulatory and laboratory roles.",
+              "errors": [],
+              "begin": 408,
+              "end": 516
+            },
+            {
+              "pred": "inLanguage",
+              "value": "en",
+              "errors": [],
+              "begin": 530,
+              "end": 534
+            }
+          ],
+          "nodeProperties": [
+            {
+              "pred": "publisher",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "Thing",
+                    "errors": [],
+                    "begin": 547,
+                    "end": 592
+                  }
+                ],
+                "typeGroup": "Thing",
+                "idProperty": {
+                  "pred": "urn:spore:url",
+                  "value": "http://localhost:3000/#organization",
+                  "errors": [],
+                  "begin": 554,
+                  "end": 591
+                },
+                "errors": [],
+                "properties": [],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 547,
+              "end": 592
+            },
+            {
+              "pred": "isBasedOn",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "Article",
+                    "errors": [],
+                    "begin": 614,
+                    "end": 623
+                  }
+                ],
+                "typeGroup": "Article",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "headline",
+                    "value": "HMC, HML and a documented laboratory partnership",
+                    "errors": [],
+                    "begin": 635,
+                    "end": 685
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://www.linkedin.com/feed/update/urn:li:activity:7513138611614187520/",
+                    "errors": [],
+                    "begin": 692,
+                    "end": 767
+                  },
+                  {
+                    "pred": "datePublished",
+                    "value": "2026-10-06",
+                    "errors": [],
+                    "begin": 784,
+                    "end": 796
+                  },
+                  {
+                    "pred": "creditText",
+                    "value": "Original source authors: Hopkins MedTech Compliance",
+                    "errors": [],
+                    "begin": 810,
+                    "end": 863
+                  }
+                ],
+                "nodeProperties": [
+                  {
+                    "pred": "publisher",
+                    "target": {
+                      "types": [
+                        {
+                          "pred": "itemtype",
+                          "value": "Organization",
+                          "errors": [],
+                          "begin": 885,
+                          "end": 899
+                        }
+                      ],
+                      "typeGroup": "Organization",
+                      "errors": [],
+                      "properties": [
+                        {
+                          "pred": "name",
+                          "value": "Hopkins MedTech Compliance",
+                          "errors": [],
+                          "begin": 907,
+                          "end": 935
+                        }
+                      ],
+                      "nodeProperties": [],
+                      "numErrors": 0,
+                      "numWarnings": 0
+                    },
+                    "errors": [],
+                    "begin": 876,
+                    "end": 936
+                  }
+                ],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 605,
+              "end": 937
+            },
+            {
+              "pred": "citation",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "Article",
+                    "errors": [],
+                    "begin": 959,
+                    "end": 968
+                  }
+                ],
+                "typeGroup": "Article",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "headline",
+                    "value": "HMC, HML and a documented laboratory partnership",
+                    "errors": [],
+                    "begin": 980,
+                    "end": 1030
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://www.linkedin.com/feed/update/urn:li:activity:7513138611614187520/",
+                    "errors": [],
+                    "begin": 1037,
+                    "end": 1112
+                  },
+                  {
+                    "pred": "datePublished",
+                    "value": "2026-10-06",
+                    "errors": [],
+                    "begin": 1129,
+                    "end": 1141
+                  },
+                  {
+                    "pred": "creditText",
+                    "value": "Original source authors: Hopkins MedTech Compliance",
+                    "errors": [],
+                    "begin": 1155,
+                    "end": 1208
+                  }
+                ],
+                "nodeProperties": [
+                  {
+                    "pred": "publisher",
+                    "target": {
+                      "types": [
+                        {
+                          "pred": "itemtype",
+                          "value": "Organization",
+                          "errors": [],
+                          "begin": 1230,
+                          "end": 1244
+                        }
+                      ],
+                      "typeGroup": "Organization",
+                      "errors": [],
+                      "properties": [
+                        {
+                          "pred": "name",
+                          "value": "Hopkins MedTech Compliance",
+                          "errors": [],
+                          "begin": 1252,
+                          "end": 1280
+                        }
+                      ],
+                      "nodeProperties": [],
+                      "numErrors": 0,
+                      "numWarnings": 0
+                    },
+                    "errors": [],
+                    "begin": 1221,
+                    "end": 1281
+                  }
+                ],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 950,
+              "end": 1282
+            },
+            {
+              "pred": "citation",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "CreativeWork",
+                    "errors": [],
+                    "begin": 1292,
+                    "end": 1306
+                  }
+                ],
+                "typeGroup": "CreativeWork",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "name",
+                    "value": "DiaCarta — partnership announcement, 24 July 2023",
+                    "errors": [],
+                    "begin": 1314,
+                    "end": 1367
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://www.diacarta.com/hmc-hml-partnership",
+                    "errors": [],
+                    "begin": 1374,
+                    "end": 1420
+                  }
+                ],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 1283,
+              "end": 1421
+            }
+          ],
+          "numErrors": 0,
+          "numWarnings": 0
+        }
+      ],
+      "numNodesWithError": 0,
+      "numNodesWithWarning": 0,
+      "numErrors": 0,
+      "numWarnings": 0,
+      "type": "Article"
+    }
+  ],
+  "numObjects": 1,
+  "html": "<html><head><script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"@id\":\"http://localhost:3000/resources/hmc-hml-documented-partnership#article\",\"url\":\"http://localhost:3000/resources/hmc-hml-documented-partnership\",\"mainEntityOfPage\":\"http://localhost:3000/resources/hmc-hml-documented-partnership\",\"headline\":\"HMC, HML and a documented laboratory partnership\",\"description\":\"A 2023 partner announcement provides a dated record of distinct clinical, regulatory and laboratory roles.\",\"inLanguage\":\"en\",\"publisher\":{\"@id\":\"http://localhost:3000/#organization\"},\"isBasedOn\":{\"@type\":\"Article\",\"headline\":\"HMC, HML and a documented laboratory partnership\",\"url\":\"https://www.linkedin.com/feed/update/urn:li:activity:7513138611614187520/\",\"datePublished\":\"2026-10-06\",\"creditText\":\"Original source authors: Hopkins MedTech Compliance\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Hopkins MedTech Compliance\"}},\"citation\":[{\"@type\":\"Article\",\"headline\":\"HMC, HML and a documented laboratory partnership\",\"url\":\"https://www.linkedin.com/feed/update/urn:li:activity:7513138611614187520/\",\"datePublished\":\"2026-10-06\",\"creditText\":\"Original source authors: Hopkins MedTech Compliance\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Hopkins MedTech Compliance\"}},{\"@type\":\"CreativeWork\",\"name\":\"DiaCarta — partnership announcement, 24 July 2023\",\"url\":\"https://www.diacarta.com/hmc-hml-partnership\"}]}</script></head><body></body></html>",
+  "errors": [],
+  "totalNumErrors": 0,
+  "totalNumWarnings": 0
+}

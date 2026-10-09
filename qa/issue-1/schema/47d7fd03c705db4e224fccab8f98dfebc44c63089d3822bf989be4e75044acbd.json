@@ -1,0 +1,317 @@
+{
+  "isRendered": false,
+  "tripleGroups": [
+    {
+      "ownerSet": {},
+      "nodes": [
+        {
+          "types": [
+            {
+              "pred": "itemtype",
+              "value": "Article",
+              "errors": [],
+              "begin": 88,
+              "end": 97
+            }
+          ],
+          "typeGroup": "Article",
+          "idProperty": {
+            "pred": "urn:spore:url",
+            "value": "http://localhost:3000/resources/how-ai-is-used-in-fda-authorized-medical-devices-a-taxonomy-across-1-016-authorizations#article",
+            "errors": [],
+            "begin": 104,
+            "end": 233
+          },
+          "errors": [],
+          "properties": [
+            {
+              "pred": "url",
+              "value": "http://localhost:3000/resources/how-ai-is-used-in-fda-authorized-medical-devices-a-taxonomy-across-1-016-authorizations",
+              "errors": [],
+              "begin": 240,
+              "end": 361
+            },
+            {
+              "pred": "mainEntityOfPage",
+              "value": "http://localhost:3000/resources/how-ai-is-used-in-fda-authorized-medical-devices-a-taxonomy-across-1-016-authorizations",
+              "errors": [],
+              "begin": 381,
+              "end": 502
+            },
+            {
+              "pred": "headline",
+              "value": "How AI is used in FDA-authorized medical devices: a taxonomy across 1,016 authorizations",
+              "errors": [],
+              "begin": 514,
+              "end": 604
+            },
+            {
+              "pred": "description",
+              "value": "A taxonomy of authorized AI devices helps separate clinical purpose, AI function and input data.",
+              "errors": [],
+              "begin": 619,
+              "end": 717
+            },
+            {
+              "pred": "inLanguage",
+              "value": "en",
+              "errors": [],
+              "begin": 731,
+              "end": 735
+            }
+          ],
+          "nodeProperties": [
+            {
+              "pred": "publisher",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "Thing",
+                    "errors": [],
+                    "begin": 748,
+                    "end": 793
+                  }
+                ],
+                "typeGroup": "Thing",
+                "idProperty": {
+                  "pred": "urn:spore:url",
+                  "value": "http://localhost:3000/#organization",
+                  "errors": [],
+                  "begin": 755,
+                  "end": 792
+                },
+                "errors": [],
+                "properties": [],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 748,
+              "end": 793
+            },
+            {
+              "pred": "isBasedOn",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "ScholarlyArticle",
+                    "errors": [],
+                    "begin": 815,
+                    "end": 833
+                  }
+                ],
+                "typeGroup": "ScholarlyArticle",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "headline",
+                    "value": "How AI is used in FDA-authorized medical devices: a taxonomy across 1,016 authorizations",
+                    "errors": [],
+                    "begin": 845,
+                    "end": 935
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://doi.org/10.1038/s41746-025-01800-1",
+                    "errors": [],
+                    "begin": 942,
+                    "end": 986
+                  },
+                  {
+                    "pred": "datePublished",
+                    "value": "2025-07-01",
+                    "errors": [],
+                    "begin": 1003,
+                    "end": 1015
+                  },
+                  {
+                    "pred": "creditText",
+                    "value": "Original source authors: Singh R, Bapna M, Diab AR, Ruiz ES, Lotter W.",
+                    "errors": [],
+                    "begin": 1029,
+                    "end": 1101
+                  }
+                ],
+                "nodeProperties": [
+                  {
+                    "pred": "publisher",
+                    "target": {
+                      "types": [
+                        {
+                          "pred": "itemtype",
+                          "value": "Organization",
+                          "errors": [],
+                          "begin": 1123,
+                          "end": 1137
+                        }
+                      ],
+                      "typeGroup": "Organization",
+                      "errors": [],
+                      "properties": [
+                        {
+                          "pred": "name",
+                          "value": "NPJ digital medicine",
+                          "errors": [],
+                          "begin": 1145,
+                          "end": 1167
+                        }
+                      ],
+                      "nodeProperties": [],
+                      "numErrors": 0,
+                      "numWarnings": 0
+                    },
+                    "errors": [],
+                    "begin": 1114,
+                    "end": 1168
+                  }
+                ],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 806,
+              "end": 1169
+            },
+            {
+              "pred": "citation",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "ScholarlyArticle",
+                    "errors": [],
+                    "begin": 1191,
+                    "end": 1209
+                  }
+                ],
+                "typeGroup": "ScholarlyArticle",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "headline",
+                    "value": "How AI is used in FDA-authorized medical devices: a taxonomy across 1,016 authorizations",
+                    "errors": [],
+                    "begin": 1221,
+                    "end": 1311
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://doi.org/10.1038/s41746-025-01800-1",
+                    "errors": [],
+                    "begin": 1318,
+                    "end": 1362
+                  },
+                  {
+                    "pred": "datePublished",
+                    "value": "2025-07-01",
+                    "errors": [],
+                    "begin": 1379,
+                    "end": 1391
+                  },
+                  {
+                    "pred": "creditText",
+                    "value": "Original source authors: Singh R, Bapna M, Diab AR, Ruiz ES, Lotter W.",
+                    "errors": [],
+                    "begin": 1405,
+                    "end": 1477
+                  }
+                ],
+                "nodeProperties": [
+                  {
+                    "pred": "publisher",
+                    "target": {
+                      "types": [
+                        {
+                          "pred": "itemtype",
+                          "value": "Organization",
+                          "errors": [],
+                          "begin": 1499,
+                          "end": 1513
+                        }
+                      ],
+                      "typeGroup": "Organization",
+                      "errors": [],
+                      "properties": [
+                        {
+                          "pred": "name",
+                          "value": "NPJ digital medicine",
+                          "errors": [],
+                          "begin": 1521,
+                          "end": 1543
+                        }
+                      ],
+                      "nodeProperties": [],
+                      "numErrors": 0,
+                      "numWarnings": 0
+                    },
+                    "errors": [],
+                    "begin": 1490,
+                    "end": 1544
+                  }
+                ],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 1182,
+              "end": 1545
+            },
+            {
+              "pred": "citation",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "CreativeWork",
+                    "errors": [],
+                    "begin": 1555,
+                    "end": 1569
+                  }
+                ],
+                "typeGroup": "CreativeWork",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "name",
+                    "value": "Bibliographic record and abstract on PubMed",
+                    "errors": [],
+                    "begin": 1577,
+                    "end": 1622
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://pubmed.ncbi.nlm.nih.gov/40596700/",
+                    "errors": [],
+                    "begin": 1629,
+                    "end": 1672
+                  }
+                ],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 1546,
+              "end": 1673
+            }
+          ],
+          "numErrors": 0,
+          "numWarnings": 0
+        }
+      ],
+      "numNodesWithError": 0,
+      "numNodesWithWarning": 0,
+      "numErrors": 0,
+      "numWarnings": 0,
+      "type": "Article"
+    }
+  ],
+  "numObjects": 1,
+  "html": "<html><head><script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"@id\":\"http://localhost:3000/resources/how-ai-is-used-in-fda-authorized-medical-devices-a-taxonomy-across-1-016-authorizations#article\",\"url\":\"http://localhost:3000/resources/how-ai-is-used-in-fda-authorized-medical-devices-a-taxonomy-across-1-016-authorizations\",\"mainEntityOfPage\":\"http://localhost:3000/resources/how-ai-is-used-in-fda-authorized-medical-devices-a-taxonomy-across-1-016-authorizations\",\"headline\":\"How AI is used in FDA-authorized medical devices: a taxonomy across 1,016 authorizations\",\"description\":\"A taxonomy of authorized AI devices helps separate clinical purpose, AI function and input data.\",\"inLanguage\":\"en\",\"publisher\":{\"@id\":\"http://localhost:3000/#organization\"},\"isBasedOn\":{\"@type\":\"ScholarlyArticle\",\"headline\":\"How AI is used in FDA-authorized medical devices: a taxonomy across 1,016 authorizations\",\"url\":\"https://doi.org/10.1038/s41746-025-01800-1\",\"datePublished\":\"2025-07-01\",\"creditText\":\"Original source authors: Singh R, Bapna M, Diab AR, Ruiz ES, Lotter W.\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"NPJ digital medicine\"}},\"citation\":[{\"@type\":\"ScholarlyArticle\",\"headline\":\"How AI is used in FDA-authorized medical devices: a taxonomy across 1,016 authorizations\",\"url\":\"https://doi.org/10.1038/s41746-025-01800-1\",\"datePublished\":\"2025-07-01\",\"creditText\":\"Original source authors: Singh R, Bapna M, Diab AR, Ruiz ES, Lotter W.\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"NPJ digital medicine\"}},{\"@type\":\"CreativeWork\",\"name\":\"Bibliographic record and abstract on PubMed\",\"url\":\"https://pubmed.ncbi.nlm.nih.gov/40596700/\"}]}</script></head><body></body></html>",
+  "errors": [],
+  "totalNumErrors": 0,
+  "totalNumWarnings": 0
+}

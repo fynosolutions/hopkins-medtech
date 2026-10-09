@@ -1,0 +1,317 @@
+{
+  "isRendered": false,
+  "tripleGroups": [
+    {
+      "ownerSet": {},
+      "nodes": [
+        {
+          "types": [
+            {
+              "pred": "itemtype",
+              "value": "Article",
+              "errors": [],
+              "begin": 88,
+              "end": 97
+            }
+          ],
+          "typeGroup": "Article",
+          "idProperty": {
+            "pred": "urn:spore:url",
+            "value": "http://localhost:3000/resources/skin-tone-labels-and-metrics#article",
+            "errors": [],
+            "begin": 104,
+            "end": 174
+          },
+          "errors": [],
+          "properties": [
+            {
+              "pred": "url",
+              "value": "http://localhost:3000/resources/skin-tone-labels-and-metrics",
+              "errors": [],
+              "begin": 181,
+              "end": 243
+            },
+            {
+              "pred": "mainEntityOfPage",
+              "value": "http://localhost:3000/resources/skin-tone-labels-and-metrics",
+              "errors": [],
+              "begin": 263,
+              "end": 325
+            },
+            {
+              "pred": "headline",
+              "value": "Skin-tone auditing starts with the measurement",
+              "errors": [],
+              "begin": 337,
+              "end": 385
+            },
+            {
+              "pred": "description",
+              "value": "Before interpreting model agreement, establish what the labels and the scoring rule mean.",
+              "errors": [],
+              "begin": 400,
+              "end": 491
+            },
+            {
+              "pred": "inLanguage",
+              "value": "en",
+              "errors": [],
+              "begin": 505,
+              "end": 509
+            }
+          ],
+          "nodeProperties": [
+            {
+              "pred": "publisher",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "Thing",
+                    "errors": [],
+                    "begin": 522,
+                    "end": 567
+                  }
+                ],
+                "typeGroup": "Thing",
+                "idProperty": {
+                  "pred": "urn:spore:url",
+                  "value": "http://localhost:3000/#organization",
+                  "errors": [],
+                  "begin": 529,
+                  "end": 566
+                },
+                "errors": [],
+                "properties": [],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 522,
+              "end": 567
+            },
+            {
+              "pred": "isBasedOn",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "Article",
+                    "errors": [],
+                    "begin": 589,
+                    "end": 598
+                  }
+                ],
+                "typeGroup": "Article",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "headline",
+                    "value": "Skin-tone auditing starts with the measurement",
+                    "errors": [],
+                    "begin": 610,
+                    "end": 658
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://www.linkedin.com/feed/update/urn:li:activity:7511417237304418304/",
+                    "errors": [],
+                    "begin": 665,
+                    "end": 740
+                  },
+                  {
+                    "pred": "datePublished",
+                    "value": "2026-10-01",
+                    "errors": [],
+                    "begin": 757,
+                    "end": 769
+                  },
+                  {
+                    "pred": "creditText",
+                    "value": "Original source authors: Hopkins MedTech Compliance",
+                    "errors": [],
+                    "begin": 783,
+                    "end": 836
+                  }
+                ],
+                "nodeProperties": [
+                  {
+                    "pred": "publisher",
+                    "target": {
+                      "types": [
+                        {
+                          "pred": "itemtype",
+                          "value": "Organization",
+                          "errors": [],
+                          "begin": 858,
+                          "end": 872
+                        }
+                      ],
+                      "typeGroup": "Organization",
+                      "errors": [],
+                      "properties": [
+                        {
+                          "pred": "name",
+                          "value": "Hopkins MedTech Compliance",
+                          "errors": [],
+                          "begin": 880,
+                          "end": 908
+                        }
+                      ],
+                      "nodeProperties": [],
+                      "numErrors": 0,
+                      "numWarnings": 0
+                    },
+                    "errors": [],
+                    "begin": 849,
+                    "end": 909
+                  }
+                ],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 580,
+              "end": 910
+            },
+            {
+              "pred": "citation",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "Article",
+                    "errors": [],
+                    "begin": 932,
+                    "end": 941
+                  }
+                ],
+                "typeGroup": "Article",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "headline",
+                    "value": "Skin-tone auditing starts with the measurement",
+                    "errors": [],
+                    "begin": 953,
+                    "end": 1001
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://www.linkedin.com/feed/update/urn:li:activity:7511417237304418304/",
+                    "errors": [],
+                    "begin": 1008,
+                    "end": 1083
+                  },
+                  {
+                    "pred": "datePublished",
+                    "value": "2026-10-01",
+                    "errors": [],
+                    "begin": 1100,
+                    "end": 1112
+                  },
+                  {
+                    "pred": "creditText",
+                    "value": "Original source authors: Hopkins MedTech Compliance",
+                    "errors": [],
+                    "begin": 1126,
+                    "end": 1179
+                  }
+                ],
+                "nodeProperties": [
+                  {
+                    "pred": "publisher",
+                    "target": {
+                      "types": [
+                        {
+                          "pred": "itemtype",
+                          "value": "Organization",
+                          "errors": [],
+                          "begin": 1201,
+                          "end": 1215
+                        }
+                      ],
+                      "typeGroup": "Organization",
+                      "errors": [],
+                      "properties": [
+                        {
+                          "pred": "name",
+                          "value": "Hopkins MedTech Compliance",
+                          "errors": [],
+                          "begin": 1223,
+                          "end": 1251
+                        }
+                      ],
+                      "nodeProperties": [],
+                      "numErrors": 0,
+                      "numWarnings": 0
+                    },
+                    "errors": [],
+                    "begin": 1192,
+                    "end": 1252
+                  }
+                ],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 923,
+              "end": 1253
+            },
+            {
+              "pred": "citation",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "CreativeWork",
+                    "errors": [],
+                    "begin": 1263,
+                    "end": 1277
+                  }
+                ],
+                "typeGroup": "CreativeWork",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "name",
+                    "value": "Matias et al. — arXiv:2603.02475",
+                    "errors": [],
+                    "begin": 1285,
+                    "end": 1321
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://arxiv.org/abs/2603.02475",
+                    "errors": [],
+                    "begin": 1328,
+                    "end": 1362
+                  }
+                ],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 1254,
+              "end": 1363
+            }
+          ],
+          "numErrors": 0,
+          "numWarnings": 0
+        }
+      ],
+      "numNodesWithError": 0,
+      "numNodesWithWarning": 0,
+      "numErrors": 0,
+      "numWarnings": 0,
+      "type": "Article"
+    }
+  ],
+  "numObjects": 1,
+  "html": "<html><head><script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"@id\":\"http://localhost:3000/resources/skin-tone-labels-and-metrics#article\",\"url\":\"http://localhost:3000/resources/skin-tone-labels-and-metrics\",\"mainEntityOfPage\":\"http://localhost:3000/resources/skin-tone-labels-and-metrics\",\"headline\":\"Skin-tone auditing starts with the measurement\",\"description\":\"Before interpreting model agreement, establish what the labels and the scoring rule mean.\",\"inLanguage\":\"en\",\"publisher\":{\"@id\":\"http://localhost:3000/#organization\"},\"isBasedOn\":{\"@type\":\"Article\",\"headline\":\"Skin-tone auditing starts with the measurement\",\"url\":\"https://www.linkedin.com/feed/update/urn:li:activity:7511417237304418304/\",\"datePublished\":\"2026-10-01\",\"creditText\":\"Original source authors: Hopkins MedTech Compliance\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Hopkins MedTech Compliance\"}},\"citation\":[{\"@type\":\"Article\",\"headline\":\"Skin-tone auditing starts with the measurement\",\"url\":\"https://www.linkedin.com/feed/update/urn:li:activity:7511417237304418304/\",\"datePublished\":\"2026-10-01\",\"creditText\":\"Original source authors: Hopkins MedTech Compliance\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Hopkins MedTech Compliance\"}},{\"@type\":\"CreativeWork\",\"name\":\"Matias et al. — arXiv:2603.02475\",\"url\":\"https://arxiv.org/abs/2603.02475\"}]}</script></head><body></body></html>",
+  "errors": [],
+  "totalNumErrors": 0,
+  "totalNumWarnings": 0
+}

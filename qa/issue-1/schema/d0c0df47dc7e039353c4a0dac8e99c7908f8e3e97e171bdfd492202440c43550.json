@@ -1,0 +1,355 @@
+{
+  "isRendered": false,
+  "tripleGroups": [
+    {
+      "ownerSet": {},
+      "nodes": [
+        {
+          "types": [
+            {
+              "pred": "itemtype",
+              "value": "Article",
+              "errors": [],
+              "begin": 88,
+              "end": 97
+            }
+          ],
+          "typeGroup": "Article",
+          "idProperty": {
+            "pred": "urn:spore:url",
+            "value": "http://localhost:3000/resources/how-medical-ai-devices-are-evaluated-limitations-and-recommendations-from-an-analysis-of-fda-approvals#article",
+            "errors": [],
+            "begin": 104,
+            "end": 248
+          },
+          "errors": [],
+          "properties": [
+            {
+              "pred": "url",
+              "value": "http://localhost:3000/resources/how-medical-ai-devices-are-evaluated-limitations-and-recommendations-from-an-analysis-of-fda-approvals",
+              "errors": [],
+              "begin": 255,
+              "end": 391
+            },
+            {
+              "pred": "mainEntityOfPage",
+              "value": "http://localhost:3000/resources/how-medical-ai-devices-are-evaluated-limitations-and-recommendations-from-an-analysis-of-fda-approvals",
+              "errors": [],
+              "begin": 411,
+              "end": 547
+            },
+            {
+              "pred": "headline",
+              "value": "How medical AI devices are evaluated: limitations and recommendations from an analysis of FDA approvals",
+              "errors": [],
+              "begin": 559,
+              "end": 664
+            },
+            {
+              "pred": "description",
+              "value": "Multi-site and prospective evaluation help reveal weaknesses that single-site AI testing can miss.",
+              "errors": [],
+              "begin": 679,
+              "end": 779
+            },
+            {
+              "pred": "inLanguage",
+              "value": "en",
+              "errors": [],
+              "begin": 793,
+              "end": 797
+            }
+          ],
+          "nodeProperties": [
+            {
+              "pred": "publisher",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "Thing",
+                    "errors": [],
+                    "begin": 810,
+                    "end": 855
+                  }
+                ],
+                "typeGroup": "Thing",
+                "idProperty": {
+                  "pred": "urn:spore:url",
+                  "value": "http://localhost:3000/#organization",
+                  "errors": [],
+                  "begin": 817,
+                  "end": 854
+                },
+                "errors": [],
+                "properties": [],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 810,
+              "end": 855
+            },
+            {
+              "pred": "isBasedOn",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "ScholarlyArticle",
+                    "errors": [],
+                    "begin": 877,
+                    "end": 895
+                  }
+                ],
+                "typeGroup": "ScholarlyArticle",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "headline",
+                    "value": "How medical AI devices are evaluated: limitations and recommendations from an analysis of FDA approvals",
+                    "errors": [],
+                    "begin": 907,
+                    "end": 1012
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://doi.org/10.1038/s41591-021-01312-x",
+                    "errors": [],
+                    "begin": 1019,
+                    "end": 1063
+                  },
+                  {
+                    "pred": "datePublished",
+                    "value": "2021-04-01",
+                    "errors": [],
+                    "begin": 1080,
+                    "end": 1092
+                  },
+                  {
+                    "pred": "creditText",
+                    "value": "Original source authors: Wu E, Wu K, Daneshjou R, Ouyang D, Ho DE, Zou J.",
+                    "errors": [],
+                    "begin": 1106,
+                    "end": 1181
+                  }
+                ],
+                "nodeProperties": [
+                  {
+                    "pred": "publisher",
+                    "target": {
+                      "types": [
+                        {
+                          "pred": "itemtype",
+                          "value": "Organization",
+                          "errors": [],
+                          "begin": 1203,
+                          "end": 1217
+                        }
+                      ],
+                      "typeGroup": "Organization",
+                      "errors": [],
+                      "properties": [
+                        {
+                          "pred": "name",
+                          "value": "Nature medicine",
+                          "errors": [],
+                          "begin": 1225,
+                          "end": 1242
+                        }
+                      ],
+                      "nodeProperties": [],
+                      "numErrors": 0,
+                      "numWarnings": 0
+                    },
+                    "errors": [],
+                    "begin": 1194,
+                    "end": 1243
+                  }
+                ],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 868,
+              "end": 1244
+            },
+            {
+              "pred": "citation",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "ScholarlyArticle",
+                    "errors": [],
+                    "begin": 1266,
+                    "end": 1284
+                  }
+                ],
+                "typeGroup": "ScholarlyArticle",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "headline",
+                    "value": "How medical AI devices are evaluated: limitations and recommendations from an analysis of FDA approvals",
+                    "errors": [],
+                    "begin": 1296,
+                    "end": 1401
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://doi.org/10.1038/s41591-021-01312-x",
+                    "errors": [],
+                    "begin": 1408,
+                    "end": 1452
+                  },
+                  {
+                    "pred": "datePublished",
+                    "value": "2021-04-01",
+                    "errors": [],
+                    "begin": 1469,
+                    "end": 1481
+                  },
+                  {
+                    "pred": "creditText",
+                    "value": "Original source authors: Wu E, Wu K, Daneshjou R, Ouyang D, Ho DE, Zou J.",
+                    "errors": [],
+                    "begin": 1495,
+                    "end": 1570
+                  }
+                ],
+                "nodeProperties": [
+                  {
+                    "pred": "publisher",
+                    "target": {
+                      "types": [
+                        {
+                          "pred": "itemtype",
+                          "value": "Organization",
+                          "errors": [],
+                          "begin": 1592,
+                          "end": 1606
+                        }
+                      ],
+                      "typeGroup": "Organization",
+                      "errors": [],
+                      "properties": [
+                        {
+                          "pred": "name",
+                          "value": "Nature medicine",
+                          "errors": [],
+                          "begin": 1614,
+                          "end": 1631
+                        }
+                      ],
+                      "nodeProperties": [],
+                      "numErrors": 0,
+                      "numWarnings": 0
+                    },
+                    "errors": [],
+                    "begin": 1583,
+                    "end": 1632
+                  }
+                ],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 1257,
+              "end": 1633
+            },
+            {
+              "pred": "citation",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "CreativeWork",
+                    "errors": [],
+                    "begin": 1643,
+                    "end": 1657
+                  }
+                ],
+                "typeGroup": "CreativeWork",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "name",
+                    "value": "Author manuscript at Stanford",
+                    "errors": [],
+                    "begin": 1665,
+                    "end": 1696
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://dho.stanford.edu/wp-content/uploads/FDA.pdf",
+                    "errors": [],
+                    "begin": 1703,
+                    "end": 1756
+                  }
+                ],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 1634,
+              "end": 1757
+            },
+            {
+              "pred": "citation",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "CreativeWork",
+                    "errors": [],
+                    "begin": 1767,
+                    "end": 1781
+                  }
+                ],
+                "typeGroup": "CreativeWork",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "name",
+                    "value": "Bibliographic record and abstract on PubMed",
+                    "errors": [],
+                    "begin": 1789,
+                    "end": 1834
+                  },
+                  {
+                    "pred": "url",
+                    "value": "https://pubmed.ncbi.nlm.nih.gov/33820998/",
+                    "errors": [],
+                    "begin": 1841,
+                    "end": 1884
+                  }
+                ],
+                "nodeProperties": [],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 1758,
+              "end": 1885
+            }
+          ],
+          "numErrors": 0,
+          "numWarnings": 0
+        }
+      ],
+      "numNodesWithError": 0,
+      "numNodesWithWarning": 0,
+      "numErrors": 0,
+      "numWarnings": 0,
+      "type": "Article"
+    }
+  ],
+  "numObjects": 1,
+  "html": "<html><head><script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"@id\":\"http://localhost:3000/resources/how-medical-ai-devices-are-evaluated-limitations-and-recommendations-from-an-analysis-of-fda-approvals#article\",\"url\":\"http://localhost:3000/resources/how-medical-ai-devices-are-evaluated-limitations-and-recommendations-from-an-analysis-of-fda-approvals\",\"mainEntityOfPage\":\"http://localhost:3000/resources/how-medical-ai-devices-are-evaluated-limitations-and-recommendations-from-an-analysis-of-fda-approvals\",\"headline\":\"How medical AI devices are evaluated: limitations and recommendations from an analysis of FDA approvals\",\"description\":\"Multi-site and prospective evaluation help reveal weaknesses that single-site AI testing can miss.\",\"inLanguage\":\"en\",\"publisher\":{\"@id\":\"http://localhost:3000/#organization\"},\"isBasedOn\":{\"@type\":\"ScholarlyArticle\",\"headline\":\"How medical AI devices are evaluated: limitations and recommendations from an analysis of FDA approvals\",\"url\":\"https://doi.org/10.1038/s41591-021-01312-x\",\"datePublished\":\"2021-04-01\",\"creditText\":\"Original source authors: Wu E, Wu K, Daneshjou R, Ouyang D, Ho DE, Zou J.\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Nature medicine\"}},\"citation\":[{\"@type\":\"ScholarlyArticle\",\"headline\":\"How medical AI devices are evaluated: limitations and recommendations from an analysis of FDA approvals\",\"url\":\"https://doi.org/10.1038/s41591-021-01312-x\",\"datePublished\":\"2021-04-01\",\"creditText\":\"Original source authors: Wu E, Wu K, Daneshjou R, Ouyang D, Ho DE, Zou J.\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Nature medicine\"}},{\"@type\":\"CreativeWork\",\"name\":\"Author manuscript at Stanford\",\"url\":\"https://dho.stanford.edu/wp-content/uploads/FDA.pdf\"},{\"@type\":\"CreativeWork\",\"name\":\"Bibliographic record and abstract on PubMed\",\"url\":\"https://pubmed.ncbi.nlm.nih.gov/33820998/\"}]}</script></head><body></body></html>",
+  "errors": [],
+  "totalNumErrors": 0,
+  "totalNumWarnings": 0
+}
