@@ -1,0 +1,193 @@
+{
+  "isRendered": false,
+  "tripleGroups": [
+    {
+      "ownerSet": {},
+      "nodes": [
+        {
+          "types": [
+            {
+              "pred": "itemtype",
+              "value": "Organization",
+              "errors": [],
+              "begin": 88,
+              "end": 102
+            }
+          ],
+          "typeGroup": "Organization",
+          "idProperty": {
+            "pred": "urn:spore:url",
+            "value": "http://localhost:3000/#organization",
+            "errors": [],
+            "begin": 109,
+            "end": 146
+          },
+          "errors": [],
+          "properties": [
+            {
+              "pred": "name",
+              "value": "Hopkins MedTech Compliance",
+              "errors": [],
+              "begin": 154,
+              "end": 182
+            },
+            {
+              "pred": "legalName",
+              "value": "Hopkins MedTech Group LLC",
+              "errors": [],
+              "begin": 195,
+              "end": 222
+            },
+            {
+              "pred": "alternateName",
+              "value": "Hopkins MedTech Compliance",
+              "errors": [],
+              "begin": 240,
+              "end": 268
+            },
+            {
+              "pred": "alternateName",
+              "value": "HMC",
+              "errors": [],
+              "begin": 269,
+              "end": 274
+            },
+            {
+              "pred": "url",
+              "value": "http://localhost:3000/",
+              "errors": [],
+              "begin": 282,
+              "end": 306
+            },
+            {
+              "pred": "logo",
+              "value": "http://localhost:3000/media/2d264def-20220223150835.png",
+              "errors": [],
+              "begin": 314,
+              "end": 371
+            },
+            {
+              "pred": "telephone",
+              "value": "+1 800 320 1438",
+              "errors": [],
+              "begin": 384,
+              "end": 401
+            },
+            {
+              "pred": "email",
+              "value": "HomerWu@HopkinsMedtech.com",
+              "errors": [],
+              "begin": 410,
+              "end": 438
+            },
+            {
+              "pred": "sameAs",
+              "value": "https://www.linkedin.com/company/hopkins-cro",
+              "errors": [],
+              "begin": 621,
+              "end": 667
+            }
+          ],
+          "nodeProperties": [
+            {
+              "pred": "address",
+              "target": {
+                "types": [
+                  {
+                    "pred": "itemtype",
+                    "value": "PostalAddress",
+                    "errors": [],
+                    "begin": 458,
+                    "end": 473
+                  }
+                ],
+                "typeGroup": "PostalAddress",
+                "errors": [],
+                "properties": [
+                  {
+                    "pred": "streetAddress",
+                    "value": "5 Penn Plaza, 19th Floor",
+                    "errors": [],
+                    "begin": 490,
+                    "end": 516
+                  },
+                  {
+                    "pred": "addressLocality",
+                    "value": "New York",
+                    "errors": [],
+                    "begin": 535,
+                    "end": 545
+                  },
+                  {
+                    "pred": "addressRegion",
+                    "value": "NY",
+                    "errors": [],
+                    "begin": 562,
+                    "end": 566
+                  },
+                  {
+                    "pred": "postalCode",
+                    "value": "10001",
+                    "errors": [],
+                    "begin": 580,
+                    "end": 587
+                  }
+                ],
+                "nodeProperties": [
+                  {
+                    "pred": "addressCountry",
+                    "target": {
+                      "types": [
+                        {
+                          "pred": "itemtype",
+                          "value": "Country",
+                          "errors": [],
+                          "begin": 605,
+                          "end": 609
+                        }
+                      ],
+                      "typeGroup": "Country",
+                      "errors": [],
+                      "properties": [
+                        {
+                          "pred": "name",
+                          "value": "US",
+                          "errors": [],
+                          "begin": 605,
+                          "end": 609
+                        }
+                      ],
+                      "nodeProperties": [],
+                      "numErrors": 0,
+                      "numWarnings": 0
+                    },
+                    "errors": [],
+                    "begin": 605,
+                    "end": 609
+                  }
+                ],
+                "numErrors": 0,
+                "numWarnings": 0
+              },
+              "errors": [],
+              "begin": 449,
+              "end": 610
+            }
+          ],
+          "numErrors": 0,
+          "numWarnings": 0
+        }
+      ],
+      "numNodesWithError": 0,
+      "numNodesWithWarning": 0,
+      "numErrors": 0,
+      "numWarnings": 0,
+      "type": "Organization"
+    }
+  ],
+  "numObjects": 1,
+  "html": "<html><head><script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"http://localhost:3000/#organization\",\"name\":\"Hopkins MedTech Compliance\",\"legalName\":\"Hopkins MedTech Group LLC\",\"alternateName\":[\"Hopkins MedTech Compliance\",\"HMC\"],\"url\":\"http://localhost:3000/\",\"logo\":\"http://localhost:3000/media/2d264def-20220223150835.png\",\"telephone\":\"+1 800 320 1438\",\"email\":\"HomerWu@HopkinsMedtech.com\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"5 Penn Plaza, 19th Floor\",\"addressLocality\":\"New York\",\"addressRegion\":\"NY\",\"postalCode\":\"10001\",\"addressCountry\":\"US\"},\"sameAs\":[\"https://www.linkedin.com/company/hopkins-cro\"]}</script></head><body></body></html>",
+  "errors": [],
+  "totalNumErrors": 0,
+  "totalNumWarnings": 0
+}

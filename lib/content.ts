@@ -5,7 +5,7 @@ import insights from '@/content/insights.json';
 import {allPeople} from './team';
 export const site = source;
 export const resources = [...insights.filter(x=>x.type==='Company Insights'), ...research, ...insights.filter(x=>x.type==='Science'), ...source.historical];
-export const company = { name:'Hopkins MedTech Compliance', phone:'+1 800 320 1438', email:'HomerWu@HopkinsMedtech.com', address:'5 Penn Plaza, 19th Floor, New York, NY 10001, United States', logo:'/media/2d264def-20220223150835.png' };
+export {default as company} from '@/content/company.json';
 export const coreServices = [
  {name:'FDA Regulatory Consulting',label:'A clear path forward.',description:'Regulatory strategy and submission support, from 510(k) and De Novo to PMA and EUA.',href:'/services/fda-regulatory-consulting',icon:'shield'},
  {name:'Clinical Trials',label:'Evidence with purpose.',description:'Study design, clinical operations, data management and biostatistics, connected.',href:'/services/clinical-study',icon:'activity'},
