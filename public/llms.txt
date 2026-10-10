@@ -1,0 +1,26 @@
+# Hopkins MedTech Compliance
+
+> Hopkins MedTech Compliance (HMC), operated by Hopkins MedTech Group LLC, supports medical device and in vitro diagnostic clinical performance studies, regulatory submissions, and quality systems; laboratory support is coordinated through associated businesses and partners.
+
+## Company
+- [Company information](https://hopkins-medtech.vercel.app/about)
+- [Team](https://hopkins-medtech.vercel.app/about/team)
+- [Contact and New York office](https://hopkins-medtech.vercel.app/contact)
+
+## Services
+- [Clinical studies](https://hopkins-medtech.vercel.app/services/clinical-study)
+- [FDA and EU submission support](https://hopkins-medtech.vercel.app/services/regulatory-submission)
+- [Quality systems](https://hopkins-medtech.vercel.app/services/quality-system)
+- [Laboratory support through partners](https://hopkins-medtech.vercel.app/services/laboratory-services)
+
+## Internships
+- [Educational partner referral process and eight role descriptions](https://hopkins-medtech.vercel.app/careers)
+
+Availability and individual placement arrangements are confirmed through the education partner and project lead.
+
+## Sources and records
+- [Company updates](https://hopkins-medtech.vercel.app/resources)
+- [Documented partnerships](https://hopkins-medtech.vercel.app/resources)
+- [Public records and historical articles](https://hopkins-medtech.vercel.app/resources)
+
+HMC and HML are distinct entities. Partner accreditations are not HMC credentials. Dated historical records should be read in their original context.

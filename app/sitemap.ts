@@ -1,3 +1,9 @@
 import type {MetadataRoute} from 'next';
 import {allRoutes} from '@/lib/content';
-export default function sitemap():MetadataRoute.Sitemap{const root=process.env.SITE_URL||(process.env.VERCEL_PROJECT_PRODUCTION_URL?'https://'+process.env.VERCEL_PROJECT_PRODUCTION_URL:'http://localhost:3000');return allRoutes().filter(x=>x!=='/search').map(x=>({url:root+x}))}
+import {siteOrigin} from '@/lib/site-url';
+import {sitemapEntries} from '@/lib/sitemap.mjs';
+import updates from '@/content/page-updates.json';
+
+export default function sitemap():MetadataRoute.Sitemap {
+  return sitemapEntries(allRoutes(), siteOrigin(), updates);
+}

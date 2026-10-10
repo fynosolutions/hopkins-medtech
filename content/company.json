@@ -1,0 +1,32 @@
+{
+  "name": "Hopkins MedTech Compliance",
+  "legalName": "Hopkins MedTech Group LLC",
+  "alternateName": [
+    "Hopkins MedTech Compliance",
+    "HMC"
+  ],
+  "phone": "+1 800 320 1438",
+  "telephoneUri": "tel:+18003201438",
+  "email": "HomerWu@HopkinsMedtech.com",
+  "address": "5 Penn Plaza, 19th Floor, New York, NY 10001, United States",
+  "postalAddress": {
+    "streetAddress": "5 Penn Plaza, 19th Floor",
+    "addressLocality": "New York",
+    "addressRegion": "NY",
+    "postalCode": "10001",
+    "addressCountry": "US"
+  },
+  "linkedin": "https://www.linkedin.com/company/hopkins-cro",
+  "logo": "/media/2d264def-20220223150835.png",
+  "sources": [
+    "https://github.com/fynosolutions/hopkins-medtech/issues/1",
+    "http://www.hopkinsmedtech.com/contact.aspx"
+  ],
+  "founders": [
+    {
+      "name": "Jeff Wu",
+      "slug": "jeff-wu",
+      "linkedin": "https://www.linkedin.com/in/jeffwu774/"
+    }
+  ]
+}

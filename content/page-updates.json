@@ -1,0 +1,16 @@
+{
+  "sharedStructuredDataUpdated": "2026-10-10",
+  "reason": "Mao-confirmed Jeff Wu founder relationship added to shared Organization markup; recorded content change, not build time.",
+  "pages": {
+    "/about/team/jeff-wu": "2026-10-10",
+    "/about/team": "2026-10-10",
+    "/careers/clinical-research-intern": "2026-10-10",
+    "/careers/regulatory-affairs-intern": "2026-10-10",
+    "/careers/clinical-data-biostatistics-intern": "2026-10-10",
+    "/careers/quality-assurance-intern": "2026-10-10",
+    "/careers/ai-computer-vision-intern": "2026-10-10",
+    "/careers/data-science-intern": "2026-10-10",
+    "/careers/digital-health-product-intern": "2026-10-10",
+    "/careers/healthcare-market-research-intern": "2026-10-10"
+  }
+}
