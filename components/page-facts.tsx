@@ -1,3 +1,4 @@
+import publications from '@/content/job-publication.json';
 import summaries from '@/content/service-summaries.json';
 import {site} from '@/lib/content';
 import {company} from '@/lib/content';
@@ -22,6 +23,6 @@ export function JobFacts({job}: {job: typeof site.jobs[number]}) {
     ['Position identifier', job.id], ['Position', job.title], ['Track', job.track],
     ['Agreement entity', company.legalName], ['Application channel', 'Educational partner referral'],
     ['Supervision', 'Named project lead, a set weekly meeting cadence and written feedback on deliverables.'],
-    ['Availability and work arrangements', 'Confirm with your education partner and project lead.'],
+    ['Work arrangement', publications[job.id as keyof typeof publications].workArrangement],
   ]}/>;
 }
