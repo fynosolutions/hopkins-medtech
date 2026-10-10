@@ -2,8 +2,8 @@ import {chromium} from '@playwright/test';
 import fs from 'node:fs';
 import assert from 'node:assert/strict';
 
-const origin=process.env.QA_ORIGIN||'http://localhost:3104';
-const out='qa/six-prs/final';
+const origin=process.env.QA_ORIGIN||'http://localhost:3107';
+const out='qa/mao-confirmed-2026-10-10/final';
 const site=JSON.parse(fs.readFileSync('content/site.json','utf8'));
 const summaries=JSON.parse(fs.readFileSync('content/service-summaries.json','utf8'));
 const faq=JSON.parse(fs.readFileSync('content/careers-faq.json','utf8'));
@@ -33,7 +33,11 @@ try {
     assert.equal(data.emptyEvidence,site.jobs.some(j=>route==='/careers/'+j.slug)?2:0,route);assert.ok(data.textLength>30,route);
     if(site.jobs.some(j=>route==='/careers/'+j.slug)) {
       assert.equal(data.tables,1,route);
-      assert.equal(data.schemas.filter(s=>s['@type']==='JobPosting').length,0,route);
+      assert.equal(data.schemas.filter(s=>s['@type']==='JobPosting').length,1,route);
+      const jobSchema=data.schemas.find(s=>s['@type']==='JobPosting');
+      assert.match(jobSchema.description,/Work arrangement: Remote \/ Onsite/);
+      for(const field of ['datePosted','validThrough','jobLocation','jobLocationType','applicantLocationRequirements'])assert.equal(jobSchema[field],undefined,route);
+      assert.match(await page.locator('.page-facts').innerText(),/Remote \/ Onsite/);
       assert.equal(await page.locator('.job-document > section').count(),15,route);
     }
     if(site.services.some(s=>s.route===route)) {
@@ -54,10 +58,13 @@ try {
   }
   assert.match(await (await page.request.get(origin+'/robots.txt')).text(),/Disallow: \/\s/);
   const llms=await page.request.get(origin+'/llms.txt');assert.equal(llms.status(),200);assert.match(llms.headers()['x-robots-tag'],/noindex/);
-  for(const route of ['/about/team/jeff-wu'])assert.equal((await page.request.get(origin+route)).status(),404);
-  await page.goto(origin+'/search?q=Jeff%20Wu');assert.equal(await page.locator('a[href*="/about/team/jeff-wu"]').count(),0);
+  assert.ok(routes.includes('/about/team/jeff-wu'));
+  await page.goto(origin+'/about/team/jeff-wu');
+  assert.equal(await page.locator('.profile-hero .lead').innerText(),'Co-founder');
+  assert.equal(await page.locator('.profile-hero a[href="https://www.linkedin.com/in/jeffwu774/"]').count(),1);
+  await page.goto(origin+'/search?q=Jeff%20Wu');assert.equal(await page.locator('a[href*="/about/team/jeff-wu"]').count(),1);
   await page.close();
-  const samples=['/','/about','/careers','/resources','/about/team','/resources/'+JSON.parse(fs.readFileSync('content/research.json','utf8'))[0].slug,...site.services.map(s=>s.route),...site.jobs.map(j=>'/careers/'+j.slug)];
+  const samples=['/','/about','/careers','/resources','/about/team','/about/team/jeff-wu','/resources/'+JSON.parse(fs.readFileSync('content/research.json','utf8'))[0].slug,...site.services.map(s=>s.route),...site.jobs.map(j=>'/careers/'+j.slug)];
   for(const width of [1440,390]) {
     const p=await browser.newPage({viewport:{width,height:1000},reducedMotion:'reduce'});
     p.on('pageerror',error=>errors.push(error.message));

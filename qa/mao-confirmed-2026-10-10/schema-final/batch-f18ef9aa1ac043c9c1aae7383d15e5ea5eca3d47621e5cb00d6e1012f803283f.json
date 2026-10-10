@@ -1,0 +1,596 @@
+{
+  "payloads": [
+    "c6c23deec71b1813b899854c62d812f41ee302c36480798cefe649dc94a1e706"
+  ],
+  "dependencies": [
+    "d0752d2240788ce03a680dbca6264940b89aa652526fc467092eec0d9f6f40b0"
+  ],
+  "response": {
+    "isRendered": false,
+    "tripleGroups": [
+      {
+        "ownerSet": {},
+        "nodes": [
+          {
+            "types": [
+              {
+                "pred": "itemtype",
+                "value": "Organization",
+                "errors": [],
+                "begin": 88,
+                "end": 102
+              }
+            ],
+            "typeGroup": "Organization",
+            "idProperty": {
+              "pred": "urn:spore:url",
+              "value": "http://localhost:3000/#organization",
+              "errors": [],
+              "begin": 109,
+              "end": 146
+            },
+            "errors": [],
+            "properties": [
+              {
+                "pred": "name",
+                "value": "Hopkins MedTech Compliance",
+                "errors": [],
+                "begin": 154,
+                "end": 182
+              },
+              {
+                "pred": "legalName",
+                "value": "Hopkins MedTech Group LLC",
+                "errors": [],
+                "begin": 195,
+                "end": 222
+              },
+              {
+                "pred": "alternateName",
+                "value": "Hopkins MedTech Compliance",
+                "errors": [],
+                "begin": 240,
+                "end": 268
+              },
+              {
+                "pred": "alternateName",
+                "value": "HMC",
+                "errors": [],
+                "begin": 269,
+                "end": 274
+              },
+              {
+                "pred": "url",
+                "value": "http://localhost:3000/",
+                "errors": [],
+                "begin": 282,
+                "end": 306
+              },
+              {
+                "pred": "logo",
+                "value": "http://localhost:3000/media/2d264def-20220223150835.png",
+                "errors": [],
+                "begin": 314,
+                "end": 371
+              },
+              {
+                "pred": "telephone",
+                "value": "+1 800 320 1438",
+                "errors": [],
+                "begin": 384,
+                "end": 401
+              },
+              {
+                "pred": "email",
+                "value": "HomerWu@HopkinsMedtech.com",
+                "errors": [],
+                "begin": 410,
+                "end": 438
+              },
+              {
+                "pred": "sameAs",
+                "value": "https://www.linkedin.com/company/hopkins-cro",
+                "errors": [],
+                "begin": 621,
+                "end": 667
+              }
+            ],
+            "nodeProperties": [
+              {
+                "pred": "address",
+                "target": {
+                  "types": [
+                    {
+                      "pred": "itemtype",
+                      "value": "PostalAddress",
+                      "errors": [],
+                      "begin": 458,
+                      "end": 473
+                    }
+                  ],
+                  "typeGroup": "PostalAddress",
+                  "errors": [],
+                  "properties": [
+                    {
+                      "pred": "streetAddress",
+                      "value": "5 Penn Plaza, 19th Floor",
+                      "errors": [],
+                      "begin": 490,
+                      "end": 516
+                    },
+                    {
+                      "pred": "addressLocality",
+                      "value": "New York",
+                      "errors": [],
+                      "begin": 535,
+                      "end": 545
+                    },
+                    {
+                      "pred": "addressRegion",
+                      "value": "NY",
+                      "errors": [],
+                      "begin": 562,
+                      "end": 566
+                    },
+                    {
+                      "pred": "postalCode",
+                      "value": "10001",
+                      "errors": [],
+                      "begin": 580,
+                      "end": 587
+                    }
+                  ],
+                  "nodeProperties": [
+                    {
+                      "pred": "addressCountry",
+                      "target": {
+                        "types": [
+                          {
+                            "pred": "itemtype",
+                            "value": "Country",
+                            "errors": [],
+                            "begin": 605,
+                            "end": 609
+                          }
+                        ],
+                        "typeGroup": "Country",
+                        "errors": [],
+                        "properties": [
+                          {
+                            "pred": "name",
+                            "value": "US",
+                            "errors": [],
+                            "begin": 605,
+                            "end": 609
+                          }
+                        ],
+                        "nodeProperties": [],
+                        "numErrors": 0,
+                        "numWarnings": 0
+                      },
+                      "errors": [],
+                      "begin": 605,
+                      "end": 609
+                    }
+                  ],
+                  "numErrors": 0,
+                  "numWarnings": 0
+                },
+                "errors": [],
+                "begin": 449,
+                "end": 610
+              },
+              {
+                "pred": "founder",
+                "target": {
+                  "types": [
+                    {
+                      "pred": "itemtype",
+                      "value": "Person",
+                      "errors": [],
+                      "begin": 689,
+                      "end": 697
+                    }
+                  ],
+                  "typeGroup": "Person",
+                  "idProperty": {
+                    "pred": "urn:spore:url",
+                    "value": "http://localhost:3000/about/team/jeff-wu#person",
+                    "errors": [],
+                    "begin": 704,
+                    "end": 753
+                  },
+                  "errors": [],
+                  "properties": [
+                    {
+                      "pred": "name",
+                      "value": "Jeff Wu",
+                      "errors": [],
+                      "begin": 761,
+                      "end": 770
+                    },
+                    {
+                      "pred": "sameAs",
+                      "value": "https://www.linkedin.com/in/jeffwu774/",
+                      "errors": [],
+                      "begin": 781,
+                      "end": 821
+                    }
+                  ],
+                  "nodeProperties": [],
+                  "numErrors": 0,
+                  "numWarnings": 0
+                },
+                "errors": [],
+                "begin": 680,
+                "end": 823
+              }
+            ],
+            "numErrors": 0,
+            "numWarnings": 0
+          }
+        ],
+        "numNodesWithError": 0,
+        "numNodesWithWarning": 0,
+        "numErrors": 0,
+        "numWarnings": 0,
+        "type": "Organization"
+      },
+      {
+        "ownerSet": {},
+        "nodes": [
+          {
+            "types": [
+              {
+                "pred": "itemtype",
+                "value": "FAQPage",
+                "errors": [],
+                "begin": 910,
+                "end": 919
+              }
+            ],
+            "typeGroup": "FAQPage",
+            "idProperty": {
+              "pred": "urn:spore:url",
+              "value": "http://localhost:3000/careers#faq",
+              "errors": [],
+              "begin": 926,
+              "end": 961
+            },
+            "errors": [],
+            "properties": [],
+            "nodeProperties": [
+              {
+                "pred": "mainEntity",
+                "target": {
+                  "types": [
+                    {
+                      "pred": "itemtype",
+                      "value": "Question",
+                      "errors": [],
+                      "begin": 985,
+                      "end": 995
+                    }
+                  ],
+                  "typeGroup": "Question",
+                  "errors": [],
+                  "properties": [
+                    {
+                      "pred": "name",
+                      "value": "How do I apply for an internship?",
+                      "errors": [],
+                      "begin": 1003,
+                      "end": 1038
+                    }
+                  ],
+                  "nodeProperties": [
+                    {
+                      "pred": "acceptedAnswer",
+                      "target": {
+                        "types": [
+                          {
+                            "pred": "itemtype",
+                            "value": "Answer",
+                            "errors": [],
+                            "begin": 1065,
+                            "end": 1073
+                          }
+                        ],
+                        "typeGroup": "Answer",
+                        "errors": [],
+                        "properties": [
+                          {
+                            "pred": "text",
+                            "value": "Start with your education partner. The referral process uses a CV and a short note, followed by a conversation with the project lead.",
+                            "errors": [],
+                            "begin": 1081,
+                            "end": 1216
+                          }
+                        ],
+                        "nodeProperties": [],
+                        "numErrors": 0,
+                        "numWarnings": 0
+                      },
+                      "errors": [],
+                      "begin": 1056,
+                      "end": 1217
+                    }
+                  ],
+                  "numErrors": 0,
+                  "numWarnings": 0
+                },
+                "errors": [],
+                "begin": 976,
+                "end": 1218
+              },
+              {
+                "pred": "mainEntity",
+                "target": {
+                  "types": [
+                    {
+                      "pred": "itemtype",
+                      "value": "Question",
+                      "errors": [],
+                      "begin": 1228,
+                      "end": 1238
+                    }
+                  ],
+                  "typeGroup": "Question",
+                  "errors": [],
+                  "properties": [
+                    {
+                      "pred": "name",
+                      "value": "How is internship work supervised?",
+                      "errors": [],
+                      "begin": 1246,
+                      "end": 1282
+                    }
+                  ],
+                  "nodeProperties": [
+                    {
+                      "pred": "acceptedAnswer",
+                      "target": {
+                        "types": [
+                          {
+                            "pred": "itemtype",
+                            "value": "Answer",
+                            "errors": [],
+                            "begin": 1309,
+                            "end": 1317
+                          }
+                        ],
+                        "typeGroup": "Answer",
+                        "errors": [],
+                        "properties": [
+                          {
+                            "pred": "text",
+                            "value": "Each intern works with a named project lead. Meetings follow a set weekly cadence, and each deliverable receives written feedback.",
+                            "errors": [],
+                            "begin": 1325,
+                            "end": 1457
+                          }
+                        ],
+                        "nodeProperties": [],
+                        "numErrors": 0,
+                        "numWarnings": 0
+                      },
+                      "errors": [],
+                      "begin": 1300,
+                      "end": 1458
+                    }
+                  ],
+                  "numErrors": 0,
+                  "numWarnings": 0
+                },
+                "errors": [],
+                "begin": 1219,
+                "end": 1459
+              },
+              {
+                "pred": "mainEntity",
+                "target": {
+                  "types": [
+                    {
+                      "pred": "itemtype",
+                      "value": "Question",
+                      "errors": [],
+                      "begin": 1469,
+                      "end": 1479
+                    }
+                  ],
+                  "typeGroup": "Question",
+                  "errors": [],
+                  "properties": [
+                    {
+                      "pred": "name",
+                      "value": "Which company signs the internship agreement?",
+                      "errors": [],
+                      "begin": 1487,
+                      "end": 1534
+                    }
+                  ],
+                  "nodeProperties": [
+                    {
+                      "pred": "acceptedAnswer",
+                      "target": {
+                        "types": [
+                          {
+                            "pred": "itemtype",
+                            "value": "Answer",
+                            "errors": [],
+                            "begin": 1561,
+                            "end": 1569
+                          }
+                        ],
+                        "typeGroup": "Answer",
+                        "errors": [],
+                        "properties": [
+                          {
+                            "pred": "text",
+                            "value": "Each internship is covered by a written agreement with Hopkins MedTech Group LLC.",
+                            "errors": [],
+                            "begin": 1577,
+                            "end": 1660
+                          }
+                        ],
+                        "nodeProperties": [],
+                        "numErrors": 0,
+                        "numWarnings": 0
+                      },
+                      "errors": [],
+                      "begin": 1552,
+                      "end": 1661
+                    }
+                  ],
+                  "numErrors": 0,
+                  "numWarnings": 0
+                },
+                "errors": [],
+                "begin": 1460,
+                "end": 1662
+              },
+              {
+                "pred": "mainEntity",
+                "target": {
+                  "types": [
+                    {
+                      "pred": "itemtype",
+                      "value": "Question",
+                      "errors": [],
+                      "begin": 1672,
+                      "end": 1682
+                    }
+                  ],
+                  "typeGroup": "Question",
+                  "errors": [],
+                  "properties": [
+                    {
+                      "pred": "name",
+                      "value": "What documents are available on completion?",
+                      "errors": [],
+                      "begin": 1690,
+                      "end": 1735
+                    }
+                  ],
+                  "nodeProperties": [
+                    {
+                      "pred": "acceptedAnswer",
+                      "target": {
+                        "types": [
+                          {
+                            "pred": "itemtype",
+                            "value": "Answer",
+                            "errors": [],
+                            "begin": 1762,
+                            "end": 1770
+                          }
+                        ],
+                        "typeGroup": "Answer",
+                        "errors": [],
+                        "properties": [
+                          {
+                            "pred": "text",
+                            "value": "Interns who complete the program receive a certificate of completion on company letterhead. A letter of recommendation is available on completion.",
+                            "errors": [],
+                            "begin": 1778,
+                            "end": 1926
+                          }
+                        ],
+                        "nodeProperties": [],
+                        "numErrors": 0,
+                        "numWarnings": 0
+                      },
+                      "errors": [],
+                      "begin": 1753,
+                      "end": 1927
+                    }
+                  ],
+                  "numErrors": 0,
+                  "numWarnings": 0
+                },
+                "errors": [],
+                "begin": 1663,
+                "end": 1928
+              },
+              {
+                "pred": "mainEntity",
+                "target": {
+                  "types": [
+                    {
+                      "pred": "itemtype",
+                      "value": "Question",
+                      "errors": [],
+                      "begin": 1938,
+                      "end": 1948
+                    }
+                  ],
+                  "typeGroup": "Question",
+                  "errors": [],
+                  "properties": [
+                    {
+                      "pred": "name",
+                      "value": "What are the rules for using AI tools?",
+                      "errors": [],
+                      "begin": 1956,
+                      "end": 1996
+                    }
+                  ],
+                  "nodeProperties": [
+                    {
+                      "pred": "acceptedAnswer",
+                      "target": {
+                        "types": [
+                          {
+                            "pred": "itemtype",
+                            "value": "Answer",
+                            "errors": [],
+                            "begin": 2023,
+                            "end": 2031
+                          }
+                        ],
+                        "typeGroup": "Answer",
+                        "errors": [],
+                        "properties": [
+                          {
+                            "pred": "text",
+                            "value": "Use only authorized data and project-lead-approved artificial intelligence (AI) tools. Do not upload confidential or patient-related information to public or unapproved tools. Verify AI-assisted work before delivery.",
+                            "errors": [],
+                            "begin": 2039,
+                            "end": 2257
+                          }
+                        ],
+                        "nodeProperties": [],
+                        "numErrors": 0,
+                        "numWarnings": 0
+                      },
+                      "errors": [],
+                      "begin": 2014,
+                      "end": 2258
+                    }
+                  ],
+                  "numErrors": 0,
+                  "numWarnings": 0
+                },
+                "errors": [],
+                "begin": 1929,
+                "end": 2259
+              }
+            ],
+            "numErrors": 0,
+            "numWarnings": 0
+          }
+        ],
+        "numNodesWithError": 0,
+        "numNodesWithWarning": 0,
+        "numErrors": 0,
+        "numWarnings": 0,
+        "type": "FAQPage"
+      }
+    ],
+    "numObjects": 2,
+    "html": "<html><head><script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"http://localhost:3000/#organization\",\"name\":\"Hopkins MedTech Compliance\",\"legalName\":\"Hopkins MedTech Group LLC\",\"alternateName\":[\"Hopkins MedTech Compliance\",\"HMC\"],\"url\":\"http://localhost:3000/\",\"logo\":\"http://localhost:3000/media/2d264def-20220223150835.png\",\"telephone\":\"+1 800 320 1438\",\"email\":\"HomerWu@HopkinsMedtech.com\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"5 Penn Plaza, 19th Floor\",\"addressLocality\":\"New York\",\"addressRegion\":\"NY\",\"postalCode\":\"10001\",\"addressCountry\":\"US\"},\"sameAs\":[\"https://www.linkedin.com/company/hopkins-cro\"],\"founder\":[{\"@type\":\"Person\",\"@id\":\"http://localhost:3000/about/team/jeff-wu#person\",\"name\":\"Jeff Wu\",\"sameAs\":[\"https://www.linkedin.com/in/jeffwu774/\"]}]}</script><script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"@id\":\"http://localhost:3000/careers#faq\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"How do I apply for an internship?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Start with your education partner. The referral process uses a CV and a short note, followed by a conversation with the project lead.\"}},{\"@type\":\"Question\",\"name\":\"How is internship work supervised?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Each intern works with a named project lead. Meetings follow a set weekly cadence, and each deliverable receives written feedback.\"}},{\"@type\":\"Question\",\"name\":\"Which company signs the internship agreement?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Each internship is covered by a written agreement with Hopkins MedTech Group LLC.\"}},{\"@type\":\"Question\",\"name\":\"What documents are available on completion?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Interns who complete the program receive a certificate of completion on company letterhead. A letter of recommendation is available on completion.\"}},{\"@type\":\"Question\",\"name\":\"What are the rules for using AI tools?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Use only authorized data and project-lead-approved artificial intelligence (AI) tools. Do not upload confidential or patient-related information to public or unapproved tools. Verify AI-assisted work before delivery.\"}}]}</script></head><body></body></html>",
+    "errors": [],
+    "totalNumErrors": 0,
+    "totalNumWarnings": 0
+  }
+}
