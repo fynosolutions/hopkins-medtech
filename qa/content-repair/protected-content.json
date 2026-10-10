@@ -2367,11 +2367,12 @@
     "group": "Laboratory Services",
     "excerpt": "Discuss diagnostic assay validation and laboratory support through associated businesses and partners.",
     "html": "<p>Laboratory support is coordinated through associated businesses and partners. Hopkins MedTech Compliance (HMC) and Hopkins MedTech Lab (HML) are distinct entities; partner capabilities and accreditations should not be interpreted as HMC-owned facilities or certifications.</p><p>Contact us to confirm the provider, validation scope and quality requirements for your diagnostic project.</p>",
-    "image": "/media/0d78598a-20220224105150.webp",
+    "image": "/media/original-laboratory-yellow-sample.webp",
     "sections": [],
     "reviewNote": "The specific laboratory provider and service scope are confirmed for each engagement.",
     "sourceUrl": "https://www.diacarta.com/hmc-hml-partnership",
-    "sourceIds": []
+    "sourceIds": [],
+    "imageAlt": "Test tube containing a yellow liquid sample, from the original HMC website"
   },
   "pendingLinkedin": [
     {
