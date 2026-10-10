@@ -27,4 +27,5 @@ This block is written and re-added by `next dev` — verify at `node_modules/nex
 - 不要打开 `SITE_INDEXABLE`，不要改动 `hopkinsmedtech.com` 的 DNS 或域名配置，等待毛明确决定。
 - 不要写“与约翰霍普金斯大学无关／有关”等声明；肯定或否定关联的声明都要等待毛确认事实。
 - 不要写公司登记号，目前尚未确认。
-- 不要恢复 Jeff Wu 的团队页，也不要将其重新加入团队展示、站内搜索或 sitemap。
+- 2026-10-10 用户转达毛确认：Jeff Wu 是联合创始人，本人 LinkedIn 为 https://www.linkedin.com/in/jeffwu774/。可恢复团队页、团队展示、站内搜索和 sitemap；只写已确认的 Co-founder 与链接，不补履历、其他职务或照片。
+- 2026-10-10 用户转达毛确认：8 个岗位输出 JobPosting，工作方式写 Remote / Onsite；不写是否仍接受申请或首次发布日期，不推断具体地址、远程国家范围或全远程。Schema 校验通过不等于满足 Google 招聘富媒体结果的必填项，验收报告必须说明区别。

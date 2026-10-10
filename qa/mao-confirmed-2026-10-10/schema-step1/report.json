@@ -1,0 +1,1313 @@
+{
+  "validator": "https://validator.schema.org/",
+  "inputMode": "code",
+  "uniquePayloads": 88,
+  "results": [
+    {
+      "sha256": "d0752d2240788ce03a680dbca6264940b89aa652526fc467092eec0d9f6f40b0",
+      "types": [
+        "Organization"
+      ],
+      "pages": [
+        "about.html",
+        "archive.html",
+        "careers.html",
+        "contact.html",
+        "index.html",
+        "industries.html",
+        "privacy.html",
+        "resources.html",
+        "services.html",
+        "_not-found.html",
+        "about/team.html",
+        "archive/media.html",
+        "careers/ai-computer-vision-intern.html",
+        "careers/clinical-data-biostatistics-intern.html",
+        "careers/clinical-research-intern.html",
+        "careers/data-science-intern.html",
+        "careers/digital-health-product-intern.html",
+        "careers/healthcare-market-research-intern.html",
+        "careers/quality-assurance-intern.html",
+        "careers/regulatory-affairs-intern.html",
+        "industries/biopharma.html",
+        "industries/gene-cell-therapies.html",
+        "industries/ivd.html",
+        "industries/medical-devices.html",
+        "industries/pharmaceuticals.html",
+        "resources/a-cell-free-dna-blood-based-test-for-colorectal-cancer-screening.html",
+        "resources/ai-skin-science-different-evidence.html",
+        "resources/antigen-test-performance-and-population.html",
+        "resources/blood-based-tests-for-multicancer-early-detection-pathfinder-a-prospective-cohort-study.html",
+        "resources/characteristics-of-clinical-studies-conducted-over-the-total-product-life-cycle-of-high-risk-therapeutic-medical-devices-receiving-fda-premarket-approval-in-2010-and-2011.html",
+        "resources/characteristics-of-clinical-studies-used-for-us-food-and-drug-administration-approval-of-high-risk-medical-device-supplements.html",
+        "resources/checklist-for-artificial-intelligence-in-medical-imaging-claim-a-guide-for-authors-and-reviewers.html",
+        "resources/class-b-ivdr-planning-milestones.html",
+        "resources/dermatologist-level-classification-of-skin-cancer-with-deep-neural-networks.html",
+        "resources/design-and-implementation-of-a-digital-site-less-clinical-study-of-serial-rapid-antigen-testing-to-identify-asymptomatic-sars-cov-2-infection.html",
+        "resources/detection-and-localization-of-surgically-resectable-cancers-with-a-multi-analyte-blood-test.html",
+        "resources/diagnostic-accuracy-of-covid-19-rapid-antigen-tests-with-unsupervised-self-sampling-in-people-with-symptoms-in-the-omicron-period-cross-sectional-study.html",
+        "resources/diagnostic-accuracy-of-rapid-antigen-tests-in-asymptomatic-and-presymptomatic-close-contacts-of-individuals-with-confirmed-sars-cov-2-infection-cross-sectional-study.html",
+        "resources/disparities-in-dermatology-ai-performance-on-a-diverse-curated-clinical-image-set.html",
+        "resources/evaluating-transparency-in-ai-ml-model-characteristics-for-fda-reviewed-medical-devices.html",
+        "resources/fda-melanoma-device-reclassification-2026.html",
+        "resources/guidelines-for-clinical-trial-protocols-for-interventions-involving-artificial-intelligence-the-spirit-ai-extension.html",
+        "resources/historical-cbd-otc.html",
+        "resources/historical-clinical-manager-2023.html",
+        "resources/historical-drug-regulatory-pathways.html",
+        "resources/historical-intended-use-validation.html",
+        "resources/historical-internal-audits.html",
+        "resources/historical-sterile-device-510k.html",
+        "resources/hmc-hml-documented-partnership.html",
+        "resources/hmc-questions-fda-town-halls-2022.html",
+        "resources/how-ai-is-used-in-fda-authorized-medical-devices-a-taxonomy-across-1-016-authorizations.html",
+        "resources/how-medical-ai-devices-are-evaluated-limitations-and-recommendations-from-an-analysis-of-fda-approvals.html",
+        "resources/ivdr-transition-and-eudamed-dates.html",
+        "resources/lipid-nanocarriers-skin-delivery.html",
+        "resources/marketing-and-us-food-and-drug-administration-clearance-of-artificial-intelligence-and-machine-learning-enabled-software-in-and-as-medical-devices-a-systematic-review.html",
+        "resources/modelling-skin-and-transdermal-transport.html",
+        "resources/nationwide-real-world-implementation-of-ai-for-cancer-detection-in-population-based-mammography-screening.html",
+        "resources/next-generation-multitarget-stool-dna-test-for-colorectal-cancer-screening.html",
+        "resources/nobel-science-ai-and-evidence.html",
+        "resources/nonconcurrent-control-use-in-fda-approval-of-high-risk-medical-devices.html",
+        "resources/performance-of-rapid-antigen-tests-to-detect-symptomatic-and-asymptomatic-sars-cov-2-infection-a-prospective-cohort-study.html",
+        "resources/pivotal-trial-of-an-autonomous-ai-based-diagnostic-system-for-detection-of-diabetic-retinopathy-in-primary-care-offices.html",
+        "resources/quadas-2-a-revised-tool-for-the-quality-assessment-of-diagnostic-accuracy-studies.html",
+        "resources/reporting-guideline-for-the-early-stage-clinical-evaluation-of-decision-support-systems-driven-by-artificial-intelligence-decide-ai.html",
+        "resources/reporting-guidelines-for-clinical-trial-reports-for-interventions-involving-artificial-intelligence-the-consort-ai-extension.html",
+        "resources/skin-tone-labels-and-metrics.html",
+        "resources/stard-2015-an-updated-list-of-essential-items-for-reporting-diagnostic-accuracy-studies.html",
+        "resources/the-clinician-ai-interface-intended-use-and-explainability-in-fda-cleared-ai-devices-for-medical-image-interpretation.html",
+        "resources/tripod-ai-statement-updated-guidance-for-reporting-clinical-prediction-models-that-use-regression-or-machine-learning-methods.html",
+        "services/biostatistics.html",
+        "services/cgmp.html",
+        "services/clinical-investigation.html",
+        "services/clinical-operations.html",
+        "services/clinical-study.html",
+        "services/data-management.html",
+        "services/eua-application.html",
+        "services/facility-registration-listing.html",
+        "services/fda-regulatory-consulting.html",
+        "services/fda-us-agent.html",
+        "services/food-dietary-supplements.html",
+        "services/ivdr.html",
+        "services/laboratory-services.html",
+        "services/market-research.html",
+        "services/marketing.html",
+        "services/medical-device-510k.html",
+        "services/otc-drug.html",
+        "services/post-market-compliance.html",
+        "services/post-market-surveillance.html",
+        "services/preclinical-research.html",
+        "services/product-development.html",
+        "services/project-management.html",
+        "services/projects.html",
+        "services/quality-assurance.html",
+        "services/quality-system.html",
+        "services/regulatory-strategy.html",
+        "services/regulatory-submission.html",
+        "services/us-sales-office.html",
+        "services/disciplines/clinical.html",
+        "services/disciplines/marketing.html",
+        "services/disciplines/post-market.html",
+        "services/disciplines/regulatory.html",
+        "services/disciplines/technology.html",
+        "archive/records/hmc-01.html",
+        "archive/records/hmc-02.html",
+        "archive/records/hmc-03.html",
+        "archive/records/hmc-04.html",
+        "archive/records/hmc-05.html",
+        "archive/records/hmc-06.html",
+        "archive/records/hmc-07.html",
+        "archive/records/hmc-08.html",
+        "archive/records/hmc-09.html",
+        "archive/records/hmc-10.html",
+        "archive/records/hmc-11.html",
+        "archive/records/hmc-12.html",
+        "archive/records/hmc-13.html",
+        "archive/records/hmc-14.html",
+        "archive/records/hmc-15.html",
+        "archive/records/hmc-16.html",
+        "archive/records/hmc-17.html",
+        "archive/records/hmc-18.html",
+        "archive/records/hmc-19.html",
+        "archive/records/hmc-20.html",
+        "archive/records/hmc-21.html",
+        "archive/records/hmc-22.html",
+        "archive/records/hmc-23.html",
+        "archive/records/hmc-24.html",
+        "archive/records/hmc-25.html",
+        "archive/records/hmc-26.html",
+        "archive/records/hmc-27.html",
+        "archive/records/hmc-28.html",
+        "archive/records/hmc-29.html",
+        "archive/records/hmc-30.html",
+        "archive/records/hmc-31.html",
+        "archive/records/hmc-32.html",
+        "archive/records/hmc-33.html",
+        "archive/records/hmc-34.html",
+        "archive/records/hmc-35.html",
+        "archive/records/hmc-36.html",
+        "archive/records/hmc-37.html",
+        "archive/records/hmc-38.html",
+        "archive/records/hmc-39.html",
+        "archive/records/hmc-40.html",
+        "archive/records/hmc-41.html",
+        "archive/records/hmc-42.html",
+        "archive/records/hmc-43.html",
+        "archive/records/hmc-44.html",
+        "archive/records/hmc-45.html",
+        "archive/records/hmc-46.html",
+        "archive/records/hmc-47.html",
+        "archive/records/news-1.html",
+        "archive/records/news-100.html",
+        "archive/records/news-101.html",
+        "archive/records/news-102.html",
+        "archive/records/news-105.html",
+        "archive/records/news-106.html",
+        "archive/records/news-107.html",
+        "archive/records/news-108.html",
+        "archive/records/news-112.html",
+        "archive/records/news-113.html",
+        "archive/records/news-114.html",
+        "archive/records/news-115.html",
+        "archive/records/news-116.html",
+        "archive/records/news-117.html",
+        "archive/records/news-118.html",
+        "archive/records/news-130.html",
+        "archive/records/news-131.html",
+        "archive/records/news-132.html",
+        "archive/records/news-133.html",
+        "archive/records/news-134.html",
+        "archive/records/news-135.html",
+        "archive/records/news-136.html",
+        "archive/records/news-137.html",
+        "archive/records/news-138.html",
+        "archive/records/news-28.html",
+        "archive/records/news-29.html",
+        "archive/records/news-30.html",
+        "archive/records/news-31.html",
+        "archive/records/news-32.html",
+        "archive/records/news-38.html",
+        "archive/records/news-39.html",
+        "archive/records/news-40.html",
+        "archive/records/news-41.html",
+        "archive/records/news-43.html",
+        "archive/records/news-44.html",
+        "archive/records/news-45.html",
+        "archive/records/news-46.html",
+        "archive/records/news-47.html",
+        "archive/records/news-48.html",
+        "archive/records/news-49.html",
+        "archive/records/news-50.html",
+        "archive/records/news-51.html",
+        "archive/records/news-52.html",
+        "archive/records/news-53.html",
+        "archive/records/news-54.html",
+        "archive/records/news-55.html",
+        "archive/records/news-56.html",
+        "archive/records/news-57.html",
+        "archive/records/news-58.html",
+        "archive/records/news-59.html",
+        "archive/records/news-6.html",
+        "archive/records/news-60.html",
+        "archive/records/news-61.html",
+        "archive/records/news-62.html",
+        "archive/records/news-63.html",
+        "archive/records/news-64.html",
+        "archive/records/news-65.html",
+        "archive/records/news-66.html",
+        "archive/records/news-67.html",
+        "archive/records/news-68.html",
+        "archive/records/news-69.html",
+        "archive/records/news-7.html",
+        "archive/records/news-70.html",
+        "archive/records/news-71.html",
+        "archive/records/news-72.html",
+        "archive/records/news-73.html",
+        "archive/records/news-74.html",
+        "archive/records/news-75.html",
+        "archive/records/news-76.html",
+        "archive/records/news-77.html",
+        "archive/records/news-78.html",
+        "archive/records/news-79.html",
+        "archive/records/news-8.html",
+        "archive/records/news-80.html",
+        "archive/records/news-81.html",
+        "archive/records/news-83.html",
+        "archive/records/news-84.html",
+        "archive/records/news-85.html",
+        "archive/records/news-86.html",
+        "archive/records/news-87.html",
+        "archive/records/news-88.html",
+        "archive/records/news-89.html",
+        "archive/records/news-90.html",
+        "archive/records/news-91.html",
+        "archive/records/news-92.html",
+        "archive/records/news-93.html",
+        "archive/records/news-94.html",
+        "archive/records/news-95.html",
+        "archive/records/news-96.html",
+        "archive/records/news-98.html",
+        "archive/records/news-99.html",
+        "about/team/andrew-wayland.html",
+        "about/team/homer-wu.html",
+        "about/team/jeff-wu.html",
+        "about/team/jennifer-stanford.html",
+        "about/team/qian-cheng.html",
+        "about/team/wendy-zhou.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "dadff276d915429935fca24d50ef83cd75a4b8d22184fddc2a6e344a2a4d5c13",
+      "types": [
+        "Person",
+        "Person",
+        "Person",
+        "Person",
+        "Person",
+        "Person"
+      ],
+      "pages": [
+        "about/team.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "c96b1939f7488dafe2f3fe5fb06a6aca6b916c041bc3095360160b44cd3ef0bb",
+      "types": [
+        "JobPosting"
+      ],
+      "pages": [
+        "careers/ai-computer-vision-intern.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "5b74e200d8a614b43da57393c49a3b8917222e208f00ac92357819dbcaf090f4",
+      "types": [
+        "JobPosting"
+      ],
+      "pages": [
+        "careers/clinical-data-biostatistics-intern.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "6a4132fad0882f6a027ca2ab50ca53a6fb299f64217268d9ffebb6ace9fb1aff",
+      "types": [
+        "JobPosting"
+      ],
+      "pages": [
+        "careers/clinical-research-intern.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "ac556e00c3990108878358ad0ff8a8874cd7d8eba13ea7a8f411e4197db92f6d",
+      "types": [
+        "JobPosting"
+      ],
+      "pages": [
+        "careers/data-science-intern.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "3c5ad851cc58729d4030e515e8c4c7292094f20b4bfd4d6c76efbd730e9dfb30",
+      "types": [
+        "JobPosting"
+      ],
+      "pages": [
+        "careers/digital-health-product-intern.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "9c85d9519c817f8f3ef8a1ebe1bb7ba5cee9581d58a49be58938ed5e255567d9",
+      "types": [
+        "JobPosting"
+      ],
+      "pages": [
+        "careers/healthcare-market-research-intern.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "604d0f02f8561157113dfc413dc293e9d72d65990f311af475235d3529351f59",
+      "types": [
+        "JobPosting"
+      ],
+      "pages": [
+        "careers/quality-assurance-intern.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "a4218db294bab6e39303e323a4431458bfd5545820fa22e7fa9fb8da6a41c734",
+      "types": [
+        "JobPosting"
+      ],
+      "pages": [
+        "careers/regulatory-affairs-intern.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "9ad2449d19b850d9eb3fb8505bd569eaaf7ed98021a2543bbc7dc353c0971812",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/a-cell-free-dna-blood-based-test-for-colorectal-cancer-screening.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "3451e5ec85fc5b09b534fdf5acc10856bf2e6717e312d574f9904559a1dc0544",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/ai-skin-science-different-evidence.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "70dbdebf8a2a3ba5ec8591919cf8912fc2b14649128938492fba1e0a7346c897",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/antigen-test-performance-and-population.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "0b87f849d38aecdbf84063c54715bc67065baba119ccc3dd3674e0196d41e548",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/blood-based-tests-for-multicancer-early-detection-pathfinder-a-prospective-cohort-study.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "208e6cc818569a0d21a2ad34fae77f4ddedbd785adabba510dd911dec580f7d9",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/characteristics-of-clinical-studies-conducted-over-the-total-product-life-cycle-of-high-risk-therapeutic-medical-devices-receiving-fda-premarket-approval-in-2010-and-2011.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "5f3328fcc682b5cc8b44f680750416fab89e2167fdb1d8b446caaaa2edf500b4",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/characteristics-of-clinical-studies-used-for-us-food-and-drug-administration-approval-of-high-risk-medical-device-supplements.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "0d900b5bcb73df5a1583f60cd82f720c15ee538e3ce0a0322f3d018ef85ce1e5",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/checklist-for-artificial-intelligence-in-medical-imaging-claim-a-guide-for-authors-and-reviewers.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "763d8791b4ed9abb7014a9f167c3c92eac033e111ae2054a711b2f04740c7eff",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/class-b-ivdr-planning-milestones.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "8fb176e8cd718e8a2a0038800f9736f5ed905e2138f735deef0edbd4620fa0ad",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/dermatologist-level-classification-of-skin-cancer-with-deep-neural-networks.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "640de065e50c35ea4d9914ffb3e57370df5886c99e9a7a5c4a0d54a04fd3718d",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/design-and-implementation-of-a-digital-site-less-clinical-study-of-serial-rapid-antigen-testing-to-identify-asymptomatic-sars-cov-2-infection.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "f29101f21948730e9c9d35ab09e7eb8184d517fda3a9a7abce1e22680c20a54b",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/detection-and-localization-of-surgically-resectable-cancers-with-a-multi-analyte-blood-test.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "33606288b8b2f4f035c2b41697fc4372d0c4f325607693f28b803942c22c5fbb",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/diagnostic-accuracy-of-covid-19-rapid-antigen-tests-with-unsupervised-self-sampling-in-people-with-symptoms-in-the-omicron-period-cross-sectional-study.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "16d51d73f0090707467a7044a29d369ebcb41dc4948a06982c51f5c00440d5cc",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/diagnostic-accuracy-of-rapid-antigen-tests-in-asymptomatic-and-presymptomatic-close-contacts-of-individuals-with-confirmed-sars-cov-2-infection-cross-sectional-study.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "21120f1c43ddd7922e232889869d785355854719002859c1141782c401015a19",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/disparities-in-dermatology-ai-performance-on-a-diverse-curated-clinical-image-set.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "5b36331b72d43d8bad9e833fc17ad8b547fcaed068384540ef7943527286cc27",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/evaluating-transparency-in-ai-ml-model-characteristics-for-fda-reviewed-medical-devices.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "3f9763c30fb647c48c3f0f04b6df6f481be4d1892e7284ded71e8a83bcff0c90",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/fda-melanoma-device-reclassification-2026.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "8e2cc1ec1c7a44c68c2f2cec1bb425702ae38ef24f02eb8a473c5144ed386ce7",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/guidelines-for-clinical-trial-protocols-for-interventions-involving-artificial-intelligence-the-spirit-ai-extension.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "faf329c2e67f7e404744023398b8310ba690a418dcfe705b8bac961a263031ce",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/historical-cbd-otc.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "33e0ddf77ef4e077f4a9ce57ebfa63d938c04058b636de6064652b93eca81f30",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/historical-clinical-manager-2023.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "d7b825baec51ff33fa909397999c22ac6f4b2e8fce9cb669c68440ab7802c25f",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/historical-drug-regulatory-pathways.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "44e299f6dfb703ed38ecfb70afca0742d6a6e1bac48c45f39621a15dadeb44cc",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/historical-intended-use-validation.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "8ee59a1cec8b044870f5a18945ea0ab8ae6baaef25269e5e49b0a8046110be8c",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/historical-internal-audits.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "965ec7fdcdf09b55c8816b6ae478c204710a03c308e4c5513af316735a47f8a2",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/historical-sterile-device-510k.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "42ed72048a83ea54d5d5aeadaf05860eab97df423f06291f224182696d9d0868",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/hmc-hml-documented-partnership.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "344ce06f7a000200781ecb32af769e7a2173e6d844d6931f315b66a24d1de1e3",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/hmc-questions-fda-town-halls-2022.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "73313cbfb98745c3a765e007d25670914adb2c0c010a3dca3d56310f32e50cc4",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/how-ai-is-used-in-fda-authorized-medical-devices-a-taxonomy-across-1-016-authorizations.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "9c684505c53d6ef6fef769b8635406ee2fd9866c0f1bd548f2a81f96d5e29aa5",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/how-medical-ai-devices-are-evaluated-limitations-and-recommendations-from-an-analysis-of-fda-approvals.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "5d6e28a8b145f5a6c36aefc65e828395c204df72ddca081a436076038216d29e",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/ivdr-transition-and-eudamed-dates.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "dcff31736fcaca38d9042b7fd7b3a8e2766fc59758e64f862aa246ad164223a7",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/lipid-nanocarriers-skin-delivery.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "7ab5d2ec8823cd96928baabc1665b5371a80f139fb7a0828c26b115885518939",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/marketing-and-us-food-and-drug-administration-clearance-of-artificial-intelligence-and-machine-learning-enabled-software-in-and-as-medical-devices-a-systematic-review.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "00a5fa39b387a8773ae724a493a7b462eefaa02bb47472eee6bbc7473bfb82d6",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/modelling-skin-and-transdermal-transport.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "aca48f4db9d354f8f0d514b62e2f65cf7f5748aca44703dd22b1b0d86bf986d2",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/nationwide-real-world-implementation-of-ai-for-cancer-detection-in-population-based-mammography-screening.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "928179c8c6b5db3629bfe108ad28d93eafab8ebbbbfb66e9ddda8a07b31fbbf9",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/next-generation-multitarget-stool-dna-test-for-colorectal-cancer-screening.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "af9cdd91edc88e38795ee37315fe3afb38d528a9ac4cc4c19a768d0d8b4c7ed1",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/nobel-science-ai-and-evidence.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "e5dcf4ce281eeebd9d902fdc53df597092adc958d37164e1783c84ec734583e8",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/nonconcurrent-control-use-in-fda-approval-of-high-risk-medical-devices.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "f8dceb054f45f3c0ec4fa2bea67217651fbaa40d7f917c93145fa960776b255e",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/performance-of-rapid-antigen-tests-to-detect-symptomatic-and-asymptomatic-sars-cov-2-infection-a-prospective-cohort-study.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "b7be4b73a98efa0639bb3b3da821ec39c304eea0024bb67d5b49ca93f0b73c73",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/pivotal-trial-of-an-autonomous-ai-based-diagnostic-system-for-detection-of-diabetic-retinopathy-in-primary-care-offices.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "2337524c60a0f5b3c0d634d20daa776f23138cec54131029c92fbc03e58716f9",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/quadas-2-a-revised-tool-for-the-quality-assessment-of-diagnostic-accuracy-studies.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "a412b5794400f5ca986d206f15024afa7dea42e22c400e5f8b7d7963f9b02223",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/reporting-guideline-for-the-early-stage-clinical-evaluation-of-decision-support-systems-driven-by-artificial-intelligence-decide-ai.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "19566f9d6e7338c24932dc5d3a6c994951c4a127da2c225e43ec973e855cabaf",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/reporting-guidelines-for-clinical-trial-reports-for-interventions-involving-artificial-intelligence-the-consort-ai-extension.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "9e69ec4c3207294c77e93ae781b31ac77570ae34adbdaace36f9bac561b73865",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/skin-tone-labels-and-metrics.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "b60dd8fd9c4775cf1dd51f0611252fa025752c161f5111c01ebb62e238f917cf",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/stard-2015-an-updated-list-of-essential-items-for-reporting-diagnostic-accuracy-studies.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "5884c6701191d4a8971b663c28bceebebd11a7fbe2ade037ae2aff92d78e2657",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/the-clinician-ai-interface-intended-use-and-explainability-in-fda-cleared-ai-devices-for-medical-image-interpretation.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "791e4ddda23449d34ed8666286aa35779fcd756cf71b9e703e3aa5b0233fd54a",
+      "types": [
+        "Article"
+      ],
+      "pages": [
+        "resources/tripod-ai-statement-updated-guidance-for-reporting-clinical-prediction-models-that-use-regression-or-machine-learning-methods.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "1a6df61d57b67813053b9c7796942afb7b570bc42c039bc91ae53af2fa9abf3a",
+      "types": [
+        "Service"
+      ],
+      "pages": [
+        "services/biostatistics.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "72097db91cf021ccdd308a8f89d17002d0c86cc0e8c6b7e6564ed22b664bcecd",
+      "types": [
+        "Service"
+      ],
+      "pages": [
+        "services/cgmp.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "0a6a24409be890465c4c54b544a8f01c9efadceaafe82b8651fcdad021a1b961",
+      "types": [
+        "Service"
+      ],
+      "pages": [
+        "services/clinical-investigation.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "1300b9158c6434719bf95220c732f122e9f687a140cb00a276548e91fe783c13",
+      "types": [
+        "Service"
+      ],
+      "pages": [
+        "services/clinical-operations.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "d52e6c9b0a325ff6c28c86502d8752c57ba93811eb9455c38d259214bdc2e81a",
+      "types": [
+        "Service"
+      ],
+      "pages": [
+        "services/clinical-study.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "0302f52bbcdb1a7364f30548d63bf51f3a2f221882dd0c1c84b2a77ba9881a1b",
+      "types": [
+        "Service"
+      ],
+      "pages": [
+        "services/data-management.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "4791cae0e1ad3eed61c057a06432f90fadfe07ff9b3762d8f185d4a4c440fb22",
+      "types": [
+        "Service"
+      ],
+      "pages": [
+        "services/eua-application.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "37255053c40aa8e3a7018fb71ed97c9ed1d02df54fe29b86af4274585ddc3a43",
+      "types": [
+        "Service"
+      ],
+      "pages": [
+        "services/facility-registration-listing.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "0728b0e149fe6935135c10828ba06532e0b207d1a6161a2aac2424fb2a503fc6",
+      "types": [
+        "Service"
+      ],
+      "pages": [
+        "services/fda-regulatory-consulting.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "5c5cb48490ac688b0039e70c2f771b7915b6a67b1f063c2c74a2580a3253c14c",
+      "types": [
+        "Service"
+      ],
+      "pages": [
+        "services/fda-us-agent.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "19d6b39cce843ff07a1e2aca3ec09b6f8fd9f6a1a916e339fa4f96c187ead299",
+      "types": [
+        "Service"
+      ],
+      "pages": [
+        "services/food-dietary-supplements.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "a06e7e1aa63fec5aa39231274597bea05529759fc43c75d5a10f9e59eaee462e",
+      "types": [
+        "Service"
+      ],
+      "pages": [
+        "services/ivdr.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "07b54b248b27e890da4ce4bcdddea0b81e5dba3ff05c1778e795a2f654462612",
+      "types": [
+        "Service"
+      ],
+      "pages": [
+        "services/laboratory-services.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "f224219296a7464ad79ec6c312819670edcd17987de255e2cc24c83ea7a207bd",
+      "types": [
+        "Service"
+      ],
+      "pages": [
+        "services/market-research.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "16d8884540b5e3327965b3ef58eda485ecad7ff11717bd3c39af590461729106",
+      "types": [
+        "Service"
+      ],
+      "pages": [
+        "services/marketing.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "beeb74c48f7cd190dcecef894c4cd03a64329f12ee210e6c97c1521ab31f1435",
+      "types": [
+        "Service"
+      ],
+      "pages": [
+        "services/medical-device-510k.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "01dc1bac56f895aa925bed0e21a0df41b52a48ddd912ce90a42c2a6bcf3b6dc9",
+      "types": [
+        "Service"
+      ],
+      "pages": [
+        "services/otc-drug.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "2e1a175ff9ea79410b1041ce831d901f9dbeb0fd3331ea7ccd25fefe62a0b460",
+      "types": [
+        "Service"
+      ],
+      "pages": [
+        "services/post-market-compliance.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "2378700fb60e7db91f7c9410f1086bf6db96a28d554cb9bd7f453885e3cdcaaf",
+      "types": [
+        "Service"
+      ],
+      "pages": [
+        "services/post-market-surveillance.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "a01fe6bde7c83fa7bb7bd62918b79662a73a8ad827c9ea14953ff91d9b38e2e1",
+      "types": [
+        "Service"
+      ],
+      "pages": [
+        "services/preclinical-research.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "26739655979ce1b5f00a10b95c712cb741262734b3153de9f3bd01de4bb8c290",
+      "types": [
+        "Service"
+      ],
+      "pages": [
+        "services/product-development.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "57d371f391d621da05c1627972de93bf841e28405a21874e7c9639aba50dbb56",
+      "types": [
+        "Service"
+      ],
+      "pages": [
+        "services/project-management.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "22d3f93258ffb7860f15ac38e734e3737266c1218e5bf51af2838aa13f2fc5eb",
+      "types": [
+        "Service"
+      ],
+      "pages": [
+        "services/quality-assurance.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "eb7f55d59ab557ba2b47e1f5653efb2b255ccee984f5918432b1ef0e8b88b60d",
+      "types": [
+        "Service"
+      ],
+      "pages": [
+        "services/quality-system.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "764fa0e558786747d66b1796ce297155cef35a0b595dce99d5e183bada679623",
+      "types": [
+        "Service"
+      ],
+      "pages": [
+        "services/regulatory-strategy.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "5bbf9da0e9cb4502d17a6413cfa518d70c0956787bf4deb9eb6ca1633bbeb47e",
+      "types": [
+        "Service"
+      ],
+      "pages": [
+        "services/regulatory-submission.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "a298900c20ed4a6c0d3da24d3cebda67c0b0dd63d19ee443f0fe527bd6dae36b",
+      "types": [
+        "Service"
+      ],
+      "pages": [
+        "services/us-sales-office.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "1a1a290e483ef2961fe55bb6e030eba0ce9e71f8e68e1a38acfccb685e5ce440",
+      "types": [
+        "Person"
+      ],
+      "pages": [
+        "about/team/andrew-wayland.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "0b9e6e170667f738abb12a8376c0a9b5b202e80d24466fc8c641638d83c86e87",
+      "types": [
+        "Person"
+      ],
+      "pages": [
+        "about/team/homer-wu.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "4e15a4e863f2a33bace8adb17045abd9f85d512153f5a72b8fd934a3cc58101b",
+      "types": [
+        "Person"
+      ],
+      "pages": [
+        "about/team/jeff-wu.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "ff76fd858c05bf61c2cb2fbe43d1915fc94093bf1a3fffdee5341d66e8fcfb4c",
+      "types": [
+        "Person"
+      ],
+      "pages": [
+        "about/team/jennifer-stanford.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "24f501d65a4cf1d0a6547af5f54a1f5cf1c6a0d2a6a9ea60a420ace4e9297173",
+      "types": [
+        "Person"
+      ],
+      "pages": [
+        "about/team/qian-cheng.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "a747b05bc160cca1c8ee7d94a03342c6df3cc68024fd3f0cee5a0afed5472a92",
+      "types": [
+        "Person"
+      ],
+      "pages": [
+        "about/team/wendy-zhou.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-04ed928946dbad9015e88cca2db9b324cd48cc9af9df41efe583a91de0dd5923.json"
+    },
+    {
+      "sha256": "c6c23deec71b1813b899854c62d812f41ee302c36480798cefe649dc94a1e706",
+      "types": [
+        "FAQPage"
+      ],
+      "pages": [
+        "careers.html"
+      ],
+      "errors": 0,
+      "warnings": 0,
+      "validatedIn": "batch-f18ef9aa1ac043c9c1aae7383d15e5ea5eca3d47621e5cb00d6e1012f803283f.json"
+    }
+  ]
+}
