@@ -4,8 +4,8 @@
 
 按毛最新一页版要求提供 public/llms.txt。robots 仍 Disallow: /，页面和文本响应继续由全站 X-Robots-Tag 设置 noindex，不改变 SITE_INDEXABLE、域名或 DNS。sitemap 使用记录的更新时间，不按构建时间刷新。
 
-没有自行补事实：8 个岗位开放状态、发布日期和地点未确认，当前不输出 JobPosting；38 篇本站摘要缺少确认的署名与首发日期，字段省略。五位团队成员只输出已有本人链接。没有新增管理层、头像或大学关系声明。
+2026-10-10 毛的新确认：增加 Jeff Wu 的 Co-founder、本人 LinkedIn 和对应 Person/Organization 关系；恢复其页面、团队、搜索、sitemap。8 个岗位输出 JobPosting，工作方式为 Remote / Onsite，不填申请状态、发布日期、具体地址或远程国家。38 篇本站摘要的未确认署名与首发日期仍省略；不补履历、其他职务或照片。
 
-验证：22 项测试、类型检查、生产构建通过。Schema Markup Validator 代码输入报告见 schema/report.json；Google Rich Results Test 的三个指定页面结果在 PR 描述记录。岗位缺少真实开放信息时，即使其他标记通过校验，也不能声称 JobPosting 已完成。
+2026-10-10 更新后：23 项测试、类型检查、生产构建通过。新 Schema 校验见 qa/mao-confirmed-2026-10-10/schema-step1/report.json；原 schema/report.json 是旧版本记录。此次 JobPosting 按毛要求省略 datePosted 和具体地点，不满足 Google 招聘富媒体结果的完整字段要求，不声称 Google 专项验收通过。
 
 所有旧成果完整保存在 codex/backup-before-six-prs；本地另有 .git/before-six-prs.bundle。依赖保护要求为至少一个有权限审核人的批准与 CI；不自动合并。

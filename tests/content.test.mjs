@@ -27,8 +27,8 @@ test('research is source-backed, unique, and separate from historical articles',
  assert.equal(site.pendingLinkedin.length,11);assert.ok(site.pendingLinkedin.every(x=>x.publicationStatus==='published'&&x.targetRoute));
  for(const x of insights){assert.ok(x.additionalSources.length);assert.ok(x.originalPublicationDate);assert.equal(x.author,'Hopkins MedTech Compliance');assert.equal(x.editorialPublicationDate,null)}
 });
-test('original team source records remain intact without an invented Jeff title',()=>{
- assert.equal(site.team.length,6);assert.equal(site.team[0].name,'Jeff Wu');assert.equal(site.team[0].role,null);assert.equal(site.team[0].html,'');assert.ok(site.team[1].name.startsWith('Homer Wu'));assert.ok(site.team.every(x=>x.image===null));assert.equal(site.team.filter(x=>x.slug==='homer-wu').length,1);
+test('team keeps original biographies and only the newly confirmed Jeff founder facts',()=>{
+ assert.equal(site.team.length,6);assert.equal(site.team[0].name,'Jeff Wu');assert.equal(site.team[0].role,'Co-founder');assert.equal(site.team[0].html,'<p>Jeff Wu is a co-founder of Hopkins MedTech Compliance.</p>');assert.equal(site.team[0].linkedin,'https://www.linkedin.com/in/jeffwu774/');assert.ok(site.team[1].name.startsWith('Homer Wu'));assert.ok(site.team.every(x=>x.image===null));assert.equal(site.team.filter(x=>x.slug==='homer-wu').length,1);
 });
 test('contact preserves email-or-phone rule and rejects invalid types, lengths, spam',()=>{
  const valid={subject:'Clinical',name:'Sandbox test',phone:'+1 800 320 1438',message:'Controlled local validation fixture'};
