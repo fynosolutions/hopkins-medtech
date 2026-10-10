@@ -1,0 +1,28 @@
+{
+  "partners": [
+    {
+      "name": "Hopkins MedTech Lab Services (HML)",
+      "date": "2023-07-24",
+      "description": "DiaCarta's announcement describes HML's laboratory-related work separately from HMC's clinical and regulatory services.",
+      "sourceUrl": "https://www.diacarta.com/hmc-hml-partnership"
+    },
+    {
+      "name": "DiaCarta",
+      "date": "2023-07-24",
+      "description": "DiaCarta announced a partnership with HMC and HML for IVD regulatory compliance and laboratory-developed-test validation in the United States.",
+      "sourceUrl": "https://www.diacarta.com/hmc-hml-partnership"
+    }
+  ],
+  "townHalls": [
+    {"title": "FDA IVD town hall: SARS-CoV-2 test development", "date": "2022-05-18", "description": "The transcript records Homer Wu identifying himself with HMC and asking about a pre-EUA combination-test submission.", "sourceUrl": "https://www.fda.gov/media/158755/download"},
+    {"title": "FDA IVD town hall: respiratory diagnostic studies", "date": "2022-08-24", "description": "The transcript records Homer Wu identifying himself with HMC and asking about an influenza B study outside the United States.", "sourceUrl": "https://www.fda.gov/media/161382/download"},
+    {"title": "FDA town hall: monkeypox test development", "date": "2022-09-21", "description": "Jennifer Stanford and Homer Wu identify themselves with HMC and ask about specimen handling and home-collection validation.", "sourceUrl": "https://www.fda.gov/media/161863/download"}
+  ],
+  "historicalArticles": [
+    {"slug": "historical-intended-use-validation", "sourceUrl": "https://emmainternational.com/intended-use-validation/"},
+    {"slug": "historical-cbd-otc", "sourceUrl": "https://emmainternational.com/the-fda-cbd-and-otc-drugs/"},
+    {"slug": "historical-sterile-device-510k", "sourceUrl": "https://emmainternational.com/510k-submissions-for-sterile-devices/"},
+    {"slug": "historical-drug-regulatory-pathways", "sourceUrl": "https://emmainternational.com/determining-the-right-regulatory-pathway-for-your-drug/"},
+    {"slug": "historical-internal-audits", "sourceUrl": "https://emmainternational.com/5-reasons-why-internal-auditing-is-important/"}
+  ]
+}
