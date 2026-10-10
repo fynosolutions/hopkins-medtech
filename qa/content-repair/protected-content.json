@@ -2283,15 +2283,15 @@
     {
       "id": "TEAM-JEFF",
       "name": "Jeff Wu",
-      "role": null,
+      "role": "Co-founder",
       "slug": "jeff-wu",
-      "html": "",
-      "excerpt": "Professional profile available on LinkedIn.",
+      "html": "<p>Jeff Wu is a co-founder of Hopkins MedTech Compliance.</p>",
+      "excerpt": "Co-founder of Hopkins MedTech Compliance.",
       "initials": "JW",
       "linkedin": "https://www.linkedin.com/in/jeffwu774/",
       "image": null,
       "sourceUrl": "https://www.linkedin.com/in/jeffwu774/",
-      "verified": false
+      "verified": true
     },
     {
       "id": "TEAM-1",
