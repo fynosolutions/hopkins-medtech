@@ -28,5 +28,41 @@
     "question": "What are the rules for using AI tools?",
     "answer": "Use only authorized data and project-lead-approved artificial intelligence (AI) tools. Do not upload confidential or patient-related information to public or unapproved tools. Verify AI-assisted work before delivery.",
     "source": "/careers"
+  },
+  {
+    "id": "work-arrangement",
+    "question": "Is the work remote or on site?",
+    "answer": "The work arrangement for these internships is Remote / Onsite.",
+    "source": "/careers"
+  },
+  {
+    "id": "experience-required",
+    "question": "Do I need prior experience or a medical background?",
+    "answer": "No prior clinical trial, CRO or professional internship experience is required. Each position description lists the fields of study that fit the role, and coursework, labs, personal projects and self-study all count as evidence.",
+    "source": "/careers#opportunities"
+  },
+  {
+    "id": "intern-deliverables",
+    "question": "What will an intern actually produce?",
+    "answer": "Each position description lists example assignments, a plan for the first two weeks and the deliverables for that role. Assignments depend on active studies, authorized data access and the internship timeline.",
+    "source": "/careers#opportunities"
+  },
+  {
+    "id": "patient-data",
+    "question": "Do interns work with patient data?",
+    "answer": "Interns work only with data and documents they have been explicitly authorized to access. Patient-identifiable information, study data and client-confidential files are never uploaded to public or unapproved AI services.",
+    "source": "/careers"
+  },
+  {
+    "id": "ai-initiative-status",
+    "question": "Are the AI and digital health projects cleared or approved products?",
+    "answer": "No. The AI and digital health initiative is early-stage research, not a cleared, approved or clinically validated product.",
+    "source": "/careers#opportunities"
+  },
+  {
+    "id": "first-interview",
+    "question": "Who would I meet in the first interview?",
+    "answer": "First-round interviews are with the project lead who would supervise the work, not with a screening panel.",
+    "source": "/careers#application-information"
   }
 ]
