@@ -2,3 +2,5 @@
 .careers-faq p {max-width:850px;margin-block:16px;}
 .careers-faq a,.article-source-meta a {text-decoration:underline;}
 .article-source-meta {margin-block:16px 28px;overflow-wrap:anywhere;}
+
+.page-facts{margin:28px 0 40px}.fact-table{width:100%;border-collapse:collapse;text-align:left}.fact-table th,.fact-table td{padding:18px 16px;border-bottom:1px solid #cedbd4;vertical-align:top;overflow-wrap:anywhere}.fact-table thead{background:#123f38;color:white}.fact-table tbody th{width:28%;background:#f0f5f1}.article-source-meta{margin-block:16px 28px;overflow-wrap:anywhere}

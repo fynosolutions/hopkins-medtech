@@ -1,0 +1,191 @@
+[
+  {
+    "page": "/services/us-sales-office",
+    "before": "Support for Chinese companies establishing and operating a US sales presence.",
+    "after": "HMC supports China-based medical technology companies planning US sales operations, including sales processes and market information. The engagement is commercial support; product-specific regulatory submissions are scoped separately.",
+    "words": 27,
+    "source": "http://www.hopkinsmedtech.com/About.aspx?ClassID=81"
+  },
+  {
+    "page": "/services/clinical-study",
+    "before": "Study planning, execution and analysis for medical devices and point-of-care diagnostics.",
+    "after": "HMC supports medical device and in vitro diagnostic (IVD) companies with clinical performance study planning, operations and analysis for product-specific FDA or European submission requirements.",
+    "words": 25,
+    "source": "http://www.hopkinsmedtech.com/management.aspx?ClassID=56"
+  },
+  {
+    "page": "/services/otc-drug",
+    "before": "Establishment registration, OTC drug product listing, NDC number, SPL authoring , self-identification GMP compliance, as well as other regulatory compliance related to drugs. This includes assistance for IND, N",
+    "after": "HMC supports over-the-counter (OTC) drug companies with FDA establishment registration, product listing and submission documentation, including structured product labeling (SPL). The applicable requirements depend on the product.",
+    "words": 27,
+    "source": "http://www.hopkinsmedtech.com/management.aspx?ClassID=57"
+  },
+  {
+    "page": "/services/product-development",
+    "before": "Connect early development decisions with clinical evidence and regulatory planning.",
+    "after": "HMC supports medical technology companies with product development planning and evidence requirements for the intended market. Regulatory preparation is scoped to the product and its proposed submission route.",
+    "words": 28,
+    "source": "http://www.hopkinsmedtech.com/management.aspx?ClassID=60"
+  },
+  {
+    "page": "/services/regulatory-strategy",
+    "before": "Each product has a certain regulatory strategy. With its expertise, HMC will provide you with an overview and detailed roadmap to help you visualize the path from research to commercialization. We will provide ",
+    "after": "HMC helps medical device companies assess FDA submission options, including 510(k), investigational device exemption (IDE) and other product-specific routes. Review includes intended use, technology and the availability of a predicate device.",
+    "words": 31,
+    "source": "http://www.hopkinsmedtech.com/management.aspx?ClassID=61"
+  },
+  {
+    "page": "/services/regulatory-submission",
+    "before": "Support for clients preparing regulatory submissions and coordinating responses to submission questions.",
+    "after": "HMC supports medical technology companies preparing FDA and European submission materials. Scope may include 510(k), Emergency Use Authorization (EUA) or In Vitro Diagnostic Medical Devices Regulation (IVDR) documentation, according to the product and applicable pathway.",
+    "words": 35,
+    "source": "http://www.hopkinsmedtech.com/management.aspx?ClassID=62"
+  },
+  {
+    "page": "/services/post-market-surveillance",
+    "before": "Acceptance is not the end of your success, the next step is to maintain compliance with ISO 13485 and 21 CFR Part 820. You will need to participate in after-sales monitoring activities to further monitor the sa",
+    "after": "HMC supports medical device companies with post-market surveillance plans and risk-management work under applicable US and European requirements. Activities are scoped to the product, market and existing quality management system.",
+    "words": 30,
+    "source": "http://www.hopkinsmedtech.com/management.aspx?ClassID=63"
+  },
+  {
+    "page": "/services/facility-registration-listing",
+    "before": "Our services include assistance with Establishment registration and device listing, Any establishment involved in the production, importation, reprocessing/relabeling, or developing specifications of a medical ",
+    "after": "HMC supports medical device and IVD establishments with FDA establishment registration and device listing. These administrative requirements are distinct from product-specific premarket clearance or approval.",
+    "words": 25,
+    "source": "http://www.hopkinsmedtech.com/management.aspx?ClassID=72"
+  },
+  {
+    "page": "/services/fda-us-agent",
+    "before": "The appointment of an agent is a mandatory requirement for any foreign company wishing to market their products within the United States. We can act as your FDA agent, as well as offering a suite of regulatory ",
+    "after": "HMC offers FDA US agent support for foreign establishments and assistance with registration-related communication. The applicable appointment and registration requirements depend on the establishment and product category.",
+    "words": 27,
+    "source": "http://www.hopkinsmedtech.com/management.aspx?ClassID=73"
+  },
+  {
+    "page": "/services/food-dietary-supplements",
+    "before": "Our FDA consultancy can deliver support to enable you to market your food and dietary supplements. We can provide complete assistance for understanding FDA requirements for your products, facility registration,",
+    "after": "HMC supports food and dietary supplement businesses with FDA facility registration, labeling review and applicable import requirements, including Foreign Supplier Verification Programs (FSVP). Scope depends on the product and business role.",
+    "words": 31,
+    "source": "http://www.hopkinsmedtech.com/management.aspx?ClassID=74"
+  },
+  {
+    "page": "/services/cgmp",
+    "before": "cGMP refers to the Current Good Manufacturing Practice regulations enforced by the FDA. cGMPs provide for systems that assure proper design, monitoring, and control of manufacturing processes and facilities. Ou",
+    "after": "HMC supports manufacturers with current good manufacturing practice (CGMP) audits and quality-system review. For medical devices, FDA requirements include the Quality Management System Regulation (QMSR) in 21 CFR Part 820.",
+    "words": 30,
+    "source": "http://www.hopkinsmedtech.com/management.aspx?ClassID=75"
+  },
+  {
+    "page": "/services/medical-device-510k",
+    "before": "Submission support for medical devices entering the United States market.",
+    "after": "HMC supports medical device companies preparing FDA 510(k) premarket notifications and related regulatory documentation. The submission route and evidence requirements depend on the device and its intended use.",
+    "words": 28,
+    "source": "http://www.hopkinsmedtech.com/management.aspx?ClassID=78"
+  },
+  {
+    "page": "/services/eua-application",
+    "before": "Regulatory consulting for emergency use authorization pathways.",
+    "after": "HMC supports developers preparing Emergency Use Authorization (EUA) materials for medical products. Eligibility, submission scope and authorization depend on the applicable FDA emergency framework.",
+    "words": 24,
+    "source": "http://www.hopkinsmedtech.com/management.aspx?ClassID=79"
+  },
+  {
+    "page": "/services/marketing",
+    "before": "Our marketing services for medical devices are focused on branding, promoting, and generating awareness and leads for medical device distributors and healthcare institutions. We ensure timely, relevant, and act",
+    "after": "HMC supports medical device businesses with market information, branding and distributor outreach for US market entry. Product claims and promotional scope require product-specific review.",
+    "words": 24,
+    "source": "http://www.hopkinsmedtech.com/management.aspx?ClassID=80"
+  },
+  {
+    "page": "/services/project-management",
+    "before": "For your clinical trial to be successfulIn order for your clinical trial to be successful, it’s necessaryyou will need a professional project administrator. We have the best project managers in the field, with ",
+    "after": "HMC supports clinical study sponsors with study plans, coordination and progress reporting. Project responsibilities and documentation are aligned with the study protocol and applicable good clinical practice (GCP) requirements.",
+    "words": 29,
+    "source": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=29"
+  },
+  {
+    "page": "/services/clinical-operations",
+    "before": "1. STUDY START-UP With its expertise, HMC will help make your tests a success. We'll work out effective participantsign-up strategies, quick processes, and efficient venue selection to make your trial go as fas",
+    "after": "HMC supports clinical study sponsors with site start-up, monitoring and study-document coordination under applicable good clinical practice (GCP) requirements. Work includes trial master file (TMF) and informed consent form (ICF) documentation where specified.",
+    "words": 33,
+    "source": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=29"
+  },
+  {
+    "page": "/services/data-management",
+    "before": "Data management in clinical trials is a necessary step to ensure accurate and reliable data are obtained.HMC's team of experts areis always qualified to provide the following services:● Participate in the desig",
+    "after": "HMC supports clinical study sponsors with data management plans, case report forms (CRFs), data review and database-lock preparation. Work follows the study protocol and applicable data standards.",
+    "words": 27,
+    "source": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=29"
+  },
+  {
+    "page": "/services/biostatistics",
+    "before": "Biostatistics in clinical researchYou will always receive real and timely data. Using advanced tools and techniques, HMC provides strategic services:● Design a clinical study protocols, including statistical in",
+    "after": "HMC supports study teams with sample-size planning, statistical analysis plans and reporting. For diagnostic studies, analysis may address sensitivity and specificity against the study protocol and intended submission requirements.",
+    "words": 29,
+    "source": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=29"
+  },
+  {
+    "page": "/services/quality-assurance",
+    "before": "With this service package, you can rest assured that your implementation and monitoring processes are always up to the highest international standards. The HMC team will show you the most comprehensive and unbi",
+    "after": "HMC supports clinical study teams with process assessments, audit planning and documentation of findings. The review scope follows the study requirements and applicable good clinical practice (GCP) standards.",
+    "words": 28,
+    "source": "http://www.hopkinsmedtech.com/management.aspx?ClassID=89"
+  },
+  {
+    "page": "/services/fda-regulatory-consulting",
+    "before": "A clear regulatory strategy for the next stage of your medical product.",
+    "after": "HMC supports medical product companies with FDA development planning and submission preparation. Services are scoped to the product and applicable pathway, including 510(k), De Novo, premarket approval (PMA) or Emergency Use Authorization (EUA).",
+    "words": 33,
+    "source": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=30"
+  },
+  {
+    "page": "/services/ivdr",
+    "before": "Technical documentation, quality systems and a considered path to the European market.",
+    "after": "HMC supports in vitro diagnostic manufacturers with technical documentation and quality-system planning under the European In Vitro Diagnostic Medical Devices Regulation (IVDR). The work supports applicable conformity assessment and CE marking preparation.",
+    "words": 32,
+    "source": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=30"
+  },
+  {
+    "page": "/services/market-research",
+    "before": "Research and practical market insight to support your next commercial decision.",
+    "after": "HMC supports medical technology companies reviewing target markets and commercialization requirements. Research scope is defined around the product category, market and regulatory questions that need investigation.",
+    "words": 26,
+    "source": "http://www.hopkinsmedtech.com/management.aspx?ClassID=94"
+  },
+  {
+    "page": "/services/post-market-compliance",
+    "before": "From assisting with product development and initial submission preparation, HMC creates a corresponding support program to help you bypass warning letters andor take corrective actions. You can use the service ",
+    "after": "HMC supports life science companies responding to FDA inspection observations and warning letters. Work includes corrective-action planning and documentation review for the applicable product and quality requirements.",
+    "words": 27,
+    "source": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=32"
+  },
+  {
+    "page": "/services/preclinical-research",
+    "before": "Support for preclinical study planning, laboratory selection and review of product-specific requirements.",
+    "after": "HMC supports developers with preclinical study planning and laboratory selection for product-specific FDA evaluation requirements. Study scope and laboratory responsibilities are confirmed for each engagement.",
+    "words": 25,
+    "source": "http://www.hopkinsmedtech.com/development.aspx?ClassID=100"
+  },
+  {
+    "page": "/services/clinical-investigation",
+    "before": "Provide customers with a flexible approach to improve cycle times, limit costs, and reduce risk. We Specialize in the planning, management, execution, and analysis of Phase 2-3 clinical trials. We help you leve",
+    "after": "HMC supports pharmaceutical sponsors with clinical trial planning, management and analysis for regulatory submissions. The study scope is defined by the development program, protocol and applicable clinical investigation requirements.",
+    "words": 29,
+    "source": "http://www.hopkinsmedtech.com/development.aspx?ClassID=98"
+  },
+  {
+    "page": "/services/quality-system",
+    "before": "Not only newly established companies but also large companies with many years of experience in the industry also face many difficulties to overcome the Quality Management System (QMS). Our company owns a propri",
+    "after": "HMC supports medical device companies with quality management system documentation under FDA QMSR, 21 CFR Part 820 and ISO 13485, as applicable. Scope includes assessment, action planning and supporting records.",
+    "words": 30,
+    "source": "http://www.hopkinsmedtech.com/development.aspx?ClassID=99"
+  },
+  {
+    "page": "/services/laboratory-services",
+    "before": "Discuss diagnostic assay validation and laboratory support through associated businesses and partners.",
+    "after": "HMC coordinates laboratory support for diagnostic projects through associated businesses and partners. The laboratory provider, validation scope and applicable quality requirements are confirmed for each engagement.",
+    "words": 26,
+    "source": "https://www.diacarta.com/hmc-hml-partnership"
+  }
+]

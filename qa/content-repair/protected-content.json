@@ -1915,7 +1915,7 @@
         {
           "title": "Example Assignments",
           "paragraphs": [
-            "Assignments depend on active studies, authorized data access, and the internship timeline. Examples may include: – A dataset landscape review with licensing, representativeness, and suitability recommendations",
+            "Assignments depend on active studies, authorized data access, and the internship timeline. Examples may include: – A dataset review with licensing, representativeness, and suitability recommendations",
             "– An annotation schema and labeling guideline with an inter- annotator agreement study",
             "– An evaluation framework defining metrics, baselines, splits, and subgroup reporting requirements"
           ]
@@ -2147,7 +2147,7 @@
       "id": "JD-HMT-B04",
       "slug": "healthcare-market-research-intern",
       "title": "Healthcare Market Research Intern, Digital Health Commercialization",
-      "excerpt": "Market sizing, competitive and channel landscape research, pricing and business model analysis, and commercialization pathway assessment for a digital health concept",
+      "excerpt": "Market sizing, competitor and sales-channel research, pricing and business model analysis, and commercialization pathway assessment for a digital health concept",
       "track": "AI & Digital Health",
       "level": "Student / early career",
       "sections": [
@@ -2173,7 +2173,7 @@
           "title": "Principal Duties",
           "paragraphs": [
             "– Build bottom-up market sizing models where each assumption is stated, sourced, and independently adjustable.",
-            "– Map the competitive landscape across consumer apps, clinical tools, device makers, and skincare brands.",
+            "– Map the competing products across consumer apps, clinical tools, device makers, and skincare brands.",
             "– Research channel options such as direct to consumer, clinic and dermatology partnerships, retail, and licensing.",
             "– Analyze pricing and business models in comparable products, including subscription, per-use, and bundled offers.",
             "– Summarize how regulatory positioning, wellness versus medical, changes the cost and speed of each route.",
@@ -2185,7 +2185,7 @@
           "title": "Example Assignments",
           "paragraphs": [
             "Assignments depend on active studies, authorized data access, and the internship timeline. Examples may include: – A bottom-up market sizing model with a sensitivity analysis on the three assumptions that matter most",
-            "– A competitive and channel landscape map with positioning, pricing, and claim comparisons",
+            "– A competitor and sales-channel comparison with positioning, pricing, and claim comparisons",
             "– A commercialization pathway assessment comparing routes on cost, speed, evidence burden, and risk"
           ]
         },
@@ -2236,7 +2236,7 @@
           "title": "Deliverables",
           "paragraphs": [
             "– A sourced market sizing model with documented assumptions and sensitivity ranges",
-            "– A competitive and channel landscape map with pricing and positioning comparisons",
+            "– A competitor and sales-channel comparison with pricing and positioning comparisons",
             "– A commercialization pathway memo with a recommendation and its stated conditions"
           ]
         },
