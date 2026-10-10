@@ -9,3 +9,5 @@
 - SITE_INDEXABLE、robots、DNS、域名保持不变，所有 PR 仍需批准和 CI，不合并 main。原稿不新增到公开仓库。
 
 本次按依赖顺序更新原六个 PR：#14 的结构化数据/人物确认，#15 的可见岗位事实和描述，#16 的项目概览，以及 #19 的整站验收；没有增加第七个 PR。
+
+最终验证：27 项测试、类型检查及生产构建通过；245 个页面无 JavaScript 检查与 84 次桌面/手机检查通过（final/browser-report.json）。88 份独立 JSON-LD 通过 Schema Markup Validator，零错误零警告（schema-final/report.json）；其中包含 8 个 JobPosting 和 Jeff 的 Person/Organization 关系。Google 招聘必填字段缺失的限制仍保留，未把它记作已通过。

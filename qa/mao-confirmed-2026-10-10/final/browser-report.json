@@ -1,0 +1,2725 @@
+{
+  "staticPages": 245,
+  "withoutJavaScript": [
+    {
+      "route": "/archive",
+      "headingCount": 157,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 30295
+    },
+    {
+      "route": "/archive/media",
+      "headingCount": 8,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 6101
+    },
+    {
+      "route": "/services/projects",
+      "headingCount": 17,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 856
+    },
+    {
+      "route": "/archive/records/hmc-01",
+      "headingCount": 21,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 3053
+    },
+    {
+      "route": "/archive/records/hmc-02",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 1158
+    },
+    {
+      "route": "/archive/records/hmc-03",
+      "headingCount": 11,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 1095
+    },
+    {
+      "route": "/archive/records/hmc-04",
+      "headingCount": 17,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 2019
+    },
+    {
+      "route": "/archive/records/hmc-05",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 4076
+    },
+    {
+      "route": "/archive/records/hmc-06",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 3579
+    },
+    {
+      "route": "/archive/records/hmc-07",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 3356
+    },
+    {
+      "route": "/archive/records/hmc-08",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 4110
+    },
+    {
+      "route": "/archive/records/hmc-09",
+      "headingCount": 21,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 3053
+    },
+    {
+      "route": "/archive/records/hmc-10",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 1111
+    },
+    {
+      "route": "/archive/records/hmc-11",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 1059
+    },
+    {
+      "route": "/archive/records/hmc-12",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 891
+    },
+    {
+      "route": "/archive/records/hmc-13",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 3009
+    },
+    {
+      "route": "/archive/records/hmc-14",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 2648
+    },
+    {
+      "route": "/archive/records/hmc-15",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 2801
+    },
+    {
+      "route": "/archive/records/hmc-16",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 1148
+    },
+    {
+      "route": "/archive/records/hmc-17",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 1191
+    },
+    {
+      "route": "/archive/records/hmc-18",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 984
+    },
+    {
+      "route": "/archive/records/hmc-19",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 1064
+    },
+    {
+      "route": "/archive/records/hmc-20",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 1197
+    },
+    {
+      "route": "/archive/records/hmc-21",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 1015
+    },
+    {
+      "route": "/archive/records/hmc-22",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 1014
+    },
+    {
+      "route": "/archive/records/hmc-23",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 1106
+    },
+    {
+      "route": "/archive/records/hmc-24",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 1898
+    },
+    {
+      "route": "/archive/records/hmc-25",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 5097
+    },
+    {
+      "route": "/archive/records/hmc-26",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 1812
+    },
+    {
+      "route": "/archive/records/hmc-27",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 1329
+    },
+    {
+      "route": "/archive/records/hmc-28",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 1170
+    },
+    {
+      "route": "/archive/records/hmc-29",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 995
+    },
+    {
+      "route": "/archive/records/hmc-30",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 1085
+    },
+    {
+      "route": "/archive/records/hmc-31",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 1420
+    },
+    {
+      "route": "/archive/records/hmc-32",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 1587
+    },
+    {
+      "route": "/archive/records/hmc-33",
+      "headingCount": 15,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 3082
+    },
+    {
+      "route": "/archive/records/hmc-34",
+      "headingCount": 15,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 2842
+    },
+    {
+      "route": "/archive/records/hmc-35",
+      "headingCount": 17,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 3283
+    },
+    {
+      "route": "/archive/records/hmc-36",
+      "headingCount": 17,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 3290
+    },
+    {
+      "route": "/archive/records/hmc-37",
+      "headingCount": 17,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 3522
+    },
+    {
+      "route": "/archive/records/hmc-38",
+      "headingCount": 14,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 6985
+    },
+    {
+      "route": "/archive/records/hmc-39",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 3215
+    },
+    {
+      "route": "/archive/records/hmc-40",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 2967
+    },
+    {
+      "route": "/archive/records/hmc-41",
+      "headingCount": 12,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 2447
+    },
+    {
+      "route": "/archive/records/hmc-42",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 3009
+    },
+    {
+      "route": "/archive/records/hmc-43",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 2648
+    },
+    {
+      "route": "/archive/records/hmc-44",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 2801
+    },
+    {
+      "route": "/archive/records/hmc-45",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 1148
+    },
+    {
+      "route": "/archive/records/hmc-46",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 1256
+    },
+    {
+      "route": "/archive/records/hmc-47",
+      "headingCount": 14,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 3831
+    },
+    {
+      "route": "/archive/records/news-1",
+      "headingCount": 5,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 667
+    },
+    {
+      "route": "/archive/records/news-6",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 1251
+    },
+    {
+      "route": "/archive/records/news-7",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 642
+    },
+    {
+      "route": "/archive/records/news-8",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 903
+    },
+    {
+      "route": "/archive/records/news-28",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 2829
+    },
+    {
+      "route": "/archive/records/news-29",
+      "headingCount": 11,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 8246
+    },
+    {
+      "route": "/archive/records/news-30",
+      "headingCount": 10,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 5416
+    },
+    {
+      "route": "/archive/records/news-31",
+      "headingCount": 7,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 1259
+    },
+    {
+      "route": "/archive/records/news-32",
+      "headingCount": 8,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 1874
+    },
+    {
+      "route": "/archive/records/news-38",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 794
+    },
+    {
+      "route": "/archive/records/news-39",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 667
+    },
+    {
+      "route": "/archive/records/news-40",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 853
+    },
+    {
+      "route": "/archive/records/news-41",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 685
+    },
+    {
+      "route": "/archive/records/news-43",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 2828
+    },
+    {
+      "route": "/archive/records/news-44",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 2467
+    },
+    {
+      "route": "/archive/records/news-45",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 2618
+    },
+    {
+      "route": "/archive/records/news-46",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 962
+    },
+    {
+      "route": "/archive/records/news-47",
+      "headingCount": 5,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 506
+    },
+    {
+      "route": "/archive/records/news-48",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 842
+    },
+    {
+      "route": "/archive/records/news-49",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 838
+    },
+    {
+      "route": "/archive/records/news-50",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 663
+    },
+    {
+      "route": "/archive/records/news-51",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 792
+    },
+    {
+      "route": "/archive/records/news-52",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 642
+    },
+    {
+      "route": "/archive/records/news-53",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 846
+    },
+    {
+      "route": "/archive/records/news-54",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 879
+    },
+    {
+      "route": "/archive/records/news-55",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 872
+    },
+    {
+      "route": "/archive/records/news-56",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 797
+    },
+    {
+      "route": "/archive/records/news-57",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 838
+    },
+    {
+      "route": "/archive/records/news-58",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 664
+    },
+    {
+      "route": "/archive/records/news-59",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 809
+    },
+    {
+      "route": "/archive/records/news-60",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 686
+    },
+    {
+      "route": "/archive/records/news-61",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 642
+    },
+    {
+      "route": "/archive/records/news-62",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 715
+    },
+    {
+      "route": "/archive/records/news-63",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 836
+    },
+    {
+      "route": "/archive/records/news-64",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 987
+    },
+    {
+      "route": "/archive/records/news-65",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 722
+    },
+    {
+      "route": "/archive/records/news-66",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 838
+    },
+    {
+      "route": "/archive/records/news-67",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 663
+    },
+    {
+      "route": "/archive/records/news-68",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 809
+    },
+    {
+      "route": "/archive/records/news-69",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 686
+    },
+    {
+      "route": "/archive/records/news-70",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 642
+    },
+    {
+      "route": "/archive/records/news-71",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 715
+    },
+    {
+      "route": "/archive/records/news-72",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 836
+    },
+    {
+      "route": "/archive/records/news-73",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 1014
+    },
+    {
+      "route": "/archive/records/news-74",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 775
+    },
+    {
+      "route": "/archive/records/news-75",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 675
+    },
+    {
+      "route": "/archive/records/news-76",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 809
+    },
+    {
+      "route": "/archive/records/news-77",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 810
+    },
+    {
+      "route": "/archive/records/news-78",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 788
+    },
+    {
+      "route": "/archive/records/news-79",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 797
+    },
+    {
+      "route": "/archive/records/news-80",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 715
+    },
+    {
+      "route": "/archive/records/news-81",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 799
+    },
+    {
+      "route": "/archive/records/news-83",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 837
+    },
+    {
+      "route": "/archive/records/news-84",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 838
+    },
+    {
+      "route": "/archive/records/news-85",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 883
+    },
+    {
+      "route": "/archive/records/news-86",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 721
+    },
+    {
+      "route": "/archive/records/news-87",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 996
+    },
+    {
+      "route": "/archive/records/news-88",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 810
+    },
+    {
+      "route": "/archive/records/news-89",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 874
+    },
+    {
+      "route": "/archive/records/news-90",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 1031
+    },
+    {
+      "route": "/archive/records/news-91",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 935
+    },
+    {
+      "route": "/archive/records/news-92",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 897
+    },
+    {
+      "route": "/archive/records/news-93",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 968
+    },
+    {
+      "route": "/archive/records/news-94",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 561
+    },
+    {
+      "route": "/archive/records/news-95",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 1704
+    },
+    {
+      "route": "/archive/records/news-96",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 1729
+    },
+    {
+      "route": "/archive/records/news-98",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 1718
+    },
+    {
+      "route": "/archive/records/news-99",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 4919
+    },
+    {
+      "route": "/archive/records/news-100",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 1635
+    },
+    {
+      "route": "/archive/records/news-101",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 1163
+    },
+    {
+      "route": "/archive/records/news-102",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 991
+    },
+    {
+      "route": "/archive/records/news-105",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 874
+    },
+    {
+      "route": "/archive/records/news-106",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 937
+    },
+    {
+      "route": "/archive/records/news-107",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 1243
+    },
+    {
+      "route": "/archive/records/news-108",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 1403
+    },
+    {
+      "route": "/archive/records/news-112",
+      "headingCount": 7,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 689
+    },
+    {
+      "route": "/archive/records/news-113",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 1070
+    },
+    {
+      "route": "/archive/records/news-114",
+      "headingCount": 11,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 3656
+    },
+    {
+      "route": "/archive/records/news-115",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 2264
+    },
+    {
+      "route": "/archive/records/news-116",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 1764
+    },
+    {
+      "route": "/archive/records/news-117",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 2044
+    },
+    {
+      "route": "/archive/records/news-118",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 1594
+    },
+    {
+      "route": "/archive/records/news-130",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 478
+    },
+    {
+      "route": "/archive/records/news-131",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 490
+    },
+    {
+      "route": "/archive/records/news-132",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 500
+    },
+    {
+      "route": "/archive/records/news-133",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 492
+    },
+    {
+      "route": "/archive/records/news-134",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 486
+    },
+    {
+      "route": "/archive/records/news-135",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 500
+    },
+    {
+      "route": "/archive/records/news-136",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 484
+    },
+    {
+      "route": "/archive/records/news-137",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 972
+    },
+    {
+      "route": "/archive/records/news-138",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 898
+    },
+    {
+      "route": "/services/disciplines/technology",
+      "headingCount": 8,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 768
+    },
+    {
+      "route": "/services/disciplines/clinical",
+      "headingCount": 12,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 1822
+    },
+    {
+      "route": "/services/disciplines/regulatory",
+      "headingCount": 11,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 1650
+    },
+    {
+      "route": "/services/disciplines/marketing",
+      "headingCount": 8,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 762
+    },
+    {
+      "route": "/services/disciplines/post-market",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 1070
+    },
+    {
+      "route": "/",
+      "headingCount": 41,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 5800
+    },
+    {
+      "route": "/about",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 2052
+    },
+    {
+      "route": "/about/team",
+      "headingCount": 12,
+      "schemaTypes": [
+        "Organization",
+        "Person",
+        "Person",
+        "Person",
+        "Person",
+        "Person",
+        "Person"
+      ],
+      "noindex": true,
+      "textLength": 1479
+    },
+    {
+      "route": "/services",
+      "headingCount": 46,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 7802
+    },
+    {
+      "route": "/industries",
+      "headingCount": 11,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 1666
+    },
+    {
+      "route": "/resources",
+      "headingCount": 45,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 7680
+    },
+    {
+      "route": "/careers",
+      "headingCount": 34,
+      "schemaTypes": [
+        "Organization",
+        "FAQPage"
+      ],
+      "noindex": true,
+      "textLength": 7536
+    },
+    {
+      "route": "/contact",
+      "headingCount": 11,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 1447
+    },
+    {
+      "route": "/privacy",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 1151
+    },
+    {
+      "route": "/services/us-sales-office",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization",
+        "Service"
+      ],
+      "noindex": true,
+      "textLength": 1657
+    },
+    {
+      "route": "/services/clinical-study",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization",
+        "Service"
+      ],
+      "noindex": true,
+      "textLength": 1504
+    },
+    {
+      "route": "/services/otc-drug",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization",
+        "Service"
+      ],
+      "noindex": true,
+      "textLength": 1583
+    },
+    {
+      "route": "/services/product-development",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization",
+        "Service"
+      ],
+      "noindex": true,
+      "textLength": 3296
+    },
+    {
+      "route": "/services/regulatory-strategy",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization",
+        "Service"
+      ],
+      "noindex": true,
+      "textLength": 2731
+    },
+    {
+      "route": "/services/regulatory-submission",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization",
+        "Service"
+      ],
+      "noindex": true,
+      "textLength": 3617
+    },
+    {
+      "route": "/services/post-market-surveillance",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization",
+        "Service"
+      ],
+      "noindex": true,
+      "textLength": 1981
+    },
+    {
+      "route": "/services/facility-registration-listing",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization",
+        "Service"
+      ],
+      "noindex": true,
+      "textLength": 1858
+    },
+    {
+      "route": "/services/fda-us-agent",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization",
+        "Service"
+      ],
+      "noindex": true,
+      "textLength": 1700
+    },
+    {
+      "route": "/services/food-dietary-supplements",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization",
+        "Service"
+      ],
+      "noindex": true,
+      "textLength": 1766
+    },
+    {
+      "route": "/services/cgmp",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization",
+        "Service"
+      ],
+      "noindex": true,
+      "textLength": 2053
+    },
+    {
+      "route": "/services/medical-device-510k",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization",
+        "Service"
+      ],
+      "noindex": true,
+      "textLength": 1671
+    },
+    {
+      "route": "/services/eua-application",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization",
+        "Service"
+      ],
+      "noindex": true,
+      "textLength": 1651
+    },
+    {
+      "route": "/services/marketing",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization",
+        "Service"
+      ],
+      "noindex": true,
+      "textLength": 1666
+    },
+    {
+      "route": "/services/project-management",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization",
+        "Service"
+      ],
+      "noindex": true,
+      "textLength": 2112
+    },
+    {
+      "route": "/services/clinical-operations",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization",
+        "Service"
+      ],
+      "noindex": true,
+      "textLength": 4273
+    },
+    {
+      "route": "/services/data-management",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization",
+        "Service"
+      ],
+      "noindex": true,
+      "textLength": 2465
+    },
+    {
+      "route": "/services/biostatistics",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization",
+        "Service"
+      ],
+      "noindex": true,
+      "textLength": 1983
+    },
+    {
+      "route": "/services/quality-assurance",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization",
+        "Service"
+      ],
+      "noindex": true,
+      "textLength": 1596
+    },
+    {
+      "route": "/services/fda-regulatory-consulting",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization",
+        "Service"
+      ],
+      "noindex": true,
+      "textLength": 1583
+    },
+    {
+      "route": "/services/ivdr",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization",
+        "Service"
+      ],
+      "noindex": true,
+      "textLength": 1805
+    },
+    {
+      "route": "/services/market-research",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization",
+        "Service"
+      ],
+      "noindex": true,
+      "textLength": 1547
+    },
+    {
+      "route": "/services/post-market-compliance",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization",
+        "Service"
+      ],
+      "noindex": true,
+      "textLength": 2003
+    },
+    {
+      "route": "/services/preclinical-research",
+      "headingCount": 12,
+      "schemaTypes": [
+        "Organization",
+        "Service"
+      ],
+      "noindex": true,
+      "textLength": 3020
+    },
+    {
+      "route": "/services/clinical-investigation",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization",
+        "Service"
+      ],
+      "noindex": true,
+      "textLength": 1929
+    },
+    {
+      "route": "/services/quality-system",
+      "headingCount": 13,
+      "schemaTypes": [
+        "Organization",
+        "Service"
+      ],
+      "noindex": true,
+      "textLength": 2912
+    },
+    {
+      "route": "/services/laboratory-services",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization",
+        "Service"
+      ],
+      "noindex": true,
+      "textLength": 1779
+    },
+    {
+      "route": "/industries/ivd",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 2236
+    },
+    {
+      "route": "/industries/medical-devices",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 1646
+    },
+    {
+      "route": "/industries/gene-cell-therapies",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 1915
+    },
+    {
+      "route": "/industries/biopharma",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 2016
+    },
+    {
+      "route": "/industries/pharmaceuticals",
+      "headingCount": 9,
+      "schemaTypes": [
+        "Organization"
+      ],
+      "noindex": true,
+      "textLength": 2080
+    },
+    {
+      "route": "/about/team/jeff-wu",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization",
+        "Person"
+      ],
+      "noindex": true,
+      "textLength": 383
+    },
+    {
+      "route": "/about/team/homer-wu",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization",
+        "Person"
+      ],
+      "noindex": true,
+      "textLength": 1583
+    },
+    {
+      "route": "/about/team/jennifer-stanford",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization",
+        "Person"
+      ],
+      "noindex": true,
+      "textLength": 1525
+    },
+    {
+      "route": "/about/team/wendy-zhou",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization",
+        "Person"
+      ],
+      "noindex": true,
+      "textLength": 1414
+    },
+    {
+      "route": "/about/team/andrew-wayland",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization",
+        "Person"
+      ],
+      "noindex": true,
+      "textLength": 1863
+    },
+    {
+      "route": "/about/team/qian-cheng",
+      "headingCount": 6,
+      "schemaTypes": [
+        "Organization",
+        "Person"
+      ],
+      "noindex": true,
+      "textLength": 1594
+    },
+    {
+      "route": "/careers/clinical-research-intern",
+      "headingCount": 29,
+      "schemaTypes": [
+        "Organization",
+        "JobPosting"
+      ],
+      "noindex": true,
+      "textLength": 9602
+    },
+    {
+      "route": "/careers/regulatory-affairs-intern",
+      "headingCount": 29,
+      "schemaTypes": [
+        "Organization",
+        "JobPosting"
+      ],
+      "noindex": true,
+      "textLength": 9446
+    },
+    {
+      "route": "/careers/clinical-data-biostatistics-intern",
+      "headingCount": 29,
+      "schemaTypes": [
+        "Organization",
+        "JobPosting"
+      ],
+      "noindex": true,
+      "textLength": 9258
+    },
+    {
+      "route": "/careers/quality-assurance-intern",
+      "headingCount": 29,
+      "schemaTypes": [
+        "Organization",
+        "JobPosting"
+      ],
+      "noindex": true,
+      "textLength": 9290
+    },
+    {
+      "route": "/careers/ai-computer-vision-intern",
+      "headingCount": 29,
+      "schemaTypes": [
+        "Organization",
+        "JobPosting"
+      ],
+      "noindex": true,
+      "textLength": 9367
+    },
+    {
+      "route": "/careers/data-science-intern",
+      "headingCount": 29,
+      "schemaTypes": [
+        "Organization",
+        "JobPosting"
+      ],
+      "noindex": true,
+      "textLength": 9178
+    },
+    {
+      "route": "/careers/digital-health-product-intern",
+      "headingCount": 29,
+      "schemaTypes": [
+        "Organization",
+        "JobPosting"
+      ],
+      "noindex": true,
+      "textLength": 9230
+    },
+    {
+      "route": "/careers/healthcare-market-research-intern",
+      "headingCount": 29,
+      "schemaTypes": [
+        "Organization",
+        "JobPosting"
+      ],
+      "noindex": true,
+      "textLength": 9247
+    },
+    {
+      "route": "/resources/nobel-science-ai-and-evidence",
+      "headingCount": 10,
+      "schemaTypes": [
+        "Organization",
+        "Article"
+      ],
+      "noindex": true,
+      "textLength": 2254
+    },
+    {
+      "route": "/resources/ivdr-transition-and-eudamed-dates",
+      "headingCount": 10,
+      "schemaTypes": [
+        "Organization",
+        "Article"
+      ],
+      "noindex": true,
+      "textLength": 2285
+    },
+    {
+      "route": "/resources/antigen-test-performance-and-population",
+      "headingCount": 10,
+      "schemaTypes": [
+        "Organization",
+        "Article"
+      ],
+      "noindex": true,
+      "textLength": 2152
+    },
+    {
+      "route": "/resources/hmc-questions-fda-town-halls-2022",
+      "headingCount": 10,
+      "schemaTypes": [
+        "Organization",
+        "Article"
+      ],
+      "noindex": true,
+      "textLength": 2408
+    },
+    {
+      "route": "/resources/hmc-hml-documented-partnership",
+      "headingCount": 10,
+      "schemaTypes": [
+        "Organization",
+        "Article"
+      ],
+      "noindex": true,
+      "textLength": 2284
+    },
+    {
+      "route": "/resources/class-b-ivdr-planning-milestones",
+      "headingCount": 10,
+      "schemaTypes": [
+        "Organization",
+        "Article"
+      ],
+      "noindex": true,
+      "textLength": 2323
+    },
+    {
+      "route": "/resources/fda-melanoma-device-reclassification-2026",
+      "headingCount": 10,
+      "schemaTypes": [
+        "Organization",
+        "Article"
+      ],
+      "noindex": true,
+      "textLength": 2268
+    },
+    {
+      "route": "/resources/evaluating-transparency-in-ai-ml-model-characteristics-for-fda-reviewed-medical-devices",
+      "headingCount": 10,
+      "schemaTypes": [
+        "Organization",
+        "Article"
+      ],
+      "noindex": true,
+      "textLength": 2069
+    },
+    {
+      "route": "/resources/performance-of-rapid-antigen-tests-to-detect-symptomatic-and-asymptomatic-sars-cov-2-infection-a-prospective-cohort-study",
+      "headingCount": 10,
+      "schemaTypes": [
+        "Organization",
+        "Article"
+      ],
+      "noindex": true,
+      "textLength": 2300
+    },
+    {
+      "route": "/resources/pivotal-trial-of-an-autonomous-ai-based-diagnostic-system-for-detection-of-diabetic-retinopathy-in-primary-care-offices",
+      "headingCount": 10,
+      "schemaTypes": [
+        "Organization",
+        "Article"
+      ],
+      "noindex": true,
+      "textLength": 2015
+    },
+    {
+      "route": "/resources/diagnostic-accuracy-of-covid-19-rapid-antigen-tests-with-unsupervised-self-sampling-in-people-with-symptoms-in-the-omicron-period-cross-sectional-study",
+      "headingCount": 10,
+      "schemaTypes": [
+        "Organization",
+        "Article"
+      ],
+      "noindex": true,
+      "textLength": 2401
+    },
+    {
+      "route": "/resources/diagnostic-accuracy-of-rapid-antigen-tests-in-asymptomatic-and-presymptomatic-close-contacts-of-individuals-with-confirmed-sars-cov-2-infection-cross-sectional-study",
+      "headingCount": 10,
+      "schemaTypes": [
+        "Organization",
+        "Article"
+      ],
+      "noindex": true,
+      "textLength": 2238
+    },
+    {
+      "route": "/resources/design-and-implementation-of-a-digital-site-less-clinical-study-of-serial-rapid-antigen-testing-to-identify-asymptomatic-sars-cov-2-infection",
+      "headingCount": 10,
+      "schemaTypes": [
+        "Organization",
+        "Article"
+      ],
+      "noindex": true,
+      "textLength": 2481
+    },
+    {
+      "route": "/resources/disparities-in-dermatology-ai-performance-on-a-diverse-curated-clinical-image-set",
+      "headingCount": 10,
+      "schemaTypes": [
+        "Organization",
+        "Article"
+      ],
+      "noindex": true,
+      "textLength": 2085
+    },
+    {
+      "route": "/resources/detection-and-localization-of-surgically-resectable-cancers-with-a-multi-analyte-blood-test",
+      "headingCount": 10,
+      "schemaTypes": [
+        "Organization",
+        "Article"
+      ],
+      "noindex": true,
+      "textLength": 2360
+    },
+    {
+      "route": "/resources/blood-based-tests-for-multicancer-early-detection-pathfinder-a-prospective-cohort-study",
+      "headingCount": 10,
+      "schemaTypes": [
+        "Organization",
+        "Article"
+      ],
+      "noindex": true,
+      "textLength": 2047
+    },
+    {
+      "route": "/resources/marketing-and-us-food-and-drug-administration-clearance-of-artificial-intelligence-and-machine-learning-enabled-software-in-and-as-medical-devices-a-systematic-review",
+      "headingCount": 10,
+      "schemaTypes": [
+        "Organization",
+        "Article"
+      ],
+      "noindex": true,
+      "textLength": 2134
+    },
+    {
+      "route": "/resources/nonconcurrent-control-use-in-fda-approval-of-high-risk-medical-devices",
+      "headingCount": 10,
+      "schemaTypes": [
+        "Organization",
+        "Article"
+      ],
+      "noindex": true,
+      "textLength": 1935
+    },
+    {
+      "route": "/resources/characteristics-of-clinical-studies-conducted-over-the-total-product-life-cycle-of-high-risk-therapeutic-medical-devices-receiving-fda-premarket-approval-in-2010-and-2011",
+      "headingCount": 10,
+      "schemaTypes": [
+        "Organization",
+        "Article"
+      ],
+      "noindex": true,
+      "textLength": 2063
+    },
+    {
+      "route": "/resources/characteristics-of-clinical-studies-used-for-us-food-and-drug-administration-approval-of-high-risk-medical-device-supplements",
+      "headingCount": 10,
+      "schemaTypes": [
+        "Organization",
+        "Article"
+      ],
+      "noindex": true,
+      "textLength": 2018
+    },
+    {
+      "route": "/resources/how-medical-ai-devices-are-evaluated-limitations-and-recommendations-from-an-analysis-of-fda-approvals",
+      "headingCount": 10,
+      "schemaTypes": [
+        "Organization",
+        "Article"
+      ],
+      "noindex": true,
+      "textLength": 2006
+    },
+    {
+      "route": "/resources/how-ai-is-used-in-fda-authorized-medical-devices-a-taxonomy-across-1-016-authorizations",
+      "headingCount": 10,
+      "schemaTypes": [
+        "Organization",
+        "Article"
+      ],
+      "noindex": true,
+      "textLength": 1927
+    },
+    {
+      "route": "/resources/the-clinician-ai-interface-intended-use-and-explainability-in-fda-cleared-ai-devices-for-medical-image-interpretation",
+      "headingCount": 10,
+      "schemaTypes": [
+        "Organization",
+        "Article"
+      ],
+      "noindex": true,
+      "textLength": 1960
+    },
+    {
+      "route": "/resources/nationwide-real-world-implementation-of-ai-for-cancer-detection-in-population-based-mammography-screening",
+      "headingCount": 10,
+      "schemaTypes": [
+        "Organization",
+        "Article"
+      ],
+      "noindex": true,
+      "textLength": 2041
+    },
+    {
+      "route": "/resources/dermatologist-level-classification-of-skin-cancer-with-deep-neural-networks",
+      "headingCount": 10,
+      "schemaTypes": [
+        "Organization",
+        "Article"
+      ],
+      "noindex": true,
+      "textLength": 2015
+    },
+    {
+      "route": "/resources/a-cell-free-dna-blood-based-test-for-colorectal-cancer-screening",
+      "headingCount": 10,
+      "schemaTypes": [
+        "Organization",
+        "Article"
+      ],
+      "noindex": true,
+      "textLength": 1957
+    },
+    {
+      "route": "/resources/next-generation-multitarget-stool-dna-test-for-colorectal-cancer-screening",
+      "headingCount": 10,
+      "schemaTypes": [
+        "Organization",
+        "Article"
+      ],
+      "noindex": true,
+      "textLength": 2011
+    },
+    {
+      "route": "/resources/reporting-guidelines-for-clinical-trial-reports-for-interventions-involving-artificial-intelligence-the-consort-ai-extension",
+      "headingCount": 10,
+      "schemaTypes": [
+        "Organization",
+        "Article"
+      ],
+      "noindex": true,
+      "textLength": 2035
+    },
+    {
+      "route": "/resources/guidelines-for-clinical-trial-protocols-for-interventions-involving-artificial-intelligence-the-spirit-ai-extension",
+      "headingCount": 10,
+      "schemaTypes": [
+        "Organization",
+        "Article"
+      ],
+      "noindex": true,
+      "textLength": 1972
+    },
+    {
+      "route": "/resources/reporting-guideline-for-the-early-stage-clinical-evaluation-of-decision-support-systems-driven-by-artificial-intelligence-decide-ai",
+      "headingCount": 10,
+      "schemaTypes": [
+        "Organization",
+        "Article"
+      ],
+      "noindex": true,
+      "textLength": 2221
+    },
+    {
+      "route": "/resources/stard-2015-an-updated-list-of-essential-items-for-reporting-diagnostic-accuracy-studies",
+      "headingCount": 10,
+      "schemaTypes": [
+        "Organization",
+        "Article"
+      ],
+      "noindex": true,
+      "textLength": 2024
+    },
+    {
+      "route": "/resources/quadas-2-a-revised-tool-for-the-quality-assessment-of-diagnostic-accuracy-studies",
+      "headingCount": 10,
+      "schemaTypes": [
+        "Organization",
+        "Article"
+      ],
+      "noindex": true,
+      "textLength": 1961
+    },
+    {
+      "route": "/resources/tripod-ai-statement-updated-guidance-for-reporting-clinical-prediction-models-that-use-regression-or-machine-learning-methods",
+      "headingCount": 10,
+      "schemaTypes": [
+        "Organization",
+        "Article"
+      ],
+      "noindex": true,
+      "textLength": 2308
+    },
+    {
+      "route": "/resources/checklist-for-artificial-intelligence-in-medical-imaging-claim-a-guide-for-authors-and-reviewers",
+      "headingCount": 10,
+      "schemaTypes": [
+        "Organization",
+        "Article"
+      ],
+      "noindex": true,
+      "textLength": 1920
+    },
+    {
+      "route": "/resources/modelling-skin-and-transdermal-transport",
+      "headingCount": 10,
+      "schemaTypes": [
+        "Organization",
+        "Article"
+      ],
+      "noindex": true,
+      "textLength": 2026
+    },
+    {
+      "route": "/resources/lipid-nanocarriers-skin-delivery",
+      "headingCount": 10,
+      "schemaTypes": [
+        "Organization",
+        "Article"
+      ],
+      "noindex": true,
+      "textLength": 2222
+    },
+    {
+      "route": "/resources/ai-skin-science-different-evidence",
+      "headingCount": 10,
+      "schemaTypes": [
+        "Organization",
+        "Article"
+      ],
+      "noindex": true,
+      "textLength": 2444
+    },
+    {
+      "route": "/resources/skin-tone-labels-and-metrics",
+      "headingCount": 10,
+      "schemaTypes": [
+        "Organization",
+        "Article"
+      ],
+      "noindex": true,
+      "textLength": 2177
+    },
+    {
+      "route": "/resources/historical-intended-use-validation",
+      "headingCount": 7,
+      "schemaTypes": [
+        "Organization",
+        "Article"
+      ],
+      "noindex": true,
+      "textLength": 4246
+    },
+    {
+      "route": "/resources/historical-cbd-otc",
+      "headingCount": 7,
+      "schemaTypes": [
+        "Organization",
+        "Article"
+      ],
+      "noindex": true,
+      "textLength": 3725
+    },
+    {
+      "route": "/resources/historical-sterile-device-510k",
+      "headingCount": 7,
+      "schemaTypes": [
+        "Organization",
+        "Article"
+      ],
+      "noindex": true,
+      "textLength": 3516
+    },
+    {
+      "route": "/resources/historical-drug-regulatory-pathways",
+      "headingCount": 7,
+      "schemaTypes": [
+        "Organization",
+        "Article"
+      ],
+      "noindex": true,
+      "textLength": 4242
+    },
+    {
+      "route": "/resources/historical-internal-audits",
+      "headingCount": 7,
+      "schemaTypes": [
+        "Organization",
+        "Article"
+      ],
+      "noindex": true,
+      "textLength": 3376
+    },
+    {
+      "route": "/resources/historical-clinical-manager-2023",
+      "headingCount": 7,
+      "schemaTypes": [
+        "Organization",
+        "Article"
+      ],
+      "noindex": true,
+      "textLength": 3140
+    }
+  ],
+  "desktopAndMobile": [
+    {
+      "route": "/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/about",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/careers",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/resources",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/about/team",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/about/team/jeff-wu",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/resources/evaluating-transparency-in-ai-ml-model-characteristics-for-fda-reviewed-medical-devices",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/services/us-sales-office",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/services/clinical-study",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/services/otc-drug",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/services/product-development",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/services/regulatory-strategy",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/services/regulatory-submission",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/services/post-market-surveillance",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/services/facility-registration-listing",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/services/fda-us-agent",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/services/food-dietary-supplements",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/services/cgmp",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/services/medical-device-510k",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/services/eua-application",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/services/marketing",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/services/project-management",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/services/clinical-operations",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/services/data-management",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/services/biostatistics",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/services/quality-assurance",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/services/fda-regulatory-consulting",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/services/ivdr",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/services/market-research",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/services/post-market-compliance",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/services/preclinical-research",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/services/clinical-investigation",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/services/quality-system",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/services/laboratory-services",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/careers/clinical-research-intern",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/careers/regulatory-affairs-intern",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/careers/clinical-data-biostatistics-intern",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/careers/quality-assurance-intern",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/careers/ai-computer-vision-intern",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/careers/data-science-intern",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/careers/digital-health-product-intern",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/careers/healthcare-market-research-intern",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/about",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/careers",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/resources",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/about/team",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/about/team/jeff-wu",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/resources/evaluating-transparency-in-ai-ml-model-characteristics-for-fda-reviewed-medical-devices",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/services/us-sales-office",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/services/clinical-study",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/services/otc-drug",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/services/product-development",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/services/regulatory-strategy",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/services/regulatory-submission",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/services/post-market-surveillance",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/services/facility-registration-listing",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/services/fda-us-agent",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/services/food-dietary-supplements",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/services/cgmp",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/services/medical-device-510k",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/services/eua-application",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/services/marketing",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/services/project-management",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/services/clinical-operations",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/services/data-management",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/services/biostatistics",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/services/quality-assurance",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/services/fda-regulatory-consulting",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/services/ivdr",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/services/market-research",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/services/post-market-compliance",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/services/preclinical-research",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/services/clinical-investigation",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/services/quality-system",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/services/laboratory-services",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/careers/clinical-research-intern",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/careers/regulatory-affairs-intern",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/careers/clinical-data-biostatistics-intern",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/careers/quality-assurance-intern",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/careers/ai-computer-vision-intern",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/careers/data-science-intern",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/careers/digital-health-product-intern",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/careers/healthcare-market-research-intern",
+      "width": 390,
+      "overflow": false
+    }
+  ],
+  "errors": []
+}

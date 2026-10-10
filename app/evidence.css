@@ -38,3 +38,6 @@
 .article-source-meta { margin-block: 16px 28px; overflow-wrap: anywhere; }
 .article-source-meta p { margin-top: 10px; }
 .article-source-meta a, .careers-faq a { text-decoration: underline; }
+
+.approved-experiences{margin-block:40px;scroll-margin-top:140px}.approved-experiences article{padding:24px;margin-block:24px;background:#f0f5f1}.approved-experiences dt{font-weight:600}.approved-experiences dd{margin:6px 0 16px}
+.experience-empty-frame{min-height:180px;margin-top:20px;border:1px solid #cedbd4;border-radius:4px;background:#f0f5f1}

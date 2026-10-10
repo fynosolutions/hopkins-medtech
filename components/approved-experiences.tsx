@@ -1,0 +1,25 @@
+import records from '@/content/approved-experiences.json';
+import {site} from '@/lib/content';
+import {publishableExperiences} from '@/lib/approved-experiences.mjs';
+
+type Experience = Record<string, string | boolean>;
+export function ApprovedExperiences({kind, jobId}: {kind: keyof typeof records; jobId?: string}) {
+  const allowed = site.jobs.map(job => job.id);
+  const entries = (publishableExperiences(records[kind], kind, allowed) as Experience[])
+    .filter(item => !jobId || item.jobId === jobId);
+  const title = {studentFeedback: 'Intern feedback', completedProjects: 'Completed intern projects'}[kind];
+  return <section id={kind} className="approved-experiences" aria-labelledby={`${kind}-title`}>
+    <h2 id={`${kind}-title`}>{title}</h2>
+    {!entries.length && <div className="experience-empty-frame" aria-hidden="true"/>}
+    {entries.map(item => <article key={String(item.id)}>
+      {kind === 'completedProjects' ? <>
+        <h3>{item.title}</h3>
+        <dl>{[['Task', 'task'], ['Method', 'method'], ['Deliverable', 'output'], ['Time spent', 'duration'], ['Period', 'period']].map(([label, key]) =>
+          <div key={key}><dt>{label}</dt><dd>{item[key]}</dd></div>)}</dl>
+      </> : <>
+        <blockquote><p>{item.quote}</p></blockquote>
+        <p>{item.displayName} · {item.role}{kind === 'studentFeedback' && <> · {item.education}</>} · {item.period}</p>
+      </>}
+    </article>)}
+  </section>;
+}
