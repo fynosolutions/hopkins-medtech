@@ -9,5 +9,5 @@ export function jobPageTitle(job: typeof site.jobs[number]) {
 
 export function jobDescription(job: typeof site.jobs[number]) {
   const subject = jobPageTitle(job).toLowerCase();
-  return `Educational partner referral: ${subject} at HMC, a medical device and IVD CRO with a New York office. Confirm availability with your partner.`;
+  return `Educational partner referral: ${subject} at HMC, a medical device and IVD CRO with a New York office. Work arrangement: Remote / Onsite.`;
 }

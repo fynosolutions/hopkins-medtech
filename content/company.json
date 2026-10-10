@@ -1,7 +1,10 @@
 {
   "name": "Hopkins MedTech Compliance",
   "legalName": "Hopkins MedTech Group LLC",
-  "alternateName": ["Hopkins MedTech Compliance", "HMC"],
+  "alternateName": [
+    "Hopkins MedTech Compliance",
+    "HMC"
+  ],
   "phone": "+1 800 320 1438",
   "telephoneUri": "tel:+18003201438",
   "email": "HomerWu@HopkinsMedtech.com",
@@ -18,5 +21,12 @@
   "sources": [
     "https://github.com/fynosolutions/hopkins-medtech/issues/1",
     "http://www.hopkinsmedtech.com/contact.aspx"
+  ],
+  "founders": [
+    {
+      "name": "Jeff Wu",
+      "slug": "jeff-wu",
+      "linkedin": "https://www.linkedin.com/in/jeffwu774/"
+    }
   ]
 }

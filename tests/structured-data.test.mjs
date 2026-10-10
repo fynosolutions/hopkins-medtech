@@ -22,20 +22,20 @@ test('JSON-LD cannot close its HTML script element and round-trips the content',
   assert.deepEqual(JSON.parse(serialized), input);
 });
 
-test('unconfirmed and expired roles never advertise an active JobPosting', () => {
+test('approved roles omit unconfirmed status, dates and locations while preserving referral and work arrangement', () => {
   const jobs = JSON.parse(fs.readFileSync(new URL('../content/site.json', import.meta.url), 'utf8')).jobs;
   const publications = JSON.parse(fs.readFileSync(new URL('../content/job-publication.json', import.meta.url), 'utf8'));
   assert.deepEqual(Object.keys(publications), jobs.map(job => job.id));
-  for (const job of jobs) assert.equal(jobPostingSchema(job, publications[job.id], company, origin), null);
-  const publication = {confirmed: true, source: 'Confirmed test fixture', datePosted: '2026-01-01', locations: [{addressCountry: 'US', addressLocality: 'Boston'}]};
-  const today = new Date('2026-02-01');
-  const data = jobPostingSchema(jobs[0], publication, company, origin, today);
-  assert.equal(data.employmentType, 'INTERN');
-  assert.equal(data.identifier.value, jobs[0].id);
-  assert.match(data.description, /Educational partner referral/);
-  assert.equal(data.jobLocation[0].address.addressLocality, 'Boston');
-  for (const incomplete of [{...publication, source: null}, {...publication, datePosted: 'invalid'}, {...publication, locations: []}, {...publication, validThrough: '2026-01-15'}]) {
-    assert.equal(jobPostingSchema(jobs[0], incomplete, company, origin, today), null);
+  for (const job of jobs) {
+    const publication = publications[job.id];
+    const data = jobPostingSchema(job, publication, company, origin);
+    assert.equal(data.employmentType, 'INTERN');
+    assert.equal(data.identifier.value, job.id);
+    assert.match(data.description, /Educational partner referral/);
+    assert.match(data.description, /Work arrangement: Remote \/ Onsite/);
+    for (const field of ['datePosted', 'validThrough', 'jobLocation', 'jobLocationType', 'applicantLocationRequirements', 'baseSalary']) assert.equal(data[field], undefined);
+    for (const invalid of [{...publication, approvedForStructuredData:false}, {...publication, source:null}, {...publication, datePosted:'invalid'}, {...publication, datePosted:'2099-01-01'}, {...publication, validThrough:'2000-01-01'}]) assert.equal(jobPostingSchema(job, invalid, company, origin), null);
+    assert.equal(jobPostingSchema(job, undefined, company, origin), null);
   }
 });
 
@@ -74,16 +74,21 @@ test('service markup describes HMC services without assigning partner credential
 });
 
 test('team schema preserves confirmed roles and omits missing personal links and photos', () => {
-  const team = JSON.parse(fs.readFileSync(new URL('../content/site.json', import.meta.url), 'utf8')).team.filter(x => x.id !== 'TEAM-JEFF');
-  assert.equal(team.length, 5);
+  const team = JSON.parse(fs.readFileSync(new URL('../content/site.json', import.meta.url), 'utf8')).team;
+  assert.equal(team.length, 6);
   for (const person of team) {
     const data = personSchema(person, origin);
     assert.equal(data.jobTitle, person.role);
     assert.equal(data.worksFor['@id'], origin + '/#organization');
     assert.equal(data.image, undefined);
     assert.equal(data.founder, undefined);
-    assert.ok(!data.url.includes('jeff-wu'));
+
     if (person.linkedin) assert.deepEqual(data.sameAs, [person.linkedin]);
     else assert.equal(data.sameAs, undefined);
   }
+});
+
+test('Organization identifies Jeff as a confirmed founder without inventing other founders', () => {
+  const data = organizationSchema(company, origin);
+  assert.deepEqual(data.founder, [{'@type':'Person','@id':origin+'/about/team/jeff-wu#person',name:'Jeff Wu',sameAs:['https://www.linkedin.com/in/jeffwu774/']}]);
 });
