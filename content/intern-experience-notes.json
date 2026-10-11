@@ -1,0 +1,109 @@
+{
+  "_note": "Collected from interns by the program's senior manager and supplied by the company on 2026-10-11. Project practice materials are sample, simulated or public datasets as stated. Feedback is relayed and edited for length; names withheld. Verbatim, named quotes with recorded consent belong in approved-experiences.json instead.",
+  "items": {
+    "JD-HMT-A01": {
+      "title": "Clinical Trial Protocol Review & Screening Workflow",
+      "bullets": [
+        "Reviewed a sample oncology study protocol and summarized key inclusion/exclusion criteria, visit schedules, and primary endpoints.",
+        "Created a screening and enrollment tracker using Excel to document eligibility decisions, screening outcomes, and follow-up requirements.",
+        "Developed a one-page reference guide for common screening questions and protocol-related issues."
+      ],
+      "feedback": [
+        "I was honestly pretty nervous during the first week because I had never read a full clinical trial protocol before. There were so many details, and I wasn't sure what I was supposed to focus on.",
+        "I remember asking my mentor why one patient in our practice case couldn't qualify even though they met most of the requirements. We spent almost half an hour going through the eligibility criteria together. That was probably the first time the whole screening process started making sense.",
+        "By the end, I was much more comfortable reading protocols on my own, and I have a much clearer idea of what a Clinical Research Coordinator job actually involves."
+      ]
+    },
+    "JD-HMT-A02": {
+      "title": "Medical Device Regulatory Pathway Assessment",
+      "bullets": [
+        "Researched FDA 510(k) and De Novo pathways for a hypothetical Class II medical device.",
+        "Prepared a predicate device comparison matrix, examining intended use, technological characteristics, and potential substantial equivalence considerations.",
+        "Created a regulatory gap assessment checklist comparing selected FDA requirements with EU MDR technical documentation expectations."
+      ],
+      "feedback": [
+        "The most challenging assignment for me was the predicate device comparison. I spent an entire afternoon reading FDA summaries and still wasn't sure whether the devices were actually comparable.",
+        "My mentor suggested that I stop comparing every feature and start with intended use and technological characteristics. That made the research much more manageable.",
+        "Before this internship, I thought regulatory affairs was mostly paperwork. It involves a lot more judgment than I expected, and I'm now seriously considering it as a career path."
+      ]
+    },
+    "JD-HMT-A03": {
+      "title": "Clinical Data Quality & Baseline Characteristics Analysis",
+      "bullets": [
+        "Cleaned a simulated patient-level dataset using Python, identifying missing values, duplicate records, and inconsistent categorical variables.",
+        "Generated descriptive statistics and a baseline characteristics table, including age, BMI, and relevant clinical measurements.",
+        "Prepared a data quality summary documenting missingness patterns, potential outliers, and limitations of the analysis."
+      ],
+      "feedback": [
+        "I had taken statistics classes before, so I thought this project would be pretty straightforward. It definitely wasn't.",
+        "I initially wanted to fill in every missing value, but my mentor asked me to explain why I thought that was appropriate. We ended up leaving some values missing and documenting them instead. That discussion helped me understand the difference between cleaning data and changing data.",
+        "I recently had an interview for a healthcare data analyst internship, and they asked me about missing data. I was able to talk about this exact project instead of giving a generic answer."
+      ]
+    },
+    "JD-HMT-A04": {
+      "title": "Medical Device Complaint Analysis & CAPA Case Study",
+      "bullets": [
+        "Reviewed a simulated set of medical device complaints and categorized recurring failure patterns.",
+        "Applied a structured root cause analysis using a fishbone diagram and 5 Whys methodology.",
+        "Drafted a mock CAPA report outlining proposed corrective actions, responsible functions, and effectiveness verification criteria."
+      ],
+      "feedback": [
+        "I didn't know what CAPA meant when I started, and I remember having to Google it after our first meeting.",
+        "We had a case where the same device issue kept appearing, and my first suggestion was just to replace the component. My mentor asked how we could be sure that would prevent the issue from happening again. We went through the 5 Whys exercise, and I realized I had been jumping to solutions without understanding the cause.",
+        "I still have the fishbone diagram from that assignment. I can clearly explain how my thinking changed from the first draft to the final version."
+      ]
+    },
+    "JD-HMT-B01": {
+      "title": "Skin Image Classification & Model Performance Evaluation",
+      "bullets": [
+        "Evaluated a baseline CNN model using a publicly available dermatology image dataset.",
+        "Analyzed confusion matrices, class-level precision, recall, and F1-scores to identify common classification errors.",
+        "Investigated the impact of image resolution, lighting variation, and class imbalance on model performance, documenting limitations of the evaluation dataset."
+      ],
+      "feedback": [
+        "At first, I was mostly excited about improving accuracy. But after reviewing the confusion matrix, I noticed that the model performed much worse on one of the smaller classes.",
+        "My mentor suggested that I look at the actual images instead of just the metrics. Some were blurry, and others had very different lighting conditions. I hadn't really thought about how much the dataset itself could influence the results.",
+        "I still enjoy the coding side of computer vision, but this project made me more interested in model evaluation and reliability, especially for healthcare applications."
+      ]
+    },
+    "JD-HMT-B02": {
+      "title": "Healthcare Prediction Pipeline & Model Benchmarking",
+      "bullets": [
+        "Built a Python preprocessing pipeline using Pandas and Scikit-learn, including categorical encoding, missing-value handling, and feature scaling.",
+        "Compared Logistic Regression and Random Forest models using stratified cross-validation.",
+        "Evaluated ROC-AUC, precision, recall, and F1-score, and documented class imbalance and potential data leakage risks."
+      ],
+      "feedback": [
+        "I probably learned the most from something I did wrong.",
+        "I had finished my first model comparison and was happy with the results, but during our review, my mentor noticed that I had scaled the entire dataset before splitting it into training and testing sets. I had heard of data leakage in class, but I didn't realize I was doing it myself.",
+        "I had to rebuild the pipeline and rerun the evaluation. My scores changed, which was frustrating, but it was also a really useful lesson."
+      ]
+    },
+    "JD-HMT-B03": {
+      "title": "Patient Onboarding Experience & Mobile App Prototype",
+      "bullets": [
+        "Analyzed simulated patient feedback and developed user personas for a digital health appointment scheduling application.",
+        "Created user journey maps identifying friction points in account registration, appointment booking, and onboarding.",
+        "Designed a clickable Figma prototype and documented usability improvements based on structured walkthroughs and accessibility considerations."
+      ],
+      "feedback": [
+        "I came into this internship thinking I would mostly be designing screens in Figma, which I was excited about.",
+        "One of our assignments was to improve the appointment booking experience for older patients. I made a prototype that looked pretty clean, but my mentor asked me to explain how someone unfamiliar with smartphones would navigate it. I realized I had added too many steps just because I thought they made the design look more organized.",
+        "I ended up simplifying the flow and making the instructions much clearer. A design can look good and still be difficult to use."
+      ]
+    },
+    "JD-HMT-B04": {
+      "title": "Digital Health Competitive Analysis & Market Entry Assessment",
+      "bullets": [
+        "Researched digital health companies across patient engagement, remote monitoring, and healthcare software categories.",
+        "Built a competitor benchmarking matrix comparing target customers, pricing models, distribution channels, and product positioning.",
+        "Developed a preliminary market sizing and go-to-market assessment, including TAM/SAM/SOM assumptions and B2B versus B2C commercialization considerations."
+      ],
+      "feedback": [
+        "I remember putting several digital health companies in the same category because their products looked similar. During our meeting, my mentor pointed out that one company sold directly to patients while another sold to hospitals.",
+        "That led us into a discussion about procurement, sales cycles, and why the actual buyer isn't always the end user.",
+        "I ended up reorganizing my entire competitor analysis around customer segments rather than just features."
+      ]
+    }
+  }
+}
