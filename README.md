@@ -2,7 +2,7 @@
 
 英文网站，采用 HMC 原有青绿、深绿、蓝和黄绿色；参考 RQM+ 的大字号、分区、卡片、导航与 CTA 组织方式。Next.js App Router + TypeScript，内容存储在本地 JSON，适合后续迁移 CMS。
 
-网站：[hopkins-medtech.vercel.app](https://hopkins-medtech.vercel.app/)；公开代码仓库：[fynosolutions/hopkins-medtech](https://github.com/fynosolutions/hopkins-medtech)。
+网站：[hopkinsmedtechcompliance.com](https://hopkinsmedtechcompliance.com/)（Vercel 团队 `fynosolutions`，项目 `hopkins-medtech`，main 分支自动部署；早期预览 hopkins-medtech.vercel.app 在 `wei34` 账号下，保留作回退）；公开代码仓库：[fynosolutions/hopkins-medtech](https://github.com/fynosolutions/hopkins-medtech)。
 
 仓库包含应用代码、网站内容和图片、下载文件、测试及验收资料。原始工作文档、`source-archive/`、本地环境变量、账号配置、依赖和构建缓存不进入版本控制。网站运行、构建和单元测试不依赖这些本地资料；历史采集与内容生成脚本需要原始资料，不能在全新克隆中直接重跑。
 
