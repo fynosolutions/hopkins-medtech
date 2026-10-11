@@ -5,6 +5,7 @@ type Reply={ok:boolean,message?:string,requestId?:string};
 async function submit(kind:string,body:Record<string,FormDataEntryValue>){const r=await fetch('/api/'+kind,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(body),signal:AbortSignal.timeout(12000)});return await r.json() as Reply;}
 export function Newsletter({available=false}:{available?:boolean}){
  const [state,setState]=useState('');const [loading,setLoading]=useState(false);
+ if(!available)return null;
  return <form className="newsletter" onSubmit={async e=>{
  e.preventDefault();if(loading)return;const form=e.currentTarget;setLoading(true);setState('');
  try{const r=await submit('newsletter',Object.fromEntries(new FormData(form)));setState(r.ok?'Your subscription was received. Reference: '+r.requestId:r.message||'Unable to subscribe. Please try again.');if(r.ok)form.reset()}catch{setState('We could not reach the subscription service. Please try again later.')}finally{setLoading(false)}
