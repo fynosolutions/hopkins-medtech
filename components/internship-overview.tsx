@@ -1,7 +1,7 @@
 export function InternshipOverview() {
   return <section className="container internship-overview" aria-labelledby="internship-overview-title">
     <h2 id="internship-overview-title">Internship program at a glance</h2>
-    <p>Placements are arranged through educational partner referrals. Work arrangement: Remote / Onsite.</p>
+    <p>Work arrangement: Remote / Onsite.</p>
     <table className="fact-table">
       <caption>Supervision, agreement and completion arrangements</caption>
       <thead><tr><th scope="col">Program detail</th><th scope="col">Arrangement</th></tr></thead>

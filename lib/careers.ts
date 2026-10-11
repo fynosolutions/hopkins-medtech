@@ -9,7 +9,7 @@ export function jobPageTitle(job: typeof site.jobs[number]) {
 
 export function jobDescription(job: typeof site.jobs[number]) {
   const subject = jobPageTitle(job).toLowerCase();
-  return `${subject.charAt(0).toUpperCase()+subject.slice(1)} at Hopkins MedTech Compliance (HMC), a medical device and IVD CRO. Remote / Onsite; candidates are referred through education partners.`;
+  return `${subject.charAt(0).toUpperCase()+subject.slice(1)} at Hopkins MedTech Compliance (HMC), a medical device and IVD CRO. Remote / Onsite.`;
 }
 
 export function fullTimeDescription(role: {title: string; excerpt: string}) {
