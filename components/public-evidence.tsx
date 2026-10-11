@@ -31,14 +31,6 @@ export function PublicEvidence() {
         <time dateTime={record.date}>{record.date}</time><div><h3>{record.title}</h3><p>{record.description}</p>
           <a href={record.sourceUrl} target="_blank" rel="noopener noreferrer">Read the original FDA transcript (PDF)</a></div>
       </li>)}</ul>
-      <h3 className="evidence-subheading">Historical articles from EMMA International</h3>
-      <p>These third-party articles were reproduced on the former HMC website. They are historical reading material, not an endorsement of HMC or current regulatory guidance. The publisher's live pages may have been updated.</p>
-      <ul className="evidence-list">{evidence.historicalArticles.map(record => {
-        const article = site.historical.find(item => item.slug === record.slug)!;
-        return <li key={record.slug}><time dateTime={article.originalPublicationDate}>{article.originalPublicationDate}</time>
-          <div><h4><a href={record.sourceUrl} target="_blank" rel="noopener noreferrer">{article.title}</a></h4>
-            <Link href={'/resources/' + record.slug}>Read the preserved historical article</Link></div></li>;
-      })}</ul>
     </section>
   </div>;
 }

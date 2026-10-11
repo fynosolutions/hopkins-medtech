@@ -29,7 +29,7 @@ const pageInfo:Record<string,[string,string]>={
  '/about':['Our Company','Clinical research and regulatory support, grounded in your product and your goals.'],
  '/about/team':['Our Team','Explore the people behind our scientific, clinical, regulatory and commercial work.'],
  '/services':['Our Services','FDA consulting, clinical trials, IVD compliance, market entry and laboratory support.'],
- '/industries':['Industries','Specialist support for medical devices, IVDs, gene and cell therapies, biopharma and pharmaceuticals.'],
+ '/industries':['Industries','Specialist support for medical devices and in vitro diagnostics.'],
  '/careers':[careersTitle,careersDescription],
  '/resources':['Resources','Research, evidence and perspectives for the medical technology community.'],
  '/contact':['Contact Us','Discuss your project with Hopkins MedTech Compliance.'],

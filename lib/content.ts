@@ -4,8 +4,10 @@ import source from '@/content/site.json';
 import research from '@/content/research.json';
 import insights from '@/content/insights.json';
 import {allPeople} from './team';
-export const site = {...source, services: source.services.map(item => ({...item, excerpt: serviceSummaries[item.slug as keyof typeof serviceSummaries].intro}))};
-export const resources = [...insights.filter(x=>x.type==='Company Insights'), ...research, ...insights.filter(x=>x.type==='Science'), ...source.historical];
+// Copy and articles the former website took from another consultancy stay in the archive only.
+const thirdPartyCopy = (text?: string | null) => !!text && text.includes('EMMA International');
+export const site = {...source, industries: source.industries.filter(item => !thirdPartyCopy(item.html)), services: source.services.map(item => ({...item, reviewNote: thirdPartyCopy(item.reviewNote) ? '' : item.reviewNote, excerpt: serviceSummaries[item.slug as keyof typeof serviceSummaries].intro}))};
+export const resources = [...insights.filter(x=>x.type==='Company Insights'), ...research, ...insights.filter(x=>x.type==='Science')];
 export {default as company} from '@/content/company.json';
 export const coreServices = [
  {name:'FDA Regulatory Consulting',label:'FDA submission services',description:'Regulatory strategy and submission support, from 510(k) and De Novo to PMA and EUA.',href:'/services/fda-regulatory-consulting',icon:'shield'},
