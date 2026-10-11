@@ -22,6 +22,9 @@ This block is written and re-added by `next dev` — verify at `node_modules/nex
 - 靠内容本身做到专业，不靠声明：不写「我们不卖实习」「本站不是培训项目」这类辩解句；用真实的公司内容（业务、团队、公开记录、全职岗位）把比重拉回来。
 - 首页、About、Services、Industries、Resources、Contact、页脚、站点标题和描述里，实习只在 Careers 提到。
 - **申请方式只写「投简历」（毛 2026-10-11 定，取代此前「只在三处写」）**：全站任何地方（页面、岗位说明、岗位 PDF、FAQ、结构化数据、llms.txt、页面描述）都不出现 education partner、referral、中介、DBC、转介绍一类说法。公司就是一家正常招聘的公司；学生从哪里来是业务层面的事，不写在网站上。
+- **标题和文案里不写数量（毛 2026-10-11）**：岗位、实习方向、服务、行业的条目会增减，不写「Four full-time roles」「Eight internship descriptions」「five areas」这类数字；用「Full-time open positions」「Internship positions」这种不带数的说法。只有由数据自动算出来的筛选计数可以显示数字。
+- **没有真实照片的人不放任何头像**（毛 2026-10-11）：不放姓名缩写方块；现在只有 Homer Wu 有照片。
+- Careers 菜单鼠标移上去显示两项：Full-time - US、Internship Program - US，分别跳到招聘页的两段。
 - Careers 的顺序固定为：公司与业务 → 全职岗位 → 实习项目。新增内容先想「一家正常的 CRO 官网会不会这样写」。
 - 不留半成品痕迹：没接通的表单、订阅框、死链接、「即将上线」提示不上线。
 

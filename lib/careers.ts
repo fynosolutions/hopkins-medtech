@@ -1,7 +1,7 @@
 import {site} from './content';
 
 export const careersTitle = 'Careers in Medical Device, IVD and Digital Health';
-export const careersDescription = 'Careers at Hopkins MedTech Compliance (HMC), a medical device and IVD CRO: full-time roles in regulatory affairs, quality systems, data engineering and AI, and clinical project management, and eight internship descriptions.';
+export const careersDescription = 'Careers at Hopkins MedTech Compliance (HMC), a medical device and IVD CRO: full-time roles in regulatory affairs, quality systems, data engineering and AI, and clinical project management, and an internship program.';
 
 export function jobPageTitle(job: typeof site.jobs[number]) {
   return job.title.split(',')[0].replace(/ Intern$/, ' Internship');
