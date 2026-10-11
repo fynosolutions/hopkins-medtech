@@ -43,3 +43,4 @@ This block is written and re-added by `next dev` — verify at `node_modules/nex
 - 2026-10-10 用户转达毛确认：8 个岗位输出 JobPosting，工作方式写 Remote / Onsite；不写是否仍接受申请或首次发布日期，不推断具体地址、远程国家范围或全远程。Schema 校验通过不等于满足 Google 招聘富媒体结果的必填项，验收报告必须说明区别。
 - 2026-10-11 毛确认：公司在招 4 个全职岗位（Director, Regulatory Affairs；Quality Systems Manager；Senior Manager, Data Engineering and AI；Clinical Project Manager），内容在 `content/full-time-roles.json`，Careers 页全职在前、实习在后；不写薪酬、地点和工作方式（未确认），未输出 JobPosting 结构化数据。About 页同时展示公司和团队；团队页只有 Homer Wu 用头像（取自他本人 LinkedIn 公开头像），Jeff Wu 与 Homer Wu 放大成一行，其余成员只列姓名和职位。
 - 2026-10-11 毛定：全站联系邮箱统一为 info@hopkinsmedtech.com（包括原网站档案页），不再出现个人邮箱 HomerWu@。只改 `content/company.json` 即可带动页面主要位置。
+- 2026-10-11 毛定：团队排序 Homer Wu 第一、Jeff Wu 第二（首页、About、团队页、结构化数据）；排序在 `lib/team.ts`，`content/site.json` 里的原始顺序不动。
