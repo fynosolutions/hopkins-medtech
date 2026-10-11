@@ -33,7 +33,7 @@ const pageInfo:Record<string,[string,string]>={
  '/careers':[careersTitle,careersDescription],
  '/resources':['Resources','Research, evidence and perspectives for the medical technology community.'],
  '/contact':['Contact Us','Discuss your project with Hopkins MedTech Compliance.'],
- '/privacy':['Privacy Information','Privacy information for the Hopkins MedTech website preview.']
+ '/privacy':['Privacy Information','Privacy information for the Hopkins MedTech Compliance website.']
 };
 export const dynamicParams=false;
 export function generateStaticParams(){return allRoutes().filter(x=>x!=='/'&&x!=='/search'&&!x.startsWith('/archive')&&!x.startsWith('/services/disciplines/')&&x!=='/services/projects').map(x=>({slug:x.slice(1).split('/')}))}
