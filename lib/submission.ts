@@ -20,7 +20,7 @@ export async function handleSubmission(request:Request,kind:'contact'|'newslette
  const checked=validateSubmission(kind,data);
  if(!checked.ok)return fail(400,'VALIDATION_ERROR','Please check the form fields.',{fieldErrors:checked.fieldErrors});
  const endpoint=kind==='contact'?process.env.CONTACT_WEBHOOK_URL:process.env.NEWSLETTER_WEBHOOK_URL;
- if(!endpoint)return fail(503,'NOT_CONFIGURED',kind==='contact'?'Online inquiries are not connected yet. Please email HomerWu@HopkinsMedtech.com or call +1 800 320 1438. Your message has not been sent.':'Email subscriptions are not connected yet. Your email has not been added to a mailing list.');
+ if(!endpoint)return fail(503,'NOT_CONFIGURED',kind==='contact'?'Online inquiries are not connected yet. Please email info@hopkinsmedtech.com or call +1 800 320 1438. Your message has not been sent.':'Email subscriptions are not connected yet. Your email has not been added to a mailing list.');
  try{
   const url=new URL(endpoint);if(url.protocol!=='https:')return fail(503,'TRANSPORT_UNAVAILABLE','The submission service is unavailable.');
   const upstream=await fetch(url,{method:'POST',headers:{'Content-Type':'application/json',...(process.env.FORM_WEBHOOK_SECRET?{'Authorization':'Bearer '+process.env.FORM_WEBHOOK_SECRET}:{})},body:JSON.stringify({kind,...checked.data}),signal:AbortSignal.timeout(8000),redirect:'error'});
