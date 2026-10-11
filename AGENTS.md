@@ -20,8 +20,8 @@ This block is written and re-added by `next dev` — verify at `node_modules/nex
 
 - 这是 HMC 的公司官网：服务、行业、团队、资料、全职岗位、实习，都是公司信息的一部分。实习只是 Careers 里的一个部分，不能成为全站的主角。
 - 靠内容本身做到专业，不靠声明：不写「我们不卖实习」「本站不是培训项目」这类辩解句；用真实的公司内容（业务、团队、公开记录、全职岗位）把比重拉回来。
-- 首页、About、Services、Industries、Resources、Contact、页脚、站点标题和描述里，不出现「教育合作方转介」一类说法，实习只在 Careers 提到。
-- 实习的申请方式（教育合作方转介）只在三处写：Careers 的申请说明、常见问题「怎么申请」、岗位页的「Application channel」一行；其他地方不重复（毛 2026-10-11「按推荐走」）。
+- 首页、About、Services、Industries、Resources、Contact、页脚、站点标题和描述里，实习只在 Careers 提到。
+- **申请方式只写「投简历」（毛 2026-10-11 定，取代此前「只在三处写」）**：全站任何地方（页面、岗位说明、岗位 PDF、FAQ、结构化数据、llms.txt、页面描述）都不出现 education partner、referral、中介、DBC、转介绍一类说法。公司就是一家正常招聘的公司；学生从哪里来是业务层面的事，不写在网站上。
 - Careers 的顺序固定为：公司与业务 → 全职岗位 → 实习项目。新增内容先想「一家正常的 CRO 官网会不会这样写」。
 - 不留半成品痕迹：没接通的表单、订阅框、死链接、「即将上线」提示不上线。
 

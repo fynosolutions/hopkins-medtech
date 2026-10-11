@@ -17,7 +17,7 @@ test('all 138 discovered source addresses map precisely, including query variant
 });
 test('eight educational roles retain all 15 sections and original downloads',()=>{
  assert.equal(site.jobs.length,8);assert.equal(new Set(site.jobs.map(x=>x.id)).size,8);
- for(const j of site.jobs){assert.equal(j.pages,2);assert.equal(j.sections.length,15,j.id);assert.ok(fs.existsSync(new URL('../public'+j.pdf,import.meta.url)));const txt=j.sections.map(s=>s.paragraphs.join(' ')).join(' ');assert.match(txt,/education partners/);assert.match(txt,/not a cleared, approved, or clinically/);assert.match(txt,/equal internship and employment opportunities/);assert.ok(!txt.includes('�'),j.id);}
+ for(const j of site.jobs){assert.equal(j.pages,2);assert.equal(j.sections.length,15,j.id);assert.ok(fs.existsSync(new URL('../public'+j.pdf,import.meta.url)));const txt=j.sections.map(s=>s.paragraphs.join(' ')).join(' ');assert.doesNotMatch(txt,/education(al)? partner|\breferr/i);assert.match(txt,/An application is a CV plus a short note/);assert.match(txt,/not a cleared, approved, or clinically/);assert.match(txt,/equal internship and employment opportunities/);assert.ok(!txt.includes('�'),j.id);}
 });
 test('research is source-backed, unique, and separate from historical articles',()=>{
  assert.ok(research.length>=27);assert.equal(new Set(research.map(x=>x.doi.toLowerCase())).size,research.length);
