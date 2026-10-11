@@ -27,5 +27,5 @@ This block is written and re-added by `next dev` — verify at `node_modules/nex
 - 不要打开 `SITE_INDEXABLE`，不要改动 `hopkinsmedtech.com` 的 DNS 或域名配置，等待毛明确决定。
 - 不要写“与约翰霍普金斯大学无关／有关”等声明；肯定或否定关联的声明都要等待毛确认事实。
 - 不要写公司登记号，目前尚未确认。
-- 2026-10-10 用户转达毛确认：Jeff Wu 是联合创始人，本人 LinkedIn 为 https://www.linkedin.com/in/jeffwu774/。可恢复团队页、团队展示、站内搜索和 sitemap；只写已确认的 Co-founder 与链接，不补履历、其他职务或照片。
+- 2026-10-10 用户转达毛确认：Jeff Wu 是联合创始人，本人 LinkedIn 为 https://www.linkedin.com/in/jeffwu774/。可恢复团队页、团队展示、站内搜索和 sitemap；2026-10-10 晚毛要求把他 LinkedIn 上的履历（NeoVentech、Johnson & Johnson、Arkema、学历，来自毛 10-04 提供的个人主页截图）写进他的个人页，取代此前「不补履历」；仍不写照片、专利、观点或引语，也不写 NeoVentech 与 Hopkins 的关系。
 - 2026-10-10 用户转达毛确认：8 个岗位输出 JobPosting，工作方式写 Remote / Onsite；不写是否仍接受申请或首次发布日期，不推断具体地址、远程国家范围或全远程。Schema 校验通过不等于满足 Google 招聘富媒体结果的必填项，验收报告必须说明区别。
