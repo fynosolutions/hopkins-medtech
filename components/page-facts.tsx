@@ -21,7 +21,7 @@ export function ServiceFacts({slug}: {slug: string}) {
 export function JobFacts({job}: {job: typeof site.jobs[number]}) {
   return <Facts title="Position at a glance" rows={[
     ['Position identifier', job.id], ['Position', job.title], ['Track', job.track],
-    ['Agreement entity', company.legalName], ['Application channel', 'Educational partner referral'],
+    ['Agreement entity', company.legalName], ['How to apply', 'CV and a short note by email'],
     ['Supervision', 'Named project lead, a set weekly meeting cadence and written feedback on deliverables.'],
     ['Work arrangement', publications[job.id as keyof typeof publications].workArrangement],
   ]}/>;

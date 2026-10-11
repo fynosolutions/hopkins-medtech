@@ -22,7 +22,7 @@ test('JSON-LD cannot close its HTML script element and round-trips the content',
   assert.deepEqual(JSON.parse(serialized), input);
 });
 
-test('approved roles omit unconfirmed status, dates and locations while preserving referral and work arrangement', () => {
+test('approved roles omit unconfirmed status, dates and locations while preserving the application route and work arrangement', () => {
   const jobs = JSON.parse(fs.readFileSync(new URL('../content/site.json', import.meta.url), 'utf8')).jobs;
   const publications = JSON.parse(fs.readFileSync(new URL('../content/job-publication.json', import.meta.url), 'utf8'));
   assert.deepEqual(Object.keys(publications), jobs.map(job => job.id));
@@ -31,7 +31,7 @@ test('approved roles omit unconfirmed status, dates and locations while preservi
     const data = jobPostingSchema(job, publication, company, origin);
     assert.equal(data.employmentType, 'INTERN');
     assert.equal(data.identifier.value, job.id);
-    assert.match(data.description, /Educational partner referral/);
+    assert.match(data.description, /apply with a CV and a short note/);assert.doesNotMatch(data.description, /education(al)? partner|\breferr/i);
     assert.match(data.description, /Work arrangement: Remote \/ Onsite/);
     for (const field of ['datePosted', 'validThrough', 'jobLocation', 'jobLocationType', 'applicantLocationRequirements', 'baseSalary']) assert.equal(data[field], undefined);
     for (const invalid of [{...publication, approvedForStructuredData:false}, {...publication, source:null}, {...publication, datePosted:'invalid'}, {...publication, datePosted:'2099-01-01'}, {...publication, validThrough:'2000-01-01'}]) assert.equal(jobPostingSchema(job, invalid, company, origin), null);

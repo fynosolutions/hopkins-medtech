@@ -1,8 +1,8 @@
 [
   {
-    "id": "referral",
+    "id": "application",
     "question": "How do I apply for an internship?",
-    "answer": "Start with your education partner. The referral process uses a CV and a short note, followed by a conversation with the project lead.",
+    "answer": "Send a CV and a short note naming the track and the project you would like to work on. A conversation with the project lead follows.",
     "source": "/careers#application-information"
   },
   {
