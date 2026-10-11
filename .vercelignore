@@ -1,6 +1,6 @@
 source-archive/
 1008 - HMC 8 Positions/
-*.txt
+/*.txt
 scripts/
 tests/
 qa/
