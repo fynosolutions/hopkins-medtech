@@ -1,4 +1,5 @@
 import records from '@/content/approved-experiences.json';
+import relayed from '@/content/intern-experience-notes.json';
 import {site} from '@/lib/content';
 import {publishableExperiences} from '@/lib/approved-experiences.mjs';
 
@@ -7,10 +8,16 @@ export function ApprovedExperiences({kind, jobId}: {kind: keyof typeof records; 
   const allowed = site.jobs.map(job => job.id);
   const entries = (publishableExperiences(records[kind], kind, allowed) as Experience[])
     .filter(item => !jobId || item.jobId === jobId);
+  const note = jobId ? (relayed.items as Record<string, {title: string; bullets: string[]; feedback: string[]}>)[jobId] : undefined;
+  const jobTitle = site.jobs.find(job => job.id === jobId)?.title.split(',')[0];
+  if (!entries.length && !note) return null;
   const title = {studentFeedback: 'Intern feedback', completedProjects: 'Completed intern projects'}[kind];
   return <section id={kind} className="approved-experiences" aria-labelledby={`${kind}-title`}>
     <h2 id={`${kind}-title`}>{title}</h2>
-    {!entries.length && <div className="experience-empty-frame" aria-hidden="true"/>}
+    {!entries.length && note && (kind === 'completedProjects'
+      ? <article><h3>{note.title}</h3><ul>{note.bullets.map(item => <li key={item}>{item}</li>)}</ul></article>
+      : <article><blockquote>{note.feedback.map(item => <p key={item}>{item}</p>)}</blockquote>
+          <p className="experience-source">{jobTitle} · feedback collected by the program team and edited for length · name withheld</p></article>)}
     {entries.map(item => <article key={String(item.id)}>
       {kind === 'completedProjects' ? <>
         <h3>{item.title}</h3>
