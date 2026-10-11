@@ -3,7 +3,10 @@ import source from '@/content/site.json';
 const portraits:Record<string,{src:string,width:number,height:number}>={
  'homer-wu':{src:'/media/team/homer-wu-linkedin.jpg',width:640,height:640},
 };
-export const team=source.team.map(person=>({
+// Display order: Homer Wu (founder and CEO) first, then Jeff Wu, then the source order.
+const first=['homer-wu','jeff-wu'];
+const rank=(slug:string)=>{const i=first.indexOf(slug);return i<0?first.length:i};
+export const team=[...source.team].sort((a,b)=>rank(a.slug)-rank(b.slug)).map(person=>({
  ...person,
  excerpt:person.excerpt.length>=180?person.excerpt.replace(/\s+\S*$/,'')+'…':person.excerpt,
  image:(portraits[person.slug]?.src??null) as string|null,
