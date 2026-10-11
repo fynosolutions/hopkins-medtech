@@ -12,6 +12,7 @@ export function Newsletter({available=false}:{available?:boolean}){
 }
 export function ContactForm({available=false}:{available?:boolean}){
  const [loading,setLoading]=useState(false);const [state,setState]=useState('');const [ok,setOk]=useState(false);
+ if(!available)return <div className="contact-form"><div className="form-intro"><h2>Tell us about your project.</h2><p>Email <a href="mailto:HomerWu@HopkinsMedtech.com">HomerWu@HopkinsMedtech.com</a> or call <a href="tel:+18003201438">(800) 320-1438</a>.</p></div></div>;
  return <form className="contact-form" onSubmit={async e=>{
  e.preventDefault();if(loading)return;const form=e.currentTarget;const d=Object.fromEntries(new FormData(form));if(String(d.theme||'').trim())d.subject=String(d.theme).trim();delete d.theme;if(!String(d.email).trim()&&!String(d.phone).trim()){setState('Please provide an email address or phone number so we can respond.');setOk(false);return}setLoading(true);setState('');
  try{const r=await submit('contact',d);setOk(r.ok);setState(r.ok?'Your inquiry has been received. Reference: '+r.requestId:r.message||'Your inquiry could not be delivered.');if(r.ok)form.reset()}catch{setOk(false);setState('Your inquiry was not confirmed. Please try again or contact us by email. Your message has been kept below.')}finally{setLoading(false)}
