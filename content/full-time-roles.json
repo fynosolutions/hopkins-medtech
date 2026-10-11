@@ -1,0 +1,142 @@
+[
+  {
+    "id": "HMC-FT-01",
+    "slug": "director-regulatory-affairs",
+    "title": "Director, Regulatory Affairs, IVD and Medical Devices",
+    "function": "Regulatory Affairs",
+    "level": "Director",
+    "excerpt": "Lead regulatory strategy and submissions for in vitro diagnostic and medical device clients, across FDA and European pathways.",
+    "summary": [
+      "The Director of Regulatory Affairs sets the regulatory strategy for the in vitro diagnostic (IVD) and medical device programs HMC supports, and is accountable for the quality of every submission that leaves the company. The work runs from the first classification question to the response to the last agency request.",
+      "This is a hands-on leadership role in a contract research organization. You will advise clients directly, review and sign off on submission content, and build the team and working methods behind it."
+    ],
+    "responsibilities": [
+      "Define regulatory pathways for client products, including 510(k), De Novo, PMA and Emergency Use Authorization in the United States and IVDR and MDR conformity routes in the European Union.",
+      "Lead the planning and writing of FDA Pre-Submissions, and represent clients in meetings and written exchanges with the agency.",
+      "Own the content, structure and final review of submissions, including device descriptions, substantial equivalence arguments, analytical and clinical performance summaries, and labeling.",
+      "Work with Clinical Operations and Biostatistics so that study designs, endpoints and sample sizes produce the evidence the chosen pathway requires.",
+      "Lead responses to additional information requests and deficiency letters, and keep each response traceable to source data.",
+      "Track changes in FDA guidance, the Quality Management System Regulation, IVDR transition timelines and recognized consensus standards, and turn them into clear advice for clients.",
+      "Advise companies entering the United States or Europe for the first time on establishment registration, device listing, labeling and post-market obligations.",
+      "Hire, develop and review the work of regulatory staff, and set the templates, review steps and quality checks the team works to."
+    ],
+    "qualifications": [
+      "Bachelor's degree in a life science, engineering or a related field; an advanced degree is an advantage.",
+      "At least 10 years of regulatory affairs experience in medical devices or in vitro diagnostics, including at least 4 years leading people or programs.",
+      "A record of FDA submissions you led from strategy through clearance, authorization or approval, with direct agency interaction.",
+      "Working knowledge of 21 CFR Parts 807, 809, 812 and 820, ISO 13485 and ISO 14971, and of the European IVDR and MDR.",
+      "Clear, exact writing, and the judgment to tell a client what the evidence does and does not support."
+    ],
+    "preferred": [
+      "Experience with molecular diagnostics, point-of-care tests, companion diagnostics or software as a medical device.",
+      "Experience in a CRO or consulting setting with several client programs running at once.",
+      "Regulatory Affairs Certification (RAC).",
+      "Experience supporting companies based in China or elsewhere in Asia with US or EU market entry; Mandarin is an advantage."
+    ]
+  },
+  {
+    "id": "HMC-FT-02",
+    "slug": "quality-systems-manager",
+    "title": "Quality Systems Manager, Medical Device and IVD",
+    "function": "Quality and Compliance",
+    "level": "Manager",
+    "excerpt": "Own HMC's quality management system and lead quality system projects for medical device and IVD clients.",
+    "summary": [
+      "The Quality Systems Manager owns the quality management system that HMC's clinical and regulatory work runs on, and leads quality system projects for medical device and in vitro diagnostic (IVD) clients. The role keeps procedures, records and training in a state that stands up to a sponsor audit or a regulatory inspection.",
+      "You will work across clinical operations, regulatory affairs and data teams, and directly with client quality leaders who are building or remediating their own systems."
+    ],
+    "responsibilities": [
+      "Maintain and improve HMC's quality management system: document control, training, deviation handling, corrective and preventive action (CAPA), change control, supplier qualification and management review.",
+      "Lead client projects to build or remediate quality systems against ISO 13485:2016 and the FDA Quality Management System Regulation (21 CFR Part 820).",
+      "Plan and run internal audits, host sponsor and client audits, and support clients preparing for FDA inspections and notified body audits.",
+      "Own the electronic quality management system and other regulated systems, including computer system validation and 21 CFR Part 11 controls for electronic records and signatures.",
+      "Qualify and monitor vendors and laboratory partners used in client studies.",
+      "Apply risk management under ISO 14971 to procedures, studies and client quality system work.",
+      "Review study and submission records for compliance with Good Clinical Practice and Good Documentation Practice before release.",
+      "Report quality metrics and trends to leadership, and follow corrective actions through to verified closure."
+    ],
+    "qualifications": [
+      "Bachelor's degree in a life science, engineering or a related field.",
+      "At least 6 years of quality assurance or quality systems experience in medical devices, in vitro diagnostics or a CRO, including ownership of core quality system processes.",
+      "Working knowledge of ISO 13485, 21 CFR Part 820, 21 CFR Part 11 and ICH E6 Good Clinical Practice.",
+      "Experience leading audits and managing CAPA from investigation to effectiveness check.",
+      "The ability to write procedures that people can follow, and to explain a finding without overstating it."
+    ],
+    "preferred": [
+      "ISO 13485 lead auditor qualification or ASQ certification (CQA or CQE).",
+      "Experience implementing or administering an electronic quality management system.",
+      "Experience with IVDR or MDR quality system requirements and the Medical Device Single Audit Program (MDSAP).",
+      "Experience supporting clients through an FDA inspection."
+    ]
+  },
+  {
+    "id": "HMC-FT-03",
+    "slug": "senior-manager-data-engineering-ai",
+    "title": "Senior Manager, Data Engineering and AI, Clinical and Diagnostic Data",
+    "function": "Clinical Data and AI",
+    "level": "Senior Manager",
+    "excerpt": "Lead the data engineering behind HMC's clinical performance studies and its AI and digital health research.",
+    "summary": [
+      "The Senior Manager of Data Engineering and AI builds and runs the data foundation for HMC's clinical performance studies and for its early-stage research in AI and digital health. Study data has to be complete, traceable and reproducible before a biostatistician or a regulator sees it; this role is accountable for that.",
+      "You will lead a small engineering team, set the technical direction, and stay close enough to the work to review a pipeline or a model evaluation yourself."
+    ],
+    "responsibilities": [
+      "Design and operate pipelines that bring study data from electronic data capture systems, laboratory instruments and site records into a controlled, analysis-ready environment.",
+      "Set the data model and standards for diagnostic studies, including CDISC conventions where a submission calls for them, with documented lineage from source record to reported result.",
+      "Build automated data quality checks, reconciliation and query reports that clinical data managers and biostatisticians rely on.",
+      "Keep data systems in a validated state: access control, audit trails, change control and 21 CFR Part 11 compliance, in partnership with Quality.",
+      "Lead the engineering side of AI and digital health research, including dataset curation, labeling protocols, de-identification, model training infrastructure and versioned evaluation.",
+      "Apply good machine learning practice to model work: locked test sets, subgroup performance analysis, bias assessment and documentation that a regulatory reviewer can follow.",
+      "Protect patient-related data under HIPAA and client agreements, and set the rules for which data and AI tools may be used for which task.",
+      "Hire and develop data engineers, and plan the team's roadmap with Clinical Operations, Biostatistics and Regulatory Affairs."
+    ],
+    "qualifications": [
+      "Bachelor's degree in computer science, engineering, statistics or a related field; a master's degree is an advantage.",
+      "At least 8 years of data engineering experience, including at least 3 years in clinical research, diagnostics, medical devices or another regulated health setting, and at least 2 years leading engineers.",
+      "Strong SQL and Python, and hands-on experience building data pipelines and warehouses on a major cloud platform.",
+      "Working knowledge of clinical data flows, electronic data capture, and the validation and audit-trail requirements of regulated systems.",
+      "Experience supporting machine learning work with reproducible datasets, experiment tracking and controlled evaluation."
+    ],
+    "preferred": [
+      "Experience with medical imaging or image-based machine learning data.",
+      "Familiarity with FDA guidance on software as a medical device and AI-enabled device software functions, and with IEC 62304.",
+      "Experience with CDISC SDTM and ADaM datasets for regulatory submissions.",
+      "Experience with diagnostic accuracy studies and measures such as sensitivity, specificity and agreement."
+    ]
+  },
+  {
+    "id": "HMC-FT-04",
+    "slug": "clinical-project-manager",
+    "title": "Clinical Project Manager, IVD and Medical Device Studies",
+    "function": "Clinical Operations",
+    "level": "Project Manager",
+    "excerpt": "Run clinical performance studies for IVD and medical device sponsors from start-up to close-out.",
+    "summary": [
+      "The Clinical Project Manager runs clinical performance studies for in vitro diagnostic (IVD) and medical device sponsors, from start-up through close-out. You are the sponsor's main contact and the person accountable for the study's timeline, scope and inspection readiness.",
+      "Studies at a CRO move quickly and involve several sites, a laboratory and a data team at once. The role suits someone who plans in detail and raises problems early."
+    ],
+    "responsibilities": [
+      "Lead cross-functional study teams covering clinical operations, data management, biostatistics, regulatory affairs and laboratory partners.",
+      "Build and maintain the project plan, timeline, risk register and communication plan, and report status to sponsors on an agreed schedule.",
+      "Manage study start-up: site feasibility and selection, institutional review board submissions, site contracts, and site initiation and training.",
+      "Oversee enrollment, specimen collection and shipment, monitoring visits, protocol deviations and query resolution.",
+      "Keep the trial master file complete and inspection-ready throughout the study.",
+      "Track scope and change orders, and manage vendors against agreed deliverables.",
+      "Coordinate database lock, the clinical study report and the handover of study evidence to the regulatory submission team.",
+      "Mentor clinical research associates and coordinators assigned to the study."
+    ],
+    "qualifications": [
+      "Bachelor's degree in a life science, nursing, public health or a related field.",
+      "At least 5 years of clinical research experience, including at least 2 years managing studies for medical devices or in vitro diagnostics.",
+      "Working knowledge of ICH E6 Good Clinical Practice, ISO 14155 or ISO 20916, and 21 CFR Parts 50, 56 and 812.",
+      "Experience managing sponsors, sites and vendors directly, and keeping a multi-site study on schedule.",
+      "Clear written and spoken communication, and disciplined documentation."
+    ],
+    "preferred": [
+      "Experience with IVD clinical performance studies for 510(k), De Novo or Emergency Use Authorization submissions.",
+      "Experience with point-of-care or CLIA-waiver studies, or with specimen and biobank logistics.",
+      "PMP, CCRP or CCRA certification.",
+      "Experience in a CRO."
+    ]
+  }
+]

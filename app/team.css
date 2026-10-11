@@ -2,3 +2,21 @@
 .team-card-portrait.has-team-photo>img{width:100%;height:100%;object-fit:contain;position:relative;z-index:1}
 .team-avatar{overflow:hidden;flex-shrink:0}
 .team-avatar>img{width:100%;height:100%;object-fit:cover}
+
+.team-card-portrait.has-team-photo>img{object-fit:cover}
+.about-subnav{display:flex;gap:10px;flex-wrap:wrap;padding-top:28px}
+.about-subnav a{padding:10px 20px;border:1px solid var(--line);border-radius:30px;background:#fff;color:var(--muted);font-size:.8rem}
+.about-subnav a:hover{background:var(--pale)}
+.about-subnav a[aria-current=page]{background:var(--green);color:#fff;border-color:var(--green)}
+.team-leaders{display:grid;grid-template-columns:repeat(2,1fr);gap:40px;margin-bottom:60px}
+.team-leader{display:grid;grid-template-columns:240px 1fr;gap:30px;align-items:start}
+.team-leader .team-card-portrait{height:290px}
+.team-leader .metadata{margin-top:4px}
+.team-leader :is(h2,h3){font-size:1.9rem;margin-bottom:13px}
+.team-roster{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(2,1fr);gap:0 40px;border-top:1px solid var(--line)}
+.team-roster li{display:flex;justify-content:space-between;align-items:baseline;gap:20px;padding:22px 0;border-bottom:1px solid var(--line)}
+.team-roster :is(h2,h3){font-size:1.2rem;margin:0}
+.team-roster span{font-size:.72rem;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);text-align:right}
+.about-team{scroll-margin-top:140px}
+@media(max-width:1100px){.team-leaders{grid-template-columns:1fr}}
+@media(max-width:650px){.team-leader{grid-template-columns:1fr}.team-roster{grid-template-columns:1fr}.team-roster li{flex-direction:column;gap:6px}.team-roster span{text-align:left}}

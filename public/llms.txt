@@ -8,7 +8,7 @@
 - [Website](https://hopkinsmedtechcompliance.com/)
 
 ## Company
-- [Company information](https://hopkinsmedtechcompliance.com/about)
+- [Company information and team, on one page](https://hopkinsmedtechcompliance.com/about)
 - [Team](https://hopkinsmedtechcompliance.com/about/team)
 - [Contact and New York office](https://hopkinsmedtechcompliance.com/contact)
 
@@ -17,6 +17,12 @@
 - [FDA and EU submission support](https://hopkinsmedtechcompliance.com/services/regulatory-submission)
 - [Quality systems](https://hopkinsmedtechcompliance.com/services/quality-system)
 - [Laboratory support through partners](https://hopkinsmedtechcompliance.com/services/laboratory-services)
+
+## Careers: full-time roles
+- [Director, Regulatory Affairs, IVD and Medical Devices](https://hopkinsmedtechcompliance.com/careers/director-regulatory-affairs)
+- [Quality Systems Manager, Medical Device and IVD](https://hopkinsmedtechcompliance.com/careers/quality-systems-manager)
+- [Senior Manager, Data Engineering and AI, Clinical and Diagnostic Data](https://hopkinsmedtechcompliance.com/careers/senior-manager-data-engineering-ai)
+- [Clinical Project Manager, IVD and Medical Device Studies](https://hopkinsmedtechcompliance.com/careers/clinical-project-manager)
 
 ## Internships
 - [Educational partner referral process and eight role descriptions](https://hopkinsmedtechcompliance.com/careers)

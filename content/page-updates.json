@@ -3,7 +3,7 @@
   "reason": "Mao-confirmed Jeff Wu founder relationship added to shared Organization markup; recorded content change, not build time.",
   "pages": {
     "/about/team/jeff-wu": "2026-10-10",
-    "/about/team": "2026-10-10",
+    "/about/team": "2026-10-11",
     "/careers/clinical-research-intern": "2026-10-10",
     "/careers/regulatory-affairs-intern": "2026-10-10",
     "/careers/clinical-data-biostatistics-intern": "2026-10-10",
@@ -11,6 +11,12 @@
     "/careers/ai-computer-vision-intern": "2026-10-10",
     "/careers/data-science-intern": "2026-10-10",
     "/careers/digital-health-product-intern": "2026-10-10",
-    "/careers/healthcare-market-research-intern": "2026-10-10"
+    "/careers/healthcare-market-research-intern": "2026-10-10",
+    "/careers": "2026-10-11",
+    "/about": "2026-10-11",
+    "/careers/director-regulatory-affairs": "2026-10-11",
+    "/careers/quality-systems-manager": "2026-10-11",
+    "/careers/senior-manager-data-engineering-ai": "2026-10-11",
+    "/careers/clinical-project-manager": "2026-10-11"
   }
 }
