@@ -13,12 +13,12 @@ export function Newsletter({available=false}:{available?:boolean}){
 }
 export function ContactForm({available=false}:{available?:boolean}){
  const [loading,setLoading]=useState(false);const [state,setState]=useState('');const [ok,setOk]=useState(false);
- if(!available)return <div className="contact-form"><div className="form-intro"><h2>Tell us about your project.</h2><p>Email <a href="mailto:HomerWu@HopkinsMedtech.com">HomerWu@HopkinsMedtech.com</a> or call <a href="tel:+18003201438">(800) 320-1438</a>.</p></div></div>;
+ if(!available)return <div className="contact-form"><div className="form-intro"><h2>Tell us about your project.</h2><p>Email <a href="mailto:info@hopkinsmedtech.com">info@hopkinsmedtech.com</a> or call <a href="tel:+18003201438">(800) 320-1438</a>.</p></div></div>;
  return <form className="contact-form" onSubmit={async e=>{
  e.preventDefault();if(loading)return;const form=e.currentTarget;const d=Object.fromEntries(new FormData(form));if(String(d.theme||'').trim())d.subject=String(d.theme).trim();delete d.theme;if(!String(d.email).trim()&&!String(d.phone).trim()){setState('Please provide an email address or phone number so we can respond.');setOk(false);return}setLoading(true);setState('');
  try{const r=await submit('contact',d);setOk(r.ok);setState(r.ok?'Your inquiry has been received. Reference: '+r.requestId:r.message||'Your inquiry could not be delivered.');if(r.ok)form.reset()}catch{setOk(false);setState('Your inquiry was not confirmed. Please try again or contact us by email. Your message has been kept below.')}finally{setLoading(false)}
  }}>
- <div className="form-intro"><h2>Tell us about your project.</h2>{available?<p>Share a little about your project and the best way to reach you.</p>:<p>Online submission is not connected yet. You can reach us directly at <a href="mailto:HomerWu@HopkinsMedtech.com">HomerWu@HopkinsMedtech.com</a>.</p>}</div>
+ <div className="form-intro"><h2>Tell us about your project.</h2>{available?<p>Share a little about your project and the best way to reach you.</p>:<p>Online submission is not connected yet. You can reach us directly at <a href="mailto:info@hopkinsmedtech.com">info@hopkinsmedtech.com</a>.</p>}</div>
  <label>Subject <span>*</span><select name="subject" required defaultValue=""><option value="" disabled>Select an area of interest</option>{['FDA Regulatory Consulting','Clinical Trials','IVD and Medical Device Compliance','Market Entry','Laboratory Services','Other inquiry'].map(x=><option key={x}>{x}</option>)}</select></label>
  <label>Your theme <small>(optional)</small><input name="theme" maxLength={150} placeholder="Add a specific subject for your inquiry"/></label>
  <label>Your name <span>*</span><input name="name" autoComplete="name" maxLength={100} required placeholder="Full name"/></label>
