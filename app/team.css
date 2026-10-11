@@ -20,3 +20,5 @@
 .about-team{scroll-margin-top:140px}
 @media(max-width:1100px){.team-leaders{grid-template-columns:1fr}}
 @media(max-width:650px){.team-leader{grid-template-columns:1fr}.team-roster{grid-template-columns:1fr}.team-roster li{flex-direction:column;gap:6px}.team-roster span{text-align:left}}
+.team-leader.no-photo,.profile-hero.no-photo{grid-template-columns:1fr}
+#full-time,#internships{scroll-margin-top:130px}
