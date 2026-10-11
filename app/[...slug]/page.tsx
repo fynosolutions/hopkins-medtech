@@ -26,8 +26,8 @@ import {team,allPeople,type TeamMember} from '@/lib/team';
 import {TeamPortrait} from '@/components/team-portrait';
 type Params={params:Promise<{slug:string[]}>};
 const pageInfo:Record<string,[string,string]>={
- '/about':['Our Company','Clinical research and regulatory support, grounded in your product and your goals.'],
- '/about/team':['Our Team','Explore the people behind our scientific, clinical, regulatory and commercial work.'],
+ '/about':['Our Company','About Hopkins MedTech Compliance (Hopkins MedTech Group LLC): clinical research and regulatory support for medical devices and in vitro diagnostics.'],
+ '/about/team':['Our Team','The Hopkins MedTech Compliance team: Jeff Wu, Homer Wu, Jennifer Stanford, Wendy Zhou, Qian Cheng and Andrew Wayland.'],
  '/services':['Our Services','FDA consulting, clinical trials, IVD compliance, market entry and laboratory support.'],
  '/industries':['Industries','Specialist support for medical devices and in vitro diagnostics.'],
  '/careers':[careersTitle,careersDescription],
