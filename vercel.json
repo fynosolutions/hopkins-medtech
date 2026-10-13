@@ -2,5 +2,13 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "framework": "nextjs",
   "buildCommand": "npm run build",
-  "installCommand": "npm ci"
+  "installCommand": "npm ci",
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [{ "type": "host", "value": "hopkinsmedtechcompliance.com" }],
+      "destination": "https://hopkinsmedtech.com/$1",
+      "permanent": true
+    }
+  ]
 }
