@@ -307,7 +307,7 @@
   {
     "id": "NEWS-47",
     "sourceUrl": "http://www.hopkinsmedtech.com/NewsDetail.aspx?ID=47",
-    "targetRoute": "/archive/records/news-47"
+    "targetRoute": "/archive"
   },
   {
     "id": "NEWS-55",
